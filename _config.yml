@@ -1,18 +1,49 @@
-title: OpenDoc Template #----> Required
+title: OpenDoc Template
 remote_theme: opendocsg/opendoc-theme@v2
 timezone: Asia/Singapore
-repository: opendocsg/opendoc-template #----> Required
+repository: opendocsg/opendoc-template
 plugins:
   - jekyll-include-cache
 baseurl: ''
-server_PROD: https://search.opendoc.sg
-server_DEV: https://search-staging.opendoc.sg
-google_analytics:  #----> Optional, Google analytics ID
-order: #----> Optional, order of documents
+server_PROD: 'https://search.opendoc.sg'
+server_DEV: 'https://search-staging.opendoc.sg'
+google_analytics: null
+order:
   - README.md
   - sample.md
 styling_options:
-  primary_brand_color: '#444'  #----> Optional, theme color
-  logo_path: /assets/logo.png  #----> Optional, path to logo
+  primary_brand_color: '#444'
+  logo_path: /assets/logo.png
   opendoc_logo_path: /assets/images/logo-full.png
-  feedback_url:  #----> Optional, feedback url
+  feedback_url: null
+document_order:
+  - 2019_SGHC_128
+  - 2019_SGFC_54
+  - 2019_SGFC_53
+  - 2019_SGFC_52
+  - 2019_SGFC_48
+  - 2019_SGFC_51
+  - 2019_SGFC_50
+  - 2019_SGFC_45
+  - 2019_SGFC_46
+  - 2019_SGFC_49
+  - 2019_SGFC_47
+  - 2019_SGFC_44
+  - 2019_SGFC_43
+  - 2019_SGFC_42
+  - 2019_SGFC_41
+  - 2019_SGFC_40
+  - 2019_SGFC_34
+  - 2019_SGFC_39
+  - 2019_SGFC_38
+  - 2019_SGFC_35
+  - 2019_SGFC_36
+  - 2019_SGYC_1
+  - 2019_SGFC_37
+  - 2019_SGFC_18
+  - 2019_SGFC_29
+  - 2019_SGFC_33
+  - 2019_SGFC_28
+  - 2019_SGFC_24
+  - 2019_SGFC_30
+  - 2019_SGFC_31
