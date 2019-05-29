@@ -1,7 +1,7 @@
 title: Family Court and Juvenile Court Judgments
 remote_theme: opendocsg/opendoc-theme@v2
 timezone: Asia/Singapore
-repository: opendocsg/opendoc-template
+repository: opendocsg/opendoc-family-court-and-juvenile-court-judgments
 plugins:
   - jekyll-include-cache
 baseurl: ''
