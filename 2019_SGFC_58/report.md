@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # UGI _v_ UGJ  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce 3659 of 2015 (Summons No. 3306 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">31 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Darryl Soh</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Cheryl Tan (M/s Fernandez LLC) for the Ex-Husband; R Subash (M/s Relianze Law Corporation) for the Ex-Wife.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UGI — UGJ</td></tr></tbody></table>
@@ -76,29 +77,29 @@ The \[Matrimonial Flat\] to be sold in open market within 6 months of the Final 
 
 17     Pursuant to the AM Orders, the Ex-Husband is to pay $500.00 in monthly maintenance to the Ex-Wife for a period of five years. In his Application, the Ex-Husband prayed for a downward variation of the monthly maintenance from $500.00 to $300.00. He advanced two submissions in support.
 
-18     First, the Ex-Husband submitted that there had been material changes in circumstances. He submitted that the Child has yet to return to Singapore, which he argued ran counter to the expectation that the Ex-Wife needed to focus on the Child’s development as set out in paragraph 46 of the AM GD. In addition, the Ex-Husband averred that the Ex-Wife is self-sufficient and therefore only required a lower maintenance sum.[\[note: 1\]](#Ftn_1) He further argued that the Ex-Wife failed to make full and frank disclosure when she did not provide any document to support her claim during the Application that her monthly income had decreased to $1,310.00. Finally, he argued that he was diagnosed with pre-diabetes, high cholesterol and high blood pressure, and will consequently earn less in the foreseeable future.[\[note: 2\]](#Ftn_2)
+18     First, the Ex-Husband submitted that there had been material changes in circumstances. He submitted that the Child has yet to return to Singapore, which he argued ran counter to the expectation that the Ex-Wife needed to focus on the Child’s development as set out in paragraph 46 of the AM GD. In addition, the Ex-Husband averred that the Ex-Wife is self-sufficient and therefore only required a lower maintenance sum.[^1] He further argued that the Ex-Wife failed to make full and frank disclosure when she did not provide any document to support her claim during the Application that her monthly income had decreased to $1,310.00. Finally, he argued that he was diagnosed with pre-diabetes, high cholesterol and high blood pressure, and will consequently earn less in the foreseeable future.[^2]
 
 19     Second, he disputed the Ex-Wife’s monthly expenses stated in the AM GD by arguing that those expenses were inflated.
 
-20     In reply, the Ex-Wife submitted that the Ex-Husband had not adduced any evidence to show any misrepresentation or mistake of fact or that there had been material changes in circumstances. She characterised the Ex-Husband’s Application as a backdoor appeal against the maintenance order.[\[note: 3\]](#Ftn_3)
+20     In reply, the Ex-Wife submitted that the Ex-Husband had not adduced any evidence to show any misrepresentation or mistake of fact or that there had been material changes in circumstances. She characterised the Ex-Husband’s Application as a backdoor appeal against the maintenance order.[^3]
 
 21     I agreed with the Ex-Wife’s submissions in totality as it was clear that the Ex-Husband was using the Application as a backdoor appeal. He had the opportunity to challenge my findings during the First Appeal against the alleged inflated expenses and self-sufficiency of the Ex-Wife but he chose not to proceed. He cannot renew his dissatisfaction against my orders by way of a variation.
 
-22     I also did not accept the Ex-Husband’s submission that the Child remaining in India amounted to a material change in circumstances since the Ex-Wife continues to hold the intention to have the Child return to Singapore and when that happens, her income-generating capacity will be affected.[\[note: 4\]](#Ftn_4) I was similarly unconvinced by his arguments on his deteriorating health and the Ex-Wife’s alleged failure to make full and frank disclosure as they were feeble attempts to establish material changes in circumstances. These grounds were sufficient for me to dismiss his application for a downward variation.
+22     I also did not accept the Ex-Husband’s submission that the Child remaining in India amounted to a material change in circumstances since the Ex-Wife continues to hold the intention to have the Child return to Singapore and when that happens, her income-generating capacity will be affected.[^4] I was similarly unconvinced by his arguments on his deteriorating health and the Ex-Wife’s alleged failure to make full and frank disclosure as they were feeble attempts to establish material changes in circumstances. These grounds were sufficient for me to dismiss his application for a downward variation.
 
 23     For completeness, I will add that I was cognisant that the maintenance order was to ensure that the Ex-Wife received a fair share of the wealth acquired during the marriage and that it provided for the periodic payments to the Ex-Wife for a period of five years so that she gains the necessary self-sufficiency. Varying the maintenance order will have a direct impact on the share of wealth that I ordered at the conclusion of the divorce proceedings. I highlighted these concerns to the Ex-Husband’s counsel. However, as the Ex-Husband’s case for variation lacked any merit to begin with, I saw no reason to go beyond merely articulating my concerns.
 
 ### (f)   Reduction of the Child’s monthly maintenance payable by the Ex-Husband from $700.00 to $300.00.
 
-24     Pursuant to the AM Orders, the Ex-Husband is to contribute $700.00 in monthly maintenance for the Child. This amount comprised $200.00 for the Child’s share of the household expenses and $500.00 for the Child’s education and medical expenses in India.[\[note: 5\]](#Ftn_5) In his Application, the Ex-Husband advanced two broad submissions in support of a downward variation from $700.00 to $300.00.
+24     Pursuant to the AM Orders, the Ex-Husband is to contribute $700.00 in monthly maintenance for the Child. This amount comprised $200.00 for the Child’s share of the household expenses and $500.00 for the Child’s education and medical expenses in India.[^5] In his Application, the Ex-Husband advanced two broad submissions in support of a downward variation from $700.00 to $300.00.
 
-25     First, adopting the same approach as he did for a downward variation of the monthly maintenance for the Ex-Wife, the Ex-Husband submitted that the Ex-Wife had inflated the expenses for the Child during the divorce proceedings.[\[note: 6\]](#Ftn_6) In reply, the Ex-Wife adopted the same arguments in \[20\] above to rebut the Ex-Husband’s case, which I agreed with and dismissed the Ex-Husband’s case on the same grounds set out in \[21\] above.
+25     First, adopting the same approach as he did for a downward variation of the monthly maintenance for the Ex-Wife, the Ex-Husband submitted that the Ex-Wife had inflated the expenses for the Child during the divorce proceedings.[^6] In reply, the Ex-Wife adopted the same arguments in \[20\] above to rebut the Ex-Husband’s case, which I agreed with and dismissed the Ex-Husband’s case on the same grounds set out in \[21\] above.
 
-26     Second, he argued that there was a material change in circumstances in so far as some of the Child’s education-related expenses have decreased. Instead of returning to Singapore, the Child continued to remain in India and had incurred lower expenses for his education and extra-curricular activities (_i.e._ school fees and tuition, swimming and drawing classes)[\[note: 7\]](#Ftn_7) vis-à-vis the breakdown in expenses claimed by the Ex-Wife as set out in paragraph 39 of the AM GD.
+26     Second, he argued that there was a material change in circumstances in so far as some of the Child’s education-related expenses have decreased. Instead of returning to Singapore, the Child continued to remain in India and had incurred lower expenses for his education and extra-curricular activities (_i.e._ school fees and tuition, swimming and drawing classes)[^7] vis-à-vis the breakdown in expenses claimed by the Ex-Wife as set out in paragraph 39 of the AM GD.
 
 27     In reply, the Ex-Wife submitted that the Ex-Husband had been selective in his reference to receipts and that the overall expenses for the Child remained the same. In particular, tuition expenses have risen since the original maintenance order (_i.e._ Rs 300 to Rs 2000) and drawing class are new expenses being incurred.
 
-28     I was unconvinced that there had been a material change in circumstances. My starting premise was that the component in dispute was the $500.00 earmarked for the Child’s education and medical expenses since the Ex-Husband’s case in his Application was focused on the education-related expenses. While I accepted that the school fees contemplated in the original maintenance order was higher (_i.e._ Rs 15,000.00 when compared to Rs 3,983.20), there are other components that make up educational expenses. For instance, transport to and from his school, books, and uniforms are just some examples that were considered in the original maintenance order. It has been almost two years since that order was made on 7 June 2017 and inflation is an additional component to be accounted for. Conceptually, I did not find the Ex-Husband’s approach of isolating individual changes in expenditure _submitted_ at the time of the AM Orders particularly useful since the amount of maintenance ordered then was based on my assessment of what constituted _reasonable_ expenses, _i.e._ $500.00 being the Ex-Husband’s share of the Child’s education and medical expenses.[\[note: 8\]](#Ftn_8) To that end, the amount ordered against the Ex-Husband for those expenses _continued to be reasonable in the whole_ and I was unconvinced that a downward variation was warranted. Accordingly, I dismissed the Ex-Husband’s prayer.
+28     I was unconvinced that there had been a material change in circumstances. My starting premise was that the component in dispute was the $500.00 earmarked for the Child’s education and medical expenses since the Ex-Husband’s case in his Application was focused on the education-related expenses. While I accepted that the school fees contemplated in the original maintenance order was higher (_i.e._ Rs 15,000.00 when compared to Rs 3,983.20), there are other components that make up educational expenses. For instance, transport to and from his school, books, and uniforms are just some examples that were considered in the original maintenance order. It has been almost two years since that order was made on 7 June 2017 and inflation is an additional component to be accounted for. Conceptually, I did not find the Ex-Husband’s approach of isolating individual changes in expenditure _submitted_ at the time of the AM Orders particularly useful since the amount of maintenance ordered then was based on my assessment of what constituted _reasonable_ expenses, _i.e._ $500.00 being the Ex-Husband’s share of the Child’s education and medical expenses.[^8] To that end, the amount ordered against the Ex-Husband for those expenses _continued to be reasonable in the whole_ and I was unconvinced that a downward variation was warranted. Accordingly, I dismissed the Ex-Husband’s prayer.
 
 ## Conclusion
 
@@ -106,21 +107,21 @@ The \[Matrimonial Flat\] to be sold in open market within 6 months of the Final 
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Paragraph 20 of the Ex-Husband’s Affidavit affirmed on 15 February 2019.
+[^1]: Paragraph 20 of the Ex-Husband’s Affidavit affirmed on 15 February 2019.
 
-[\[note: 2\]](#Ftn_2_1)_Ibid_.
+[^2]: _Ibid_.
 
-[\[note: 3\]](#Ftn_3_1)Paragraphs 17 – 18 of the Ex-Wife’s Written Submissions.
+[^3]: Paragraphs 17 – 18 of the Ex-Wife’s Written Submissions.
 
-[\[note: 4\]](#Ftn_4_1)Paragraph 23 of the Ex-Wife’s Affidavit affirmed on 14 January 2019.
+[^4]: Paragraph 23 of the Ex-Wife’s Affidavit affirmed on 14 January 2019.
 
-[\[note: 5\]](#Ftn_5_1)Paragraph 45 of the AM GD.
+[^5]: Paragraph 45 of the AM GD.
 
-[\[note: 6\]](#Ftn_6_1)Paragraphs 26 – 29 of the Ex-Husband’s Affidavit affirmed on 30 August 2018.
+[^6]: Paragraphs 26 – 29 of the Ex-Husband’s Affidavit affirmed on 30 August 2018.
 
-[\[note: 7\]](#Ftn_7_1)Paragraph 26 of the Ex-Husband’s Affidavit affirmed on 15 February 2019.
+[^7]: Paragraph 26 of the Ex-Husband’s Affidavit affirmed on 15 February 2019.
 
-[\[note: 8\]](#Ftn_8_1)Paragraph 45 of the AM GD.
+[^8]: Paragraph 45 of the AM GD.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23231-SSP.xml)

@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # UUV _v_ UUU  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce Suit No: 3340/2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">13 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Christine Lee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ms Beatrice Yeo (M/S Yeo &amp; Associates LLC) for the Appellant Husband; Ms Steffi Huang (M/S Kalco Law LLC) for the Respondent Wife.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UUV — UUU</td></tr></tbody></table>
@@ -214,19 +215,19 @@ v.    Follow-up care and appointments.
 
 14     The Court’s final assessment was that the Appellant Husband’s reliance on his parents was the same as the Respondent Wife’s intended reliance on her mother to assist both of them in their respective care of the said 2 children and therefore this was a neutral factor.
 
-15     The Court then proceeded to ascertain from the evidence and submissions before it, as to who was the primary caregiver of the said 2 children. In this regard the Court considered the details submitted by the Respondent Wife as to the daily care and routine of the said 2 children[\[note: 1\]](#Ftn_1). The Court considered this against the Appellant Husband’s statements in his first Affidavit[\[note: 2\]](#Ftn_2) and the elaborations in his second Affidavit[\[note: 3\]](#Ftn_3).
+15     The Court then proceeded to ascertain from the evidence and submissions before it, as to who was the primary caregiver of the said 2 children. In this regard the Court considered the details submitted by the Respondent Wife as to the daily care and routine of the said 2 children[^1]. The Court considered this against the Appellant Husband’s statements in his first Affidavit[^2] and the elaborations in his second Affidavit[^3].
 
 16     The Court was of the view that the facts showed that the said 2 children had a stronger bond with the Respondent Wife and that she had done her best to be a good parent to both of them. Therefore, the Court’s assessment was that the Respondent Wife was the primary caregiver of the said 2 children.
 
-17     In addition, much ado was made by the Appellant Husband that the Respondent Wife was not a good role model for the said 2 children in view of her alleged affairs with other men. The Court noted that the Appellant Husband’s conduct was also not completely without blame. The Respondent Wife had stated[\[note: 4\]](#Ftn_4) that the Appellant Husband had an affair whilst she was pregnant with the younger child. The Appellant Husband admitted to this affair[\[note: 5\]](#Ftn_5).
+17     In addition, much ado was made by the Appellant Husband that the Respondent Wife was not a good role model for the said 2 children in view of her alleged affairs with other men. The Court noted that the Appellant Husband’s conduct was also not completely without blame. The Respondent Wife had stated[^4] that the Appellant Husband had an affair whilst she was pregnant with the younger child. The Appellant Husband admitted to this affair[^5].
 
-18     At the same time, the Respondent Wife submitted[\[note: 6\]](#Ftn_6) that the Appellant Husband had also had improper associations to which the Appellant Husband denied[\[note: 7\]](#Ftn_7). In fact, the Appellant Husband made a specific application to obtain leave for the filing of his third Affidavit in order to respond to these allegations.
+18     At the same time, the Respondent Wife submitted[^6] that the Appellant Husband had also had improper associations to which the Appellant Husband denied[^7]. In fact, the Appellant Husband made a specific application to obtain leave for the filing of his third Affidavit in order to respond to these allegations.
 
-19     The Court noted that the Appellant Husband expressed remorse for the affair and made specific denial of the alleged improper associations. However, whilst the Appellant Husband also made a general denial to the Respondent Wife’s other assertions, the Appellant Husband did not at any time in his second or third Affidavits[\[note: 8\]](#Ftn_8), respond to the Respondent Wife’s statement, made in both her AOM and 2nd AM Affidavit[\[note: 9\]](#Ftn_9), that when she was 9 months’ pregnant with the younger child, the Appellant Husband had told her to “_just tell the baby her father is dead_”. The Court considered this to be relevant as it was supportive of the Respondent Wife’s submissions that it was in the best interests of both the said 2 children that she be awarded care and control of them.
+19     The Court noted that the Appellant Husband expressed remorse for the affair and made specific denial of the alleged improper associations. However, whilst the Appellant Husband also made a general denial to the Respondent Wife’s other assertions, the Appellant Husband did not at any time in his second or third Affidavits[^8], respond to the Respondent Wife’s statement, made in both her AOM and 2nd AM Affidavit[^9], that when she was 9 months’ pregnant with the younger child, the Appellant Husband had told her to “_just tell the baby her father is dead_”. The Court considered this to be relevant as it was supportive of the Respondent Wife’s submissions that it was in the best interests of both the said 2 children that she be awarded care and control of them.
 
 20     After taking into account all the circumstances of the case, the Court was of the view that the Respondent Wife should continue to be the primary caregiver of the said 2 children and thereby awarded care and control of the said 2 children to the Respondent Wife.
 
-21     Immediately after the Court had delivered its decision on care and control of the said 2 children to the Respondent Wife, the Court was informed by the Appellant Husband's Counsel that the Appellant Husband had by text messaging, made allegations against the Respondent Wife[\[note: 10\]](#Ftn_10) which he had wanted the Court to be informed of, because the Appellant Husband was of the view that the Respondent Wife was not fit to be awarded care and control of the said 2 children.
+21     Immediately after the Court had delivered its decision on care and control of the said 2 children to the Respondent Wife, the Court was informed by the Appellant Husband's Counsel that the Appellant Husband had by text messaging, made allegations against the Respondent Wife[^10] which he had wanted the Court to be informed of, because the Appellant Husband was of the view that the Respondent Wife was not fit to be awarded care and control of the said 2 children.
 
 22     The Court noted with concern that the information which the Appellant Husband had attempted to provide at the last minute through his Counsel, was evidence from the Bar and was only provided after the Court had delivered its decision on the issue of care and control of the said 2 children, which was not in the Appellant Husband’s favour.
 
@@ -295,25 +296,25 @@ v.    Follow-up care and appointments.
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)See paragraphs 42 to 52 of the Respondent Wife’s Affidavit of Assets and Means (AOM) dated 9 March 2018.
+[^1]: See paragraphs 42 to 52 of the Respondent Wife’s Affidavit of Assets and Means (AOM) dated 9 March 2018.
 
-[\[note: 2\]](#Ftn_2_1)See paragraphs 12 to 16 of the Appellant Husband’s Affidavit of Assets and Means (AOM) also dated 9 March 2018.
+[^2]: See paragraphs 12 to 16 of the Appellant Husband’s Affidavit of Assets and Means (AOM) also dated 9 March 2018.
 
-[\[note: 3\]](#Ftn_3_1)See paragraphs 16 to 27 of the Appellant Husband’s 2nd AM Affidavit dated 14 May 2018.
+[^3]: See paragraphs 16 to 27 of the Appellant Husband’s 2nd AM Affidavit dated 14 May 2018.
 
-[\[note: 4\]](#Ftn_4_1)See paragraph 30 of the Respondent Wife’s AOM dated 9 March 2018.
+[^4]: See paragraph 30 of the Respondent Wife’s AOM dated 9 March 2018.
 
-[\[note: 5\]](#Ftn_5_1)See paragraph 17 of the Appellant Husband’s 2nd AM Affidavit dated 14 May 2018.
+[^5]: See paragraph 17 of the Appellant Husband’s 2nd AM Affidavit dated 14 May 2018.
 
-[\[note: 6\]](#Ftn_6_1)See paragraphs 104 to 108 of the Respondent Wife’s 2nd AM Affidavit dated 14 May 2018.
+[^6]: See paragraphs 104 to 108 of the Respondent Wife’s 2nd AM Affidavit dated 14 May 2018.
 
-[\[note: 7\]](#Ftn_7_1)See paragraphs 12 to 17 of the Appellant Husband’s 3rd AM Affidavit dated 31 July 2018.
+[^7]: See paragraphs 12 to 17 of the Appellant Husband’s 3rd AM Affidavit dated 31 July 2018.
 
-[\[note: 8\]](#Ftn_8_1)The Court noted that in paragraph 17 of the Appellant Husband’s 2nd AM Affidavit dated 14 May 2018, he responded to the Respondent Wife’s allegation of the affair but remained silent on the allegation regarding the younger child.
+[^8]: The Court noted that in paragraph 17 of the Appellant Husband’s 2nd AM Affidavit dated 14 May 2018, he responded to the Respondent Wife’s allegation of the affair but remained silent on the allegation regarding the younger child.
 
-[\[note: 9\]](#Ftn_9_1)See paragraph 30 of the Respondent Wife’s AOM dated 9 March 2018 and paragraph 40 of the Respondent Wife’s 2nd AM Affidavit dated 14 May 2018.
+[^9]: See paragraph 30 of the Respondent Wife’s AOM dated 9 March 2018 and paragraph 40 of the Respondent Wife’s 2nd AM Affidavit dated 14 May 2018.
 
-[\[note: 10\]](#Ftn_10_1)See page 36 of the Notes of Evidence of the hearing on 29 November 2018.
+[^10]: See page 36 of the Notes of Evidence of the hearing on 29 November 2018.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22929-SSP.xml)

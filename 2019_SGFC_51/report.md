@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # UVZ _v_ UWA  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce No. 1193 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">29 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Jinny Tan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Plaintiff Counsel: Thian Wen Yi [Eversheds Harry Elias LLP] - for the Plaintiff / Husband; Defendant Counsel: Jispal Singh [Jispal Law Chambers] - for the Defendant / Wife</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UVZ — UWA</td></tr></tbody></table>
@@ -46,9 +47,9 @@ g)     Liberty to apply.
 
 ## The parties
 
-9       The Husband is 41+ years old, and he works as a consultant in a software company. He earns a monthly gross income of $8,772.83[\[note: 1\]](#Ftn_1).
+9       The Husband is 41+ years old, and he works as a consultant in a software company. He earns a monthly gross income of $8,772.83[^1].
 
-10     The Wife is 40+ years old and she is a Manager, assisting her father in running a garment business in Indonesia. Her average monthly income is about S$6,500[\[note: 2\]](#Ftn_2).
+10     The Wife is 40+ years old and she is a Manager, assisting her father in running a garment business in Indonesia. Her average monthly income is about S$6,500[^2].
 
 11     They have two children, one born in 2005 and another 2007.
 
@@ -66,7 +67,7 @@ g)     Liberty to apply.
 
 ### Just and equitable division of matrimonial assets
 
-16     The Court of Appeal in _ANJ v ANK[\[note: 3\]](#Ftn_3)_ set out a structured approach (at \[17\]–\[30\]) to determine a just and equitable division of matrimonial assets. This approach may be summarised as follows (see _ANJ v ANK_ at \[22\]–\[26\], \[28\]; _Twiss, Christopher James Hans v Twiss, Yvonne Prendergast[\[note: 4\]](#Ftn_4)_ at \[17\]):
+16     The Court of Appeal in _ANJ v ANK[^3]_ set out a structured approach (at \[17\]–\[30\]) to determine a just and equitable division of matrimonial assets. This approach may be summarised as follows (see _ANJ v ANK_ at \[22\]–\[26\], \[28\]; _Twiss, Christopher James Hans v Twiss, Yvonne Prendergast[^4]_ at \[17\]):
 
 (a)     express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of financial contribution each party made towards the acquisition or improvement of the matrimonial assets;
 
@@ -84,16 +85,16 @@ b)     What is the operative date for determining the pool of matrimonial a
 
 ##### Should the Husband’s liabilities be taken into account in the pool of matrimonial assets?
 
-18     In his Affidavit of Assets and Means, the Husband declared his liabilities[\[note: 5\]](#Ftn_5) (apart from the housing loan):-
+18     In his Affidavit of Assets and Means, the Husband declared his liabilities[^5] (apart from the housing loan):-
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="46.22%"> <col width="53.78%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">OCBC Cash Line</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$6,609.91</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">UOB Line of Credit</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$27,200</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DBS Credit cards</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$44,881.09</p></td></tr></tbody></table>
 
   
   
 
-19     In relation to the OCBC Cash Line, he exhibited a document showing the balance as at 3 August 2018 being $6,609.91[\[note: 6\]](#Ftn_6). In relation to his UOB Line of Credit, he only exhibited the agreement with UOB[\[note: 7\]](#Ftn_7). He exhibited his DBS credit card statements for February to July 2018[\[note: 8\]](#Ftn_8).
+19     In relation to the OCBC Cash Line, he exhibited a document showing the balance as at 3 August 2018 being $6,609.91[^6]. In relation to his UOB Line of Credit, he only exhibited the agreement with UOB[^7]. He exhibited his DBS credit card statements for February to July 2018[^8].
 
-20     In his Affidavit of Assets and Means, he gave the following explanation as to how these were incurred[\[note: 9\]](#Ftn_9):-
+20     In his Affidavit of Assets and Means, he gave the following explanation as to how these were incurred[^9]:-
 
 a)     OCBC Cashline – his income was not sufficient to support the family needs.
 
@@ -101,13 +102,13 @@ b)     UOB Line of Credit – he had accrued a lot of debts as his income i
 
 c)     DBS Credit cards – his income was not sufficient to pay for the household and children’s expenses, as the Wife had not paid any maintenance. He therefore borrowed on his credit card statements to sustain his family’s expenses. There were recent transactions from Australia, Indonesia, China from his business trips but those were claimable. The debt mainly accrued from 2017 as the children had tuition and he bought tickets for them to go back to Indonesia.
 
-21     The Wife’s response in her 2nd Affidavit, was simply a bare denial, and she added that if the Husband disregarded financial prudence and continue to live beyond his means, she should not be made to pay the price[\[note: 10\]](#Ftn_10).
+21     The Wife’s response in her 2nd Affidavit, was simply a bare denial, and she added that if the Husband disregarded financial prudence and continue to live beyond his means, she should not be made to pay the price[^10].
 
 22     The Wife had the benefit of perusing the documents exhibited by the Husband in his Affidavit of Assets and Means, but did not raise any questions in relation to the transactions in his credit card statements or the use of his credit facilities.
 
 23     In fact, the Wife took out an application for discovery on 11 October 2018 and none of the items asked for related to the transactions that the Husband had charged to his credit card, or the use of the credit facilities.
 
-24     Even in the Submissions, the Wife’s case is that if the Husband had incurred debts as a result of financial imprudence or mismanagement or living beyond his means, she should not be made to bear the burden[\[note: 11\]](#Ftn_11).
+24     Even in the Submissions, the Wife’s case is that if the Husband had incurred debts as a result of financial imprudence or mismanagement or living beyond his means, she should not be made to bear the burden[^11].
 
 25     At the ancillary matter hearing, the Wife’s counsel picked on certain items in the Husband’s DBS credit card statements, and pointed out that there were transactions for hotels, gym, travel, jewellery, clothes and alleged that these were not for the children. These were never raised by the Wife before, and in fact, to raise it only at the hearing, it is not fair to the Husband who has not been given an opportunity to answer to these allegations.
 
@@ -119,7 +120,7 @@ c)     DBS Credit cards – his income was not sufficient to pay for the ho
 
 29     Perusing the credit card statements (from February to July 2018), there is no evidence before the Court as to how many of these transactions were for the Husband’s personal expenses, and how many were for the children and the household? There was only an allegation made only by the Wife’s counsel from the bar, not supported by the Wife’s own evidence and the Court is not in a position to examine the transactions when the Court does not have the benefit of an explanation from the Husband. Even if on the face of it, some of the transactions do not appear to be for the children, there are other transactions which the Wife’s counsel had not raised and which may be for the children, it would be unfair to disregard all the transactions entirely.
 
-30     As at February 2018, there was an outstanding balance of $54,703.65 on the credit cards[\[note: 12\]](#Ftn_12). There is no evidence before the Court how this balance came about. There is no evidence to show that part of this or all of this sum of $54,703.65 was incurred for the Husband’s own personal expenses.
+30     As at February 2018, there was an outstanding balance of $54,703.65 on the credit cards[^12]. There is no evidence before the Court how this balance came about. There is no evidence to show that part of this or all of this sum of $54,703.65 was incurred for the Husband’s own personal expenses.
 
 31     At the hearing, the Wife’s counsel also raised the issue that some of the credit card transactions appear to be business expenses and that the Husband would have been reimbursed by his employers. If credit card bills were racked up by the Husband without him making any payment of the sums he had been reimbursed, it would be unfair to the Wife.
 
@@ -135,7 +136,7 @@ c)     DBS Credit cards – his income was not sufficient to pay for the ho
 
 ##### What is the operative date for determining the pool of matrimonial assets?
 
-37     The Court of Appeal in _ARX v. ARY[\[note: 13\]](#Ftn_13)_ held that:-
+37     The Court of Appeal in _ARX v. ARY[^13]_ held that:-
 
 “while the court retains the discretion to select the appropriate operative date to determine the pool of matrimonial assets, there is much to be said that, unless the particular circumstances or justice of the case warrant it, the _starting point_ or _default position_ should be the date that interim judgment is granted.”
 
@@ -172,9 +173,9 @@ c)     DBS Credit cards – his income was not sufficient to pay for the ho
 
 49     The various cash payments made towards the purchase of the matrimonial property were as follows: -
 
-a)     When the Offer to Purchase was signed on 21 September 2005, OCBC cheque no. 458925[\[note: 17\]](#Ftn_17) was issued for $3,950.
+a)     When the Offer to Purchase was signed on 21 September 2005, OCBC cheque no. 458925[^17] was issued for $3,950.
 
-b)     The balance 4% of $15,800 was subsequently paid on 3 October 2005 through a cheque issued from the Husband’s OCBC Easicredit account[\[note: 18\]](#Ftn_18).
+b)     The balance 4% of $15,800 was subsequently paid on 3 October 2005 through a cheque issued from the Husband’s OCBC Easicredit account[^18].
 
 c)     $14,400 in cash was paid on 22 November 2005.
 
@@ -182,13 +183,13 @@ d)     Balance $1,083 was paid sometime after 29 November 2005.
 
 #### Cheques for $3,950 and $15,800
 
-50     The sum was $3,950 was paid via a OCBC Cheque No. 458925[\[note: 19\]](#Ftn_19). It is clear that this cheque was issued from the Husband’s Easicredit account. This is because the cheques issued from his Easicredit account started with the numbers 4589xxx[\[note: 20\]](#Ftn_20).
+50     The sum was $3,950 was paid via a OCBC Cheque No. 458925[^19]. It is clear that this cheque was issued from the Husband’s Easicredit account. This is because the cheques issued from his Easicredit account started with the numbers 4589xxx[^20].
 
-51     The sum of $15,800 was also paid via a cheque issued from the Husband’s Easicredit account[\[note: 21\]](#Ftn_21). The cheque number was 458931 and issued on 7 October 2005.
+51     The sum of $15,800 was also paid via a cheque issued from the Husband’s Easicredit account[^21]. The cheque number was 458931 and issued on 7 October 2005.
 
 52     While it is clear that the cheques were issued from the Husband’s Easicredit account, the source of funds was disputed.
 
-53     The Wife claimed that she provided the source of funds. In her Affidavit of Means, she said she remembered giving $25,000 to the Husband to pay for the cash deposit[\[note: 22\]](#Ftn_22). She claimed that she had some funds then from a USD25,000 fixed deposit with DBS[\[note: 23\]](#Ftn_23). She repeated her allegation of giving the Husband $25,000 in her 2nd Affidavit[\[note: 24\]](#Ftn_24). In her 3rd Affidavit, after she had obtained her bank statements for the period between September to November 2005, she was able to state specifically that on 22 September 2005, she withdrew cash of $20,200 and she alleged that she gave this to the Husband[\[note: 25\]](#Ftn_25).
+53     The Wife claimed that she provided the source of funds. In her Affidavit of Means, she said she remembered giving $25,000 to the Husband to pay for the cash deposit[^22]. She claimed that she had some funds then from a USD25,000 fixed deposit with DBS[^23]. She repeated her allegation of giving the Husband $25,000 in her 2nd Affidavit[^24]. In her 3rd Affidavit, after she had obtained her bank statements for the period between September to November 2005, she was able to state specifically that on 22 September 2005, she withdrew cash of $20,200 and she alleged that she gave this to the Husband[^25].
 
 54     It therefore does appear that the Wife did have funds at that material time which would have been sufficient for her to contribute towards the purchase of the matrimonial property.
 
@@ -198,9 +199,9 @@ d)     Balance $1,083 was paid sometime after 29 November 2005.
 
 57     The Husband’s evidence on his sole contributions towards the down payment of $3,950 and $15,800 is also not helpful. While the cheques were issued from his Easicredit account, there is no evidence that he had the source of funds to meet such payments.
 
-58     Looking at his Easicredit account statements, on 3 October 2005, there was a funds transfer of $15,000 in order for him to have the funds to issue a cheque for $15,800[\[note: 26\]](#Ftn_26). Prior to this deposit, his Easicredit account was in deficit. There is no evidence showing that the Husband had other bank accounts or assets which would have enabled him to make that funds transfer of $15,000.
+58     Looking at his Easicredit account statements, on 3 October 2005, there was a funds transfer of $15,000 in order for him to have the funds to issue a cheque for $15,800[^26]. Prior to this deposit, his Easicredit account was in deficit. There is no evidence showing that the Husband had other bank accounts or assets which would have enabled him to make that funds transfer of $15,000.
 
-59     The only evidence he had produced was his other bank account (DBS), in which there was less than $1,000 in October 2005[\[note: 27\]](#Ftn_27) and his UOB account. The UOB bank account (UOB) at the material time, did not appear to have sufficient funds because he had to transfer funds from his DBS account to ensure that the cheques issued from his UOB account would be cleared for payment[\[note: 28\]](#Ftn_28).
+59     The only evidence he had produced was his other bank account (DBS), in which there was less than $1,000 in October 2005[^27] and his UOB account. The UOB bank account (UOB) at the material time, did not appear to have sufficient funds because he had to transfer funds from his DBS account to ensure that the cheques issued from his UOB account would be cleared for payment[^28].
 
 60     If the sum of $15,000 came from another of the Husband’s own accounts, there would not be a need for him to have a deficit in his Easicredit account in the first place, as he would have been easily able to clear that deficit.
 
@@ -208,27 +209,27 @@ d)     Balance $1,083 was paid sometime after 29 November 2005.
 
 #### Cash $14,400
 
-62     The Husband’s case is that he went down to the law firm on 22 November 2005 to pay $14,400 in cash. In preparation for making such payment, he started making cash withdrawals from his DBS Account from 10 November to 22 November 2005, totalling $10,200[\[note: 29\]](#Ftn_29). The balance $4,200 (for which there is no documentary evidence), he said he withdrew from various credit facilities at that time[\[note: 30\]](#Ftn_30).
+62     The Husband’s case is that he went down to the law firm on 22 November 2005 to pay $14,400 in cash. In preparation for making such payment, he started making cash withdrawals from his DBS Account from 10 November to 22 November 2005, totalling $10,200[^29]. The balance $4,200 (for which there is no documentary evidence), he said he withdrew from various credit facilities at that time[^30].
 
-63     The Husband produced his DBS bank statements to show the withdrawals he had allegedly made between 10 November 2005 to 22 November 2005[\[note: 31\]](#Ftn_31). Based on documentary evidence, he could only account for withdrawals of $10,200.
+63     The Husband produced his DBS bank statements to show the withdrawals he had allegedly made between 10 November 2005 to 22 November 2005[^31]. Based on documentary evidence, he could only account for withdrawals of $10,200.
 
 64     While there may have been withdrawals of $10,200, there is no evidence that these monies were then used to pay to the law firm. The withdrawals could be for the Husband’s personal use, or for the family’s use.
 
 65     The parties were supposed to have paid the monies to the law firm on 22 November 2005. The withdrawals by the Husband were made more than one week before 22 November 2005.
 
-66     When the Wife claimed to have withdrawn $20,200 cash on 22 September 2005 to meet the payment on 7 October 2005, the Husband’s counsel submitted that “_\[it\] makes no sense for them to keep such large amount of cash at home from the date of withdrawal (22 September 2005) to the date of payment (7 October 2005)[\[note: 32\]](#Ftn_32)_”, a similar argument could be made in relation to the Husband withdrawing various amounts from 10 November 2005 to prepare for payment on 22 November 2005.
+66     When the Wife claimed to have withdrawn $20,200 cash on 22 September 2005 to meet the payment on 7 October 2005, the Husband’s counsel submitted that “_\[it\] makes no sense for them to keep such large amount of cash at home from the date of withdrawal (22 September 2005) to the date of payment (7 October 2005)[^32]_”, a similar argument could be made in relation to the Husband withdrawing various amounts from 10 November 2005 to prepare for payment on 22 November 2005.
 
-67     As for the balance $4,400 which the Husband was unable to account for, he said he withdrew from various credit facilities at the time[\[note: 33\]](#Ftn_33). This was different from what he had earlier stated in his Affidavit of Assets and Means, where he had claimed that the $14,400 came from his sole bank account and there was no mention of him using any credit facilities[\[note: 34\]](#Ftn_34).
+67     As for the balance $4,400 which the Husband was unable to account for, he said he withdrew from various credit facilities at the time[^33]. This was different from what he had earlier stated in his Affidavit of Assets and Means, where he had claimed that the $14,400 came from his sole bank account and there was no mention of him using any credit facilities[^34].
 
-68     The Wife’s case is that she withdrew $14,400 from her DBS Savings account and gave this to the Husband, who told her that it was to be used for the payment of the matrimonial property[\[note: 35\]](#Ftn_35).
+68     The Wife’s case is that she withdrew $14,400 from her DBS Savings account and gave this to the Husband, who told her that it was to be used for the payment of the matrimonial property[^35].
 
-69     The Wife produced her DBS Bank statement to support her case that she had withdrawn $14,400 from her account[\[note: 36\]](#Ftn_36). From the statement, it was reflected that on 22 November 2005, there was a withdrawal of $14,400. However, the Wife had on the same day deposited cash of $14,400. If this sum of $14,400 was to be paid to the lawyers on 22 November 2005, there would not have been a need to deposit the sum into the account only to be withdrawn on the same day. It would have made sense to have the cash paid straight to the lawyers.
+69     The Wife produced her DBS Bank statement to support her case that she had withdrawn $14,400 from her account[^36]. From the statement, it was reflected that on 22 November 2005, there was a withdrawal of $14,400. However, the Wife had on the same day deposited cash of $14,400. If this sum of $14,400 was to be paid to the lawyers on 22 November 2005, there would not have been a need to deposit the sum into the account only to be withdrawn on the same day. It would have made sense to have the cash paid straight to the lawyers.
 
 70     As the evidence from neither party is conclusive, I have also attributed the sum of $14,400 equally as the parties’ contributions.
 
 #### $1,083
 
-71     For the balance $1,083, the Husband produced copies of his cheque book to show that he had issued a cheque for $1,083 to the law firm. He had transferred funds from his DBS to ensure that this cheque would be cleared for payment[\[note: 37\]](#Ftn_37).
+71     For the balance $1,083, the Husband produced copies of his cheque book to show that he had issued a cheque for $1,083 to the law firm. He had transferred funds from his DBS to ensure that this cheque would be cleared for payment[^37].
 
 72     I therefore accept that the Husband was the sole contributor towards this sum.
 
@@ -240,7 +241,7 @@ d)     Balance $1,083 was paid sometime after 29 November 2005.
 
 #### Renovations
 
-75     The Husband claimed to have spent $16,087.013 on renovations. The Wife did not dispute this[\[note: 38\]](#Ftn_38).
+75     The Husband claimed to have spent $16,087.013 on renovations. The Wife did not dispute this[^38].
 
 76     Therefore, the direct contributions of the respective parties were as follows:-
 
@@ -251,9 +252,9 @@ d)     Balance $1,083 was paid sometime after 29 November 2005.
 
 #### Other issues in relation to direct contributions
 
-77     The Husband tried to increase the quantum of his direct contributions towards the matrimonial property by including the payments he had made towards the MCST fees and sinking funds ($50,092.32) and also property tax ($5,824)[\[note: 39\]](#Ftn_39).
+77     The Husband tried to increase the quantum of his direct contributions towards the matrimonial property by including the payments he had made towards the MCST fees and sinking funds ($50,092.32) and also property tax ($5,824)[^39].
 
-78     In the Husband’s submissions, his counsel did not include the payments towards MCST fees and sinking funds and property tax as part of his direct contributions[\[note: 40\]](#Ftn_40).
+78     In the Husband’s submissions, his counsel did not include the payments towards MCST fees and sinking funds and property tax as part of his direct contributions[^40].
 
 79     Yet, in the Reply submissions, his counsel then submitted that the Husband’s payments of the MCST fees and sinking funds and property tax should be considered as his direct contributions and cited 3 cases which his Counsel says, were authorities to show that such payments were considered as direct financial contributions.
 
@@ -261,19 +262,19 @@ d)     Balance $1,083 was paid sometime after 29 November 2005.
 
 81     Moreover, the cases cited by the Husband’s counsel were not of any assistance to this Court as the cases cited, did not make a holding or a finding that such payments were to be considered as direct financial contributions.
 
-82     The Husband’s counsel relied on Paragraphs 13 and 14 of the case of _Pang Rosaline v Chan Kong Chin[\[note: 41\]](#Ftn_41)_. Unfortunately, those paragraphs are should be read in the context of the whole case.
+82     The Husband’s counsel relied on Paragraphs 13 and 14 of the case of _Pang Rosaline v Chan Kong Chin[^41]_. Unfortunately, those paragraphs are should be read in the context of the whole case.
 
 83     The Court of Appeal in _Pang Rosaline_ found that the parties, for the better of their marriage, conceived a system in which it did not matter how or how much each party contributed to the family’s finances. Throughout the marriage, both parties’ salaries were deposited into the joint account, and bills were then paid from moneys withdrawn from the joint account. While payment of the mortgage and conservancy for a particular property was first deducted from the Husband’s salary before the rest of his salary was credited into the joint account, this did not detract from the fact that in essence, both income and liabilities were treated as an aggregate and integrated by both parties without distinction or regard as to who earned what and who was to pay for what items. Therefore, the Court of Appeal found that:
 
 _“It was merely a matter of practicality and convenience that the husband, and not the wife, was to pay for the abovementioned mortgage instalments as well as the conservancy charges. That being the case, it cannot be gainsaid that the wife had made direct financial contributions to the payment of all property and services purchased by the parties, including the Neptune Court property, by contributing to the joint account. …. The husband himself inadvertently admitted … that the moneys in the joint account were used to pay for, inter alia, the property tax due on the Neptune Court property. Hence, on this count alone and (indeed) on the strength of the husband’s own testimony, there had been some direct financial contributions by the wife to the purchase of the Neptune Court property, viz the payment of property tax”._
 
-84     Moreover, the case of _Pang Rosaline_ was decided before the Court of Appeal put forward the structured approach in _ANJ v. ANK[\[note: 42\]](#Ftn_42)_.
+84     Moreover, the case of _Pang Rosaline_ was decided before the Court of Appeal put forward the structured approach in _ANJ v. ANK[^42]_.
 
-85     The Husband also relied on paragraph 5 of the case of _BLW v. BLR[\[note: 43\]](#Ftn_43)_.
+85     The Husband also relied on paragraph 5 of the case of _BLW v. BLR[^43]_.
 
 86     The case of _BLW v. BLR_ did not hold that such payments were considered as direct financial contributions. From the facts of the case, it appears that parties did not dispute that the Wife had made direct contributions to the flat, amounting to 41%. Before the appellate judge, parties informed the court that there were calculation errors relating to payment of conservancy charges and property tax of the matrimonial flat. Parties came to an agreement on the direct contribution and the issue of whether payment of conservancy and property taxes are considered to be direct financial contributions was not even an issue for determination by the court.
 
-87     Finally, the Husband relied on paragraph 52 of the case of _TBZ v. TCA[\[note: 44\]](#Ftn_44)_.
+87     Finally, the Husband relied on paragraph 52 of the case of _TBZ v. TCA[^44]_.
 
 88     Unfortunately, it was an inaccurate reading of paragraph 52 of the case of _TBZ_.
 
@@ -307,15 +308,15 @@ iii.     The third phase started from 2010, when the children came back to 
 
 99     Financially, throughout the marriage, it appears that the Husband had been contributing more than the Wife.
 
-100    When the parties were first married, the Wife was not working. The Husband therefore, had to pay for the family’s expenses. In 2004, when parties opened up a clothing business, the Wife then spent the income on the household expenses and also their family van[\[note: 45\]](#Ftn_45).
+100    When the parties were first married, the Wife was not working. The Husband therefore, had to pay for the family’s expenses. In 2004, when parties opened up a clothing business, the Wife then spent the income on the household expenses and also their family van[^45].
 
-101    Both parties claimed to have paid for various family expenses. The Wife worked on and off, and alleged to have received financial assistance from her own parents. Based on her own evidence, she contributed about $1,500-2,000 per month during the first phase of their marriage[\[note: 46\]](#Ftn_46). While she claims to have contributed such sums, the Wife has not produced any evidence to show her income or her means during these years, to support her allegation that she was able to contribute financially towards the family’s expenses.
+101    Both parties claimed to have paid for various family expenses. The Wife worked on and off, and alleged to have received financial assistance from her own parents. Based on her own evidence, she contributed about $1,500-2,000 per month during the first phase of their marriage[^46]. While she claims to have contributed such sums, the Wife has not produced any evidence to show her income or her means during these years, to support her allegation that she was able to contribute financially towards the family’s expenses.
 
 102    After the parties purchased the matrimonial property, the Husband paid for the property related expenses for example the MCST fees and sinking funds and property tax. This was not disputed by the Wife in her 2nd Affidavit.
 
-103    During the second phase, when the children were with her, the Wife paid for the children’s expenses[\[note: 47\]](#Ftn_47). The Husband also contributed towards the children’s expenses[\[note: 48\]](#Ftn_48). In the meantime, the Husband still continued to pay for the property related expenses.
+103    During the second phase, when the children were with her, the Wife paid for the children’s expenses[^47]. The Husband also contributed towards the children’s expenses[^48]. In the meantime, the Husband still continued to pay for the property related expenses.
 
-104    During the third phase, when the children stayed in Singapore with the Husband, the Wife’s financial contributions towards the family was less than the Husband’s. In her own affidavit, she paid for a maid and the children’s expenses when the children returned to Indonesia during their school holidays[\[note: 49\]](#Ftn_49). The Husband, on the other hand, would have to bear the rest of the children’s expenses and the family’s expenses.
+104    During the third phase, when the children stayed in Singapore with the Husband, the Wife’s financial contributions towards the family was less than the Husband’s. In her own affidavit, she paid for a maid and the children’s expenses when the children returned to Indonesia during their school holidays[^49]. The Husband, on the other hand, would have to bear the rest of the children’s expenses and the family’s expenses.
 
 105    Non-financially, it would appear that Husband has contributed more than the Wife towards the family. The children have been in the care of Husband longer than with the Wife. The Wife’s care of the children, especially in the 3rd phase of marriage, was only for short durations (during their school holidays when the children visited her).
 
@@ -362,7 +363,7 @@ _“No mathematical formula or analytical tool is capable of capturing or accomm
 
 119    Based on the parties’ income, their ratio is about 52% (Husband): 48% (Wife).
 
-120    The Husband listed the children’s expenses at $1,414.98 for the elder girl and $1,362.48 for the younger boy[\[note: 50\]](#Ftn_50).
+120    The Husband listed the children’s expenses at $1,414.98 for the elder girl and $1,362.48 for the younger boy[^50].
 
 121    Some items do appear to be on the high side. For example, transportation $400 and $200 for the children respectively, and medical at $75 each.
 
@@ -378,105 +379,105 @@ _“No mathematical formula or analytical tool is capable of capturing or accomm
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Paragraph 13 Plaintiff’s Affidavit of Assets and Means
+[^1]: Paragraph 13 Plaintiff’s Affidavit of Assets and Means
 
-[\[note: 2\]](#Ftn_2_1)Paragraph 2 Defendant’s Affidavit of Assets and Means
+[^2]: Paragraph 2 Defendant’s Affidavit of Assets and Means
 
-[\[note: 3\]](#Ftn_3_1)
+[^3]: 
 
-[\[note: 4\]](#Ftn_4_1)
+[^4]: 
 
-[\[note: 5\]](#Ftn_5_1)Paragraph 29 Plaintiff’s Affidavit of Assets and Means
+[^5]: Paragraph 29 Plaintiff’s Affidavit of Assets and Means
 
-[\[note: 6\]](#Ftn_6_1)Page 185 Plaintiff’s Affidavit of Assets and Means
+[^6]: Page 185 Plaintiff’s Affidavit of Assets and Means
 
-[\[note: 7\]](#Ftn_7_1)Page 186 Plaintiff’s Affidavit of Assets and Means
+[^7]: Page 186 Plaintiff’s Affidavit of Assets and Means
 
-[\[note: 8\]](#Ftn_8_1)Page 187 to 224 Plaintiff’s Affidavit of Assets and Means
+[^8]: Page 187 to 224 Plaintiff’s Affidavit of Assets and Means
 
-[\[note: 9\]](#Ftn_9_1)Paragraph 29 Plaintiff’s Affidavit of Assets and Means
+[^9]: Paragraph 29 Plaintiff’s Affidavit of Assets and Means
 
-[\[note: 10\]](#Ftn_10_1)Paragraph 9 Defendant’s 2nd Affidavit
+[^10]: Paragraph 9 Defendant’s 2nd Affidavit
 
-[\[note: 11\]](#Ftn_11_1)Paragraph 9 Defendant’s Submissions
+[^11]: Paragraph 9 Defendant’s Submissions
 
-[\[note: 12\]](#Ftn_12_1)Page 187 Plaintiff’s Affidavit of Assets and Means
+[^12]: Page 187 Plaintiff’s Affidavit of Assets and Means
 
-[\[note: 13\]](#Ftn_13_1)
+[^13]: 
 
-[\[note: 14\]](#Ftn_14_1)Paragraph 6 Defendant’s Submissions and Page 4 Plaintiff’s Submissions
+[^14]: Paragraph 6 Defendant’s Submissions and Page 4 Plaintiff’s Submissions
 
-[\[note: 15\]](#Ftn_15_1)Paragraph 7 Defendant’s Submissions and Page 4 Plaintiff’s Submissions
+[^15]: Paragraph 7 Defendant’s Submissions and Page 4 Plaintiff’s Submissions
 
-[\[note: 16\]](#Ftn_16_1)Paragraph 10 Defendant’s Submissions and Pages 5-6 Plaintiff’s Submissions
+[^16]: Paragraph 10 Defendant’s Submissions and Pages 5-6 Plaintiff’s Submissions
 
-[\[note: 17\]](#Ftn_17_1)Page 226 Plaintiff’s Affidavit of Assets and Means
+[^17]: Page 226 Plaintiff’s Affidavit of Assets and Means
 
-[\[note: 18\]](#Ftn_18_1)Page 44 Plaintiff’s Affidavit filed on 27 November 2018
+[^18]: Page 44 Plaintiff’s Affidavit filed on 27 November 2018
 
-[\[note: 19\]](#Ftn_19_1)Page 226 Plaintiff’s Affidavit of Assets and Means
+[^19]: Page 226 Plaintiff’s Affidavit of Assets and Means
 
-[\[note: 20\]](#Ftn_20_1)Page 44 Plaintiff’s Affidavit filed on 27 November 2018
+[^20]: Page 44 Plaintiff’s Affidavit filed on 27 November 2018
 
-[\[note: 21\]](#Ftn_21_1)Page 44 Plaintiff’s Affidavit filed on 27 November 2018
+[^21]: Page 44 Plaintiff’s Affidavit filed on 27 November 2018
 
-[\[note: 22\]](#Ftn_22_1)Paragraph 21 Defendant’s Affidavit of Assets and Means
+[^22]: Paragraph 21 Defendant’s Affidavit of Assets and Means
 
-[\[note: 23\]](#Ftn_23_1)Paragraph 20 Defendant’s Affidavit of Assets and Means
+[^23]: Paragraph 20 Defendant’s Affidavit of Assets and Means
 
-[\[note: 24\]](#Ftn_24_1)Paragraph 12 Defendant’s 2nd Affidavit
+[^24]: Paragraph 12 Defendant’s 2nd Affidavit
 
-[\[note: 25\]](#Ftn_25_1)Paragraphs 8 and 9 Defendant’s 3rd Affidavit
+[^25]: Paragraphs 8 and 9 Defendant’s 3rd Affidavit
 
-[\[note: 26\]](#Ftn_26_1)Page 44 Plaintiff’s 2nd Affidavit
+[^26]: Page 44 Plaintiff’s 2nd Affidavit
 
-[\[note: 27\]](#Ftn_27_1)Page 35 Plaintiff’s 2nd Affidavit
+[^27]: Page 35 Plaintiff’s 2nd Affidavit
 
-[\[note: 28\]](#Ftn_28_1)Paragraph 24 Plaintiff’s 2nd Affidavit
+[^28]: Paragraph 24 Plaintiff’s 2nd Affidavit
 
-[\[note: 29\]](#Ftn_29_1)Paragraph 22 Plaintiff’s 2nd Affidavit
+[^29]: Paragraph 22 Plaintiff’s 2nd Affidavit
 
-[\[note: 30\]](#Ftn_30_1)Paragraph 23 Plaintiff’s 2nd Affidavit
+[^30]: Paragraph 23 Plaintiff’s 2nd Affidavit
 
-[\[note: 31\]](#Ftn_31_1)Pages 37-38 Plaintiff’s 2nd Affidavit
+[^31]: Pages 37-38 Plaintiff’s 2nd Affidavit
 
-[\[note: 32\]](#Ftn_32_1)Page 12 Plaintiff’s Submissions
+[^32]: Page 12 Plaintiff’s Submissions
 
-[\[note: 33\]](#Ftn_33_1)Paragraph 23 Plaintiff’s 2nd Affidavit
+[^33]: Paragraph 23 Plaintiff’s 2nd Affidavit
 
-[\[note: 34\]](#Ftn_34_1)Paragraph 36 Plaintiff’s Affidavit of Assets and Means
+[^34]: Paragraph 36 Plaintiff’s Affidavit of Assets and Means
 
-[\[note: 35\]](#Ftn_35_1)Paragraph 10 Defendant’s 3rd Affidavit
+[^35]: Paragraph 10 Defendant’s 3rd Affidavit
 
-[\[note: 36\]](#Ftn_36_1)Page 13 Defendant’s 3rd Affidavit
+[^36]: Page 13 Defendant’s 3rd Affidavit
 
-[\[note: 37\]](#Ftn_37_1)Paragraph 23 Plaintiff’s 2nd Affidavit
+[^37]: Paragraph 23 Plaintiff’s 2nd Affidavit
 
-[\[note: 38\]](#Ftn_38_1)Paragraph 18 Defendant’s Submissions
+[^38]: Paragraph 18 Defendant’s Submissions
 
-[\[note: 39\]](#Ftn_39_1)Paragraph 32 Plaintiff’s Affidavit of Assets and Means
+[^39]: Paragraph 32 Plaintiff’s Affidavit of Assets and Means
 
-[\[note: 40\]](#Ftn_40_1)Paragraph 11 Plaintiff’s Submissions
+[^40]: Paragraph 11 Plaintiff’s Submissions
 
-[\[note: 41\]](#Ftn_41_1)
+[^41]: 
 
-[\[note: 42\]](#Ftn_42_1)
+[^42]: 
 
-[\[note: 43\]](#Ftn_43_1)
+[^43]: 
 
-[\[note: 44\]](#Ftn_44_1)
+[^44]: 
 
-[\[note: 45\]](#Ftn_45_1)Paragraphs 46-47 Plaintiff’s Affidavit of Assets and Means and Paragraph 23 Defendant’s 2nd Affidavit
+[^45]: Paragraphs 46-47 Plaintiff’s Affidavit of Assets and Means and Paragraph 23 Defendant’s 2nd Affidavit
 
-[\[note: 46\]](#Ftn_46_1)Paragraph 22 Defendant’s Affidavit of Assets and Means
+[^46]: Paragraph 22 Defendant’s Affidavit of Assets and Means
 
-[\[note: 47\]](#Ftn_47_1)Page 14 Defendant’s Affidavit of Assets and Means
+[^47]: Page 14 Defendant’s Affidavit of Assets and Means
 
-[\[note: 48\]](#Ftn_48_1)Paragraph 40 Plaintiff’s 2nd Affidavit
+[^48]: Paragraph 40 Plaintiff’s 2nd Affidavit
 
-[\[note: 49\]](#Ftn_49_1)Page 15-16 Defendant’s Affidavit of Assets and Means
+[^49]: Page 15-16 Defendant’s Affidavit of Assets and Means
 
-[\[note: 50\]](#Ftn_50_1)Pages 13-16 Plaintiff’s Affidavit of Assets and Means
+[^50]: Pages 13-16 Plaintiff’s Affidavit of Assets and Means
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23108-SSP.xml)

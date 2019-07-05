@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # UBW _v_ UBX  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce No. 686 of 2015, District Court Appeal No. 19 of 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">25 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Wendy Yu</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Both parties in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UBW — UBX</td></tr></tbody></table>
@@ -10,9 +11,9 @@ Variation of Maintenance – Material Change in circumstances
 
 ## Introduction
 
-1       The parties were married on xxx 2008 and they have 2 sons, (“K1”) born on xxx 2008 (currently 9 years old) and (“K2”), born on xxx 2011 (currently 7 years old). The Defendant was 36 years old at the time of the hearing and is working as a financial adviser[\[note: 1\]](#Ftn_1). The Plaintiff is 36 years old and a Senior Executive with an insurance company[\[note: 2\]](#Ftn_2). Divorce proceedings were commenced after a 7-year marriage and ancillary orders were made by District Judge Suzanne Chin (“DJ Chin”) on 19 May 2017. The parties share joint custody of both children, while the Plaintiff has care and control of both of them, with access to the Defendant.
+1       The parties were married on xxx 2008 and they have 2 sons, (“K1”) born on xxx 2008 (currently 9 years old) and (“K2”), born on xxx 2011 (currently 7 years old). The Defendant was 36 years old at the time of the hearing and is working as a financial adviser[^1]. The Plaintiff is 36 years old and a Senior Executive with an insurance company[^2]. Divorce proceedings were commenced after a 7-year marriage and ancillary orders were made by District Judge Suzanne Chin (“DJ Chin”) on 19 May 2017. The parties share joint custody of both children, while the Plaintiff has care and control of both of them, with access to the Defendant.
 
-2       On the issue of maintenance for the children, DJ Chin had decided that the reasonable expenses for K1 was $1,200, and $1500 for K2. Taking into consideration the salaries and earning capacities of both parties, DJ Chin had considered that it would be fair for the Defendant to bear 60% of the children’s expenses with the Plaintiff paying for 40%[\[note: 3\]](#Ftn_3). DJ Chin had then determined that the Defendant shall pay to the Plaintiff a sum of $1,620 ($720 for the K1 and $900 for K2).
+2       On the issue of maintenance for the children, DJ Chin had decided that the reasonable expenses for K1 was $1,200, and $1500 for K2. Taking into consideration the salaries and earning capacities of both parties, DJ Chin had considered that it would be fair for the Defendant to bear 60% of the children’s expenses with the Plaintiff paying for 40%[^3]. DJ Chin had then determined that the Defendant shall pay to the Plaintiff a sum of $1,620 ($720 for the K1 and $900 for K2).
 
 3       The relationship between parties remain very acrimonious and there were multiple applications filed by both parties since the ancillary orders, including various discovery applications and an application for leave to insert penal notice to court order. Both parties were not represented at these hearings, which were heard on three separate hearings on 8 January 2019, 1 February 2019 and 11 February 2019. I had dealt with three applications before me together, namely SUM 1731/2018, which is the Defendant’s application for a downward variation of maintenance, SUM 1956/2018 which is the Plaintiff’s application for upward variation of maintenance, and MSS 2932/2018 which is an application by the Plaintiff for enforcement of the outstanding arrears, as the issues were related. The Defendant’s appeal was only against my decision for SUM 1731/2018 and so I will only provide my decision for this matter.
 
@@ -24,15 +25,15 @@ Variation of Maintenance – Material Change in circumstances
 
 ## Defendant’s Submissions
 
-6       The Defendant had declared his gross income as $4,657.41 per month[\[note: 4\]](#Ftn_4), and that his income is based on commission. The Defendant has applied for a downward variation because he has been struggling to pay for maintenance and had to take up personal loans resulting his being heavily in debt[\[note: 5\]](#Ftn_5).
+6       The Defendant had declared his gross income as $4,657.41 per month[^4], and that his income is based on commission. The Defendant has applied for a downward variation because he has been struggling to pay for maintenance and had to take up personal loans resulting his being heavily in debt[^5].
 
-7       The Defendant has stated that K2 was in pre-school when the ancillary orders were made in 2015 but is now in primary school and so there is a significant reduction in school fees.[\[note: 6\]](#Ftn_6) Other reasons given for the Defendant’s application were that the experienced domestic helper employed by Plaintiff having been replaced and so the household expenses has been reduced, the Plaintiff’s salary having increased, and Plaintiff having a windfall after selling their matrimonial flat. The Defendant has also claimed that his health has deteriorated after being “assaulted” by the Plaintiff on 3 December 2014 and that he would “require long term treatment to reduce the swell and for the muscles to recover.”[\[note: 7\]](#Ftn_7)
+7       The Defendant has stated that K2 was in pre-school when the ancillary orders were made in 2015 but is now in primary school and so there is a significant reduction in school fees.[^6] Other reasons given for the Defendant’s application were that the experienced domestic helper employed by Plaintiff having been replaced and so the household expenses has been reduced, the Plaintiff’s salary having increased, and Plaintiff having a windfall after selling their matrimonial flat. The Defendant has also claimed that his health has deteriorated after being “assaulted” by the Plaintiff on 3 December 2014 and that he would “require long term treatment to reduce the swell and for the muscles to recover.”[^7]
 
-8       The Defendant had highlighted that there was an error in his lawyer’s statement during the hearing before DJ Chin with regard to his position to pay $700 per child. His position at the hearing before me is that he should only be required to pay $700 for both children. However, there was no appeal against DJ Chin’s order back then. The Defendant’s position is that the expenses of both children should only be $1,400 and that the Defendant should only be paying half of such expenses[\[note: 8\]](#Ftn_8). During the closing submissions, the Defendant has submitted that “the total child maintenance for both children is $746.68” and that “the Defendant is to pay 50% of this amount”.[\[note: 9\]](#Ftn_9)
+8       The Defendant had highlighted that there was an error in his lawyer’s statement during the hearing before DJ Chin with regard to his position to pay $700 per child. His position at the hearing before me is that he should only be required to pay $700 for both children. However, there was no appeal against DJ Chin’s order back then. The Defendant’s position is that the expenses of both children should only be $1,400 and that the Defendant should only be paying half of such expenses[^8]. During the closing submissions, the Defendant has submitted that “the total child maintenance for both children is $746.68” and that “the Defendant is to pay 50% of this amount”.[^9]
 
 ## Plaintiff’s Submissions
 
-9       The Plaintiff submits that since the ancillary order, maintenance was never enough for both children.[\[note: 10\]](#Ftn_10) The Plaintiff also added that the K1 was badly affected by the divorce and consequently, had to go for more therapy sessions[\[note: 11\]](#Ftn_11) and K1 needed a lot of tonics as he was born a premature baby. The Plaintiff also contended that the cost of employing a helper has increased[\[note: 12\]](#Ftn_12). The Plaintiff had highlighted that the Defendant’s income is about $8,000 monthly[\[note: 13\]](#Ftn_13) (or about $6,147.00[\[note: 14\]](#Ftn_14) monthly), or a monthly average of $7,256.00 which was not disclosed until the Plaintiff’s request for discovery[\[note: 15\]](#Ftn_15). Despite the Defendant’s claim of a decrease in income and struggling to keep up with maintenance for the children, the Plaintiff had pointed out that the Defendant has upgraded to a Mercedes car in July 2017, spending “a staggering” sum per month of $2,366.32 (loan, road tax, insurance, maintenance, petrol & cashcard) on the vehicle.[\[note: 16\]](#Ftn_16) While the Plaintiff acknowledged that she has since obtained a job with a higher salary, her current job does not pay her more on an annual basis as her previous job was on a 13th month pay scheme and her current job on a 12th month pay scheme[\[note: 17\]](#Ftn_17).
+9       The Plaintiff submits that since the ancillary order, maintenance was never enough for both children.[^10] The Plaintiff also added that the K1 was badly affected by the divorce and consequently, had to go for more therapy sessions[^11] and K1 needed a lot of tonics as he was born a premature baby. The Plaintiff also contended that the cost of employing a helper has increased[^12]. The Plaintiff had highlighted that the Defendant’s income is about $8,000 monthly[^13] (or about $6,147.00[^14] monthly), or a monthly average of $7,256.00 which was not disclosed until the Plaintiff’s request for discovery[^15]. Despite the Defendant’s claim of a decrease in income and struggling to keep up with maintenance for the children, the Plaintiff had pointed out that the Defendant has upgraded to a Mercedes car in July 2017, spending “a staggering” sum per month of $2,366.32 (loan, road tax, insurance, maintenance, petrol & cashcard) on the vehicle.[^16] While the Plaintiff acknowledged that she has since obtained a job with a higher salary, her current job does not pay her more on an annual basis as her previous job was on a 13th month pay scheme and her current job on a 12th month pay scheme[^17].
 
 ## Orders Made
 
@@ -58,21 +59,21 @@ _“The Court may at any time vary or rescind any subsisting order for maintenan
 
 ## Material Change in circumstances
 
-15     I had to determine if there were material change in circumstances which would warrant a variation in the maintenance sum. Amongst all the arguments canvassed by the Defendant for a downward variation, I am of the view that there have been two significant factors to be considered a material change, one being the increase in the Plaintiff’s salary, and the other, being the reduction of the children’s expenses, which warrants a downward variation. On the issue of the Defendant’s contention that he has a health condition, there is no evidence that this health condition has affected his earning capacity[\[note: 18\]](#Ftn_18).
+15     I had to determine if there were material change in circumstances which would warrant a variation in the maintenance sum. Amongst all the arguments canvassed by the Defendant for a downward variation, I am of the view that there have been two significant factors to be considered a material change, one being the increase in the Plaintiff’s salary, and the other, being the reduction of the children’s expenses, which warrants a downward variation. On the issue of the Defendant’s contention that he has a health condition, there is no evidence that this health condition has affected his earning capacity[^18].
 
 #### Income of Both Parties
 
-16     The Plaintiff’s salary at the ancillary hearing was $3,666.00[\[note: 19\]](#Ftn_19). During the current proceedings, the Plaintiff conceded that her current salary is now $5,500 a month[\[note: 20\]](#Ftn_20).
+16     The Plaintiff’s salary at the ancillary hearing was $3,666.00[^19]. During the current proceedings, the Plaintiff conceded that her current salary is now $5,500 a month[^20].
 
-17     The Defendant’s salary back at the ancillary stage was $5,625.00[\[note: 21\]](#Ftn_21), with DJ Chin noting that “(the Defendant) had in the past earned far more than these amounts”[\[note: 22\]](#Ftn_22). The Defendant has stated that his current salary is a gross amount of $4,657.41[\[note: 23\]](#Ftn_23) and that his “income is based on commission”[\[note: 24\]](#Ftn_24). The Defendant has stated during the hearing that his income “fluctuate from month to month” with “(s)ome months (the Defendant) can be making 2000 a month, some months (the Defendant) can be making 6,000 a month”.[\[note: 25\]](#Ftn_25) However, after various discovery applications filed by both parties, there was a letter from the xxx dated 24 December 2018 that showed that the Defendant’s commission earnings from 1 January 2018 to 30 June 2018 was $43,539.63[\[note: 26\]](#Ftn_26). This meant that the Defendant’s average commission earnings monthly was in the region of $7,256.60, which would reflect on the Defendant’s earning capacity even if his income fluctuated from month to month.
+17     The Defendant’s salary back at the ancillary stage was $5,625.00[^21], with DJ Chin noting that “(the Defendant) had in the past earned far more than these amounts”[^22]. The Defendant has stated that his current salary is a gross amount of $4,657.41[^23] and that his “income is based on commission”[^24]. The Defendant has stated during the hearing that his income “fluctuate from month to month” with “(s)ome months (the Defendant) can be making 2000 a month, some months (the Defendant) can be making 6,000 a month”.[^25] However, after various discovery applications filed by both parties, there was a letter from the xxx dated 24 December 2018 that showed that the Defendant’s commission earnings from 1 January 2018 to 30 June 2018 was $43,539.63[^26]. This meant that the Defendant’s average commission earnings monthly was in the region of $7,256.60, which would reflect on the Defendant’s earning capacity even if his income fluctuated from month to month.
 
 18     There was sufficient evidence that the Defendant’s income is an average of $7,256.60 a month, while the Plaintiff’s income is $5,500 monthly as she has stated during the hearing. While the Plaintiff’s salary has increased since the ancillary hearing, the Defendant’s salary has also increased.
 
 #### Decrease in expenses of the children
 
-19     At the ancillary hearing, the Plaintiff had claimed that the expenses of the children inclusive of their portion of the household expenses amounted to $1,652.00 for K2, and $1,896.00 for the K1. DJ Chin, after taking into consideration the factors in S69(4) of the Women’s Charter, determined that the reasonable expenses back then for K1 would be $1,200 and for K2, $1,500[\[note: 27\]](#Ftn_27).
+19     At the ancillary hearing, the Plaintiff had claimed that the expenses of the children inclusive of their portion of the household expenses amounted to $1,652.00 for K2, and $1,896.00 for the K1. DJ Chin, after taking into consideration the factors in S69(4) of the Women’s Charter, determined that the reasonable expenses back then for K1 would be $1,200 and for K2, $1,500[^27].
 
-20     At the current proceedings, the Plaintiff has declared that the current expenses for the K1 to be $1,370, and $1,094.00[\[note: 28\]](#Ftn_28) for K2. K2 is currently in primary school, with less expenses than when he was in pre-school. This would be a material change which would warrant a reduction of maintenance payable by the Defendant.
+20     At the current proceedings, the Plaintiff has declared that the current expenses for the K1 to be $1,370, and $1,094.00[^28] for K2. K2 is currently in primary school, with less expenses than when he was in pre-school. This would be a material change which would warrant a reduction of maintenance payable by the Defendant.
 
 ### What is a reasonable sum for maintenance?
 
@@ -128,9 +129,9 @@ _It was therefore open to the Judge to consider other factors, including the rel
 
 27     I adopted the above approach of the Court of Appeal on this issue – that, besides the income of the parties, it was open to the Court to take into consideration the relative circumstances of both parties, including their earning capacity, financial resources as well as the property each currently possesses, including their financial needs. I was of the view that it was reasonable that the Defendant shoulder a 60% share of the children’s expenses, while the Plaintiff shoulders 40% of the expenses, after taking into consideration the relative circumstances of both parties. I did not see that there was any need to change the apportionment accorded by DJ Chin. Even though the Plaintiff had an increase in salary, the Defendant’s salary had also increased. The Defendant’s share of the monthly expenses of $2,000 would therefore be $1,200, while the Plaintiff’s share is $800.
 
-28     One of the factors that the Court may take into consideration as enumerated in S114(1) of the Women’s Charter are the property, financial needs, obligations and responsibilities that each party has. The Defendant has stated that he has to take up multiple loans to sustain his monthly expenses, and that the Mercedes that he is currently driving is purchased by his father last year[\[note: 31\]](#Ftn_31) but the Defendant is the one paying for the monthly expenses of this vehicle with the loan taken under the Defendant’s name. The Defendant has explained that the “purposes of such expenses” is to help him “earn a decent income” and “to maintain the current income” that he is currently getting.[\[note: 32\]](#Ftn_32)
+28     One of the factors that the Court may take into consideration as enumerated in S114(1) of the Women’s Charter are the property, financial needs, obligations and responsibilities that each party has. The Defendant has stated that he has to take up multiple loans to sustain his monthly expenses, and that the Mercedes that he is currently driving is purchased by his father last year[^31] but the Defendant is the one paying for the monthly expenses of this vehicle with the loan taken under the Defendant’s name. The Defendant has explained that the “purposes of such expenses” is to help him “earn a decent income” and “to maintain the current income” that he is currently getting.[^32]
 
-29     While I do agree that the Defendant will need a car in his line of business, it may not be necessary for him to maintain a higher-end vehicle like a Mercedes which cost at least $2,216.32[\[note: 33\]](#Ftn_33) per month to upkeep, especially when the Defendant has been “struggling” to keep up with maintenance payments for his young children and is “heavily in debt”[\[note: 34\]](#Ftn_34). While the Defendant has declared that his salary is a gross sum of $4,657.41[\[note: 35\]](#Ftn_35), the Defendant has shown in his affidavit that he has been sustaining expenses of at least $8,481.70 each month[\[note: 36\]](#Ftn_36) even though according to the Defendant, he has not been able to keep up with his expected expenses in the region of $13,331.70 and that he has to take loans to maintain his expenses. One of the expenses that the Defendant has explained during the hearing that he has defaulted thus far is the monthly allowance of $1,000[\[note: 37\]](#Ftn_37) for his parents (even though the figure was only $300[\[note: 38\]](#Ftn_38) during the ancillary hearing before DJ Chin) as the Defendant was staying with his parents after the divorce. However, the Defendant has testified during the hearing that he no longer had to pay the parents $1,000 per month as allowance as he has since moved out and has now his own place to stay[\[note: 39\]](#Ftn_39). The reduction of such an expense can be channelled to pay for the expenses of the children who are still growing up. It is certainly more needful for the Defendant to spend his income on his young children than in maintaining a high-end vehicle.
+29     While I do agree that the Defendant will need a car in his line of business, it may not be necessary for him to maintain a higher-end vehicle like a Mercedes which cost at least $2,216.32[^33] per month to upkeep, especially when the Defendant has been “struggling” to keep up with maintenance payments for his young children and is “heavily in debt”[^34]. While the Defendant has declared that his salary is a gross sum of $4,657.41[^35], the Defendant has shown in his affidavit that he has been sustaining expenses of at least $8,481.70 each month[^36] even though according to the Defendant, he has not been able to keep up with his expected expenses in the region of $13,331.70 and that he has to take loans to maintain his expenses. One of the expenses that the Defendant has explained during the hearing that he has defaulted thus far is the monthly allowance of $1,000[^37] for his parents (even though the figure was only $300[^38] during the ancillary hearing before DJ Chin) as the Defendant was staying with his parents after the divorce. However, the Defendant has testified during the hearing that he no longer had to pay the parents $1,000 per month as allowance as he has since moved out and has now his own place to stay[^39]. The reduction of such an expense can be channelled to pay for the expenses of the children who are still growing up. It is certainly more needful for the Defendant to spend his income on his young children than in maintaining a high-end vehicle.
 
 ## Costs Orders
 
@@ -140,83 +141,83 @@ _It was therefore open to the Judge to consider other factors, including the rel
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Paragraph 5 of Defendant’s Affidavit of 21 May 2018
+[^1]: Paragraph 5 of Defendant’s Affidavit of 21 May 2018
 
-[\[note: 2\]](#Ftn_2_1)Paragraph 1 and 2 of Plaintiff’s Affidavit of 6 June 2018
+[^2]: Paragraph 1 and 2 of Plaintiff’s Affidavit of 6 June 2018
 
-[\[note: 3\]](#Ftn_3_1)Paragraphs 31 and 32 of Grounds of Decision of DJ Suzanne Chin in
+[^3]: Paragraphs 31 and 32 of Grounds of Decision of DJ Suzanne Chin in
 
-[\[note: 4\]](#Ftn_4_1)Paragraph 5, Defendant’s Affidavit of 21 May 2018
+[^4]: Paragraph 5, Defendant’s Affidavit of 21 May 2018
 
-[\[note: 5\]](#Ftn_5_1)Paragraph 8, Defendant’s Affidavit of 21 May 2018
+[^5]: Paragraph 8, Defendant’s Affidavit of 21 May 2018
 
-[\[note: 6\]](#Ftn_6_1)Paragraph 9b, Defendant’s Affidavit of 21 May 2018
+[^6]: Paragraph 9b, Defendant’s Affidavit of 21 May 2018
 
-[\[note: 7\]](#Ftn_7_1)Paragraph 17, Defendant’s Affidavit of 21 May 2018
+[^7]: Paragraph 17, Defendant’s Affidavit of 21 May 2018
 
-[\[note: 8\]](#Ftn_8_1)Paragraph 29, Defendant’s Affidavit of 21 May 2018
+[^8]: Paragraph 29, Defendant’s Affidavit of 21 May 2018
 
-[\[note: 9\]](#Ftn_9_1)Page 7 of Notes of Evidence of hearing of 11 February 2019
+[^9]: Page 7 of Notes of Evidence of hearing of 11 February 2019
 
-[\[note: 10\]](#Ftn_10_1)Paragraph 7, Plaintiff’s Affidavit of 6 June 2018
+[^10]: Paragraph 7, Plaintiff’s Affidavit of 6 June 2018
 
-[\[note: 11\]](#Ftn_11_1)Paragraph 5, Plaintiff’s Affidavit of 6 June 2018
+[^11]: Paragraph 5, Plaintiff’s Affidavit of 6 June 2018
 
-[\[note: 12\]](#Ftn_12_1)Paragraph 5, Plaintiff’s Affidavit of 27 July 2018
+[^12]: Paragraph 5, Plaintiff’s Affidavit of 27 July 2018
 
-[\[note: 13\]](#Ftn_13_1)Paragraph 7, Plaintiff’s Affidavit of 6 June 2018
+[^13]: Paragraph 7, Plaintiff’s Affidavit of 6 June 2018
 
-[\[note: 14\]](#Ftn_14_1)Paragraph 2, Plaintiff’s Affidavit of 27 July 2018
+[^14]: Paragraph 2, Plaintiff’s Affidavit of 27 July 2018
 
-[\[note: 15\]](#Ftn_15_1)Page 3 of Notes of Evidence for hearing on 11 February 2019
+[^15]: Page 3 of Notes of Evidence for hearing on 11 February 2019
 
-[\[note: 16\]](#Ftn_16_1)Paragraph 2, Plaintiff’s Affidavit of 27 July 2018
+[^16]: Paragraph 2, Plaintiff’s Affidavit of 27 July 2018
 
-[\[note: 17\]](#Ftn_17_1)Paragraph 6, Plaintiff’s Affidavit of 27 July 2018
+[^17]: Paragraph 6, Plaintiff’s Affidavit of 27 July 2018
 
-[\[note: 18\]](#Ftn_18_1)Page 32 of Notes of Evidence of hearing on 11 February 2019
+[^18]: Page 32 of Notes of Evidence of hearing on 11 February 2019
 
-[\[note: 19\]](#Ftn_19_1)Paragraph 5 of DJ Suzanne Chin’s Grounds of Decision
+[^19]: Paragraph 5 of DJ Suzanne Chin’s Grounds of Decision
 
-[\[note: 20\]](#Ftn_20_1)Page 13 of Notes of Evidence for hearing of 1 February 2019.
+[^20]: Page 13 of Notes of Evidence for hearing of 1 February 2019.
 
-[\[note: 21\]](#Ftn_21_1)Paragraph 5 of DJ Suzanne Chin’s Grounds of Decision
+[^21]: Paragraph 5 of DJ Suzanne Chin’s Grounds of Decision
 
-[\[note: 22\]](#Ftn_22_1)Paragraph 32 of DJ Suzanne Chin’s Grounds of Decision
+[^22]: Paragraph 32 of DJ Suzanne Chin’s Grounds of Decision
 
-[\[note: 23\]](#Ftn_23_1)Paragraph 5 of the Defendant’s Affidavit of 21 May 2018
+[^23]: Paragraph 5 of the Defendant’s Affidavit of 21 May 2018
 
-[\[note: 24\]](#Ftn_24_1)Paragraph 5 of the Defendant’s Affidavit of 21 May 2018
+[^24]: Paragraph 5 of the Defendant’s Affidavit of 21 May 2018
 
-[\[note: 25\]](#Ftn_25_1)Page 46 of the Notes of Evidence of Hearing of 1 February 2019
+[^25]: Page 46 of the Notes of Evidence of Hearing of 1 February 2019
 
-[\[note: 26\]](#Ftn_26_1)Page 6 of Defendant’s Affidavit of 28 December 2018
+[^26]: Page 6 of Defendant’s Affidavit of 28 December 2018
 
-[\[note: 27\]](#Ftn_27_1)Paragraphs 26 and 32 of the Grounds of Decision of DJ Chin in
+[^27]: Paragraphs 26 and 32 of the Grounds of Decision of DJ Chin in
 
-[\[note: 28\]](#Ftn_28_1)Pages 3 and 4 of the Plaintiff’s Affidavit of 6 June 2018
+[^28]: Pages 3 and 4 of the Plaintiff’s Affidavit of 6 June 2018
 
-[\[note: 29\]](#Ftn_29_1)At pages 3 and 4 of Plaintiff’s Affidavit of 6 June 2018.
+[^29]: At pages 3 and 4 of Plaintiff’s Affidavit of 6 June 2018.
 
-[\[note: 30\]](#Ftn_30_1)Starting from page 6 of the Defendant’s Affidavit of 28 July 2018
+[^30]: Starting from page 6 of the Defendant’s Affidavit of 28 July 2018
 
-[\[note: 31\]](#Ftn_31_1)Page 64 of the Notes of Evidence of Hearing of 1 February 2019
+[^31]: Page 64 of the Notes of Evidence of Hearing of 1 February 2019
 
-[\[note: 32\]](#Ftn_32_1)Page 70 of the Notes of Evidence of Hearing of 1 February 2019
+[^32]: Page 70 of the Notes of Evidence of Hearing of 1 February 2019
 
-[\[note: 33\]](#Ftn_33_1)At paragraph 47 of the Defendant’s Affidavit of 28 December 2018, where he states his monthly expenses as $400 for petrol, $1,456 for car loan repayment, $79.15 for motor insurance, $81.17 for road tax, $200 for cashcard coupon- which adds up to $2,216.32. This excludes the sum of $150 per monthly for car maintenance which he states he has been defaulting. If this monthly car maintenance is included, the monthly expenditure to keep this vehicle would be $2,366.32.
+[^33]: At paragraph 47 of the Defendant’s Affidavit of 28 December 2018, where he states his monthly expenses as $400 for petrol, $1,456 for car loan repayment, $79.15 for motor insurance, $81.17 for road tax, $200 for cashcard coupon- which adds up to $2,216.32. This excludes the sum of $150 per monthly for car maintenance which he states he has been defaulting. If this monthly car maintenance is included, the monthly expenditure to keep this vehicle would be $2,366.32.
 
-[\[note: 34\]](#Ftn_34_1)Paragraph 8 of the Defendant’s Affidavit of 21 May 2018
+[^34]: Paragraph 8 of the Defendant’s Affidavit of 21 May 2018
 
-[\[note: 35\]](#Ftn_35_1)Paragraph 5 of the Defendant’s Affidavit of 21 May 2018
+[^35]: Paragraph 5 of the Defendant’s Affidavit of 21 May 2018
 
-[\[note: 36\]](#Ftn_36_1)Paragraph 47 of the Defendant’s Affidavit of 28 December 2018.
+[^36]: Paragraph 47 of the Defendant’s Affidavit of 28 December 2018.
 
-[\[note: 37\]](#Ftn_37_1)Paragraph 47 of the Defendant’s Affidavit of 28 December 2018
+[^37]: Paragraph 47 of the Defendant’s Affidavit of 28 December 2018
 
-[\[note: 38\]](#Ftn_38_1)Paragraph 16 of the Defendant’s Affidavit of 11 November 2015
+[^38]: Paragraph 16 of the Defendant’s Affidavit of 11 November 2015
 
-[\[note: 39\]](#Ftn_39_1)Page 78 of the Notes of Evidence of Hearing of 1 February 2019
+[^39]: Page 78 of the Notes of Evidence of Hearing of 1 February 2019
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23082-SSP.xml)

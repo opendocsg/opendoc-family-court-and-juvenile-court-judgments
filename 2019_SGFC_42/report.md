@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # UVB _v_ UVC  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons 233 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">27 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Toh Wee San</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Chng Hu Ping (Zhuang Huping) and Mr Kelvin Tan Teck San of M/s Drew &amp; Napier LLC for the Plaintiff; Mr Kang Kim Yang of M/s Templars Law LLC for the Defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UVB — UVC</td></tr></tbody></table>
@@ -59,11 +60,11 @@ b.     P had not considered all the relevant circumstances nor taken the st
 
 16     I also did not find P’s case that the mother has to pay for necessary goods and services under section 9 of the Mental Capacity Act (MCA) to be made out. It was necessary for the mother to seek medical treatment for her illness, but the choice of the medical institution was another matter. P had no authority to decide on the mother’s choice of healthcare without consulting the donee. P also withheld such information from the donee for an extended period without good reasons.
 
-17     In view of the above, I dismissed P’s applications. As cost follows the event[\[note: 1\]](#Ftn_1), I also ordered P to pay $2,000 (including disbursement) as costs to D.
+17     In view of the above, I dismissed P’s applications. As cost follows the event[^1], I also ordered P to pay $2,000 (including disbursement) as costs to D.
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Rule 852(2) Family Justice Rules, Family Justice Act.
+[^1]: Rule 852(2) Family Justice Rules, Family Justice Act.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22997-SSP.xml)

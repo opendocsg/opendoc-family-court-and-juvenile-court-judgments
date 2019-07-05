@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # UWD _v_ UWE  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MSS No. 2993 of 2018, District Court Appeal No. 11 of 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">03 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Nicole Loh</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Complainant in person; Respondent in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UWD — UWE</td></tr></tbody></table>
@@ -66,9 +67,9 @@ d.       Half of the instalment plans for the electrical appliances and b
 
 13     The Husband was working in his own interior design company during the marriage. He claimed the Wife caused the collapse of his company by ruining his reputation publicly on Facebook. The Wife denied causing this and claimed that he had deliberately gone into debt to avoid maintenance, as threatened by him.
 
-14     Although there was evidence that the Husband did threaten the Wife to ensure she would not receive any maintenance, I did not believe that he deliberately caused the problems his company faced to defeat the Wife’s maintenance claim. There was evidence of civil claims made by third parties and judgments being entered against the Husband. The Wife herself, also attempted to make out a case that the Husband owed many debts because he could not run his business properly[\[note: 1\]](#Ftn_1). Therefore, I did not find the decline of the Husband’s business to be self-induced.
+14     Although there was evidence that the Husband did threaten the Wife to ensure she would not receive any maintenance, I did not believe that he deliberately caused the problems his company faced to defeat the Wife’s maintenance claim. There was evidence of civil claims made by third parties and judgments being entered against the Husband. The Wife herself, also attempted to make out a case that the Husband owed many debts because he could not run his business properly[^1]. Therefore, I did not find the decline of the Husband’s business to be self-induced.
 
-15     The Husband claimed he had been searching for alternative employment and may potentially have a job with an income of $1,200 in pet retail. I found this to be below his income capacity. His experience has been in the construction industry prior to setting out his renovation company. He was previously a project manager in interior design and construction companies. He has not shown any evidence of his claim that he was unable to find a job back in either industry. It appears that he may not have been conscientiously looking for job to meet his income potential as he is getting ready to take custody of their daughter[\[note: 2\]](#Ftn_2).
+15     The Husband claimed he had been searching for alternative employment and may potentially have a job with an income of $1,200 in pet retail. I found this to be below his income capacity. His experience has been in the construction industry prior to setting out his renovation company. He was previously a project manager in interior design and construction companies. He has not shown any evidence of his claim that he was unable to find a job back in either industry. It appears that he may not have been conscientiously looking for job to meet his income potential as he is getting ready to take custody of their daughter[^2].
 
 16     The Wife believed the Husband has another source of income from his TV acting jobs. From the evidence before me, whilst the Husband may have had some ad hoc jobs as an extra for local TV shows, it is a stretch to suggest he has any real and regular income as an actor. Whilst he may have appeared in shows with well-known experienced local celebrities, it does not make him one. Therefore, I did not find any worthwhile income to be regarded for the purposes of determining monthly income from such job(s).
 
@@ -99,7 +100,7 @@ d.       Half of the instalment plans for the electrical appliances and b
 
 24     There were 2 instalment plans that the Wife was paying for with regard to their bed and electrical appliances, such as fans, cooker, kettle, washing machine and fridge. In view of the ongoing monthly expense which the Wife is paying, I ordered the Husband to share half of this until the instalment plan is fully paid up.
 
-25     After providing for the Husband to pay his share of the matrimonial flat, service and conservancy fees, utility bills, as well as instalment plans for their household furnishings, I considered the Wife able to provide for her own expenses (including her share of the Child’s expenses) out of the full-time employment income she should be able to secure. In the meantime, prior to her securing such full-time employment, she has secured part time employment with a nett income of more than $1000[\[note: 4\]](#Ftn_4). I would expect it reasonable for her expenses to be scaled down in the meantime (e.g clothing, transport and outing expenses) that would enable her to continue to support herself. Whilst she is still living at the shelter, she will not be incurring certain expenses (e.g utility expenses).
+25     After providing for the Husband to pay his share of the matrimonial flat, service and conservancy fees, utility bills, as well as instalment plans for their household furnishings, I considered the Wife able to provide for her own expenses (including her share of the Child’s expenses) out of the full-time employment income she should be able to secure. In the meantime, prior to her securing such full-time employment, she has secured part time employment with a nett income of more than $1000[^4]. I would expect it reasonable for her expenses to be scaled down in the meantime (e.g clothing, transport and outing expenses) that would enable her to continue to support herself. Whilst she is still living at the shelter, she will not be incurring certain expenses (e.g utility expenses).
 
 26     The Wife had filed her claim for maintenance for her Husband to pay all her alleged expenses when she was unemployed. Although she had given reasons for it, she had resigned from her job and was not terminated from employment. I also noted that she did not reveal her bank accounts and the savings she had in order for a full consideration of her financial resources required under s69(4)(b) of the Women’s Charter. This may have been due to the fact that she did not want the Husband to gain knowledge of her financial affairs. Without this information, I therefore did not order the Husband to bear all the expenses of the Wife and the Child during the period she was unemployed although I did backdate the order for maintenance to the month she had filed for maintenance.
 
@@ -115,13 +116,13 @@ c)     Annual purchase of handphone for $750; and
 
 d)     Claim for damaged breast pump, laptop and handphones for $5,400.
 
-28     The Wife exhibited 4 receipts totalling $2,911.11 comprising purchases of furniture and installation of curtains to support her claim for home furnishing. These were incurred around April to May 2018. There was no other evidence to support the figure of $4,800. I did not make any order on this claim. It is likely that he did not reimburse her any part of these purchases as he had declared on 25 March 2018 that he will “withdraw from house renovation and accessories”[\[note: 5\]](#Ftn_5). His last contribution to her was on 4 April 2018, which was before these purchases were made. Unlike the ongoing instalment plans, these purchases were fully paid for in the past. The Wife was in essence, seeking reimbursement for her purchases. However, as both parties were unrepresented, there were no submissions before me relating to the reasonableness of the expense as well as whether this should fall within a maintenance claim or be considered (as it is usually done) as the Wife’s contribution towards the family. I declined to make any order on this as I felt this would be better dealt with as the Wife’s indirect financial contribution in any asset division issue.
+28     The Wife exhibited 4 receipts totalling $2,911.11 comprising purchases of furniture and installation of curtains to support her claim for home furnishing. These were incurred around April to May 2018. There was no other evidence to support the figure of $4,800. I did not make any order on this claim. It is likely that he did not reimburse her any part of these purchases as he had declared on 25 March 2018 that he will “withdraw from house renovation and accessories”[^5]. His last contribution to her was on 4 April 2018, which was before these purchases were made. Unlike the ongoing instalment plans, these purchases were fully paid for in the past. The Wife was in essence, seeking reimbursement for her purchases. However, as both parties were unrepresented, there were no submissions before me relating to the reasonableness of the expense as well as whether this should fall within a maintenance claim or be considered (as it is usually done) as the Wife’s contribution towards the family. I declined to make any order on this as I felt this would be better dealt with as the Wife’s indirect financial contribution in any asset division issue.
 
 29     As for renovation claim of $15,000, this was a projected expense that the Wife believes she needs to incur in order to make the matrimonial flat suitable for both the child and her to reside in. There was no quotation attached in support of her claim. Some of her claim did not seem necessary, e.g. clothes wardrobe (her previous claim under home furnishing already showed there was a wardrobe purchased). In any event, without a proper quotation showing the breakdown of the cost for each job she claims is necessary, I did not make an order on this.
 
-30     As for the Wife’s claim for an annual purchase of handphone costing $750, although she had claimed this under a lump sum payment, on the stand she had clarified that she wanted to claim this as a yearly figure[\[note: 6\]](#Ftn_6). If this is something she feels is a reasonable standard of living for her, then she can provide this for herself.
+30     As for the Wife’s claim for an annual purchase of handphone costing $750, although she had claimed this under a lump sum payment, on the stand she had clarified that she wanted to claim this as a yearly figure[^6]. If this is something she feels is a reasonable standard of living for her, then she can provide this for herself.
 
-31     The Wife also claimed $5,400 being the cost of items which the Husband damaged, i.e. a laptop, a breast pump and 2 handphones. I believe the Wife’s account that the Husband did damage the items[\[note: 7\]](#Ftn_7), however a maintenance claim should not be used for a party to recover damages or compensation. I made no order on this.
+31     The Wife also claimed $5,400 being the cost of items which the Husband damaged, i.e. a laptop, a breast pump and 2 handphones. I believe the Wife’s account that the Husband did damage the items[^7], however a maintenance claim should not be used for a party to recover damages or compensation. I made no order on this.
 
 ## Conclusion
 
@@ -129,19 +130,19 @@ d)     Claim for damaged breast pump, laptop and handphones for $5,400.
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Page 147 of Day 2 Transcripts, lines 6-8; Page 152 of Day 2 Transcripts, lines 29-32; Page 153 of Day 2 Transcripts lines 20-27.
+[^1]: Page 147 of Day 2 Transcripts, lines 6-8; Page 152 of Day 2 Transcripts, lines 29-32; Page 153 of Day 2 Transcripts lines 20-27.
 
-[\[note: 2\]](#Ftn_2_1)Page 130 – 131 of Day 2 Transcripts, line 25 on page 130 to line 24 on page 131.
+[^2]: Page 130 – 131 of Day 2 Transcripts, line 25 on page 130 to line 24 on page 131.
 
-[\[note: 3\]](#Ftn_3_1)Pg 58 of C2
+[^3]: Pg 58 of C2
 
-[\[note: 4\]](#Ftn_4_1)Page 47 of Day 2 Transcripts, line 5.
+[^4]: Page 47 of Day 2 Transcripts, line 5.
 
-[\[note: 5\]](#Ftn_5_1)Page 68 of C2.
+[^5]: Page 68 of C2.
 
-[\[note: 6\]](#Ftn_6_1)Page 10, Day 2 of Transcript, lines 29 to 32, page 11, Day 2 of Transcript, lines 1 to 13.
+[^6]: Page 10, Day 2 of Transcript, lines 29 to 32, page 11, Day 2 of Transcript, lines 1 to 13.
 
-[\[note: 7\]](#Ftn_7_1)Text messages from Husband admitting that he broke her breast pump and laptop - Page 68 of C2.
+[^7]: Text messages from Husband admitting that he broke her breast pump and laptop - Page 68 of C2.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23128-SSP.xml)

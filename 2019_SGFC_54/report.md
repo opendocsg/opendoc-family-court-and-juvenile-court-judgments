@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # UWK _v_ UWJ  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MSS 3239 / 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">13 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lo Wai Ping</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Complainant in person; Respondent in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UWK — UWJ</td></tr></tbody></table>
@@ -12,9 +13,9 @@ Family Law – Maintenance – Enforcement – Section 71 Women’s Charte
 
 1       The parties were married in 2005. The husband (“**Husband**”) filed for divorce based on the fact that he and the wife (“**Wife**”) had lived apart for a continuous period of at least 4 years immediately prior to his filing of the writ for divorce. On **26 October 2016**, interim judgment for divorce (“**Interim Judgment**”) was granted and _consent orders_ for the ancillary matters were also recorded on the same date. These consent orders included a maintenance order (“**Maintenance Order**”) for the Wife and their child (the “**child**”) on the following terms:
 
-(a)     the Husband shall pay to the Wife **$2,000 per month as maintenance for the child** starting one month from the date of issuance of the certificate of final judgment and “until such time that the child is financially independent”;[\[note: 1\]](#Ftn_1) and
+(a)     the Husband shall pay to the Wife **$2,000 per month as maintenance for the child** starting one month from the date of issuance of the certificate of final judgment and “until such time that the child is financially independent”;[^1] and
 
-(b)     the Husband shall pay **$1,000 per month as maintenance for the Wife** starting also one month from the date of issuance of the certificate of final judgment and this maintenance was to cease “in the event that the \[Wife\] remarries”.[\[note: 2\]](#Ftn_2)
+(b)     the Husband shall pay **$1,000 per month as maintenance for the Wife** starting also one month from the date of issuance of the certificate of final judgment and this maintenance was to cease “in the event that the \[Wife\] remarries”.[^2]
 
 2       In September 2018, the Wife commenced these proceedings in MSS 3239/2018 (“**Current Application**”) against the Husband under section 71 of the Women’s Charter Cap 353 (“**Section 71**”) for his failure to comply with the Maintenance Order. This was the _second_ time she had applied to court to enforce the Maintenance Order.
 
@@ -26,7 +27,7 @@ Family Law – Maintenance – Enforcement – Section 71 Women’s Charte
 
 5       Under the terms of the Consent EMO, the Husband was to pay the Wife the agreed arrears of $15,000 in instalments of $500 per month on or before the 1st day of each month with effect from 1 April 2018. The monthly instalments were to be paid into the Wife’s POSB account XX.
 
-6       The Consent EMO also made clear, the following:[\[note: 3\]](#Ftn_3)
+6       The Consent EMO also made clear, the following:[^3]
 
 (a)     that upon the Husband’s failure to pay any of the monthly instalments in accordance with the instalment plan mentioned above (see **paragraph 5**), the full amount owing would become immediately due and enforceable; and
 
@@ -104,7 +105,7 @@ He also provided copies of documents relating to his Notices of Assessment for y
 
 27     The Employer’s letter dated 6 November 2018 to DBS showed that the Husband’s _total employment income_ would likely be _more than $170,000_ for the year of 2018 as this sum was stated by the Employer to be only his ‘_base annual salary_’. As such, whilst his salary slips showed he received a net pay of about $12,966 per month based on his base annual salary of $170,000 (see **paragraph 26 (b)** above), this sum was reflective only of the _minimum_ net amount per month he took home during those months.
 
-28     Next, I examined the Husband’s case that he had no savings but only a car, an Audi SLJ XXXX (“**2016 AUDI**”) registered in December 2016, which was purchased by him at a price of $100,000[\[note: 4\]](#Ftn_4) around November 2018 under hire-purchase, and that his current monthly expenses of about $13,137 per month (without factoring in the maintenance sums (of $3,500) he had to pay every month under the Maintenance Order and Consent EMO) was more than his monthly take-home pay. See Table A below for the Husband’s list of expenses.
+28     Next, I examined the Husband’s case that he had no savings but only a car, an Audi SLJ XXXX (“**2016 AUDI**”) registered in December 2016, which was purchased by him at a price of $100,000[^4] around November 2018 under hire-purchase, and that his current monthly expenses of about $13,137 per month (without factoring in the maintenance sums (of $3,500) he had to pay every month under the Maintenance Order and Consent EMO) was more than his monthly take-home pay. See Table A below for the Husband’s list of expenses.
 
 **Table A**
 
@@ -115,7 +116,7 @@ He also provided copies of documents relating to his Notices of Assessment for y
 
 29     Apart from his income tax payments, it would appear that the Husband had to incur expenses totaling **$8,265 per month** for the premia payable for the insurance policies taken up by him, the 2016 AUDI and the medical expenses incurred by his new wife’s father (“**FIL**”). The Husband had remarried on 22 October 2018 according to the marriage certificate tendered at the hearing.
 
-30     According to the Husband, FIL (a taxi driver) had emptied out his savings and extended the Husband a personal loan of $100,000 to pay off his debts and then, later, FIL was diagnosed with terminal stage cancer.[\[note: 6\]](#Ftn_6) Although the Husband’s agreement with FIL was that the Husband could pay back this loan slowly, as and when the Husband could[\[note: 7\]](#Ftn_7), the Husband had decided to repay FIL in the following manner because it was not certain how long FIL could live: -
+30     According to the Husband, FIL (a taxi driver) had emptied out his savings and extended the Husband a personal loan of $100,000 to pay off his debts and then, later, FIL was diagnosed with terminal stage cancer.[^6] Although the Husband’s agreement with FIL was that the Husband could pay back this loan slowly, as and when the Husband could[^7], the Husband had decided to repay FIL in the following manner because it was not certain how long FIL could live: -
 
 (a)     FIL’s Medical Expenses.
 
@@ -123,13 +124,13 @@ He claimed that he was paying FIL’s medical expenses of $3,000 per month. This
 
 (b)     Car loan and car-related expenses
 
-He claimed that the 2016 AUDI was FIL’s car and that FIL had only bought the car a year ago at $120,000. He claimed that FIL wanted to sell it off to pay for his medical expenses but was hesitant to do so “at such a big loss” (as the car could only be currently sold off at $85,000). He explained that the car was not a necessity for him, but he bought it over to assist FIL and he was treating his purchase of the FIL’s car in early November 2018 as part of his repayment of the personal loan from FIL.[\[note: 8\]](#Ftn_8) As such, he was currently paying a sum of $2,265 per month for the car (about $2,107 per month for the car loan (over 36 instalments) and $158 per month for the motor insurance and road tax).
+He claimed that the 2016 AUDI was FIL’s car and that FIL had only bought the car a year ago at $120,000. He claimed that FIL wanted to sell it off to pay for his medical expenses but was hesitant to do so “at such a big loss” (as the car could only be currently sold off at $85,000). He explained that the car was not a necessity for him, but he bought it over to assist FIL and he was treating his purchase of the FIL’s car in early November 2018 as part of his repayment of the personal loan from FIL.[^8] As such, he was currently paying a sum of $2,265 per month for the car (about $2,107 per month for the car loan (over 36 instalments) and $158 per month for the motor insurance and road tax).
 
 31     Although the Husband was given sufficient time to seek legal advice and prepare for the hearing, he did not adduce any evidence at the hearing on 23 January 2019 to corroborate his claim that FIL had lent him $100,000 to clear up all his personal debts. There were no documents provided to show the date and manner in which this alleged loan was extended by FIL to him to discharge his debts.
 
 32     The Husband and his new wife were both bankers. It was difficult to accept the Husband’s evidence that he could not produce any supporting evidence of this alleged loan of $100,000 from FIL to him.
 
-33     Further, it should be noted that when the Husband signed the form for his list of expenses, assets and income on 16 November 2018 and declared that the information set out therein was true and accurate [\[note: 9\]](#Ftn_9) and submitted the same to the Court on 16 November 2018, he declared that he had only a car loan (for the 2016 AUDI) with an outstanding balance of $67,893.
+33     Further, it should be noted that when the Husband signed the form for his list of expenses, assets and income on 16 November 2018 and declared that the information set out therein was true and accurate [^9] and submitted the same to the Court on 16 November 2018, he declared that he had only a car loan (for the 2016 AUDI) with an outstanding balance of $67,893.
 
 34     In the same form, he also declared that he had only 2 bank accounts (OCBC and Citibank) apart from the car as assets. He had submitted his bank statements for his OCBC account (from June 2018 to October 2018) and for his Citibank account (from May 2018 to October 2018). These bank statements showed that the Husband had credit cards. But, the Husband did not tender any statements relating to his credit card accounts and he also did not refer to any of the submitted bank statements to show deposits of monies into either of his accounts from FIL amounting to $100,000.
 
@@ -153,7 +154,7 @@ He claimed that the 2016 AUDI was FIL’s car and that FIL had only bought the c
 
 44     Assuming we take the Husband’s evidence given at the hearing in January 2019 to be true, it would mean that FIL had bought the 2016 AUDI sometime in or about January 2018 or perhaps late 2017. However, FIL had found out by July 2017 that he had advanced stage lung cancer and had started cancer treatment by August 2017. It was difficult to believe the Husband’s evidence that FIL, a taxi driver, in that medical condition, would incur a substantial amount of money of about $120,000 to purchase the 2016 AUDI.
 
-45     During cross-examination, the Husband said that FIL had wanted to sell the car even at a loss to pay for his medical bills and that was when he offered to help FIL “in lieu of repaying him in cash” (for FIL’s personal loan) by taking over his car.[\[note: 10\]](#Ftn_10) But, this took place only in November 2018 as can be seen from the documents tendered by the Husband as set out in the following paragraph.
+45     During cross-examination, the Husband said that FIL had wanted to sell the car even at a loss to pay for his medical bills and that was when he offered to help FIL “in lieu of repaying him in cash” (for FIL’s personal loan) by taking over his car.[^10] But, this took place only in November 2018 as can be seen from the documents tendered by the Husband as set out in the following paragraph.
 
 46     The Husband had tendered the following documents (“**Car Documents**”) to show his monthly expenses for the car:
 
@@ -217,25 +218,25 @@ Based on the above balances, it would appear that the Husband could have dischar
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)See paragraph 3(f) of the Interim Judgment
+[^1]: See paragraph 3(f) of the Interim Judgment
 
-[\[note: 2\]](#Ftn_2_1)See paragraph 3(e) of the Interim Judgment
+[^2]: See paragraph 3(e) of the Interim Judgment
 
-[\[note: 3\]](#Ftn_3_1)See paragraphs 3 and 4 of the Consent EMO
+[^3]: See paragraphs 3 and 4 of the Consent EMO
 
-[\[note: 4\]](#Ftn_4_1)See his list of assets at page 2 of Exhibit R1 and the Car Documents.
+[^4]: See his list of assets at page 2 of Exhibit R1 and the Car Documents.
 
-[\[note: 5\]](#Ftn_5_1)See page 22 of the Notes of Evidence (NE)
+[^5]: See page 22 of the Notes of Evidence (NE)
 
-[\[note: 6\]](#Ftn_6_1)Page 16 of NE
+[^6]: Page 16 of NE
 
-[\[note: 7\]](#Ftn_7_1)Page 32 of NE
+[^7]: Page 32 of NE
 
-[\[note: 8\]](#Ftn_8_1)Page 26 of NE
+[^8]: Page 26 of NE
 
-[\[note: 9\]](#Ftn_9_1)See pages 1 and 2 of Exhibit R1
+[^9]: See pages 1 and 2 of Exhibit R1
 
-[\[note: 10\]](#Ftn_10_1)Page 33 of NE
+[^10]: Page 33 of NE
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23151-SSP.xml)

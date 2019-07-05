@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # UXD _v_ UXE  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MSS 3777 of 2018 and MSS 112 of 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">13 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Christine Lee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Appellant was in Person; Respondent was also in Person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UXD — UXE</td></tr></tbody></table>
@@ -58,9 +59,9 @@ Family Law – variation of maintenance payable; enforcement of maintenance pa
 
 21     The Appellant was thereby ordered to make instalment payments of $100 per month with effect from 30th April 2018 and thereafter on the last day of each month until this sum of $8,900 was fully paid up on top of the current said monthly maintenance of the sum of $2,900. The Appellant did not appeal against this Court Order.
 
-22     On 2nd May 2018, the Respondent filed another enforcement application in MSS 1628 of 2018 regarding the said monthly maintenance payable by the Appellant. On 22nd June 2018, the learned District Judge ordered that the Appellant was to pay the sum of $6,200 comprising the outstanding arrears of the maintenance for the two months (April and May 2018) at $2,900 per month in addition to the previous outstanding instalment payments due under the 25th August 2016 Court Order. The total outstanding sum of $6,200 was to paid in 4 equal monthly instalments of $1,550 in default of which the Appellant was to serve one-day imprisonment for each non-payment[\[note: 1\]](#Ftn_1).
+22     On 2nd May 2018, the Respondent filed another enforcement application in MSS 1628 of 2018 regarding the said monthly maintenance payable by the Appellant. On 22nd June 2018, the learned District Judge ordered that the Appellant was to pay the sum of $6,200 comprising the outstanding arrears of the maintenance for the two months (April and May 2018) at $2,900 per month in addition to the previous outstanding instalment payments due under the 25th August 2016 Court Order. The total outstanding sum of $6,200 was to paid in 4 equal monthly instalments of $1,550 in default of which the Appellant was to serve one-day imprisonment for each non-payment[^1].
 
-23     The Appellant appealed against this order in DCA 61 of 2018 and the Grounds of Decision was issued by the learned District Judge on 8th August 2018. However, this appeal was subsequently withdrawn by the Appellant on 11th September 2018 and the Appellant fully paid up the outstanding arrears[\[note: 2\]](#Ftn_2).
+23     The Appellant appealed against this order in DCA 61 of 2018 and the Grounds of Decision was issued by the learned District Judge on 8th August 2018. However, this appeal was subsequently withdrawn by the Appellant on 11th September 2018 and the Appellant fully paid up the outstanding arrears[^2].
 
 ### Appeal in DCA 100 of 2018
 
@@ -148,7 +149,7 @@ For MSS 112 of 2019 (Appeal in DCA 26 of 2019)
 
 42     This reduced amount of $1,800 per month was to take effect from 1st July 2018 and comprised of $910 for the Respondent and $890 for the 2 children. This reduced maintenance is also part of the Appellant’s appeal in DCA 100 of 2018, which, at the date of the issuance of these grounds, has not yet been re-instated. The procedural defect was also not known at the time of the issuance of the Grounds of Decision in DCA 100 of 2018.
 
-43     For the purposes of completeness, the Court’s reasons for partially allowing the Appellant’s application under SUM 891 of 2018 by reducing the said monthly maintenance payable by the Appellant from $2,900 to $1,800 for the Respondent and the 2 children was primarily based on the fact that the Respondent’s and 2 children’s circumstances had changed[\[note: 3\]](#Ftn_3) and their expenses had been reduced since July 2018.
+43     For the purposes of completeness, the Court’s reasons for partially allowing the Appellant’s application under SUM 891 of 2018 by reducing the said monthly maintenance payable by the Appellant from $2,900 to $1,800 for the Respondent and the 2 children was primarily based on the fact that the Respondent’s and 2 children’s circumstances had changed[^3] and their expenses had been reduced since July 2018.
 
 44     At the same time, the Court had re-assessed their monthly expenses as follows:
 
@@ -216,13 +217,13 @@ Total is $906 per month
 
 53     However, for the second and third parts of the Appellant’s application in MSS 112 of 2019, the new evidence that the Court considered to be relevant was that the Respondent and the 2 children had relocated back to India in compliance with the Court Order regarding SUM 744 of 2018 as revised under the Respondent’s application in SUM 151 of 2019. The Court accepted that the cost of living expenses in India are less than in Singapore.
 
-54     As to the amount of reduced maintenance that was to be payable by the Appellant, the Court took into account the Respondent’s list of estimated expenses in India as produced in Exhibit C7 on the fair and reasonable amount of maintenance to be assessed for the 2 children. In addition, the Court was of the view that it would not be appropriate to take into account the Appellant’s estimate of the Respondent’s potential earnings of 10,000 Rupees per month[\[note: 4\]](#Ftn_4) when there was no evidence to show that the Respondent had been able to obtain any employment on her return to India in December 2018.
+54     As to the amount of reduced maintenance that was to be payable by the Appellant, the Court took into account the Respondent’s list of estimated expenses in India as produced in Exhibit C7 on the fair and reasonable amount of maintenance to be assessed for the 2 children. In addition, the Court was of the view that it would not be appropriate to take into account the Appellant’s estimate of the Respondent’s potential earnings of 10,000 Rupees per month[^4] when there was no evidence to show that the Respondent had been able to obtain any employment on her return to India in December 2018.
 
-55     In addition, the Court was of the view that Appellant’s submission that he was only capable of earning a monthly salary of 22,000 Rupees (approximately S$400 per month) in India[\[note: 5\]](#Ftn_5) was inconsistent with the Appellant’s capacity to earn more based on his qualifications. In this regard, the Court noted that the Appellant had been earning an approximate salary of S$11,000 per month in Singapore[\[note: 6\]](#Ftn_6) until he lost his job in May 2017.
+55     In addition, the Court was of the view that Appellant’s submission that he was only capable of earning a monthly salary of 22,000 Rupees (approximately S$400 per month) in India[^5] was inconsistent with the Appellant’s capacity to earn more based on his qualifications. In this regard, the Court noted that the Appellant had been earning an approximate salary of S$11,000 per month in Singapore[^6] until he lost his job in May 2017.
 
 56     Accordingly, the Court assessed that the Appellant should pay the further reduced monthly maintenance sum of $1,000 (being $400 for the Respondent and $600 ($300 each) for the 2 children) with effect from December 2018 to February 2019 with regard to the Respondent’s enforcement application in MSS 3777 of 2018.
 
-57     With regard to the 2 children’s school fees payable by the Appellant, the Court noted that the Appellant had challenged this payment on the basis that he was only supposed to pay to the school directly and not to the Respondent. Although the Court directed the Appellant’s attention to Clause 2 of the 25th August 2016 Court Order in VO 368/2016 on his liability to pay, which read: “_In addition, \[the Appellant\] shall solely bear only the children’s school fees and year end expenses with effect from September 2016_”, the Appellant insisted that the learned District Judge had only intended for him to pay the fees to the school directly[\[note: 7\]](#Ftn_7) and not to the Respondent.
+57     With regard to the 2 children’s school fees payable by the Appellant, the Court noted that the Appellant had challenged this payment on the basis that he was only supposed to pay to the school directly and not to the Respondent. Although the Court directed the Appellant’s attention to Clause 2 of the 25th August 2016 Court Order in VO 368/2016 on his liability to pay, which read: “_In addition, \[the Appellant\] shall solely bear only the children’s school fees and year end expenses with effect from September 2016_”, the Appellant insisted that the learned District Judge had only intended for him to pay the fees to the school directly[^7] and not to the Respondent.
 
 58     After having assessed the veracity of the Respondent’s credibility in relation to her testimony and the documents which she had produced during the hearings, the Court was of the view that there was no merit in the Appellant’s submission for him to not reimburse the payment of the 2 children’s school fees to the Respondent.
 
@@ -236,19 +237,19 @@ Total is $906 per month
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)See paragraph 18 of the Grounds of Decision in DCA 61 of 2018.
+[^1]: See paragraph 18 of the Grounds of Decision in DCA 61 of 2018.
 
-[\[note: 2\]](#Ftn_2_1)See page 6 of the Notes of Evidence of the hearing on Day 2 on 30th January 2019.
+[^2]: See page 6 of the Notes of Evidence of the hearing on Day 2 on 30th January 2019.
 
-[\[note: 3\]](#Ftn_3_1)See paragraph 25 of the Grounds of Decision in DCA 100 of 2018.
+[^3]: See paragraph 25 of the Grounds of Decision in DCA 100 of 2018.
 
-[\[note: 4\]](#Ftn_4_1)See pages 131 and 158 of the Notes of Evidence of the hearing on Day 3 on 7th March 2019.
+[^4]: See pages 131 and 158 of the Notes of Evidence of the hearing on Day 3 on 7th March 2019.
 
-[\[note: 5\]](#Ftn_5_1)See pages 74 and 75 of the Notes of Evidence of the hearing on Day 2 on 30th January 2019.
+[^5]: See pages 74 and 75 of the Notes of Evidence of the hearing on Day 2 on 30th January 2019.
 
-[\[note: 6\]](#Ftn_6_1)See paragraph 14 of the Grounds of Decision in DCA 61 of 2018.
+[^6]: See paragraph 14 of the Grounds of Decision in DCA 61 of 2018.
 
-[\[note: 7\]](#Ftn_7_1)See pages 54 to 58 of the Notes of Evidence of the hearing on Day 3 on 7th March 2019.
+[^7]: See pages 54 to 58 of the Notes of Evidence of the hearing on Day 3 on 7th March 2019.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23283-SSP.xml)

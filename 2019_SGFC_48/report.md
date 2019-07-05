@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # UVT _v_ UVU  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MSS 3009 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">29 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Sheik Mustafa</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">The Complainant appeared in person; Linda Ong &amp; Charmaine Lim (Engelin Teh Practice, LLC) - for the Respondent</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UVT — UVU</td></tr></tbody></table>
@@ -40,7 +41,7 @@ by the child before a parent neglected or refused to provide reasonable maintena
 
 (h)    the conduct of each of the parties to the marriage, if the conduct is such that it would in the opinion of the court be inequitable to disregard it.
 
-3       In the case of _TCT v TCU_[\[note: 1\]](#Ftn_1), the High Court ruled that due proof of neglect or refusal to provide reasonable maintenance for a child is required before the court would make an order against the parent in a section 69 application such as the present case.
+3       In the case of _TCT v TCU_[^1], the High Court ruled that due proof of neglect or refusal to provide reasonable maintenance for a child is required before the court would make an order against the parent in a section 69 application such as the present case.
 
 “The legal threshold is specified in section 69 simply because parties are not yet before the court. The section thus provides the specific criteria to found the Court’s jurisdiction. In a s 113(a) \[of the Women’s Charter\] application, there is no need to specify any criteria to allow a litigant to file the application, because the court is already seised of the suit. However, simply because a suit lies in its jurisdiction does not necessitate that the Court should go on and regulate the lives of parties with a lower threshold. The premise of need ought to still be there, in line with Parliament’s intentions in 1981, and the High Court’s previous interpretation in _Sengol_.”
 
@@ -172,7 +173,7 @@ d.     In any event, an agreement to maintain a child under section 69 does
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1).
+[^1]: .
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23114-SSP.xml)
