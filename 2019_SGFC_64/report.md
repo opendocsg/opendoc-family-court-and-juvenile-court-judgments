@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # UXH _v_ UXI  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">FC/D 708/2015 (FC/SUM 237/2019)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">17 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chia Wee Kiat</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Shereen Goklani and Gloria James-Civetta (Gloria James-Civetta) for the Plaintiff; Koh Tien Hua and Shaun Ho (Eversheds Harry Elias) for the Defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UXH — UXI</td></tr></tbody></table>
@@ -12,7 +13,7 @@ Family law – Relocation
 
 1       The Plaintiff shall be referred to as the “Mother” and the Defendant shall be referred to as the “Father”. In the main, this is an application filed by the Mother under FC/SUM 237/2019 (“SUM 237”) to be granted “leave of court to leave the jurisdiction of Singapore permanently with the children of the marriage by a date to be determined by the court and in any event no later than July 2019 to settle on a permanent basis in Danbury or its surroundings, in Chelmsford, United Kingdom (“UK”)”. The circumstances leading up to this application are briefly as follows.
 
-2       The parties are Portuguese citizens and both hold Singapore Permanent Residency. The Mother is 38 years old while the Father is 40 years old. They have been resident in Singapore since 2008 and became Singapore Permanent Residents (“PRs”) in 2011.[\[note: 1\]](#Ftn_1) They have two children to the marriage, a boy aged 6 and a girl who turns 11 in June. In this judgment, I shall refer to them as Xavier and Yvette (not their real names) respectively. The children are Portuguese citizens and Singapore PRs. They were born in Singapore and have lived here all their lives. Yvette is in Year 6 whilst Xavier is in Year 1 in an international school in Singapore.
+2       The parties are Portuguese citizens and both hold Singapore Permanent Residency. The Mother is 38 years old while the Father is 40 years old. They have been resident in Singapore since 2008 and became Singapore Permanent Residents (“PRs”) in 2011.[^1] They have two children to the marriage, a boy aged 6 and a girl who turns 11 in June. In this judgment, I shall refer to them as Xavier and Yvette (not their real names) respectively. The children are Portuguese citizens and Singapore PRs. They were born in Singapore and have lived here all their lives. Yvette is in Year 6 whilst Xavier is in Year 1 in an international school in Singapore.
 
 3       The Father has a successful career in an architecture firm where he has worked for over 10 years and has risen to the position of Executive Principal. The Mother is also an architect by profession.
 
@@ -24,13 +25,13 @@ Family law – Relocation
 
 In the event of a possible relocation by either party, the Plaintiff and the Defendant agree that parties will mutually discuss and come to a mutual consensus and/or agreement of the same taking the children’s welfare as paramount consideration.
 
-7       Both parties have moved on in their lives and formed new relationships. The Mother has a partner \[“A”\] who is British. According to the Mother, A has lived with the Mother and the children since October 2017 and shares “a beautiful and strong bond” with the children.[\[note: 2\]](#Ftn_2) A has two daughters aged 14 years and 10 years respectively who are residing in Chelmsford, UK. A’s daughters have met Xavier and Yvette on several occasions over the years during the occasional school holidays and summer breaks. Xavier and Yvette have developed a close bond with A’s daughters. The Mother and A have decided to relocate to the UK. The Mother intends to marry A in Spring-Summer 2020 and hopes for a new beginning for the children.[\[note: 3\]](#Ftn_3)
+7       Both parties have moved on in their lives and formed new relationships. The Mother has a partner \[“A”\] who is British. According to the Mother, A has lived with the Mother and the children since October 2017 and shares “a beautiful and strong bond” with the children.[^2] A has two daughters aged 14 years and 10 years respectively who are residing in Chelmsford, UK. A’s daughters have met Xavier and Yvette on several occasions over the years during the occasional school holidays and summer breaks. Xavier and Yvette have developed a close bond with A’s daughters. The Mother and A have decided to relocate to the UK. The Mother intends to marry A in Spring-Summer 2020 and hopes for a new beginning for the children.[^3]
 
 8       The Father has a partner \[“B”\] who owns her own media company. According to the Father, the children share a close relationship with B who thinks of them as her own children. Since 1 January 2019, the Father has moved in to live with B in her three-room condominium on account of his firm intention to establish a life with B on a more permanent basis. B has two daughters who share a close bond with Xavier and Yvette.
 
 9       The Mother filed SUM 237 on 18 January 2019. Prior to the filing of the application, the Mother had asked the Father in August 2018 if he was agreeable to the children relocating to the UK with her. Unfortunately, the parties were unable to come to a consensus on this matter. In light of the Father’s objection to the relocation, the Mother proceeded to take out the present application.
 
-10     The application was heard before me on 22 May 2019. In her supporting affidavit, the Mother had alluded to the family’s apprehensions about Xavier having to serve national service (“NS”) in Singapore. According to the Mother, the family had intended to leave Singapore before Xavier turns 11 years old before he gets called up for NS.[\[note: 4\]](#Ftn_4) The Father disputes this assertion. According to the Father, Xavier will not be exempted from NS just because he leaves Singapore before the age of 11. Moreover, the Father is proud to see Xavier undergo NS when that time comes.[\[note: 5\]](#Ftn_5)
+10     The application was heard before me on 22 May 2019. In her supporting affidavit, the Mother had alluded to the family’s apprehensions about Xavier having to serve national service (“NS”) in Singapore. According to the Mother, the family had intended to leave Singapore before Xavier turns 11 years old before he gets called up for NS.[^4] The Father disputes this assertion. According to the Father, Xavier will not be exempted from NS just because he leaves Singapore before the age of 11. Moreover, the Father is proud to see Xavier undergo NS when that time comes.[^5]
 
 11     I reserved my decision upon confirmation from counsel for the Mother that she would seek the necessary clarification with regard to Xavier’s NS requirements. Although this is only one of the matters to be taken into consideration, it is important for the issue to be clarified so that the correct fact is properly presented to the court. Moreover, important decisions affecting children should not be based on erroneous assumptions, especially on a matter as serious as relocation.
 
@@ -54,31 +55,31 @@ The legal principle guiding the courts in relocation applications in Singapore i
 
 ## The Mother’s application
 
-18     The Mother submits that it is in the children’s best interests to be relocated with her to the UK in July 2019.[\[note: 6\]](#Ftn_6) These are the key points from the Mother’s written submissions:
+18     The Mother submits that it is in the children’s best interests to be relocated with her to the UK in July 2019.[^6] These are the key points from the Mother’s written submissions:
 
-(a)     Firstly, the parties had never considered Singapore as their permanent home, and that relocation to another country was always a long-term intention.[\[note: 7\]](#Ftn_7)
+(a)     Firstly, the parties had never considered Singapore as their permanent home, and that relocation to another country was always a long-term intention.[^7]
 
-(b)     Secondly, the Mother has planned and informed the Father of the relocation since August 2018. The Mother has spent extensive time and effort to plan for the relocation to the UK, supported by her extensive research done regarding the family’s accommodation, children’s school and co-curricular activities.[\[note: 8\]](#Ftn_8) The children are now both confirmed and enrolled in the UK schools.[\[note: 9\]](#Ftn_9)
+(b)     Secondly, the Mother has planned and informed the Father of the relocation since August 2018. The Mother has spent extensive time and effort to plan for the relocation to the UK, supported by her extensive research done regarding the family’s accommodation, children’s school and co-curricular activities.[^8] The children are now both confirmed and enrolled in the UK schools.[^9]
 
-(c)     Thirdly, it would be in the children’s utmost interests to relocate in July 2019, for the reason that the children will be commencing their formal Primary and Secondary education in the UK in September 2019 at the start of the Academic Year 2019/2020, and when the children finish their school term in Singapore. The extra month would provide some buffer for the children to acclimatize to the environment and also enable the Father to visit the children if he wants to.[\[note: 10\]](#Ftn_10) Relocation will be increasingly difficult as the children grow older as they would have deeper ties in Singapore, which will make it more difficult for them to adjust and fit in with the new environment.[\[note: 11\]](#Ftn_11) This is a one-off relocation and not an interim move, as the Mother’s intent is to have the children attend senior school and university in the UK.[\[note: 12\]](#Ftn_12)
+(c)     Thirdly, it would be in the children’s utmost interests to relocate in July 2019, for the reason that the children will be commencing their formal Primary and Secondary education in the UK in September 2019 at the start of the Academic Year 2019/2020, and when the children finish their school term in Singapore. The extra month would provide some buffer for the children to acclimatize to the environment and also enable the Father to visit the children if he wants to.[^10] Relocation will be increasingly difficult as the children grow older as they would have deeper ties in Singapore, which will make it more difficult for them to adjust and fit in with the new environment.[^11] This is a one-off relocation and not an interim move, as the Mother’s intent is to have the children attend senior school and university in the UK.[^12]
 
-(d)     Fourthly, the Mother has always been the only one involved in the evaluation and selection of the children’s schools in Singapore. The Mother spent extensive time and effort in the last two years, planning for the children’s smooth and practical relocation to the UK.[\[note: 13\]](#Ftn_13) The children’s education in the UK is cheaper than the children’s current education in Singapore.[\[note: 14\]](#Ftn_14) The children’s first language is English and they are not likely to have difficulties adjusting to the language spoken in the UK. As the children have always been in the international school in Singapore, it is not likely that there will be issues adjusting to schooling in the UK.[\[note: 15\]](#Ftn_15)
+(d)     Fourthly, the Mother has always been the only one involved in the evaluation and selection of the children’s schools in Singapore. The Mother spent extensive time and effort in the last two years, planning for the children’s smooth and practical relocation to the UK.[^13] The children’s education in the UK is cheaper than the children’s current education in Singapore.[^14] The children’s first language is English and they are not likely to have difficulties adjusting to the language spoken in the UK. As the children have always been in the international school in Singapore, it is not likely that there will be issues adjusting to schooling in the UK.[^15]
 
-(e)     Fifthly, the children have never integrated with the local community in any way, nor have they assumed the culture of the country.[\[note: 16\]](#Ftn_16) The children are aware that they are Portuguese citizens and their roots that the Mother and their grandparents share with them. All of the children’s friends have been expatriates and hence they are likely to find a closer connection with the European culture than Singapore’s culture.[\[note: 17\]](#Ftn_17)
+(e)     Fifthly, the children have never integrated with the local community in any way, nor have they assumed the culture of the country.[^16] The children are aware that they are Portuguese citizens and their roots that the Mother and their grandparents share with them. All of the children’s friends have been expatriates and hence they are likely to find a closer connection with the European culture than Singapore’s culture.[^17]
 
-(f)     Sixthly, the Mother has secured a location for the family to live at Danbury, UK in a spacious 5-bedroom house. The location is well connected to London for the Father’s and their relatives’ visits, and the children’s easy access to their schools from the home.[\[note: 18\]](#Ftn_18)
+(f)     Sixthly, the Mother has secured a location for the family to live at Danbury, UK in a spacious 5-bedroom house. The location is well connected to London for the Father’s and their relatives’ visits, and the children’s easy access to their schools from the home.[^18]
 
-(g)     Seventhly, the children will have an extensive support network in the UK, closer in proximity than in Singapore. The children will have extended family in Essex in the UK where A’s mother, sister and daughters live.[\[note: 19\]](#Ftn_19) The Mother plans to bring the children to visit Portugal more frequently as it is only a 3-hour flight away from the UK. The grandparents and relatives are also highly likely to visit and live with the Mother. As citizens of the European Union (“EU”) countries, they are able to live in the UK with the Mother for extended periods of time than they are able to in Singapore.[\[note: 20\]](#Ftn_20)
+(g)     Seventhly, the children will have an extensive support network in the UK, closer in proximity than in Singapore. The children will have extended family in Essex in the UK where A’s mother, sister and daughters live.[^19] The Mother plans to bring the children to visit Portugal more frequently as it is only a 3-hour flight away from the UK. The grandparents and relatives are also highly likely to visit and live with the Mother. As citizens of the European Union (“EU”) countries, they are able to live in the UK with the Mother for extended periods of time than they are able to in Singapore.[^20]
 
-(h)     Eighthly, the Mother intends to bring the helper \[“C”\] who has been consistently present in the children’s lives. This will ensure continuity and familiarity in the children’s lives. [\[note: 21\]](#Ftn_21)
+(h)     Eighthly, the Mother intends to bring the helper \[“C”\] who has been consistently present in the children’s lives. This will ensure continuity and familiarity in the children’s lives. [^21]
 
-(i)     Ninthly, the Mother has a good employment history and the company is supportive of her relocation to the UK with the children. She was told that she would maintain her position in the same company in the UK and be given flexible work arrangements to work from home in the UK if they relocate.[\[note: 22\]](#Ftn_22) This would be ideal for the children as they will be able to benefit from the Mother staying at home for them to adjust to the UK.[\[note: 23\]](#Ftn_23)
+(i)     Ninthly, the Mother has a good employment history and the company is supportive of her relocation to the UK with the children. She was told that she would maintain her position in the same company in the UK and be given flexible work arrangements to work from home in the UK if they relocate.[^22] This would be ideal for the children as they will be able to benefit from the Mother staying at home for them to adjust to the UK.[^23]
 
-(j)     Finally, there will not be a loss of relationship between the children and the Father.[\[note: 24\]](#Ftn_24) The Mother has been the primary care giver of the children since their birth.[\[note: 25\]](#Ftn_25) In contrast, the Father has been uninvolved with the children since their birth because he had always prioritised his work above family and the children.[\[note: 26\]](#Ftn_26) Even if the relocation application is denied, the Father is unable to provide for the daily care arrangements for the children.[\[note: 27\]](#Ftn_27) Although the Father may see less of the children if they move to the UK, they could still maintain a positive and loving relationship through a combination of physical and remote access.[\[note: 28\]](#Ftn_28) The Mother proposes that there is liberal access and there is an increase in access time available for the Father.[\[note: 29\]](#Ftn_29) The Father travels frequently for work purposes and it takes him to Europe. As an Executive Principal, he exercises substantial control over his work and projects involved, work hours and flights. Also, the Father is Portuguese and returns to visit Portugal. He will be able to visit the UK from Portugal.[\[note: 30\]](#Ftn_30) Additionally, the children are used to using technology to contact the Father. They have been using their iPads and phones to contact their Father. This form of communication is not new to them and would merely continue in the UK should the relocation be granted.[\[note: 31\]](#Ftn_31) Further, the Mother has always supported the Father’s access to the children.[\[note: 32\]](#Ftn_32)
+(j)     Finally, there will not be a loss of relationship between the children and the Father.[^24] The Mother has been the primary care giver of the children since their birth.[^25] In contrast, the Father has been uninvolved with the children since their birth because he had always prioritised his work above family and the children.[^26] Even if the relocation application is denied, the Father is unable to provide for the daily care arrangements for the children.[^27] Although the Father may see less of the children if they move to the UK, they could still maintain a positive and loving relationship through a combination of physical and remote access.[^28] The Mother proposes that there is liberal access and there is an increase in access time available for the Father.[^29] The Father travels frequently for work purposes and it takes him to Europe. As an Executive Principal, he exercises substantial control over his work and projects involved, work hours and flights. Also, the Father is Portuguese and returns to visit Portugal. He will be able to visit the UK from Portugal.[^30] Additionally, the children are used to using technology to contact the Father. They have been using their iPads and phones to contact their Father. This form of communication is not new to them and would merely continue in the UK should the relocation be granted.[^31] Further, the Mother has always supported the Father’s access to the children.[^32]
 
 ## The Father’s objections
 
-19     The Father’s objections, as set out in his written submissions, are based on the following grounds:[\[note: 33\]](#Ftn_33)
+19     The Father’s objections, as set out in his written submissions, are based on the following grounds:[^33]
 
 (a)     The Mother has not given any good reason for her desire to relocate; and
 
@@ -86,41 +87,41 @@ The legal principle guiding the courts in relocation applications in Singapore i
 
 20     With respect to the first ground, the Father submits as follows:
 
-(a)     The Mother is not a trailing expatriate wife attempting to relocate back home – she is asking to relocate to the UK, whereas her country of origin is Portugal;[\[note: 34\]](#Ftn_34)
+(a)     The Mother is not a trailing expatriate wife attempting to relocate back home – she is asking to relocate to the UK, whereas her country of origin is Portugal;[^34]
 
-(b)     The Mother is a capable employee herself and is not a trailing homemaker. She is not relocating because she lost her job in Singapore;[\[note: 35\]](#Ftn_35)
+(b)     The Mother is a capable employee herself and is not a trailing homemaker. She is not relocating because she lost her job in Singapore;[^35]
 
-(c)     The Mother’s affidavits are not clear as to why she wants to relocate with the children. She has not explicitly stated any particular reason for her relocation;[\[note: 36\]](#Ftn_36)
+(c)     The Mother’s affidavits are not clear as to why she wants to relocate with the children. She has not explicitly stated any particular reason for her relocation;[^36]
 
-(d)     There is nothing in the Mother’s evidence to suggest that there has been a “transference of the Mother’s insecurity and negative feelings onto the child” unless she relocates;[\[note: 37\]](#Ftn_37)
+(d)     There is nothing in the Mother’s evidence to suggest that there has been a “transference of the Mother’s insecurity and negative feelings onto the child” unless she relocates;[^37]
 
-(e)     The Mother’s omission to state any reason for her desire to relocate is fatal to her case;[\[note: 38\]](#Ftn_38)
+(e)     The Mother’s omission to state any reason for her desire to relocate is fatal to her case;[^38]
 
-(f)     If the Mother’s wish to relocate is to be with her new partner, this is not a reasonable wish to relocate.[\[note: 39\]](#Ftn_39) Firstly, the Mother is not married to A or even engaged to him. Secondly, even if the Mother is engaged to A, the question remains as to why she has to relocate with A to the UK. No explanation has been given as to why A is moving to the UK.[\[note: 40\]](#Ftn_40) The lack of details pertaining to A’s intended relocation to the UK means that the Mother has failed to discharge her burden of proof.[\[note: 41\]](#Ftn_41) It suggests that the move to the UK is by choice, not by compulsion;[\[note: 42\]](#Ftn_42)
+(f)     If the Mother’s wish to relocate is to be with her new partner, this is not a reasonable wish to relocate.[^39] Firstly, the Mother is not married to A or even engaged to him. Secondly, even if the Mother is engaged to A, the question remains as to why she has to relocate with A to the UK. No explanation has been given as to why A is moving to the UK.[^40] The lack of details pertaining to A’s intended relocation to the UK means that the Mother has failed to discharge her burden of proof.[^41] It suggests that the move to the UK is by choice, not by compulsion;[^42]
 
-(g)     If the Mother is relocating purely because she desires that the children study in the UK, this is also not a reasonable wish.[\[note: 43\]](#Ftn_43) The Mother has cited no strong ground for why the children ought to be educated overseas.[\[note: 44\]](#Ftn_44) She has not explained why the children will do better in the UK than in Singapore.[\[note: 45\]](#Ftn_45) The children are in fact thriving in Singapore.[\[note: 46\]](#Ftn_46) The children have been educated in Singapore for the entirety of their lives and have benefited from the high quality of education in Singapore. Singapore’s education system has been consistently ranked highly in the world, in contrast to the UK. The children have performed very well academically and the Mother has not shown that the UK schools provide further benefit that the children’s school in Singapore currently does not offer;[\[note: 47\]](#Ftn_47) and
+(g)     If the Mother is relocating purely because she desires that the children study in the UK, this is also not a reasonable wish.[^43] The Mother has cited no strong ground for why the children ought to be educated overseas.[^44] She has not explained why the children will do better in the UK than in Singapore.[^45] The children are in fact thriving in Singapore.[^46] The children have been educated in Singapore for the entirety of their lives and have benefited from the high quality of education in Singapore. Singapore’s education system has been consistently ranked highly in the world, in contrast to the UK. The children have performed very well academically and the Mother has not shown that the UK schools provide further benefit that the children’s school in Singapore currently does not offer;[^47] and
 
-(h)     As the Mother has not shown cogent reasons for wanting to relocate, her intention to relocate is a matter of her personal preference and not made in the best interests of the children.[\[note: 48\]](#Ftn_48)
+(h)     As the Mother has not shown cogent reasons for wanting to relocate, her intention to relocate is a matter of her personal preference and not made in the best interests of the children.[^48]
 
 21     With respect to the second ground, the Father submits as follows:
 
-(a)     Neither party disputes that the other is unable to discharge their roles as parents. [\[note: 49\]](#Ftn_49) By and large, parties are both able to provide for the children’s physical and emotional needs. This is evidenced by the rather balanced lifestyles that the children enjoy outside of school, during the time spent with both parents;[\[note: 50\]](#Ftn_50)
+(a)     Neither party disputes that the other is unable to discharge their roles as parents. [^49] By and large, parties are both able to provide for the children’s physical and emotional needs. This is evidenced by the rather balanced lifestyles that the children enjoy outside of school, during the time spent with both parents;[^50]
 
-(b)     The Mother has not provided any evidence of actually having secured employment in the UK even though she claims that her current company is supportive of her decision to relocate. The Mother has no experience in the UK property market and there is a considerable amount of uncertainty in the UK due to Brexit. The mother cannot say with any certainty that her circumstances in the UK are stable at all;[\[note: 51\]](#Ftn_51)
+(b)     The Mother has not provided any evidence of actually having secured employment in the UK even though she claims that her current company is supportive of her decision to relocate. The Mother has no experience in the UK property market and there is a considerable amount of uncertainty in the UK due to Brexit. The mother cannot say with any certainty that her circumstances in the UK are stable at all;[^51]
 
-(c)     The Mother does not have any support network in the UK. The Mother’s only sibling, her sister, currently lives in Singapore (in the same condominium as the Mother) with her family. The Mother’s mother had passed away in 2017, and the Mother’s father has been spending extended periods of time in Singapore since her mother passed away. The Mother claims to have a support network from Portugal in the form of her extended family. However, she has been silent as to who the members of her “extended family” are and who would be able to assist in supporting her. Even if the “extended family” reside in Portugal, they are still a 3-hour flight away from the UK;[\[note: 52\]](#Ftn_52) and
+(c)     The Mother does not have any support network in the UK. The Mother’s only sibling, her sister, currently lives in Singapore (in the same condominium as the Mother) with her family. The Mother’s mother had passed away in 2017, and the Mother’s father has been spending extended periods of time in Singapore since her mother passed away. The Mother claims to have a support network from Portugal in the form of her extended family. However, she has been silent as to who the members of her “extended family” are and who would be able to assist in supporting her. Even if the “extended family” reside in Portugal, they are still a 3-hour flight away from the UK;[^52] and
 
-(d)     The Mother has not married A. Should her relationship with A unfortunately come to an end, the Mother does not have a support network of her own, to provide her assistance in caring for the children’s physical and emotional needs. In contrast, the Father has a strong support network in Singapore who will be able to assist the parties in the event of emergencies.[\[note: 53\]](#Ftn_53)
+(d)     The Mother has not married A. Should her relationship with A unfortunately come to an end, the Mother does not have a support network of her own, to provide her assistance in caring for the children’s physical and emotional needs. In contrast, the Father has a strong support network in Singapore who will be able to assist the parties in the event of emergencies.[^53]
 
-22     Aside from the above, the Father highlights that the children currently benefit from being part of two loving family units in Singapore.[\[note: 54\]](#Ftn_54) Whilst the Father has not sought to deny the Mother’s contributions in terms of her caregiving, the Father asserts that the Mother has gone to great lengths in her affidavit to cast aspersions on the Father’s caregiving and involvement in the children’s lives.[\[note: 55\]](#Ftn_55) The Father emphasises that the children share a strong relationship with him.[\[note: 56\]](#Ftn_56)
+22     Aside from the above, the Father highlights that the children currently benefit from being part of two loving family units in Singapore.[^54] Whilst the Father has not sought to deny the Mother’s contributions in terms of her caregiving, the Father asserts that the Mother has gone to great lengths in her affidavit to cast aspersions on the Father’s caregiving and involvement in the children’s lives.[^55] The Father emphasises that the children share a strong relationship with him.[^56]
 
-23     According to the Father, the only feasible form of recurring access between the children and the Father is remote access in the event that relocation is granted. The Mother proposes for the Father to have daily Facetime/Skype/phone access during weekdays from 7.15 – 7.30 am (UK time). The Father points out that this translates to around 2.15 – 2.30 pm in Singapore, which is right in the middle of a working day.[\[note: 57\]](#Ftn_57) The quality of access between the children and the Father will be severely compromised.[\[note: 58\]](#Ftn_58) The Mother’s proposal for the Father to have a total of five weeks per year to exercise physical access is also unfeasible. In order to exercise his physical access, the Father would have to take around 30 to 35 days of leave each year, which is more than the 25 days of leave he is entitled to.[\[note: 59\]](#Ftn_59) Relocation will leave the Father with severely curtailed access to the children, which will erode the strength of the relationship and bonds that the children and the Father share presently.[\[note: 60\]](#Ftn_60)
+23     According to the Father, the only feasible form of recurring access between the children and the Father is remote access in the event that relocation is granted. The Mother proposes for the Father to have daily Facetime/Skype/phone access during weekdays from 7.15 – 7.30 am (UK time). The Father points out that this translates to around 2.15 – 2.30 pm in Singapore, which is right in the middle of a working day.[^57] The quality of access between the children and the Father will be severely compromised.[^58] The Mother’s proposal for the Father to have a total of five weeks per year to exercise physical access is also unfeasible. In order to exercise his physical access, the Father would have to take around 30 to 35 days of leave each year, which is more than the 25 days of leave he is entitled to.[^59] Relocation will leave the Father with severely curtailed access to the children, which will erode the strength of the relationship and bonds that the children and the Father share presently.[^60]
 
-24     Furthermore, the Father has no confidence that the Mother will facilitate any form of access even with a court order. He cites two examples where the Mother had allegedly breached the consent order.[\[note: 61\]](#Ftn_61) The Father alleges that the Mother has not been generous with access[\[note: 62\]](#Ftn_62) and has exhibited a propensity of disrupting the Father’s access.[\[note: 63\]](#Ftn_63)
+24     Furthermore, the Father has no confidence that the Mother will facilitate any form of access even with a court order. He cites two examples where the Mother had allegedly breached the consent order.[^61] The Father alleges that the Mother has not been generous with access[^62] and has exhibited a propensity of disrupting the Father’s access.[^63]
 
-25     The Father highlights that he has consistently taken the position that relocation was only a last resort if both parties could no longer be gainfully employed in Singapore and had no choice but seek employment elsewhere to support the family. The plan was always for the family to relocate together and this plan has not changed even though the marriage has broken down and parties are living separate lives.[\[note: 64\]](#Ftn_64)
+25     The Father highlights that he has consistently taken the position that relocation was only a last resort if both parties could no longer be gainfully employed in Singapore and had no choice but seek employment elsewhere to support the family. The plan was always for the family to relocate together and this plan has not changed even though the marriage has broken down and parties are living separate lives.[^64]
 
-26     The Father points out that the children have resided in Singapore since their birth and this is the only home they have known. The children have firmly embraced the local culture and have vastly assimilated through cultural experiences. The children relish in Asian cuisines and have actively taken part in traditional customs such as dressing up for Chinese New Year celebrations.[\[note: 65\]](#Ftn_65) The children have no ties at all whatsoever to the UK[\[note: 66\]](#Ftn_66). The UK is certain of leaving the EU and when Brexit occurs, it is likely that neither the Mother nor the children will have a right of abode in the UK as they are not UK citizens.[\[note: 67\]](#Ftn_67) If the Mother loses her right of abode in the UK, there is no guarantee that she will be able to return to Singapore and the risk applies similarly to the children.[\[note: 68\]](#Ftn_68) Relocation to the UK would create very significant disruption to the children’s lives, for no apparent benefit to them.[\[note: 69\]](#Ftn_69)
+26     The Father points out that the children have resided in Singapore since their birth and this is the only home they have known. The children have firmly embraced the local culture and have vastly assimilated through cultural experiences. The children relish in Asian cuisines and have actively taken part in traditional customs such as dressing up for Chinese New Year celebrations.[^65] The children have no ties at all whatsoever to the UK[^66]. The UK is certain of leaving the EU and when Brexit occurs, it is likely that neither the Mother nor the children will have a right of abode in the UK as they are not UK citizens.[^67] If the Mother loses her right of abode in the UK, there is no guarantee that she will be able to return to Singapore and the risk applies similarly to the children.[^68] Relocation to the UK would create very significant disruption to the children’s lives, for no apparent benefit to them.[^69]
 
 ## Principles on Relocation
 
@@ -140,37 +141,37 @@ There is no presumption in favour of allowing relocation where the primary careg
 
 30     The Father has asserted that it is not clear why the Mother wants to relocate with the children. Since the grounds of the application are stated in the Mother’s affidavit dated 18 January 2019 filed with the summons (“supporting affidavit”), I shall begin by examining the supporting affidavit.
 
-31     In her supporting affidavit, the Mother states that she had asked the Father in August 2018 if he was agreeable to the children relocating to the UK with her. She explained to the Father that parties were in agreement that Singapore would always be temporary and as such presented to him that both she and A were considering to relocate. The Mother asked the Father whether he had plans to relocate in the near future and the Father indicated that he had no set plans. According to the Mother, the Father objected to the relocation on the basis of him wanting to be close to the children regardless of how positive and beneficial the UK would be for their upbringing.[\[note: 70\]](#Ftn_70) In the ensuing part of the supporting affidavit, the Mother went on to explain why relocation to the UK is in the children’s best interests.[\[note: 71\]](#Ftn_71) The Mother also discloses that she and A have since secured the tenancy of a 4-bedroom detached house in Danbury, Chelmsford.[\[note: 72\]](#Ftn_72)
+31     In her supporting affidavit, the Mother states that she had asked the Father in August 2018 if he was agreeable to the children relocating to the UK with her. She explained to the Father that parties were in agreement that Singapore would always be temporary and as such presented to him that both she and A were considering to relocate. The Mother asked the Father whether he had plans to relocate in the near future and the Father indicated that he had no set plans. According to the Mother, the Father objected to the relocation on the basis of him wanting to be close to the children regardless of how positive and beneficial the UK would be for their upbringing.[^70] In the ensuing part of the supporting affidavit, the Mother went on to explain why relocation to the UK is in the children’s best interests.[^71] The Mother also discloses that she and A have since secured the tenancy of a 4-bedroom detached house in Danbury, Chelmsford.[^72]
 
 32     It is clear from the above that the Mother’s wish to relocate is a decision taken with her partner. The question that arises is whether the wish is reasonable and compatible with the interests of the children.
 
-33     As noted in _TAA_, in many cases where relocation was permitted, the circumstances under which the applications were made were rather dire. An example cited was the case of _AZB v AYZ_ (“_AZB_”). In _AZB_, the High Court was of the view that the wife’s decision to relocate back to the US was “perfectly understandable and eminently reasonable”.[\[note: 73\]](#Ftn_73) Amongst other things, the court noted that the wife, a 49-year-old American, felt alienated and isolated in Singapore which compelled her to be heavily reliant on her Malaysian husband despite the breakdown in their relationship.[\[note: 74\]](#Ftn_74) The family had been living in Singapore since January 2005, having lived in Malaysia and San Francisco before that. The wealthy husband had adamantly refused to support her application to become a PR ostensibly because she would not be able to drive a cheaper Malaysian registered car in Singapore if she became a PR.[\[note: 75\]](#Ftn_75) The husband was not only keenly aware of the wife’s vulnerability and insecurities, but had sought to exploit it to his advantage.[\[note: 76\]](#Ftn_76) The problem was exacerbated by the fact that she was married to an extremely rich and allegedly influential man whilst she had no family members or close friends in Singapore to act as a support group for her.[\[note: 77\]](#Ftn_77) The court found that the wife’s decision to relocate back to Illinois would enable her to get the support she needed to move on from the messy breakdown of her marriage.[\[note: 78\]](#Ftn_78)
+33     As noted in _TAA_, in many cases where relocation was permitted, the circumstances under which the applications were made were rather dire. An example cited was the case of _AZB v AYZ_ (“_AZB_”). In _AZB_, the High Court was of the view that the wife’s decision to relocate back to the US was “perfectly understandable and eminently reasonable”.[^73] Amongst other things, the court noted that the wife, a 49-year-old American, felt alienated and isolated in Singapore which compelled her to be heavily reliant on her Malaysian husband despite the breakdown in their relationship.[^74] The family had been living in Singapore since January 2005, having lived in Malaysia and San Francisco before that. The wealthy husband had adamantly refused to support her application to become a PR ostensibly because she would not be able to drive a cheaper Malaysian registered car in Singapore if she became a PR.[^75] The husband was not only keenly aware of the wife’s vulnerability and insecurities, but had sought to exploit it to his advantage.[^76] The problem was exacerbated by the fact that she was married to an extremely rich and allegedly influential man whilst she had no family members or close friends in Singapore to act as a support group for her.[^77] The court found that the wife’s decision to relocate back to Illinois would enable her to get the support she needed to move on from the messy breakdown of her marriage.[^78]
 
-34     The present case does not fall within the category of such cases. The Mother has resided in Singapore for over a decade and is a Singapore PR. She is a successful career woman in her own right[\[note: 79\]](#Ftn_79) and clearly valued by her employer, as is evident by the employer’s support of her decision to relocate to the UK and willingness to accommodate her request to work from home.[\[note: 80\]](#Ftn_80) She lives the life of an expatriate[\[note: 81\]](#Ftn_81), having previously worked in Macau, China for four years from January 2004 to January 2008 before relocating to Singapore.[\[note: 82\]](#Ftn_82) Although her marriage to the Father has ended, the parties have been able to maintain a positive co-parenting relationship post-divorce. It is clear from her affidavits that the Mother is fully aware of the benefits of providing good access and communications to the Father and she has supported and encouraged this since the divorce in 2015.[\[note: 83\]](#Ftn_83) According to the Mother, she would always make it a point to extend an invitation to the Father during birthday parties and family events so that the latter is included and the children are not affected.[\[note: 84\]](#Ftn_84)
+34     The present case does not fall within the category of such cases. The Mother has resided in Singapore for over a decade and is a Singapore PR. She is a successful career woman in her own right[^79] and clearly valued by her employer, as is evident by the employer’s support of her decision to relocate to the UK and willingness to accommodate her request to work from home.[^80] She lives the life of an expatriate[^81], having previously worked in Macau, China for four years from January 2004 to January 2008 before relocating to Singapore.[^82] Although her marriage to the Father has ended, the parties have been able to maintain a positive co-parenting relationship post-divorce. It is clear from her affidavits that the Mother is fully aware of the benefits of providing good access and communications to the Father and she has supported and encouraged this since the divorce in 2015.[^83] According to the Mother, she would always make it a point to extend an invitation to the Father during birthday parties and family events so that the latter is included and the children are not affected.[^84]
 
 35     Although the Mother is in a relationship with A, she acknowledges that A will never replace the Father as the children’s father:
 
-Whilst \[A\] will never replace the Defendant as their father he is no doubt a very loved male figure that supports me on principles and the children’s mindfulness, at our home for the past 1.5 years. The Defendant needs to accept that he has moved on and so did I. [\[note: 85\]](#Ftn_85)
+Whilst \[A\] will never replace the Defendant as their father he is no doubt a very loved male figure that supports me on principles and the children’s mindfulness, at our home for the past 1.5 years. The Defendant needs to accept that he has moved on and so did I. [^85]
 
 36     In her relocation plan, the Mother states further as follows:
 
-I will do my utmost to ensure that the Defendant continues to enjoy and maintain a close and meaningful relationship with the children despite the long distance as I understand a father’s love can never be replaced and that \[Xavier\] especially will require a father figure in his life.[\[note: 86\]](#Ftn_86)
+I will do my utmost to ensure that the Defendant continues to enjoy and maintain a close and meaningful relationship with the children despite the long distance as I understand a father’s love can never be replaced and that \[Xavier\] especially will require a father figure in his life.[^86]
 
-37     From the accounts given by the Father and the Mother, the children are happy and well-adjusted. They enjoy going to school and the times they share with each parent[\[note: 87\]](#Ftn_87), including going on holidays to Portugal and the UK.[\[note: 88\]](#Ftn_88) During access times, the children have fun and games, play-time and overseas trips with the Father.[\[note: 89\]](#Ftn_89) The ability of both parents to move beyond past hurts and build a new post-divorce relationship that is nurturing and loving for the children is commendable indeed.
+37     From the accounts given by the Father and the Mother, the children are happy and well-adjusted. They enjoy going to school and the times they share with each parent[^87], including going on holidays to Portugal and the UK.[^88] During access times, the children have fun and games, play-time and overseas trips with the Father.[^89] The ability of both parents to move beyond past hurts and build a new post-divorce relationship that is nurturing and loving for the children is commendable indeed.
 
-38     Both the Mother and the Father have found new partners. The children get along with the adults and their children. In caregiving, the Mother is assisted by the helper C who has been with her for four years. The children have grown fond of C and see her as part of the family.[\[note: 90\]](#Ftn_90) The Mother’s sister, along with her brother-in-law and only niece, are living in the same condominium as the Mother. They have been residing in Singapore since 2012.[\[note: 91\]](#Ftn_91) Since the demise of her mother in March 2017, the father has visited the Mother for an extended period of time.[\[note: 92\]](#Ftn_92)
+38     Both the Mother and the Father have found new partners. The children get along with the adults and their children. In caregiving, the Mother is assisted by the helper C who has been with her for four years. The children have grown fond of C and see her as part of the family.[^90] The Mother’s sister, along with her brother-in-law and only niece, are living in the same condominium as the Mother. They have been residing in Singapore since 2012.[^91] Since the demise of her mother in March 2017, the father has visited the Mother for an extended period of time.[^92]
 
-39     By all account, the Mother is doing well. She is a capable woman who has manged to find a balance between her career and her children’s needs.[\[note: 93\]](#Ftn_93) Her main unhappiness, in her own words, are as follows:
+39     By all account, the Mother is doing well. She is a capable woman who has manged to find a balance between her career and her children’s needs.[^93] Her main unhappiness, in her own words, are as follows:
 
-I note that the Defendant himself has plans to relocate and to be “closer to home” in the future albeit no definite strategy or plan has been shared. It is unlikely our timings and job opportunities will ever align. Nevertheless, I strongly feel that it is shortsighted and unfair on the part of the Defendant to object to our relocation and expect that the children, my partner and I put our lives on hold and disregard the benefits for the children and our household.[\[note: 94\]](#Ftn_94)
+I note that the Defendant himself has plans to relocate and to be “closer to home” in the future albeit no definite strategy or plan has been shared. It is unlikely our timings and job opportunities will ever align. Nevertheless, I strongly feel that it is shortsighted and unfair on the part of the Defendant to object to our relocation and expect that the children, my partner and I put our lives on hold and disregard the benefits for the children and our household.[^94]
 
 40     It is understandable that the Mother, who is divorced from the Father and has found a new partner to whom she intends to get married to, should be free to follow her heart and live the life that she desires. However, “\[t\]he law expects parents to put the interests of the children before their own” (_TAA_ at \[17\], cited by _BNS (CA)_ at \[20\] and \[29\] and _UFZ_ at \[18\]) and this “often require the parents to make personal sacrifices for their children” (_UFZ_ at \[18\]). For these reasons, the Mother’s wish to relocate would have to be tampered by the expectation of the law that the relocation must be compatible with the interests of the children.
 
-41     The present case is unlike those cases where it was necessary for the primary caregiver to relocate. In the present case, the Mother has the real option of staying put and thriving in Singapore. She has been staying in Singapore since 2008. She is used to the life of an expatriate and has carved out a successful career of her own.[\[note: 95\]](#Ftn_95) She is not dependent on the Father for her maintenance and is connected to her family, friends and colleagues. She is a Singapore PR which means she can choose to stay on and continue to work in Singapore for as long as she wants. Her children are PRs, have lived in Singapore all their lives and are very well taken care off .[\[note: 96\]](#Ftn_96) Explaining why she and the Father had taken up PR status in Singapore for themselves and the children, she said:
+41     The present case is unlike those cases where it was necessary for the primary caregiver to relocate. In the present case, the Mother has the real option of staying put and thriving in Singapore. She has been staying in Singapore since 2008. She is used to the life of an expatriate and has carved out a successful career of her own.[^95] She is not dependent on the Father for her maintenance and is connected to her family, friends and colleagues. She is a Singapore PR which means she can choose to stay on and continue to work in Singapore for as long as she wants. Her children are PRs, have lived in Singapore all their lives and are very well taken care off .[^96] Explaining why she and the Father had taken up PR status in Singapore for themselves and the children, she said:
 
-We also wanted to benefit the mandatory CPF contribution which we saw as an additional savings plan. It also allowed us to consider non-expatriates employment salary options. Finally, we saw PR status as a safeguard against disruption of the children’s schooling when they reached school-going age.[\[note: 97\]](#Ftn_97)
+We also wanted to benefit the mandatory CPF contribution which we saw as an additional savings plan. It also allowed us to consider non-expatriates employment salary options. Finally, we saw PR status as a safeguard against disruption of the children’s schooling when they reached school-going age.[^97]
 
-42     The Mother has a healthy and loving relationship with A,[\[note: 98\]](#Ftn_98) who according to the Mother has been a good father figure to the children since October 2017.[\[note: 99\]](#Ftn_99) The Mother did not explain why she and A have to relocate to the UK. Although A is a British citizen, he has been residing in Singapore, since October 2017 at least. The Mother has not provided any information regarding A’s occupation and employment history. There is no suggestion that A is compelled by work or personal reasons to relocate to his home country. The parties are not relocating to A’s home, but to a property in Danbury that she and A have rented.[\[note: 100\]](#Ftn_100)
+42     The Mother has a healthy and loving relationship with A,[^98] who according to the Mother has been a good father figure to the children since October 2017.[^99] The Mother did not explain why she and A have to relocate to the UK. Although A is a British citizen, he has been residing in Singapore, since October 2017 at least. The Mother has not provided any information regarding A’s occupation and employment history. There is no suggestion that A is compelled by work or personal reasons to relocate to his home country. The parties are not relocating to A’s home, but to a property in Danbury that she and A have rented.[^100]
 
 43     In the circumstances, it would appear that the Mother’s wish to relocate to the UK is a matter of choice. There is no real necessity to relocate as such. However, this does not _ipso facto_ mean that the wish to relocate is unreasonable. Afterall, who is to say that the Mother should not have a second chance at happiness? She is divorced and deserves to leave the past behind and follow her heart wherever it may take her. Moreover, this is not a case where the move abroad is done in bad faith (for example, to end access) which “would be a very strong factor to refuse the application” (_Re C (an infant)_ at \[22\]). In fact, the possibility of a relocation was contemplated in the consent order. Furthermore, the parties and the children are not Singapore citizens. So it is not entirely unexpected for a relocation to be considered.
 
@@ -180,9 +181,9 @@ We also wanted to benefit the mandatory CPF contribution which we saw as an addi
 
 45     The relocation to the UK involves the uprooting of two young children from Singapore where they have lived all their lives. They will have to fit into a new environment and a different education system whilst missing out on the weekly dinners, stayovers and activities with the Father.
 
-46     The Mother’s plan is to enrol Yvette in The Sandon School (“Sandon”) and Xavier in Danbury Park Community Primary School (“Danbury Park CPS”).[\[note: 101\]](#Ftn_101) Her research reveals that Sandon is a popular mixed comprehensive school with an excellent reputation in the local area and within the community.[\[note: 102\]](#Ftn_102) The property that she has secured with A at Danbury is within the school catchment area and the school term for the academic year 2019/2020 is expected to commence in September 2019.[\[note: 103\]](#Ftn_103) Likewise, Danbury Park CPS is a popular school within the community and some of the school’s achievements includes a grade of “Outstanding” from the 2018 Ofsted report.[\[note: 104\]](#Ftn_104) Both schools are conveniently only 3.7 km away from one another, and a mere 3-minute drive. There are also direct buses that connect both schools.[\[note: 105\]](#Ftn_105) It is the Mother’s desire that the children may one day be admitted to the top universities in the UK such as the University of Oxford, University of Cambridge, Imperial College of London and London School of Economics and Political Science.[\[note: 106\]](#Ftn_106)
+46     The Mother’s plan is to enrol Yvette in The Sandon School (“Sandon”) and Xavier in Danbury Park Community Primary School (“Danbury Park CPS”).[^101] Her research reveals that Sandon is a popular mixed comprehensive school with an excellent reputation in the local area and within the community.[^102] The property that she has secured with A at Danbury is within the school catchment area and the school term for the academic year 2019/2020 is expected to commence in September 2019.[^103] Likewise, Danbury Park CPS is a popular school within the community and some of the school’s achievements includes a grade of “Outstanding” from the 2018 Ofsted report.[^104] Both schools are conveniently only 3.7 km away from one another, and a mere 3-minute drive. There are also direct buses that connect both schools.[^105] It is the Mother’s desire that the children may one day be admitted to the top universities in the UK such as the University of Oxford, University of Cambridge, Imperial College of London and London School of Economics and Political Science.[^106]
 
-47     The Father points out that while the Mother has gone to great lengths to highlight the achievements of Sandon and Danbury Park CPS, she has not shown why relocation to the UK would better serve the children’s educational needs.[\[note: 107\]](#Ftn_107) The Father highlights that the children are doing very well in the _status quo[\[note: 108\]](#Ftn_108)_ and I note, in this regard, that the Mother has confirmed that the children are “performing well in Singapore”. In fact, that is the reason why the Mother is confident that the children are “well-equipped with the necessary foundation to thrive in the UK’s education system come July 2019”.[\[note: 109\]](#Ftn_109) The children have received very positive feedback from their teachers. It is evident from the teachers’ testimonials that the children are eager to learn and contribute in classes. The children have clearly impressed the teachers with their attitude, enthusiasm and achievements.[\[note: 110\]](#Ftn_110) The teachers have found them to be warm, helpful and caring, which must be heartening to know for any parent.
+47     The Father points out that while the Mother has gone to great lengths to highlight the achievements of Sandon and Danbury Park CPS, she has not shown why relocation to the UK would better serve the children’s educational needs.[^107] The Father highlights that the children are doing very well in the _status quo[^108]_ and I note, in this regard, that the Mother has confirmed that the children are “performing well in Singapore”. In fact, that is the reason why the Mother is confident that the children are “well-equipped with the necessary foundation to thrive in the UK’s education system come July 2019”.[^109] The children have received very positive feedback from their teachers. It is evident from the teachers’ testimonials that the children are eager to learn and contribute in classes. The children have clearly impressed the teachers with their attitude, enthusiasm and achievements.[^110] The teachers have found them to be warm, helpful and caring, which must be heartening to know for any parent.
 
 48     As the children are doing well, the question that naturally arises is why is there a need to upset the _status quo_. It is important to answer this question squarely as the change of the _status quo_ involves many trade-offs, no less of which is the loss of relationship with the Father which will affect the wellbeing of the children.
 
@@ -190,9 +191,9 @@ We also wanted to benefit the mandatory CPF contribution which we saw as an addi
 
 50     Whilst each case must be decided on its own facts (_UFZ_ at \[17\]), HCF/DCA 71/2015 serves to illustrate the point that one of the factors the court will take into consideration in a relocation application is whether the children will derive any benefit from a foreign education system. In a case such as the present where the Mother has placed such great emphasis on the children’s educational needs in support of her wish to relocate, the answer to the question assumes even greater significance.
 
-51     Yet, it has not been shown why relocation to the UK would better serve the children’s educational needs. Whilst the overall cost of education for the children in the UK is expected to be lower than the cost education for the children in Singapore,[\[note: 111\]](#Ftn_111) there is no suggestion that the parties are unable to continue to fund the children’s education in Singapore or that that cost is even a reason for the relocation.
+51     Yet, it has not been shown why relocation to the UK would better serve the children’s educational needs. Whilst the overall cost of education for the children in the UK is expected to be lower than the cost education for the children in Singapore,[^111] there is no suggestion that the parties are unable to continue to fund the children’s education in Singapore or that that cost is even a reason for the relocation.
 
-52     The children are currently doing the International Baccalaureate (“IB”) Programme in school. By her own account, the Mother has been very particular in the selection of the children’s school in Singapore from the start[\[note: 112\]](#Ftn_112) and the school they have found for the children is “excellent”.[\[note: 113\]](#Ftn_113) In her supporting affidavit (at \[45\]), the Mother describes the benefits of the school (anonymised in this judgment as “\[S\]”) as follows:
+52     The children are currently doing the International Baccalaureate (“IB”) Programme in school. By her own account, the Mother has been very particular in the selection of the children’s school in Singapore from the start[^112] and the school they have found for the children is “excellent”.[^113] In her supporting affidavit (at \[45\]), the Mother describes the benefits of the school (anonymised in this judgment as “\[S\]”) as follows:
 
 45.    Enrolling the children in an international school was the ideal choice for us. What more, \[S\] offers the following benefits:
 
@@ -210,7 +211,7 @@ f)    Flexibility of existing the school and re-joining another internationa
 
 53     It is not disputed that the children are getting an excellent and holistic education in Singapore. It is also not disputed that the children have flourished and thrived. The Mother expressed it well in these words:
 
-I verily believe that having been expatriate children is an amazing and unique exposure to different cultures for the children. No doubt \[Xavier\] and \[Yvette\] will benefit from the experience they had to-date, it is a great foundation to have ... [\[note: 114\]](#Ftn_114)
+I verily believe that having been expatriate children is an amazing and unique exposure to different cultures for the children. No doubt \[Xavier\] and \[Yvette\] will benefit from the experience they had to-date, it is a great foundation to have ... [^114]
 
 54     At this point, the astute observation of Ormrod LJ in _Chamberlain v de la Mare_ (1983) 4 FLR 434 (cited in _Re C (an infant)_ at \[22\]) bears reiterating:
 
@@ -220,27 +221,27 @@ The question therefore in each case is, is the proposed move a reasonable one fr
 
 56     In my assessment, it would be disadvantageous to upset the current situation when there is no real advantage to be gained where the children’s education is concerned. The change would also result in the loss of emotional and psychological support from the Father at a time when it is most needed. Whilst the loss of an opportunity to have a meaningful relationship with the parent who is left behind is a separate factor for consideration in a relocation application, it is important to bear in mind that the loss would also affect the capacity and resilience of the children to adapt to a new environment. The Mother’s optimism in the children’s ability to thrive in the UK education system, whilst encouraging, should be tampered by these considerations.
 
-57     Moreover, as highlighted by the Father, the Mother was unsuccessful in securing a place for Yvette in Sandon. Yvette was instead offered a place in William de Ferrers School which is located 11 km away from the Mother’s place of residence. It would mean travelling for a distance much further than what the Mother had originally anticipated. The Mother has appealed to Sandon to reconsider Yvette’s application and the appeal hearing will take place at the end of June 2019. The Mother has applied for places in school for the son and the posting results will only be known in mid-June 2019.[\[note: 115\]](#Ftn_115)
+57     Moreover, as highlighted by the Father, the Mother was unsuccessful in securing a place for Yvette in Sandon. Yvette was instead offered a place in William de Ferrers School which is located 11 km away from the Mother’s place of residence. It would mean travelling for a distance much further than what the Mother had originally anticipated. The Mother has appealed to Sandon to reconsider Yvette’s application and the appeal hearing will take place at the end of June 2019. The Mother has applied for places in school for the son and the posting results will only be known in mid-June 2019.[^115]
 
 ## Loss of children’s relationship with the Father
 
-58     The Father is concerned that the Mother will not facilitate any form of access in the event that a relocation is granted. This application has unfortunately re-opened some old wounds. The Mother has indicated that it was never her intention to revisit these old wounds as she had hoped that parties would have moved on with their respective lives. She had even instructed her solicitors to avoid rehashing certain unpleasant past incidents of the parties and of the marriage. It has, after all, been more than four years since the Writ was filed and she had hoped that the Father would likewise do the same.[\[note: 116\]](#Ftn_116) She was however compelled to respond to the allegations of the Father to set the record straight.[\[note: 117\]](#Ftn_117) The Father, not unexpectedly, has his side of the story to tell.
+58     The Father is concerned that the Mother will not facilitate any form of access in the event that a relocation is granted. This application has unfortunately re-opened some old wounds. The Mother has indicated that it was never her intention to revisit these old wounds as she had hoped that parties would have moved on with their respective lives. She had even instructed her solicitors to avoid rehashing certain unpleasant past incidents of the parties and of the marriage. It has, after all, been more than four years since the Writ was filed and she had hoped that the Father would likewise do the same.[^116] She was however compelled to respond to the allegations of the Father to set the record straight.[^117] The Father, not unexpectedly, has his side of the story to tell.
 
 59     Divorce is one of life’s most stressful events. The upheaval that a divorce brings to a family can be traumatic particularly where there are young children involved. The impact of the parents’ divorce can be acutely felt by the children in each developmental stage as they cope with the new realities of a separated family. The parents have to manage their emotional, mental and financial wellbeing as they re-organise their lives post-divorce. They have to overcome their emotional baggage to communicate with each other and make joint decisions for the welling of the child.
 
-60     Despite all the challenges that would typically confound a family under stress of divorce, the parties in this case have been able to put aside their differences and come to an amicable resolution of the divorce and the ancillary matters. Despite the stress of marital breakdown, the parties have been able to shield the children from the harmful effects of the divorce and have cooperated successfully to ensure that the children continue to benefit from the love, care and guidance of both parents.[\[note: 118\]](#Ftn_118) They have both recognised the need to avoid involving the children in this matter as far as possible.[\[note: 119\]](#Ftn_119)
+60     Despite all the challenges that would typically confound a family under stress of divorce, the parties in this case have been able to put aside their differences and come to an amicable resolution of the divorce and the ancillary matters. Despite the stress of marital breakdown, the parties have been able to shield the children from the harmful effects of the divorce and have cooperated successfully to ensure that the children continue to benefit from the love, care and guidance of both parents.[^118] They have both recognised the need to avoid involving the children in this matter as far as possible.[^119]
 
 61     The children have greatly benefited from the enlightened approach of their parents, as can be seen from the progress they have made in their developments, the many heart-warming photographs shown to the court and the testimonials of their teachers. Therefore, I do not think that there can be any justification in the suggestion that the Mother would impede access in the event of the relocation being granted. Issues with access and misgivings are bound to arise from time to time but they should not be unnecessarily amplified. The Mother’s efforts in facilitating access since the divorce ought to be duly acknowledged and recognised.
 
-62     However, it is undeniable that the quality of access between the children and the Father will be severely compromised because of the long distance between the UK and Singapore and the difference in the time zones. Whilst the Father is not the primary caregiver of the children, he has participated actively in the children’s lives. For example, on account of wanting to remain close to the children even after he had moved out of the matrimonial home, the Father rented an apartment near the Mother’s condominium sometime around October 2014. He would walk to the Mother’s condominium to see the children every morning and give them a kiss, before seeing them off to school. He would try to get back early from work to play with both of them in the playground adjacent to the Mother’s condominium.[\[note: 120\]](#Ftn_120)
+62     However, it is undeniable that the quality of access between the children and the Father will be severely compromised because of the long distance between the UK and Singapore and the difference in the time zones. Whilst the Father is not the primary caregiver of the children, he has participated actively in the children’s lives. For example, on account of wanting to remain close to the children even after he had moved out of the matrimonial home, the Father rented an apartment near the Mother’s condominium sometime around October 2014. He would walk to the Mother’s condominium to see the children every morning and give them a kiss, before seeing them off to school. He would try to get back early from work to play with both of them in the playground adjacent to the Mother’s condominium.[^120]
 
-63     The Father has played an active role in the children’s enrichment activities such has taking them to Capoeira classes, a Brazilian martial arts form, every Sunday at their request.[\[note: 121\]](#Ftn_121) He has taken the children out on many activities such as visits to the Science Centre, Kidszania, the Singapore Zoo, Jurong Bird Park, River Safari and the ArtScience Museum. In 2014, he brought Yvette for a football game between Brazil and Japan at the National Stadium. In 2017, he brought the children to the Formula 1 practice race and the Cold Play music concert and in 2018 to the Chainsmokers and Clean Bandit music concerts. He brought the children frequently to the cinema and for mountain climbing, ice skating and cycling sessions.[\[note: 122\]](#Ftn_122) All these despite the fact that he has a busy career.
+63     The Father has played an active role in the children’s enrichment activities such has taking them to Capoeira classes, a Brazilian martial arts form, every Sunday at their request.[^121] He has taken the children out on many activities such as visits to the Science Centre, Kidszania, the Singapore Zoo, Jurong Bird Park, River Safari and the ArtScience Museum. In 2014, he brought Yvette for a football game between Brazil and Japan at the National Stadium. In 2017, he brought the children to the Formula 1 practice race and the Cold Play music concert and in 2018 to the Chainsmokers and Clean Bandit music concerts. He brought the children frequently to the cinema and for mountain climbing, ice skating and cycling sessions.[^122] All these despite the fact that he has a busy career.
 
-64     He has actively been encouraging the children to pursue their interests in areas outside of academics so that they may be exposed to the cultural diversities of Singapore. Yvette for example, is actively involved in volunteering with her music teacher from school. She has joined a programme where students develop activities and performances for the elderly to develop friendships outside of school. [\[note: 123\]](#Ftn_123)
+64     He has actively been encouraging the children to pursue their interests in areas outside of academics so that they may be exposed to the cultural diversities of Singapore. Yvette for example, is actively involved in volunteering with her music teacher from school. She has joined a programme where students develop activities and performances for the elderly to develop friendships outside of school. [^123]
 
-65     The Father has also been involved in Yvette’s progress at school. For example, Yvette was assigned to do a group project in March 2019 and she chose the theme “Construction”. The Father was heartened as this showed her admiration for the Father. The Father was also very pleased that he could readily offer his help. The project group dedicated a section to the Father’s firm and the Father was interviewed by them _via_ Skype. Yvette also accompanied the Father to his offices on a Friday afternoon where he showed her around and introduced her to one of his colleagues who is one of the owners of the firm. After the project, the Father received an email from the teacher thanking him for his time for the interview.[\[note: 124\]](#Ftn_124)
+65     The Father has also been involved in Yvette’s progress at school. For example, Yvette was assigned to do a group project in March 2019 and she chose the theme “Construction”. The Father was heartened as this showed her admiration for the Father. The Father was also very pleased that he could readily offer his help. The project group dedicated a section to the Father’s firm and the Father was interviewed by them _via_ Skype. Yvette also accompanied the Father to his offices on a Friday afternoon where he showed her around and introduced her to one of his colleagues who is one of the owners of the firm. After the project, the Father received an email from the teacher thanking him for his time for the interview.[^124]
 
-66     The children have their own room filled with their own toys, books and games at the condominium where the Father resides with B. According to the Father,[\[note: 125\]](#Ftn_125)
+66     The children have their own room filled with their own toys, books and games at the condominium where the Father resides with B. According to the Father,[^125]
 
 They enjoy coming over to our place very much and would look forward to spending time with us as a family. Currently, the children come over at least every weekend during my access, as well as on special occasions such as Public Holidays and my birthday. Whenever the children stayed over at our place, \[B\] would frequently read them books before they went to bed.
 
@@ -250,11 +251,11 @@ They enjoy coming over to our place very much and would look forward to spending
 
 (b)     Every night before 8 pm, the Father would Facetime the children to ask them about their day and see them before they go to sleep.
 
-(c)     During the weekend, the Father spends 7pm on Saturdays to 7 pm on Sundays to bond with the children. They have meals together and go for frequent outings and bond through cultural activities. The Sunday activities include riding bicycles and sometimes scooters at East Coast Park, having picnics at the Botanic Gardens, Gardens by the Bay and East Coast Park, and accompanying the children to their friends’ birthday parties.[\[note: 126\]](#Ftn_126)
+(c)     During the weekend, the Father spends 7pm on Saturdays to 7 pm on Sundays to bond with the children. They have meals together and go for frequent outings and bond through cultural activities. The Sunday activities include riding bicycles and sometimes scooters at East Coast Park, having picnics at the Botanic Gardens, Gardens by the Bay and East Coast Park, and accompanying the children to their friends’ birthday parties.[^126]
 
-68     The Mother has suggested that the Father only started to play a more active role in the children’s lives since she broached the topic of relocation to him in August 2018.[\[note: 127\]](#Ftn_127) However, having considered all the circumstances, I do not think that this is a fair criticism to make, in the same way that I do not think that it was fair for the Father to suggest that the Mother would impede access. The allegations and cross-allegations are most unfortunate. I find that both parents are genuinely interested in the welfare of the children and have each done their best to help maintain a sense of normalcy in the lives of the children post-divorce. If they would only focus on the kinder aspects of each other, there would be perhaps be less room for misgivings.
+68     The Mother has suggested that the Father only started to play a more active role in the children’s lives since she broached the topic of relocation to him in August 2018.[^127] However, having considered all the circumstances, I do not think that this is a fair criticism to make, in the same way that I do not think that it was fair for the Father to suggest that the Mother would impede access. The allegations and cross-allegations are most unfortunate. I find that both parents are genuinely interested in the welfare of the children and have each done their best to help maintain a sense of normalcy in the lives of the children post-divorce. If they would only focus on the kinder aspects of each other, there would be perhaps be less room for misgivings.
 
-69     The Mother points out that she too has also been bringing the children to one-off activities all these years and she considers these to be normal parent-child activities in the spirit of co-parenting.[\[note: 128\]](#Ftn_128) Just as the Father has exhibited at TAB 27 of his affidavit in reply photographs taken during outings with the Father,[\[note: 129\]](#Ftn_129) she too has “hundreds or thousands of photographs and selfies with the children over the years” and exhibited some of them at TAB 41 of her 2nd affidavit.[\[note: 130\]](#Ftn_130) She states as follows:[\[note: 131\]](#Ftn_131)
+69     The Mother points out that she too has also been bringing the children to one-off activities all these years and she considers these to be normal parent-child activities in the spirit of co-parenting.[^128] Just as the Father has exhibited at TAB 27 of his affidavit in reply photographs taken during outings with the Father,[^129] she too has “hundreds or thousands of photographs and selfies with the children over the years” and exhibited some of them at TAB 41 of her 2nd affidavit.[^130] She states as follows:[^131]
 
 For the avoidance of doubt, a summary of the Defendant’s access with the children since September 2014, and allowing the school summer holidays/Christmas holidays etc. when the latter takes the children on holidays which I estimate to be on average approximately 15 days per annum and another 10 days for additional access for play, is as follows:
 
@@ -280,17 +281,17 @@ The facts of the children’s young ages and the difference in time zones betwee
 
 #### Culture and roots
 
-73     The Mother contends that the current expatriate environment is not one that fosters any deep fusion into everyday life lived by Singaporeans. What the children see is a community that is ever-changing and unable to imprint any sort of permanence on them. While the expatriate lifestyle has taught them to have a high appreciation and respect to people from all countries and religions, they do not develop a sense of belonging and cultural identity. The Mother believes that a sense of belonging, commitment and attachment to a culture is important as it plays a strong role in one’s self-esteem and identity and hence it is important for the children to “transition closer” to their roots, their family and traditions.[\[note: 132\]](#Ftn_132)
+73     The Mother contends that the current expatriate environment is not one that fosters any deep fusion into everyday life lived by Singaporeans. What the children see is a community that is ever-changing and unable to imprint any sort of permanence on them. While the expatriate lifestyle has taught them to have a high appreciation and respect to people from all countries and religions, they do not develop a sense of belonging and cultural identity. The Mother believes that a sense of belonging, commitment and attachment to a culture is important as it plays a strong role in one’s self-esteem and identity and hence it is important for the children to “transition closer” to their roots, their family and traditions.[^132]
 
 74     However, the Father points out as follows:
 
-Finally, the Mother’s claim that the children will integrate better into European culture is so broad and sweeping as to be ridiculous. Europe is a huge continent, and there is no such thing as “European” culture. Each European country has its own culture – indeed, even within countries there are usually many distinct and disparate cultures. There is thus no equivalence between Portuguese culture and “European culture”. Furthermore, we point out again that both children were born in Singapore and have lived in Singapore and have lived in Singapore all their lives. Even though they are technically Portuguese citizens, they have not lived in Portugal. They are thus more socialised into Singapore society than Portuguese society.[\[note: 133\]](#Ftn_133)
+Finally, the Mother’s claim that the children will integrate better into European culture is so broad and sweeping as to be ridiculous. Europe is a huge continent, and there is no such thing as “European” culture. Each European country has its own culture – indeed, even within countries there are usually many distinct and disparate cultures. There is thus no equivalence between Portuguese culture and “European culture”. Furthermore, we point out again that both children were born in Singapore and have lived in Singapore and have lived in Singapore all their lives. Even though they are technically Portuguese citizens, they have not lived in Portugal. They are thus more socialised into Singapore society than Portuguese society.[^133]
 
-75     The Father points out that the children embrace the local culture and have vastly assimilated through various cultural experiences. For example, the children currently learn Mandarin and are able to converse and write in simple Mandarin. They are also familiar with Asian food such as Indonesian, Japanese, Korean, Chinse and Cantonese cuisines, and even relish them more than traditional Portuguese or Brazilian food. During Chinses New Year celebrations every year, the children too love dressing up in traditional costumes and dance the Lion and Dragon dance.[\[note: 134\]](#Ftn_134) Moving them to an unknown and unfamiliar environment is not in any way facilitative of establishing any “roots”. The children have lived in Singapore for the entirety of their lives and their current support network comprises their friends and teachers here, as well as the Father and the Mother. The children will have to start over and rebuild their lives again from scratch if the Mother is allowed to relocate with them to the UK. This will severely disrupt the stability that the children currently enjoy.[\[note: 135\]](#Ftn_135)
+75     The Father points out that the children embrace the local culture and have vastly assimilated through various cultural experiences. For example, the children currently learn Mandarin and are able to converse and write in simple Mandarin. They are also familiar with Asian food such as Indonesian, Japanese, Korean, Chinse and Cantonese cuisines, and even relish them more than traditional Portuguese or Brazilian food. During Chinses New Year celebrations every year, the children too love dressing up in traditional costumes and dance the Lion and Dragon dance.[^134] Moving them to an unknown and unfamiliar environment is not in any way facilitative of establishing any “roots”. The children have lived in Singapore for the entirety of their lives and their current support network comprises their friends and teachers here, as well as the Father and the Mother. The children will have to start over and rebuild their lives again from scratch if the Mother is allowed to relocate with them to the UK. This will severely disrupt the stability that the children currently enjoy.[^135]
 
-76     As noted above, the Mother is concerned that the perceived lack of belonging and cultural identity would affect the children’s self-esteem and identity. However, such fear is unwarranted. The objective evidence shows that the children are not lacking in self-esteem and identity. On the contrary, they are confident, happy and thriving as is evident from all that has been presented to the court. As the children have lived in Singapore for the entirety of their lives, there is no reason to believe that they have not integrated well in the local community and culture. The children are aware that they are Portuguese citizens and the roots that the parents and their grandparents share with them.[\[note: 136\]](#Ftn_136) They get to travel to Portugal about once a year on the average during the holidays for about two weeks[\[note: 137\]](#Ftn_137) and they like listening to stories, and hear about their family history and culture from their grandparents.[\[note: 138\]](#Ftn_138) They also get see the Mother’s sister, her husband and their daughter who live in the same condominium.[\[note: 139\]](#Ftn_139) In school, they get to interact with students from all over the world.
+76     As noted above, the Mother is concerned that the perceived lack of belonging and cultural identity would affect the children’s self-esteem and identity. However, such fear is unwarranted. The objective evidence shows that the children are not lacking in self-esteem and identity. On the contrary, they are confident, happy and thriving as is evident from all that has been presented to the court. As the children have lived in Singapore for the entirety of their lives, there is no reason to believe that they have not integrated well in the local community and culture. The children are aware that they are Portuguese citizens and the roots that the parents and their grandparents share with them.[^136] They get to travel to Portugal about once a year on the average during the holidays for about two weeks[^137] and they like listening to stories, and hear about their family history and culture from their grandparents.[^138] They also get see the Mother’s sister, her husband and their daughter who live in the same condominium.[^139] In school, they get to interact with students from all over the world.
 
-77     As the Mother herself has acknowledged, the children are getting an amazing and unique exposure to different cultures.[\[note: 140\]](#Ftn_140) This, as the Mother has also pointed out, is a great foundation to have. Such multicultural exposure at an early age broadens their minds, develops their confidence and stands them in good stead. At the same time, their natural affiliation with Portuguese culture through their interactions with their parents, grandparents and relatives and the yearly holiday visits to Portugal would have deepened their Portuguese roots. The current arrangement has worked well for the development of the children as they have turned out to be confident, well-rounded and well-adjusted. The monocultural plan proposed by the Mother appears to be a regressive step in a globalised world compared to the rich multicultural exposure the children are currently experiencing.
+77     As the Mother herself has acknowledged, the children are getting an amazing and unique exposure to different cultures.[^140] This, as the Mother has also pointed out, is a great foundation to have. Such multicultural exposure at an early age broadens their minds, develops their confidence and stands them in good stead. At the same time, their natural affiliation with Portuguese culture through their interactions with their parents, grandparents and relatives and the yearly holiday visits to Portugal would have deepened their Portuguese roots. The current arrangement has worked well for the development of the children as they have turned out to be confident, well-rounded and well-adjusted. The monocultural plan proposed by the Mother appears to be a regressive step in a globalised world compared to the rich multicultural exposure the children are currently experiencing.
 
 #### The son’s NS obligations
 
@@ -320,7 +321,7 @@ A parent with care of the children is no longer as free to live life as he or sh
 
 ## Procedural arguments
 
-88     Before concluding, I should for completeness mention that the Father has in addition to the substantive arguments on the merits of the relocation application, raised a procedural matter in respect of an alleged defect in the summons application. The Father contends that SUM 237 is defective in that the Mother has not invoked any statutory provision in support of SUM 237, whether in the title to the action or in the “grounds of application” section of her “summons or otherwise”.[\[note: 141\]](#Ftn_141) The Father also contends that that the Mother must first show that there has been a material change in circumstances on the supposition that the application was made pursuant to s 128 of the Women’s Charter (Cap 353).[\[note: 142\]](#Ftn_142)
+88     Before concluding, I should for completeness mention that the Father has in addition to the substantive arguments on the merits of the relocation application, raised a procedural matter in respect of an alleged defect in the summons application. The Father contends that SUM 237 is defective in that the Mother has not invoked any statutory provision in support of SUM 237, whether in the title to the action or in the “grounds of application” section of her “summons or otherwise”.[^141] The Father also contends that that the Mother must first show that there has been a material change in circumstances on the supposition that the application was made pursuant to s 128 of the Women’s Charter (Cap 353).[^142]
 
 89     I did not find any merit in these lines of arguments. There is no requirement in the Family Justice Rules or the Family Justice Courts Practice Directions which mandates that the relevant statutory provision must be expressly spelt out in the “summons or otherwise”. Counsel for the Father has not provided any authority in support of the argument either. With respect to the second argument on the need to prove a material change in circumstances, one needs look no further than _TAA_ (at \[3\]) which similarly involved an application for relocation after the divorce was finalised and ancillary orders made with regard to the custody, care and control of and access to the children. The legal principle applied by the court was the welfare of the child. There was no separate inquiry into a material change in circumstances. Even where an application is expressly framed as a variation application such as in _ULA v UKZ_ (“_ULA_”) (at \[9\]), the court had applied the same welfare principle (_ULA_ at \[24\]). As such, I find the argument made to be wholly unsupported by any case authority.
 
@@ -332,289 +333,289 @@ A parent with care of the children is no longer as free to live life as he or sh
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Mother’s 2nd affidavit dated 20 March 2019 at \[28\].
+[^1]: Mother’s 2nd affidavit dated 20 March 2019 at \[28\].
 
-[\[note: 2\]](#Ftn_2_1)Mother’s 2nd affidavit dated 26 March 2019 at \[220\].
+[^2]: Mother’s 2nd affidavit dated 26 March 2019 at \[220\].
 
-[\[note: 3\]](#Ftn_3_1)Mother’s Written Submissions at \[99\].
+[^3]: Mother’s Written Submissions at \[99\].
 
-[\[note: 4\]](#Ftn_4_1)Mother’s affidavit dated 18 January 2019.
+[^4]: Mother’s affidavit dated 18 January 2019.
 
-[\[note: 5\]](#Ftn_5_1)Father’s affidavit dated 4 March 2019.
+[^5]: Father’s affidavit dated 4 March 2019.
 
-[\[note: 6\]](#Ftn_6_1)Mother’s Written Submissions at \[26\].
+[^6]: Mother’s Written Submissions at \[26\].
 
-[\[note: 7\]](#Ftn_7_1)Mother’s Written Submissions at \[27\].
+[^7]: Mother’s Written Submissions at \[27\].
 
-[\[note: 8\]](#Ftn_8_1)Mother’s Written Submissions at \[37\].
+[^8]: Mother’s Written Submissions at \[37\].
 
-[\[note: 9\]](#Ftn_9_1)Mother’s Written Submissions at paragraph 59; Mother’s 3rd Affidavit dated 16 April 2019 at \[92\].
+[^9]: Mother’s Written Submissions at paragraph 59; Mother’s 3rd Affidavit dated 16 April 2019 at \[92\].
 
-[\[note: 10\]](#Ftn_10_1)Mother’s Written Submissions at \[39\].
+[^10]: Mother’s Written Submissions at \[39\].
 
-[\[note: 11\]](#Ftn_11_1)Mother’s Written Submissions at \[41\].
+[^11]: Mother’s Written Submissions at \[41\].
 
-[\[note: 12\]](#Ftn_12_1)Mother’s Written Submissions at \[42\].
+[^12]: Mother’s Written Submissions at \[42\].
 
-[\[note: 13\]](#Ftn_13_1)Mother’s Written Submissions at \[46\].
+[^13]: Mother’s Written Submissions at \[46\].
 
-[\[note: 14\]](#Ftn_14_1)Mother’s Written Submissions at \[49\].
+[^14]: Mother’s Written Submissions at \[49\].
 
-[\[note: 15\]](#Ftn_15_1)Mother’s Written Submissions at \[54\].
+[^15]: Mother’s Written Submissions at \[54\].
 
-[\[note: 16\]](#Ftn_16_1)Mother’s Written Submissions at \[56\].
+[^16]: Mother’s Written Submissions at \[56\].
 
-[\[note: 17\]](#Ftn_17_1)Mother’s Written Submissions at \[57\].
+[^17]: Mother’s Written Submissions at \[57\].
 
-[\[note: 18\]](#Ftn_18_1)Mother’s Written Submissions at \[61\].
+[^18]: Mother’s Written Submissions at \[61\].
 
-[\[note: 19\]](#Ftn_19_1)Mother’s Written Submissions at \[66\].
+[^19]: Mother’s Written Submissions at \[66\].
 
-[\[note: 20\]](#Ftn_20_1)Mother’s Written Submissions at \[68\].
+[^20]: Mother’s Written Submissions at \[68\].
 
-[\[note: 21\]](#Ftn_21_1)Mother’s Written Submissions at \[70\].
+[^21]: Mother’s Written Submissions at \[70\].
 
-[\[note: 22\]](#Ftn_22_1)Mother’s Written Submissions at \[75\].
+[^22]: Mother’s Written Submissions at \[75\].
 
-[\[note: 23\]](#Ftn_23_1)Mother’s Written Submissions at \[76\].
+[^23]: Mother’s Written Submissions at \[76\].
 
-[\[note: 24\]](#Ftn_24_1)Mother’s Written Submissions at \[80\].
+[^24]: Mother’s Written Submissions at \[80\].
 
-[\[note: 25\]](#Ftn_25_1)Mother’s Written Submissions at \[82\].
+[^25]: Mother’s Written Submissions at \[82\].
 
-[\[note: 26\]](#Ftn_26_1)Mother’s Written Submissions at \[83\].
+[^26]: Mother’s Written Submissions at \[83\].
 
-[\[note: 27\]](#Ftn_27_1)Mother’s Written Submissions at \[84\].
+[^27]: Mother’s Written Submissions at \[84\].
 
-[\[note: 28\]](#Ftn_28_1)Mother’s Written Submissions at \[89\].
+[^28]: Mother’s Written Submissions at \[89\].
 
-[\[note: 29\]](#Ftn_29_1)Mother’s Written Submissions at \[91\].
+[^29]: Mother’s Written Submissions at \[91\].
 
-[\[note: 30\]](#Ftn_30_1)Mother’s Written Submissions at \[109\].
+[^30]: Mother’s Written Submissions at \[109\].
 
-[\[note: 31\]](#Ftn_31_1)Mother’s Written Submissions at \[112\].
+[^31]: Mother’s Written Submissions at \[112\].
 
-[\[note: 32\]](#Ftn_32_1)Mother’s Written Submissions at \[115\].
+[^32]: Mother’s Written Submissions at \[115\].
 
-[\[note: 33\]](#Ftn_33_1)Father’s Written Submissions at \[26\].
+[^33]: Father’s Written Submissions at \[26\].
 
-[\[note: 34\]](#Ftn_34_1)Father’s Written Submissions at \[42\].
+[^34]: Father’s Written Submissions at \[42\].
 
-[\[note: 35\]](#Ftn_35_1)Father’s Written Submissions at \[42\].
+[^35]: Father’s Written Submissions at \[42\].
 
-[\[note: 36\]](#Ftn_36_1)Father’s Written Submissions at \[43\].
+[^36]: Father’s Written Submissions at \[43\].
 
-[\[note: 37\]](#Ftn_37_1)Father’s Written Submissions at \[46\].
+[^37]: Father’s Written Submissions at \[46\].
 
-[\[note: 38\]](#Ftn_38_1)Father’s Written Submissions at \[47\] & \[76\].
+[^38]: Father’s Written Submissions at \[47\] & \[76\].
 
-[\[note: 39\]](#Ftn_39_1)Father’s Written Submissions at \[50\].
+[^39]: Father’s Written Submissions at \[50\].
 
-[\[note: 40\]](#Ftn_40_1)Father’s Written Submissions at \[54\]-\[55\] & \[57\].
+[^40]: Father’s Written Submissions at \[54\]-\[55\] & \[57\].
 
-[\[note: 41\]](#Ftn_41_1)Father’s Written Submissions at \[58\].
+[^41]: Father’s Written Submissions at \[58\].
 
-[\[note: 42\]](#Ftn_42_1)Father’s Written Submissions at \[59\].
+[^42]: Father’s Written Submissions at \[59\].
 
-[\[note: 43\]](#Ftn_43_1)Father’s Written Submissions at \[61\].
+[^43]: Father’s Written Submissions at \[61\].
 
-[\[note: 44\]](#Ftn_44_1)Father’s Written Submissions at \[68\].
+[^44]: Father’s Written Submissions at \[68\].
 
-[\[note: 45\]](#Ftn_45_1)Father’s Written Submissions at \[70\].
+[^45]: Father’s Written Submissions at \[70\].
 
-[\[note: 46\]](#Ftn_46_1)Father’s Written Submissions at \[71\].
+[^46]: Father’s Written Submissions at \[71\].
 
-[\[note: 47\]](#Ftn_47_1)Father’s Written Submissions at \[89\] – \[99\].
+[^47]: Father’s Written Submissions at \[89\] – \[99\].
 
-[\[note: 48\]](#Ftn_48_1)Father’s Written Submissions at \[78\].
+[^48]: Father’s Written Submissions at \[78\].
 
-[\[note: 49\]](#Ftn_49_1)Father’s Written Submissions at \[80\].
+[^49]: Father’s Written Submissions at \[80\].
 
-[\[note: 50\]](#Ftn_50_1)Father’s Written Submissions at \[81\].
+[^50]: Father’s Written Submissions at \[81\].
 
-[\[note: 51\]](#Ftn_51_1)Father’s Written Submissions at \[83\].
+[^51]: Father’s Written Submissions at \[83\].
 
-[\[note: 52\]](#Ftn_52_1)Father’s Written Submissions at \[84\].
+[^52]: Father’s Written Submissions at \[84\].
 
-[\[note: 53\]](#Ftn_53_1)Father’s Written Submissions at \[86\]-\[88\].
+[^53]: Father’s Written Submissions at \[86\]-\[88\].
 
-[\[note: 54\]](#Ftn_54_1)Father’s Written Submissions at \[101\]-\[104\].
+[^54]: Father’s Written Submissions at \[101\]-\[104\].
 
-[\[note: 55\]](#Ftn_55_1)Father’s Written Submissions at \[105\]-\[106\].
+[^55]: Father’s Written Submissions at \[105\]-\[106\].
 
-[\[note: 56\]](#Ftn_56_1)Father’s Written Submissions at \[109\].
+[^56]: Father’s Written Submissions at \[109\].
 
-[\[note: 57\]](#Ftn_57_1)Father’s Written Submissions at \[113\].
+[^57]: Father’s Written Submissions at \[113\].
 
-[\[note: 58\]](#Ftn_58_1)Father’s Written Submissions at \[115\].
+[^58]: Father’s Written Submissions at \[115\].
 
-[\[note: 59\]](#Ftn_59_1)Father’s Written Submissions at \[116\].
+[^59]: Father’s Written Submissions at \[116\].
 
-[\[note: 60\]](#Ftn_60_1)Father’s Written Submissions at \[117\].
+[^60]: Father’s Written Submissions at \[117\].
 
-[\[note: 61\]](#Ftn_61_1)Father’s Written Submissions at \[118\].
+[^61]: Father’s Written Submissions at \[118\].
 
-[\[note: 62\]](#Ftn_62_1)Father’s Written Submissions at \[120\]-\[122\].
+[^62]: Father’s Written Submissions at \[120\]-\[122\].
 
-[\[note: 63\]](#Ftn_63_1)Father’s Written Submissions at \[123\].
+[^63]: Father’s Written Submissions at \[123\].
 
-[\[note: 64\]](#Ftn_64_1)Father’s Written Submissions at \[125\].
+[^64]: Father’s Written Submissions at \[125\].
 
-[\[note: 65\]](#Ftn_65_1)Father’s Written Submissions at \[128\].
+[^65]: Father’s Written Submissions at \[128\].
 
-[\[note: 66\]](#Ftn_66_1)Father’s Written Submissions at \[129\]
+[^66]: Father’s Written Submissions at \[129\]
 
-[\[note: 67\]](#Ftn_67_1)Father’s Written Submissions at \[130\].
+[^67]: Father’s Written Submissions at \[130\].
 
-[\[note: 68\]](#Ftn_68_1)Father’s Written Submissions at \[131\].
+[^68]: Father’s Written Submissions at \[131\].
 
-[\[note: 69\]](#Ftn_69_1)Father’s Written Submissions at \[132\].
+[^69]: Father’s Written Submissions at \[132\].
 
-[\[note: 70\]](#Ftn_70_1)Mother’s supporting affidavit dated 18 January 2019 at \[16\]-\[19\].
+[^70]: Mother’s supporting affidavit dated 18 January 2019 at \[16\]-\[19\].
 
-[\[note: 71\]](#Ftn_71_1)Mother’s supporting affidavit dated 18 January 2019 at \[24\]-\[55\].
+[^71]: Mother’s supporting affidavit dated 18 January 2019 at \[24\]-\[55\].
 
-[\[note: 72\]](#Ftn_72_1)Mother’s supporting affidavit dated 18 January 2019 at \[59\].
+[^72]: Mother’s supporting affidavit dated 18 January 2019 at \[59\].
 
-[\[note: 73\]](#Ftn_73_1)_AZB_ at \[22\].
+[^73]: _AZB_ at \[22\].
 
-[\[note: 74\]](#Ftn_74_1)_AZB_ at \[22\].
+[^74]: _AZB_ at \[22\].
 
-[\[note: 75\]](#Ftn_75_1)_AZB_ at \[23\].
+[^75]: _AZB_ at \[23\].
 
-[\[note: 76\]](#Ftn_76_1)_AZB_ at \[24\].
+[^76]: _AZB_ at \[24\].
 
-[\[note: 77\]](#Ftn_77_1)_AZB_ at \[25\].
+[^77]: _AZB_ at \[25\].
 
-[\[note: 78\]](#Ftn_78_1)_AZB_ at \[29\].
+[^78]: _AZB_ at \[29\].
 
-[\[note: 79\]](#Ftn_79_1)Mother’s 2nd affidavit dated 26 March 2019 at \[31\].
+[^79]: Mother’s 2nd affidavit dated 26 March 2019 at \[31\].
 
-[\[note: 80\]](#Ftn_80_1)Mother’s supporting affidavit dated 18 January 2019 at \[155\]-\[156\].
+[^80]: Mother’s supporting affidavit dated 18 January 2019 at \[155\]-\[156\].
 
-[\[note: 81\]](#Ftn_81_1)Mother’s supporting affidavit dated 18 January 2019 at \[38\].
+[^81]: Mother’s supporting affidavit dated 18 January 2019 at \[38\].
 
-[\[note: 82\]](#Ftn_82_1)Mother’s supporting affidavit dated 18 January 2019 at \[34\].
+[^82]: Mother’s supporting affidavit dated 18 January 2019 at \[34\].
 
-[\[note: 83\]](#Ftn_83_1)Mother’s supporting affidavit dated 18 January 2019 at \[123\].
+[^83]: Mother’s supporting affidavit dated 18 January 2019 at \[123\].
 
-[\[note: 84\]](#Ftn_84_1)Mother’s supporting affidavit dated 18 January 2019 at \[30\].
+[^84]: Mother’s supporting affidavit dated 18 January 2019 at \[30\].
 
-[\[note: 85\]](#Ftn_85_1)Mother 2nd affidavit dated 26 March 2019 at \[220\].
+[^85]: Mother 2nd affidavit dated 26 March 2019 at \[220\].
 
-[\[note: 86\]](#Ftn_86_1)Mother’s supporting affidavit dated 18 January 2019 at \[55\].
+[^86]: Mother’s supporting affidavit dated 18 January 2019 at \[55\].
 
-[\[note: 87\]](#Ftn_87_1)Mother’s 2nd affidavit dated 26 March 2019 at \[102\].
+[^87]: Mother’s 2nd affidavit dated 26 March 2019 at \[102\].
 
-[\[note: 88\]](#Ftn_88_1)Mother’s supporting affidavit dated 18 January 2019 at \[169\].
+[^88]: Mother’s supporting affidavit dated 18 January 2019 at \[169\].
 
-[\[note: 89\]](#Ftn_89_1)Mother’s supporting affidavit dated 18 January 2019 at \[90\].
+[^89]: Mother’s supporting affidavit dated 18 January 2019 at \[90\].
 
-[\[note: 90\]](#Ftn_90_1)Mother’s supporting affidavit dated 18 January 2019 at \[176\].
+[^90]: Mother’s supporting affidavit dated 18 January 2019 at \[176\].
 
-[\[note: 91\]](#Ftn_91_1)Father’s affidavit in reply dated 4 March 2019 at \[109\].
+[^91]: Father’s affidavit in reply dated 4 March 2019 at \[109\].
 
-[\[note: 92\]](#Ftn_92_1)Mother’s 2nd affidavit dated 26 March 2019 at \[271\].
+[^92]: Mother’s 2nd affidavit dated 26 March 2019 at \[271\].
 
-[\[note: 93\]](#Ftn_93_1)Mother’s 2nd affidavit dated 26 March 2019 at \[52\].
+[^93]: Mother’s 2nd affidavit dated 26 March 2019 at \[52\].
 
-[\[note: 94\]](#Ftn_94_1)Mother’s supporting affidavit dated 18 January 2019 at \[50\].
+[^94]: Mother’s supporting affidavit dated 18 January 2019 at \[50\].
 
-[\[note: 95\]](#Ftn_95_1)Mother’s 2nd affidavit dated 26 March 2019 at \[31\].
+[^95]: Mother’s 2nd affidavit dated 26 March 2019 at \[31\].
 
-[\[note: 96\]](#Ftn_96_1)Mother’s supporting affidavit dated 18 January 2019 at \[32\].
+[^96]: Mother’s supporting affidavit dated 18 January 2019 at \[32\].
 
-[\[note: 97\]](#Ftn_97_1)Mother’s supporting affidavit dated 18 January 2019 at \[39\].
+[^97]: Mother’s supporting affidavit dated 18 January 2019 at \[39\].
 
-[\[note: 98\]](#Ftn_98_1)Mother’s written submission at \[123\].
+[^98]: Mother’s written submission at \[123\].
 
-[\[note: 99\]](#Ftn_99_1)Mother’s 2nd affidavit dated 26 March 2019 at \[284\].
+[^99]: Mother’s 2nd affidavit dated 26 March 2019 at \[284\].
 
-[\[note: 100\]](#Ftn_100_1)Mother’s supporting affidavit dated 18 January 2019 at \[59\].
+[^100]: Mother’s supporting affidavit dated 18 January 2019 at \[59\].
 
-[\[note: 101\]](#Ftn_101_1)Mother’s supporting affidavit dated 18 January 2019 at \[64\].
+[^101]: Mother’s supporting affidavit dated 18 January 2019 at \[64\].
 
-[\[note: 102\]](#Ftn_102_1)Mother’s supporting affidavit dated 18 January 2019 at \[68\].
+[^102]: Mother’s supporting affidavit dated 18 January 2019 at \[68\].
 
-[\[note: 103\]](#Ftn_103_1)Mother’s supporting affidavit dated 18 January 2019 at \[69\]-\[73\].
+[^103]: Mother’s supporting affidavit dated 18 January 2019 at \[69\]-\[73\].
 
-[\[note: 104\]](#Ftn_104_1)Mother’s supporting affidavit dated 18 January 2019 at \[89\].
+[^104]: Mother’s supporting affidavit dated 18 January 2019 at \[89\].
 
-[\[note: 105\]](#Ftn_105_1)Mother’s supporting affidavit dated 18 January 2019 at \[66\].
+[^105]: Mother’s supporting affidavit dated 18 January 2019 at \[66\].
 
-[\[note: 106\]](#Ftn_106_1)Mother’s supporting affidavit dated 18 January 2019 at
+[^106]: Mother’s supporting affidavit dated 18 January 2019 at
 
-[\[note: 107\]](#Ftn_107_1)Father’s Written Submissions at \[92\]-\[93\].
+[^107]: Father’s Written Submissions at \[92\]-\[93\].
 
-[\[note: 108\]](#Ftn_108_1)Father’s Written Submissions at \[92\].
+[^108]: Father’s Written Submissions at \[92\].
 
-[\[note: 109\]](#Ftn_109_1)Mother’s 2nd affidavit dated 26 March 2019 at \[232\].
+[^109]: Mother’s 2nd affidavit dated 26 March 2019 at \[232\].
 
-[\[note: 110\]](#Ftn_110_1)Father’s affidavit in reply dated 4 March 2019 at \[90\]-\[93\].
+[^110]: Father’s affidavit in reply dated 4 March 2019 at \[90\]-\[93\].
 
-[\[note: 111\]](#Ftn_111_1)Mother’s supporting affidavit dated 18 January 2019 at \[112\]-\[113\].
+[^111]: Mother’s supporting affidavit dated 18 January 2019 at \[112\]-\[113\].
 
-[\[note: 112\]](#Ftn_112_1)Mother’s supporting affidavit dated 18 January 2019 at \[40\]
+[^112]: Mother’s supporting affidavit dated 18 January 2019 at \[40\]
 
-[\[note: 113\]](#Ftn_113_1)Mother’s 2nd affidavit dated 26 March 2019 at \[154\].
+[^113]: Mother’s 2nd affidavit dated 26 March 2019 at \[154\].
 
-[\[note: 114\]](#Ftn_114_1)Mother’s supporting affidavit dated 18 January 2019 at \[167\].
+[^114]: Mother’s supporting affidavit dated 18 January 2019 at \[167\].
 
-[\[note: 115\]](#Ftn_115_1)Father’s Written Submissions at \[94\]-\[98\].
+[^115]: Father’s Written Submissions at \[94\]-\[98\].
 
-[\[note: 116\]](#Ftn_116_1)Mother’s 2nd affidavit dated 26 March 2019 at \[7\].
+[^116]: Mother’s 2nd affidavit dated 26 March 2019 at \[7\].
 
-[\[note: 117\]](#Ftn_117_1)Mother’s 2nd affidavit dated 26 March 2019 at \[8\].
+[^117]: Mother’s 2nd affidavit dated 26 March 2019 at \[8\].
 
-[\[note: 118\]](#Ftn_118_1)Mother’s 2nd affidavit dated 26 March 2019 at \[192\].
+[^118]: Mother’s 2nd affidavit dated 26 March 2019 at \[192\].
 
-[\[note: 119\]](#Ftn_119_1)Father’s affidavit in reply dated 4 March 2019 at \[123\] and Mother’s 2nd affidavit dated 26 March 2019 at \[292\].
+[^119]: Father’s affidavit in reply dated 4 March 2019 at \[123\] and Mother’s 2nd affidavit dated 26 March 2019 at \[292\].
 
-[\[note: 120\]](#Ftn_120_1)Father’s affidavit in reply dated 4 March 2019 at \[16\]-\[17\].
+[^120]: Father’s affidavit in reply dated 4 March 2019 at \[16\]-\[17\].
 
-[\[note: 121\]](#Ftn_121_1)Father’s affidavit in reply dated 4 March 2019 at \[31\]
+[^121]: Father’s affidavit in reply dated 4 March 2019 at \[31\]
 
-[\[note: 122\]](#Ftn_122_1)Father’s affidavit in reply dated 4 March 2019 at \[31\]-\[33\].
+[^122]: Father’s affidavit in reply dated 4 March 2019 at \[31\]-\[33\].
 
-[\[note: 123\]](#Ftn_123_1)Father’s affidavit in reply dated 4 March 20129 at \[67\].
+[^123]: Father’s affidavit in reply dated 4 March 20129 at \[67\].
 
-[\[note: 124\]](#Ftn_124_1)Father’s 2nd affidavit in reply dated 9 April 2019 at \[29\].
+[^124]: Father’s 2nd affidavit in reply dated 9 April 2019 at \[29\].
 
-[\[note: 125\]](#Ftn_125_1)Father’s affidavit in reply dated 4 March 20129 at \[68\].
+[^125]: Father’s affidavit in reply dated 4 March 20129 at \[68\].
 
-[\[note: 126\]](#Ftn_126_1)Father’s affidavit in reply dated 4 March 2017 at \[118\] – \[121\].
+[^126]: Father’s affidavit in reply dated 4 March 2017 at \[118\] – \[121\].
 
-[\[note: 127\]](#Ftn_127_1)Mother’s 2nd affidavit dated 26 March 20129 at \[107\].
+[^127]: Mother’s 2nd affidavit dated 26 March 20129 at \[107\].
 
-[\[note: 128\]](#Ftn_128_1)Mother’s 2nd affidavit dated 26 March 20129 at \[106\].
+[^128]: Mother’s 2nd affidavit dated 26 March 20129 at \[106\].
 
-[\[note: 129\]](#Ftn_129_1)Father’s affidavit in reply dated 4 March 2019 at \[122\].
+[^129]: Father’s affidavit in reply dated 4 March 2019 at \[122\].
 
-[\[note: 130\]](#Ftn_130_1)Mother’s 2nd affidavit dated 26 March 20129 at \[286\].
+[^130]: Mother’s 2nd affidavit dated 26 March 20129 at \[286\].
 
-[\[note: 131\]](#Ftn_131_1)Mother’s 2nd affidavit dated 26 March 20129 at \[108\]-\[109\].
+[^131]: Mother’s 2nd affidavit dated 26 March 20129 at \[108\]-\[109\].
 
-[\[note: 132\]](#Ftn_132_1)Mother’s supporting affidavit dated 18 January 2019 at \[165\]-\[168\].
+[^132]: Mother’s supporting affidavit dated 18 January 2019 at \[165\]-\[168\].
 
-[\[note: 133\]](#Ftn_133_1)Father’s Written Submissions in reply at \[71\].
+[^133]: Father’s Written Submissions in reply at \[71\].
 
-[\[note: 134\]](#Ftn_134_1)Father’s affidavit in reply dated 4 March 2019 at \[116\].
+[^134]: Father’s affidavit in reply dated 4 March 2019 at \[116\].
 
-[\[note: 135\]](#Ftn_135_1)Father’s affidavit in reply dated 4 March 2019 at \[115\].
+[^135]: Father’s affidavit in reply dated 4 March 2019 at \[115\].
 
-[\[note: 136\]](#Ftn_136_1)Mother’s Written Submissions at \[57\].
+[^136]: Mother’s Written Submissions at \[57\].
 
-[\[note: 137\]](#Ftn_137_1)Mother’s supporting affidavit dated 18 January 2019 at \[161\].
+[^137]: Mother’s supporting affidavit dated 18 January 2019 at \[161\].
 
-[\[note: 138\]](#Ftn_138_1)Mother’s supporting affidavit dated 18 January 2019 at \[169\].
+[^138]: Mother’s supporting affidavit dated 18 January 2019 at \[169\].
 
-[\[note: 139\]](#Ftn_139_1)Mother’s supporting affidavit dated 18 January 2019 at \[161\].
+[^139]: Mother’s supporting affidavit dated 18 January 2019 at \[161\].
 
-[\[note: 140\]](#Ftn_140_1)Mother’s supporting affidavit dated 18 January 2019 at \[167\].
+[^140]: Mother’s supporting affidavit dated 18 January 2019 at \[167\].
 
-[\[note: 141\]](#Ftn_141_1)Father’s Written Submissions at \[18\].
+[^141]: Father’s Written Submissions at \[18\].
 
-[\[note: 142\]](#Ftn_142_1)Father’s Written submissions at \[20\]-\[21\].
+[^142]: Father’s Written submissions at \[20\]-\[21\].
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23293-SSP.xml)

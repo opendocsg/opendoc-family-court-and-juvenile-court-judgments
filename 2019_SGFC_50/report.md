@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # UJL _v_ UJM  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce No. OSF 37/2017 (Summons 3950/2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">24 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Jinny Tan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ms Remya Aravamuthan (Remya. A Law Practice) for the Plaintiff; Mr Mahmood Gaznavi (Mahmood Gaznavi &amp; Partners) for the Defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UJL — UJM</td></tr></tbody></table>
@@ -170,31 +171,31 @@ c)     The Mother has stopped receiving financial assistance; and
 
 d)     The Mother has some income.
 
-37     The eldest son is 19 years old, and is now in the army. According to the Mother, the son gets an allowance of $730, and he is using this to pay for his own expenses and sometimes, the Mother borrows from him[\[note: 1\]](#Ftn_1). The son, himself, filed an affidavit, confirming that his allowance, and that if he is left with any balance, he passes to his mother to help with the household expenses. He sometimes buys groceries and give money to his younger brothers[\[note: 2\]](#Ftn_2).
+37     The eldest son is 19 years old, and is now in the army. According to the Mother, the son gets an allowance of $730, and he is using this to pay for his own expenses and sometimes, the Mother borrows from him[^1]. The son, himself, filed an affidavit, confirming that his allowance, and that if he is left with any balance, he passes to his mother to help with the household expenses. He sometimes buys groceries and give money to his younger brothers[^2].
 
-38     The Mother in her Reply Affidavit, reiterates that the eldest son is providing for the family by giving her money he can save out of his allowance[\[note: 3\]](#Ftn_3).
+38     The Mother in her Reply Affidavit, reiterates that the eldest son is providing for the family by giving her money he can save out of his allowance[^3].
 
 39     There is therefore a positive change in the Mother’s circumstances because not only is the eldest son not relying on her to pay for his own expenses, he is also helping out financially with the family’s expenses.
 
 40     The Mother has been granted care and control of all four children, following the orders made by me in OSGxxx/2017.
 
-41     According to the Mother, the 2nd son now shuttles between the Father’s residence and the shelter where she lives[\[note: 4\]](#Ftn_4). In the same affidavit, she admits that the Father bears the 2nd son’s expenses[\[note: 5\]](#Ftn_5).
+41     According to the Mother, the 2nd son now shuttles between the Father’s residence and the shelter where she lives[^4]. In the same affidavit, she admits that the Father bears the 2nd son’s expenses[^5].
 
 42     Since the Father is now bearing the 2nd son’s expenses, the sum of $1,500 (which the Father’s contribution towards the 4 children’s maintenance) can now to be used to pay for the expenses of 2 children (the 3rd and the 4th children) instead of 4 children.
 
 43     Again, this is a positive change in the Mother’s circumstances.
 
-44     The Mother was receiving financial assistance of $1150/month from MSF and $240 from MUIS[\[note: 6\]](#Ftn_6). From the documents produced by the Mother, the financial assistance from MSF stopped on 30 April 2018[\[note: 7\]](#Ftn_7). The financial assistance from MUIS was reduced to $160/month in July 2018 and stopped completely by September 2018[\[note: 8\]](#Ftn_8).
+44     The Mother was receiving financial assistance of $1150/month from MSF and $240 from MUIS[^6]. From the documents produced by the Mother, the financial assistance from MSF stopped on 30 April 2018[^7]. The financial assistance from MUIS was reduced to $160/month in July 2018 and stopped completely by September 2018[^8].
 
-45     The Mother’s counsel tendered two documents at the hearing – one was a letter from MSF dated 14 May 2018 and another dated 7 November 2018[\[note: 9\]](#Ftn_9), which were subsequently exhibited in the Mother’s counsel’s affidavit filed 1 April 2019. In the two letters tendered, MSF explained the reason the financial assistance has stopped and noted that the eldest son had been enlisted since February 2018 and receiving a regular monthly allowance. MSF also stated in the letter of 14 May 2018:-
+45     The Mother’s counsel tendered two documents at the hearing – one was a letter from MSF dated 14 May 2018 and another dated 7 November 2018[^9], which were subsequently exhibited in the Mother’s counsel’s affidavit filed 1 April 2019. In the two letters tendered, MSF explained the reason the financial assistance has stopped and noted that the eldest son had been enlisted since February 2018 and receiving a regular monthly allowance. MSF also stated in the letter of 14 May 2018:-
 
 _“we note that the household’s net income is sufficient for your household’s basic expenses”_
 
 46     It therefore would appear that the Mother now receives $1,390 less what she had previously received at the time the Maintenance Order was made.
 
-47     Since the Maintenance Order was made, the Mother has been receiving some income. In her Reply Affidavit, she states that she is working part-time at a childcare as a relief teacher assistant, earning $7 per hour. She exhibited documents to show that she was employed as a freelance ops assistant for the period April 2018 to May 2018, and paid $1,500[\[note: 10\]](#Ftn_10). In October 2018 she received CPF contributions from a company known as xxx Pte[\[note: 11\]](#Ftn_11).
+47     Since the Maintenance Order was made, the Mother has been receiving some income. In her Reply Affidavit, she states that she is working part-time at a childcare as a relief teacher assistant, earning $7 per hour. She exhibited documents to show that she was employed as a freelance ops assistant for the period April 2018 to May 2018, and paid $1,500[^10]. In October 2018 she received CPF contributions from a company known as xxx Pte[^11].
 
-48     She is also attending some course to upgrade her skills[\[note: 12\]](#Ftn_12). This means that she will have an increased earning capacity once her skills are upgraded.
+48     She is also attending some course to upgrade her skills[^12]. This means that she will have an increased earning capacity once her skills are upgraded.
 
 49     This shows that the Mother does have some source of income to supplement the maintenance contributed by the Father. This again, is a positive change in the Mother’s circumstances.
 
@@ -212,7 +213,7 @@ b)     Now, the Mother is receiving $1,500 from the Father, some income on 
 
 54     In relation to the Mother’s prayers for the Father to pay for the eldest son’s tertiary education, I also dismissed it. This is because based on the current situation, the eldest son has not incurred such expenses. If the expenses had not been incurred, there is no material change in circumstances which will warrant a variation of the maintenance upwards.
 
-55     The son is still in National Service. Even in his own affidavit, there is no estimate of the costs to be incurred[\[note: 13\]](#Ftn_13).
+55     The son is still in National Service. Even in his own affidavit, there is no estimate of the costs to be incurred[^13].
 
 56     It is therefore premature for the Mother to use this as a basis for an upward variation of the Maintenance Order.
 
@@ -236,7 +237,7 @@ _“On the application of any person receiving or ordered to pay a monthly allow
 
 64     Even if Section 72 is applicable here, there are no authorities brought forth by the Mother on what would constitute “_good cause”_, and there are no precedents which can persuade this Court to find that the situation here falls squarely within the definition of “_good cause”_.
 
-65     In the case of _TCG v. TCH[\[note: 14\]](#Ftn_14)_, the court found that the husband’s relocation to Shanghai constituted good cause to vary the terms of the consent order. The husband’s relocation meant that it would be impractical for him to continue managing the finances of the family, and this was good cause to vary the consent order to provide that the husband was to pay a global sum each month for the wife to manage payments to the third parties.
+65     In the case of _TCG v. TCH[^14]_, the court found that the husband’s relocation to Shanghai constituted good cause to vary the terms of the consent order. The husband’s relocation meant that it would be impractical for him to continue managing the finances of the family, and this was good cause to vary the consent order to provide that the husband was to pay a global sum each month for the wife to manage payments to the third parties.
 
 66     Here, what the Mother says are “_good cause”_ are circumstances which the Court had already taken into consideration when the Maintenance Order at the first instance. The Mother and the children were staying at the shelter then. There has not been a change in their accommodation arrangements. Moreover, the 3rd child did not have tuition then and is still not receiving tuition now. The costs of tuition have not been incurred. Moreover, there is no evidence to show that the child is in dire need to receive tuition.
 
@@ -246,33 +247,33 @@ _“On the application of any person receiving or ordered to pay a monthly allow
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Paragraph 9 Plaintiff’s Affidavit 7 Nov 2018
+[^1]: Paragraph 9 Plaintiff’s Affidavit 7 Nov 2018
 
-[\[note: 2\]](#Ftn_2_1)Paragraphs 4-5 Affidavit of B
+[^2]: Paragraphs 4-5 Affidavit of B
 
-[\[note: 3\]](#Ftn_3_1)Paragraph 52 Plaintiff’s Affidavit 23 January 2019
+[^3]: Paragraph 52 Plaintiff’s Affidavit 23 January 2019
 
-[\[note: 4\]](#Ftn_4_1)Paragraph 5 Plaintiff’s Affidavit 7 November 2018
+[^4]: Paragraph 5 Plaintiff’s Affidavit 7 November 2018
 
-[\[note: 5\]](#Ftn_5_1)Page 7 Plaintiff’s Affidavit 7 November 2018
+[^5]: Page 7 Plaintiff’s Affidavit 7 November 2018
 
-[\[note: 6\]](#Ftn_6_1)Paragraph 9 Plaintiff’s Affidavit 7 November 2018
+[^6]: Paragraph 9 Plaintiff’s Affidavit 7 November 2018
 
-[\[note: 7\]](#Ftn_7_1)Page 38 Plaintiff’s Affidavit 23 January 2019
+[^7]: Page 38 Plaintiff’s Affidavit 23 January 2019
 
-[\[note: 8\]](#Ftn_8_1)Page 32 Plaintiff’s Affidavit 23 January 2019
+[^8]: Page 32 Plaintiff’s Affidavit 23 January 2019
 
-[\[note: 9\]](#Ftn_9_1)Affidavit of Ms Remya filed 1 April 2019
+[^9]: Affidavit of Ms Remya filed 1 April 2019
 
-[\[note: 10\]](#Ftn_10_1)Page 42 Plaintiff’s Affidavit 23 January 2019
+[^10]: Page 42 Plaintiff’s Affidavit 23 January 2019
 
-[\[note: 11\]](#Ftn_11_1)Page 43 Plaintiff’s Affidavit 23 January 2019
+[^11]: Page 43 Plaintiff’s Affidavit 23 January 2019
 
-[\[note: 12\]](#Ftn_12_1)Paragraph 7 Plaintiff’s Affidavit 7 November 2018
+[^12]: Paragraph 7 Plaintiff’s Affidavit 7 November 2018
 
-[\[note: 13\]](#Ftn_13_1)Paragraph 6 Affidavit of B
+[^13]: Paragraph 6 Affidavit of B
 
-[\[note: 14\]](#Ftn_14_1)\[2015\] SGFC47
+[^14]: \[2015\] SGFC47
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23083-SSP.xml)

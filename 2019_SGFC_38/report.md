@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # TOF _v_ TOE  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">FC/OSG 19/2017 &amp; FC/OSG 74/2017 &amp; FC/OSG 181/2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">19 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Toh Wee San</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Plaintiff-in-Person; Defendant-in-Person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">TOF — TOE</td></tr></tbody></table>
@@ -14,21 +15,21 @@ Relocation; Care and Control and Access to child
 
 2       H, a UK citizen and W, a South Korean citizen were married around 2000 and lived in several Asian countries. They moved to Singapore around early 2007 as H had a job here. They had a child in 2010 and H stopped working but held an employment pass and subsequently lost it. Presently H and W are residing in Singapore on a visitor’s and dependent’s pass respectively. The child (carrying a UK passport) is on a student pass. Since 2014, W separated from H. Parties have joint care and control (CC) over child, but W claimed that she has been denied access in bad faith. H claimed that the child did not want to see W on certain occasions and he was unable to carry out the CC order. Parties started filing applications against each other since 2014.
 
-3       Parties had gone before other district judges before me. When they came before me, there were several applications pending. I decided to hear them on the applications related to relocation and CC before the rest. Broadly H applied to relocate his child back to UK with him and W’s applied for sole care and control over the son[\[note: 1\]](#Ftn_1). Parties objected to each other’s application. Earlier on W had applied to restrain the child from leaving Singapore without her permission and an interim travel ban was issued pending the conclusion of the relocation application. Parties had joint CC and entered into a consent order to record this[\[note: 2\]](#Ftn_2), but W disputed that she consented to that. Parties were directed to attend mediation, counselling and a custody evaluation was called earlier on but to no success. I understand that parties were resistant to closed evaluation reports. A child representative (CR) was appointed in 2018 and he reported his findings to assist the court in the present instance. W disagreed with the CR’s report.
+3       Parties had gone before other district judges before me. When they came before me, there were several applications pending. I decided to hear them on the applications related to relocation and CC before the rest. Broadly H applied to relocate his child back to UK with him and W’s applied for sole care and control over the son[^1]. Parties objected to each other’s application. Earlier on W had applied to restrain the child from leaving Singapore without her permission and an interim travel ban was issued pending the conclusion of the relocation application. Parties had joint CC and entered into a consent order to record this[^2], but W disputed that she consented to that. Parties were directed to attend mediation, counselling and a custody evaluation was called earlier on but to no success. I understand that parties were resistant to closed evaluation reports. A child representative (CR) was appointed in 2018 and he reported his findings to assist the court in the present instance. W disagreed with the CR’s report.
 
 4       After hearing both sides, I issued my order as attached. In short, I allowed H’s application to relocate subject to certain conditions. These conditions required H to nominate experts to facilitate supervised exchange and to counsel the family to overcome the difficulties faced by them in respect of the weekly child access. W appealed against my decision. I now provide my decision and reasons below.
 
 ## The Law
 
-5       Regarding relocation, the welfare of the child is the paramount and overriding consideration[\[note: 3\]](#Ftn_3). For relocation, case law clarifies that each case is unique and has to be decided on its unique facts. There is no presumption in favour of allowing relocation even when the primary caregiver’s desire to relocate is not unreasonable or founded in bad faith. The loss in bonding with the left behind parent and ways to remedy or support this are important.
+5       Regarding relocation, the welfare of the child is the paramount and overriding consideration[^3]. For relocation, case law clarifies that each case is unique and has to be decided on its unique facts. There is no presumption in favour of allowing relocation even when the primary caregiver’s desire to relocate is not unreasonable or founded in bad faith. The loss in bonding with the left behind parent and ways to remedy or support this are important.
 
-6       Regarding CC or change in CC, similarly the welfare of the child is paramount and there are some factors which the court should consider – child, each parent’s wishes, continuity of child’s present arrangement, bond with each parent etc. One high court case noted that it will take a unique set of conditions to order shared CC[\[note: 4\]](#Ftn_4). In that case, the parties were acrimonious and child too young to be shuffled, hence joint CC was not ordered.
+6       Regarding CC or change in CC, similarly the welfare of the child is paramount and there are some factors which the court should consider – child, each parent’s wishes, continuity of child’s present arrangement, bond with each parent etc. One high court case noted that it will take a unique set of conditions to order shared CC[^4]. In that case, the parties were acrimonious and child too young to be shuffled, hence joint CC was not ordered.
 
 ## Relocation issue
 
 #### Party’ case in brief:
 
-7       H first filed his relocation application in 2016[\[note: 5\]](#Ftn_5) under the first divorce application by W. As that divorce application has been dismissed, his relocation application was also concluded. He then applied again to relocate with his child and W (if she wishes) in 2017[\[note: 6\]](#Ftn_6). H’s case was essentially that he was a foreigner with no permission to work in Singapore. Hence he should be permitted to relocate his family back to UK, so that he can work to support his child and W. More-ever he has been a full time father for the child and shared a close relationship with the child. H submitted a detailed relocation plan[\[note: 7\]](#Ftn_7) as directed regardless of whether the court permits relocation.
+7       H first filed his relocation application in 2016[^5] under the first divorce application by W. As that divorce application has been dismissed, his relocation application was also concluded. He then applied again to relocate with his child and W (if she wishes) in 2017[^6]. H’s case was essentially that he was a foreigner with no permission to work in Singapore. Hence he should be permitted to relocate his family back to UK, so that he can work to support his child and W. More-ever he has been a full time father for the child and shared a close relationship with the child. H submitted a detailed relocation plan[^7] as directed regardless of whether the court permits relocation.
 
 8       W’s case was H’s true motive for relocation was to run away from the outstanding divorce, maintenance and related matters. H had not shown evidence that he can secure employment outside Singapore and he was a well- connected and savvy businessman. W pointed out that H was financially sound as he could afford monthly rental of $20 000, a new motor vehicle costing about $ 300 000, frequent travels and employing a foreign domestic helper despite being unemployed. W argued that relocation would separate the child from her. W did not intend to follow H to UK, neither did she think that she can reside or work in UK. She had been the child’s primary care-giver since birth. She shared a close relationship with the child. Though directed, W did not provide any relocation plan.
 
@@ -36,7 +37,7 @@ Relocation; Care and Control and Access to child
 
 9       I was persuaded that the child should be permitted to relocate to UK after considering the various factors below.
 
-## a.   Submission by Child Representative, i.e. the Child Representative’s Report (CRR)**[\[note: 8\]](#Ftn_8)**
+## a.   Submission by Child Representative, i.e. the Child Representative’s Report (CRR)**[^8]**
 
 10     W argued that the CRR was not reliable and should not be given weightage. Her reasons were:
 
@@ -50,7 +51,7 @@ iv.      _CR was not objective._
 
 H countered that the CRR was independent and had no reason to take sides.
 
-11     I was not persuaded that the CRR should be disregarded. On the contrary, the CRR was carried out by an independent and impartial expert and can be relied upon. The CRR also reviewed both the access and relocation issues with an appreciation of the constraints of the parties’ situation. For example, the CRR described the meeting the child had with both parents and reported that the child was comfortable with both parents[\[note: 9\]](#Ftn_9). CRR also reported that the meeting meant for the W and child did not materialise and the circumstances surrounding that episode[\[note: 10\]](#Ftn_10). The CRR stressed that the report was given subject to the limitations that there was a lack of opportunity for the CR to observe the interaction between the child and W and the fact that W has not had an equal opportunity to spend equal time with the child despite an existing court order. The CRR did not recommend whether the child should be permitted to relocate but listed factors which the court ought to consider and these factors are in turn considered below. The CRR recommended shared CC and opined that this would still be workable if H relocates with the child to UK, as long as W also goes to UK[\[note: 11\]](#Ftn_11).
+11     I was not persuaded that the CRR should be disregarded. On the contrary, the CRR was carried out by an independent and impartial expert and can be relied upon. The CRR also reviewed both the access and relocation issues with an appreciation of the constraints of the parties’ situation. For example, the CRR described the meeting the child had with both parents and reported that the child was comfortable with both parents[^9]. CRR also reported that the meeting meant for the W and child did not materialise and the circumstances surrounding that episode[^10]. The CRR stressed that the report was given subject to the limitations that there was a lack of opportunity for the CR to observe the interaction between the child and W and the fact that W has not had an equal opportunity to spend equal time with the child despite an existing court order. The CRR did not recommend whether the child should be permitted to relocate but listed factors which the court ought to consider and these factors are in turn considered below. The CRR recommended shared CC and opined that this would still be workable if H relocates with the child to UK, as long as W also goes to UK[^11].
 
 ## b.   H’s application to relocate – was it reasonable?
 
@@ -58,7 +59,7 @@ H countered that the CRR was independent and had no reason to take sides.
 
 ## c.   Education opportunities
 
-13     Case law states that a relocation that provides good education opportunities is also treated positively[\[note: 12\]](#Ftn_12). In the present instance, I was persuaded that the relocation back to UK will provide wider options for the child especially for an education in the English language given that he was primarily schooled in an English language environment.
+13     Case law states that a relocation that provides good education opportunities is also treated positively[^12]. In the present instance, I was persuaded that the relocation back to UK will provide wider options for the child especially for an education in the English language given that he was primarily schooled in an English language environment.
 
 ## d.   Terms of relocation
 
@@ -80,13 +81,13 @@ H countered that the CRR was independent and had no reason to take sides.
 
 #### Party’s case in brief
 
-19     According to the court’s records, parties had entered into a consent order for shared CC sometime in May 2018 before another District Judge (the consent order)[\[note: 13\]](#Ftn_13). From an old arrangement, H had CC from Thursday after school to Sunday afternoon while W had CC for the remaining days weekly. W disputed that she consented but there was no evidence to support such a position other than her affidavit evidence. W further asserted that H had intentionally frustrated the court order on shared. W’s case was the child faced tremendous pressure from H and was therefore afraid to go to or express his affection for her. W asserted that H had an unpleasant personality, was not a good role-model and should not be given joint CC. On the other hand, W asserted that she had been a full time mother to the child since birth and shared a close relationship with him. Before the parties separated, W was the hands-on parent to the child. She looked after the child without any helper for some time, was the main contact person for child’s schooling and enrichment classes. W asserted that H was not a suitable caregiver for the child. In fact, H relied heavily on his helper to do so. He overindulged and spoiled the child. H was highly uncooperative and sought to alienate W from the child. H’s plan to bring the child back to UK was disruptive to the child’s life.
+19     According to the court’s records, parties had entered into a consent order for shared CC sometime in May 2018 before another District Judge (the consent order)[^13]. From an old arrangement, H had CC from Thursday after school to Sunday afternoon while W had CC for the remaining days weekly. W disputed that she consented but there was no evidence to support such a position other than her affidavit evidence. W further asserted that H had intentionally frustrated the court order on shared. W’s case was the child faced tremendous pressure from H and was therefore afraid to go to or express his affection for her. W asserted that H had an unpleasant personality, was not a good role-model and should not be given joint CC. On the other hand, W asserted that she had been a full time mother to the child since birth and shared a close relationship with him. Before the parties separated, W was the hands-on parent to the child. She looked after the child without any helper for some time, was the main contact person for child’s schooling and enrichment classes. W asserted that H was not a suitable caregiver for the child. In fact, H relied heavily on his helper to do so. He overindulged and spoiled the child. H was highly uncooperative and sought to alienate W from the child. H’s plan to bring the child back to UK was disruptive to the child’s life.
 
 20     H rebutted that it was the child who refused to have access with W due to her acrimonious, unreasonable conduct and the unpleasant experiences they had with W. In short W had refused to co-parent or discuss with H and the child regarding the child’s plans or preference. Both asserted that each had mental health issues, their child suffered from tremendous stress being with the other party and both rejected each other’s assertion. Both asked for sole CC over the child.
 
 #### Decision and reasons
 
-21     I was not persuaded that the consent order was invalid in view that W had no contemporaneous or corroborative evidence to support her assertion. Next, my view was the assertions by both sides were inconclusive. I declined to order either one or the child for any mental health examination. Looking at the CRR and evidence before me, I opined that the child’s interest was best served by retaining the joint CC by both parents, as proposed by the CRR and earlier orders. The present facts can be distinguished from the High Court case which rejected joint CC as the child was too young to be shuffled[\[note: 14\]](#Ftn_14). In this instance the child was comfortable with both parties as observed by the CRR. The difficulty which was also echoed by the CRR was how should / can parties cooperate and carry out the joint CC. Consistent with the proposals provided by the CRR, I largely ordered parties to nominate expert(s) for my appointment to carry out supervised access and counselling to help them overcome their difficulties. I also directed that a report shall be prepared at the stipulated time to update me on the progress by parties before I fix a date for the child’s relocation to UK. As W had lost precious access time with the child, I ordered make-up access for her. As W has been a full time home-maker throughout the marriage, she has lesser financial means and capability. Hence I order H to pay for the supervised exchange and counselling which would benefit the family. The order also contained actions required from H to facilitate W to relocate with them if she wish and the access arrangement if W does not relocate with them. A penal notice to parties was also included in view of the deep acrimony behind this case.
+21     I was not persuaded that the consent order was invalid in view that W had no contemporaneous or corroborative evidence to support her assertion. Next, my view was the assertions by both sides were inconclusive. I declined to order either one or the child for any mental health examination. Looking at the CRR and evidence before me, I opined that the child’s interest was best served by retaining the joint CC by both parents, as proposed by the CRR and earlier orders. The present facts can be distinguished from the High Court case which rejected joint CC as the child was too young to be shuffled[^14]. In this instance the child was comfortable with both parties as observed by the CRR. The difficulty which was also echoed by the CRR was how should / can parties cooperate and carry out the joint CC. Consistent with the proposals provided by the CRR, I largely ordered parties to nominate expert(s) for my appointment to carry out supervised access and counselling to help them overcome their difficulties. I also directed that a report shall be prepared at the stipulated time to update me on the progress by parties before I fix a date for the child’s relocation to UK. As W had lost precious access time with the child, I ordered make-up access for her. As W has been a full time home-maker throughout the marriage, she has lesser financial means and capability. Hence I order H to pay for the supervised exchange and counselling which would benefit the family. The order also contained actions required from H to facilitate W to relocate with them if she wish and the access arrangement if W does not relocate with them. A penal notice to parties was also included in view of the deep acrimony behind this case.
 
 22     Subsequent to my orders, parties did not make any nomination of expert despite an extension of time given for them to do so. H explained that he was unable to secure any expert to do so and my orders were unclear. H also applied to vary my order and this is pending. I did not appoint any expert since none was nominated. I also did not nominate any on my own accord as I was not persuaded by H’s position. In my view, the experts envisaged by my orders were not uncommon. The effect of the above means that clause 1 of the order has been stayed for now.
 
@@ -130,33 +131,33 @@ If you the within named (insert both parties’ names) neglect to obey this orde
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)OSG19/2017 Summons 3619/2018
+[^1]: OSG19/2017 Summons 3619/2018
 
-[\[note: 2\]](#Ftn_2_1)Consent order was recorded under case reference OSG19/2017 Summons xx11/2017.
+[^2]: Consent order was recorded under case reference OSG19/2017 Summons xx11/2017.
 
-[\[note: 3\]](#Ftn_3_1)BNS v BNT (2015) 3 SLR 973 and UFZ v UFY (2018) SGHCF 8
+[^3]: BNS v BNT (2015) 3 SLR 973 and UFZ v UFY (2018) SGHCF 8
 
-[\[note: 4\]](#Ftn_4_1)CX v CY (2005)1 SGHC 16
+[^4]: CX v CY (2005)1 SGHC 16
 
-[\[note: 5\]](#Ftn_5_1)Dxxxx/2014 Summons xx02/2016 filed 20 September 2016.
+[^5]: Dxxxx/2014 Summons xx02/2016 filed 20 September 2016.
 
-[\[note: 6\]](#Ftn_6_1)OSG 74/2017 filed 3 April 2017.
+[^6]: OSG 74/2017 filed 3 April 2017.
 
-[\[note: 7\]](#Ftn_7_1)H’s affidavit dated 13 August 2018.
+[^7]: H’s affidavit dated 13 August 2018.
 
-[\[note: 8\]](#Ftn_8_1)Submission by Child Representative dated 8 June 2018 (CRR).
+[^8]: Submission by Child Representative dated 8 June 2018 (CRR).
 
-[\[note: 9\]](#Ftn_9_1)Paragraph 40 to 58, CRR.
+[^9]: Paragraph 40 to 58, CRR.
 
-[\[note: 10\]](#Ftn_10_1)Paragraph 73 to 95, CRR.
+[^10]: Paragraph 73 to 95, CRR.
 
-[\[note: 11\]](#Ftn_11_1)Paragraph 125, CRR
+[^11]: Paragraph 125, CRR
 
-[\[note: 12\]](#Ftn_12_1)See Paragraph 9.30, page 348 of “International Issues in Family Law in Singapore” byDebbie Ong and the case cited was Tan Kah Imm v D’Aranjo Joanne Abegail (1998) SGHC 247, at \[35\] to \[36\].
+[^12]: See Paragraph 9.30, page 348 of “International Issues in Family Law in Singapore” byDebbie Ong and the case cited was Tan Kah Imm v D’Aranjo Joanne Abegail (1998) SGHC 247, at \[35\] to \[36\].
 
-[\[note: 13\]](#Ftn_13_1)See footnote 1.
+[^13]: See footnote 1.
 
-[\[note: 14\]](#Ftn_14_1)See footnote 4.
+[^14]: See footnote 4.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22944-SSP.xml)

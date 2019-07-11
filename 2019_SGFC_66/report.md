@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # UXJ _v_ UXK  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce No. 2725 of 2010, District Court Appeal No. 34 of 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">26 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Wendy Yu</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">P/C: Mr Johnson Loo Teck Wee [Drew &amp; Napier] for the Plaintiff; D/C: Ms Prasanna [Raj Prasanna &amp; Partners] for the Defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UXJ — UXK</td></tr></tbody></table>
@@ -10,7 +11,7 @@ Variation of Maintenance - Material Change in circumstances
 
 ## Introduction
 
-1       The parties were divorced and the ancillary order was granted on 8 August 2012. The parties have two children, namely the elder child R1 and the younger child, R2 (“R2”). The Appellant Husband was the Defendant in the divorce, while the Respondent Wife was the Plaintiff. For ease of reference, the Appellant shall be referred to as the Defendant, while the Respondent shall be referred to as the Plaintiff. The Plaintiff is an Intellectual Property clerk[\[note: 1\]](#Ftn_1) while the Defendant is a lawyer.
+1       The parties were divorced and the ancillary order was granted on 8 August 2012. The parties have two children, namely the elder child R1 and the younger child, R2 (“R2”). The Appellant Husband was the Defendant in the divorce, while the Respondent Wife was the Plaintiff. For ease of reference, the Appellant shall be referred to as the Defendant, while the Respondent shall be referred to as the Plaintiff. The Plaintiff is an Intellectual Property clerk[^1] while the Defendant is a lawyer.
 
 2       One of the orders made by consent in the ancillary order dated 8 August 2012 was for the maintenance of the children of the marriage, as follows:
 
@@ -34,25 +35,25 @@ _“By consent, the Defendant shall pay $1,000 per month for the minor child of 
 
 ## The Plaintiff’s Submissions
 
-4       The Plaintiff’s application is based on a material change in circumstances arising from R2 being enrolled successfully into Nanyang Technological University on 1 June 2018 to read Computer Science and has commenced her 4-year degree course on 27 July 2018.[\[note: 2\]](#Ftn_2) At the time the AM order was made, R2 was 13 years old.[\[note: 3\]](#Ftn_3) It has been more than 6 years since then. R2 is currently 19 years old.[\[note: 4\]](#Ftn_4)
+4       The Plaintiff’s application is based on a material change in circumstances arising from R2 being enrolled successfully into Nanyang Technological University on 1 June 2018 to read Computer Science and has commenced her 4-year degree course on 27 July 2018.[^2] At the time the AM order was made, R2 was 13 years old.[^3] It has been more than 6 years since then. R2 is currently 19 years old.[^4]
 
-5       The Plaintiff has submitted that the monthly maintenance of $2500 per month sought is very reasonable, with the Defendant’s share of the expenses at $2500 per month being in the proportion of 65%. The Plaintiff has further submitted that this is not unreasonable given that in the AM proceedings, the agreed monthly contribution of $1000 by the Defendant would be about 71.7% of the expenses. [\[note: 5\]](#Ftn_5)
+5       The Plaintiff has submitted that the monthly maintenance of $2500 per month sought is very reasonable, with the Defendant’s share of the expenses at $2500 per month being in the proportion of 65%. The Plaintiff has further submitted that this is not unreasonable given that in the AM proceedings, the agreed monthly contribution of $1000 by the Defendant would be about 71.7% of the expenses. [^5]
 
-6       The Plaintiff has also cited several cases, including the High Court decision of **_TBC v TBD (“TBC”)_** to support her position that whilst the starting point should be that the parents bear the financial burden equally, this is not an inflexible rule[\[note: 6\]](#Ftn_6).
+6       The Plaintiff has also cited several cases, including the High Court decision of **_TBC v TBD (“TBC”)_** to support her position that whilst the starting point should be that the parents bear the financial burden equally, this is not an inflexible rule[^6].
 
-7       The Plaintiff further added that even though the Defendant has claimed that his income has dropped, his employment and income earning circumstances have actually not changed in any substantive way. [\[note: 7\]](#Ftn_7) The Plaintiff has also highlighted to the Court that the Defendant’s position against R2 staying at the hostel is unacceptable as R2 lives with the Plaintiff at Tampines while NTU is in the West and R2 would spend too much time travelling if she did not live in the hostel. [\[note: 8\]](#Ftn_8)
+7       The Plaintiff further added that even though the Defendant has claimed that his income has dropped, his employment and income earning circumstances have actually not changed in any substantive way. [^7] The Plaintiff has also highlighted to the Court that the Defendant’s position against R2 staying at the hostel is unacceptable as R2 lives with the Plaintiff at Tampines while NTU is in the West and R2 would spend too much time travelling if she did not live in the hostel. [^8]
 
 ## The Defendant’s Submissions
 
-8       The Defendant has submitted that the material change must be material adverse change of circumstances before the Court can vary the maintenance order[\[note: 9\]](#Ftn_9), and that there has been a change in circumstances but no material adverse change of circumstances[\[note: 10\]](#Ftn_10).
+8       The Defendant has submitted that the material change must be material adverse change of circumstances before the Court can vary the maintenance order[^9], and that there has been a change in circumstances but no material adverse change of circumstances[^10].
 
-9       The Defendant has also submitted that the maintenance sum of $2500 claimed is excessive and that the maintenance sum of $1000 that was originally agreed at the ancillaries should remain[\[note: 11\]](#Ftn_11) as the expenses, including that of staying in hostel should not exceed $21,000 per year. The Defendant has stated that $770 per month would be a reasonable sum of maintenance for R2[\[note: 12\]](#Ftn_12). The Defendant further contended that there is no necessity for R2 to be staying in a hostel, and even if it was necessary for her to do so, it should not be a single room with attached toilet, but a twin sharing room[\[note: 13\]](#Ftn_13). The Defendant also disagreed that he should bear the costs of purchase of R2’s laptop, as the laptop is still working.
+9       The Defendant has also submitted that the maintenance sum of $2500 claimed is excessive and that the maintenance sum of $1000 that was originally agreed at the ancillaries should remain[^11] as the expenses, including that of staying in hostel should not exceed $21,000 per year. The Defendant has stated that $770 per month would be a reasonable sum of maintenance for R2[^12]. The Defendant further contended that there is no necessity for R2 to be staying in a hostel, and even if it was necessary for her to do so, it should not be a single room with attached toilet, but a twin sharing room[^13]. The Defendant also disagreed that he should bear the costs of purchase of R2’s laptop, as the laptop is still working.
 
-10     The Defendant highlighted to the Court the case of **_APE v APF \[SGHC\] SGHC 17_** where Tan Siong Thye J has stated that “it is trite that maintenance is ordered in order to meet the reasonable needs of the child and if the child’s lifestyle is overly extravagant, the husband should not be made to bear the costs of it”[\[note: 14\]](#Ftn_14).
+10     The Defendant highlighted to the Court the case of **_APE v APF \[SGHC\] SGHC 17_** where Tan Siong Thye J has stated that “it is trite that maintenance is ordered in order to meet the reasonable needs of the child and if the child’s lifestyle is overly extravagant, the husband should not be made to bear the costs of it”[^14].
 
-11     The Defendant has also argued that R2 should supplement the maintenance given to her by doing part time work[\[note: 15\]](#Ftn_15).
+11     The Defendant has also argued that R2 should supplement the maintenance given to her by doing part time work[^15].
 
-12     On the issue of proportion, the Defendant has submitted that he should be contributing 50% of the fees as both the parties have an equal responsibility to maintain a child of the marriage and that in circumstances where the parties are able to pay from their disposable income equally, then the court should order contribution in equal shares[\[note: 16\]](#Ftn_16).
+12     On the issue of proportion, the Defendant has submitted that he should be contributing 50% of the fees as both the parties have an equal responsibility to maintain a child of the marriage and that in circumstances where the parties are able to pay from their disposable income equally, then the court should order contribution in equal shares[^16].
 
 ## Orders Made
 
@@ -112,9 +113,9 @@ _It was therefore open to the Judge to consider other factors, including the rel
 
 #### Income, Earning capacity and Financial Obligations of both parties
 
-21     The Defendant has declared his current annual income to be $90,000[\[note: 17\]](#Ftn_17), which works out to a monthly income of $7500. This amount has been disputed by the Plaintiff, who has argued that the Defendant has “downplayed” his earnings as the Defendant was earning an annual sum of $145,000 to $154,000 during the divorce proceedings[\[note: 18\]](#Ftn_18). The Plaintiff has also highlighted with evidence that the Defendant is currently a Director of 4 companies and a shareholder of a few companies as well.[\[note: 19\]](#Ftn_19) The Defendant has since remarried and his current wife is a lawyer whom the Defendant has stated is not dependent on him[\[note: 20\]](#Ftn_20). The Defendant has also declared his monthly expenses to be in the sum of $6376 per month (which includes the monthly sum of $1000 of current maintenance for R2[\[note: 21\]](#Ftn_21)). The Defendant has stated in his affidavit that he does not have sufficient funds in his CPF Ordinary Account[\[note: 22\]](#Ftn_22) and that any contribution to R2’s school fees will be in cash.
+21     The Defendant has declared his current annual income to be $90,000[^17], which works out to a monthly income of $7500. This amount has been disputed by the Plaintiff, who has argued that the Defendant has “downplayed” his earnings as the Defendant was earning an annual sum of $145,000 to $154,000 during the divorce proceedings[^18]. The Plaintiff has also highlighted with evidence that the Defendant is currently a Director of 4 companies and a shareholder of a few companies as well.[^19] The Defendant has since remarried and his current wife is a lawyer whom the Defendant has stated is not dependent on him[^20]. The Defendant has also declared his monthly expenses to be in the sum of $6376 per month (which includes the monthly sum of $1000 of current maintenance for R2[^21]). The Defendant has stated in his affidavit that he does not have sufficient funds in his CPF Ordinary Account[^22] and that any contribution to R2’s school fees will be in cash.
 
-22     The Plaintiff has exhibited her Notice of Assessment in her 2nd Affidavit, and stated that her annual gross salary for 2018 is $44,789.16[\[note: 23\]](#Ftn_23), which works out to be approximately $3732 per month.
+22     The Plaintiff has exhibited her Notice of Assessment in her 2nd Affidavit, and stated that her annual gross salary for 2018 is $44,789.16[^23], which works out to be approximately $3732 per month.
 
 23     Considering the earning capacity, current income and financial obligations of both parties, I accepted the Plaintiff’s submission that it is reasonable for the Defendant to bear 65% of R2’s expenses and fees.
 
@@ -131,7 +132,7 @@ I have therefore set out expenses of the R2 (excluding the school fees and schoo
   
   
 
-25     In determining the above figures, I took into consideration the standard of living of R2 and the sum of $1000 that was previously agreed for her maintenance at the ancillary proceedings, as well as the station in life of her parents. I noted that in the affidavit of means filed at the ancillaries stage, that the Plaintiff had already indicated claims back then for holidays of $2400 per year, as well as birthday parties with expenses of $240 per year[\[note: 26\]](#Ftn_26). I therefore found it reasonable to order the Defendant to pay the Plaintiff a monthly sum of $1300 for the maintenance of R2, which works out to be about 65% of the sum of $1964.85. This figure of $1964.85 has been assessed broadly as this figure may fluctuate month to month. The sum ordered is with effect from July 2018, which is from the date when R2 started her university course.
+25     In determining the above figures, I took into consideration the standard of living of R2 and the sum of $1000 that was previously agreed for her maintenance at the ancillary proceedings, as well as the station in life of her parents. I noted that in the affidavit of means filed at the ancillaries stage, that the Plaintiff had already indicated claims back then for holidays of $2400 per year, as well as birthday parties with expenses of $240 per year[^26]. I therefore found it reasonable to order the Defendant to pay the Plaintiff a monthly sum of $1300 for the maintenance of R2, which works out to be about 65% of the sum of $1964.85. This figure of $1964.85 has been assessed broadly as this figure may fluctuate month to month. The sum ordered is with effect from July 2018, which is from the date when R2 started her university course.
 
 26     For R2’s share of the common/household expenses, instead of allowing the amount of $885.27 that the Plaintiff is requesting for, I have reduced it to $500 as R2 will spend most of her time at the hostel instead of staying at home with the Plaintiff. It is fair that her share of the expenses be reduced, although I note that certain expenses would have been incurred regardless of whether R2 would be at home, such as the helper’s expenses.
 
@@ -143,57 +144,57 @@ I have therefore set out expenses of the R2 (excluding the school fees and schoo
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Paragraph 77, Plaintiff’s 1st Affidavit dated 30 October 2018
+[^1]: Paragraph 77, Plaintiff’s 1st Affidavit dated 30 October 2018
 
-[\[note: 2\]](#Ftn_2_1)Paragraph 3, Plaintiff’s Submissions
+[^2]: Paragraph 3, Plaintiff’s Submissions
 
-[\[note: 3\]](#Ftn_3_1)Paragraph 8, Plaintiff’s Submissions
+[^3]: Paragraph 8, Plaintiff’s Submissions
 
-[\[note: 4\]](#Ftn_4_1)Paragraph 9, Plaintiff’s Submissions
+[^4]: Paragraph 9, Plaintiff’s Submissions
 
-[\[note: 5\]](#Ftn_5_1)Paragraphs 23 and 24 of Plaintiff’s Submissions
+[^5]: Paragraphs 23 and 24 of Plaintiff’s Submissions
 
-[\[note: 6\]](#Ftn_6_1)Paragraph 25 of the Plaintiff’s Submissions
+[^6]: Paragraph 25 of the Plaintiff’s Submissions
 
-[\[note: 7\]](#Ftn_7_1)Paragraph 28 of Plaintiff’s submissions
+[^7]: Paragraph 28 of Plaintiff’s submissions
 
-[\[note: 8\]](#Ftn_8_1)Paragraph 37(b) of Plaintiff’s submissions
+[^8]: Paragraph 37(b) of Plaintiff’s submissions
 
-[\[note: 9\]](#Ftn_9_1)Paragraph 15 of the Defendant’s Submissions
+[^9]: Paragraph 15 of the Defendant’s Submissions
 
-[\[note: 10\]](#Ftn_10_1)Paragraph 17 of the Defendant’s Submissions
+[^10]: Paragraph 17 of the Defendant’s Submissions
 
-[\[note: 11\]](#Ftn_11_1)Page 4, Notes of Evidence
+[^11]: Page 4, Notes of Evidence
 
-[\[note: 12\]](#Ftn_12_1)Paragraph 27 of the Defendant’s Affidavit of 2 January 2019
+[^12]: Paragraph 27 of the Defendant’s Affidavit of 2 January 2019
 
-[\[note: 13\]](#Ftn_13_1)Page 5, Notes of Evidence
+[^13]: Page 5, Notes of Evidence
 
-[\[note: 14\]](#Ftn_14_1)Paragraph 43, _APE v APF_ , at \[43\]
+[^14]: Paragraph 43, _APE v APF_ , at \[43\]
 
-[\[note: 15\]](#Ftn_15_1)Paragraph 31 of the Defendant’s Affidavit dated 2 January 2019
+[^15]: Paragraph 31 of the Defendant’s Affidavit dated 2 January 2019
 
-[\[note: 16\]](#Ftn_16_1)Paragraph 69 of the Defendant’s Affidavit dated 2 January 2019
+[^16]: Paragraph 69 of the Defendant’s Affidavit dated 2 January 2019
 
-[\[note: 17\]](#Ftn_17_1)Paragraph 16, Defendant’s Affidavit dated 2 January 2019
+[^17]: Paragraph 16, Defendant’s Affidavit dated 2 January 2019
 
-[\[note: 18\]](#Ftn_18_1)Paragraphs 18 and 19 of Plaintiff’s Affidavit dated 1 February 2019
+[^18]: Paragraphs 18 and 19 of Plaintiff’s Affidavit dated 1 February 2019
 
-[\[note: 19\]](#Ftn_19_1)Page 122 of the Plaintiff’s Affidavit dated 30 October 2018
+[^19]: Page 122 of the Plaintiff’s Affidavit dated 30 October 2018
 
-[\[note: 20\]](#Ftn_20_1)Paragraph 17, Defendant’s Affidavit dated 2 January 2019
+[^20]: Paragraph 17, Defendant’s Affidavit dated 2 January 2019
 
-[\[note: 21\]](#Ftn_21_1)Paragraph 20, Defendant’s Affidavit dated 2 January 2019
+[^21]: Paragraph 20, Defendant’s Affidavit dated 2 January 2019
 
-[\[note: 22\]](#Ftn_22_1)Paragraph 6 of the Defendant’s Affidavit dated 2 January 2019
+[^22]: Paragraph 6 of the Defendant’s Affidavit dated 2 January 2019
 
-[\[note: 23\]](#Ftn_23_1)Paragraph 49(c), Plaintiff’s 2nd Affidavit dated 1 February 2019
+[^23]: Paragraph 49(c), Plaintiff’s 2nd Affidavit dated 1 February 2019
 
-[\[note: 24\]](#Ftn_24_1)Paragraph 54 of the Defendant’s Affidavit of 2 January 2019
+[^24]: Paragraph 54 of the Defendant’s Affidavit of 2 January 2019
 
-[\[note: 25\]](#Ftn_25_1)Paragraph 55 of Plaintiff’s 1st Affidavit of 30 October 2018
+[^25]: Paragraph 55 of Plaintiff’s 1st Affidavit of 30 October 2018
 
-[\[note: 26\]](#Ftn_26_1)Page 50 of the Plaintiff’s 1st Affidavit of 30 October 2018.
+[^26]: Page 50 of the Plaintiff’s 1st Affidavit of 30 October 2018.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23315-SSP.xml)

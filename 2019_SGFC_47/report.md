@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # UVR _v_ UVS  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce Suit No: 2124/2016</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">18 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Christine Lee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Ang Jian Xiang (M/S Chung Ting Fai &amp; Co) for the Appellant Husband; The Respondent Wife was in Person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UVR — UVS</td></tr></tbody></table>
@@ -74,17 +75,17 @@ viii.     Other Relief
 
 ##### Increased maintenance for Respondent Wife
 
-16     The Court too note of the Appellant Husband’s Counsel’s submission that the Respondent Wife’s application was lacking in detail and that her Affidavit did not show any material change in her circumstances. Counsel further submitted that it was the Respondent Wife’s duty to provide such details which she had failed to do and that the only change was that the Respondent Wife’s Mother had joined her and that was why the Respondent Wife had needed a bigger place to stay[\[note: 1\]](#Ftn_1).
+16     The Court too note of the Appellant Husband’s Counsel’s submission that the Respondent Wife’s application was lacking in detail and that her Affidavit did not show any material change in her circumstances. Counsel further submitted that it was the Respondent Wife’s duty to provide such details which she had failed to do and that the only change was that the Respondent Wife’s Mother had joined her and that was why the Respondent Wife had needed a bigger place to stay[^1].
 
 17     In the Court’s assessment, the material change in circumstances element was made out when the Respondent Wife showed that in her attempt to give effect to the AMs Court Order, her accommodation expenses had increased in the period between the AM hearings (April/May 2017) and when she submitted her variation application in SUM 2771/2018 in August 2018. This was because the AMs Court Order only provided for the Respondent Wife’s then accommodation expenses of $850 per month for a single room, as that was the only amount that had been submitted to the Court.
 
-18     In support of her variation application, the Respondent Wife submitted documents to show that her rental expenses had initially increased to $1,800 and was currently at $1,600 per month[\[note: 2\]](#Ftn_2) when she took up bigger premises to accommodate herself and the said 2 children. As the Respondent Wife was also working to support herself, the Court was of the view that the Respondent Wife’s explanation that she needed her mother’s assistance to help her look after the said 2 children, or as it turned out, to look after the elder child (B) only, was not unreasonable. In the Court’s opinion, this did not detract from the fact that the Respondent Wife still needed to secure premises larger than a single room costing $850 per month to live in.
+18     In support of her variation application, the Respondent Wife submitted documents to show that her rental expenses had initially increased to $1,800 and was currently at $1,600 per month[^2] when she took up bigger premises to accommodate herself and the said 2 children. As the Respondent Wife was also working to support herself, the Court was of the view that the Respondent Wife’s explanation that she needed her mother’s assistance to help her look after the said 2 children, or as it turned out, to look after the elder child (B) only, was not unreasonable. In the Court’s opinion, this did not detract from the fact that the Respondent Wife still needed to secure premises larger than a single room costing $850 per month to live in.
 
 19     The Court also noted that during the AM hearings, the Court’s assessment of the sum of $600 per month as being reasonable maintenance for each of the said 2 children, was without inclusion of any apportionment of the said 2 children’s share towards their accommodation expenses. At the time, the Appellant Husband, Respondent Wife and the said 2 children were all living together in the matrimonial home and such apportionment was not submitted before the Court. Hence, no provision was made at the time of the AM hearings for an apportionment of even the elder child (B)’s, share towards his accommodation expenses when the Respondent Wife left the matrimonial home and took B with her.
 
 20     As such, the Court was of the view that there was merit in the Respondent Wife’s application for some upward revision of her monthly maintenance. Hence the Court ordered revised maintenance of $1,200 which was a difference of $350 (being $1,200 minus the current maintenance of $850) and within the remaining period provided for in the AMs Court Order, which was only up to 1 April 2020. This was in keeping with the Court’s original assessment that the maintenance payable by the Appellant Husband to the Respondent Wife, was only to assist the Respondent Wife to find financial stability for the short term after the divorce.
 
-21     The Court also noted that the Appellant Husband had reduced the maintenance payable to the Respondent Wife for the said 2 children, from the Court ordered sum of $600 per month to $300 per month as the Respondent Wife had not taken over the care and control of the younger child[\[note: 3\]](#Ftn_3) (C). This was confirmed by the Appellant Husband himself during the summons hearing[\[note: 4\]](#Ftn_4). As such, this was not a case whereby the Respondent Wife had taken advantage of the maintenance payments by the Appellant Husband for the said 2 children, as the Appellant Husband had already ensured that he was not overpaying the Respondent Wife for the maintenance of the younger child.
+21     The Court also noted that the Appellant Husband had reduced the maintenance payable to the Respondent Wife for the said 2 children, from the Court ordered sum of $600 per month to $300 per month as the Respondent Wife had not taken over the care and control of the younger child[^3] (C). This was confirmed by the Appellant Husband himself during the summons hearing[^4]. As such, this was not a case whereby the Respondent Wife had taken advantage of the maintenance payments by the Appellant Husband for the said 2 children, as the Appellant Husband had already ensured that he was not overpaying the Respondent Wife for the maintenance of the younger child.
 
 22     In addition, although the Respondent Wife had asked for an increase of up to $1,600 which was almost double the amount of the original maintenance of $850 per month that had been previously ordered, the Court had assessed that it was reasonable for the Appellant Husband to pay the revised maintenance difference of $350 per month and not the full amount requested for by the Respondent Wife.
 
@@ -96,13 +97,13 @@ viii.     Other Relief
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)See pages 48 and 49 of the Notes of Evidence.
+[^1]: See pages 48 and 49 of the Notes of Evidence.
 
-[\[note: 2\]](#Ftn_2_1)See page 54 of the Notes of Evidence.
+[^2]: See page 54 of the Notes of Evidence.
 
-[\[note: 3\]](#Ftn_3_1)See page 28 of the Notes of Evidence.
+[^3]: See page 28 of the Notes of Evidence.
 
-[\[note: 4\]](#Ftn_4_1)See page 19 of the Notes of Evidence.
+[^4]: See page 19 of the Notes of Evidence.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23064-SSP.xml)

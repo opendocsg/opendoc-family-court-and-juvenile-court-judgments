@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # UUQ _v_ UUR  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce Suit No. 6089 of 2016, District Court Appeal No. 153 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">14 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Sheik Mustafa</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">D Ganaselvarani (D Rani &amp; Co.) assigned by the Director of Legal Aid, for the plaintiff wife. Kishan Pratap (Ho Wong Law Practice LLC) assigned by the Director of Legal Aid, for the defendant husband.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UUQ — UUR</td></tr></tbody></table>
@@ -116,7 +117,7 @@ g.     in the case of a child, the manner in which he was being, and in whi
 
 h.     the conduct of each of the parties to the marriage, if the conduct is such that it would in the opinion of the Court be inequitable to disregard it.
 
-36     In TIT v TIU[\[note: 1\]](#Ftn_1) the High Court stated that the case of ANJ v ANK accepted the principle that maintenance of children should be apportioned in accordance with, inter alia, the financial capabilities of the parents.
+36     In TIT v TIU[^1] the High Court stated that the case of ANJ v ANK accepted the principle that maintenance of children should be apportioned in accordance with, inter alia, the financial capabilities of the parents.
 
 ## Conclusion on maintenance of the child
 
@@ -151,9 +152,9 @@ h.     the conduct of each of the parties to the marriage, if the conduct i
 
 47     As a start to my inquiry into dealing with the assets, I turned my attention to section 112 (1) of the Women’s Charter. It states that this Court shall have power, when granting or subsequent to the grant of a judgment of divorce, judicial separation or nullity of marriage, to order the division between the parties of any matrimonial asset or the sale of any such asset and the division between the parties of the proceeds of the sale of any such asset in such proportions as the Court thinks just and equitable.
 
-48     The Court of Appeal decision in the case of ANJ V ANK[\[note: 2\]](#Ftn_2) provided for the approach in division of matrimonial assets. Accordingly, the task at hand for me was to derive a ratio which represents the parties’ respective direct contributions towards the acquisition or improvement of matrimonial assets. Next, I was to derive a second ratio which represents the parties’ indirect financial and non-financial contributions towards the welfare of the family. I should then average the two ratios to derive each party’s overall contribution to the family. The “average percentage contribution” or “average ratio” are non-binding figures, and I would have to make adjustments as and when necessary. I bore these in mind, as well as that adjustments might also be necessary whenever the parties’ collective direct contribution do not carry the same weight as that of the parties’ collective indirect contribution.
+48     The Court of Appeal decision in the case of ANJ V ANK[^2] provided for the approach in division of matrimonial assets. Accordingly, the task at hand for me was to derive a ratio which represents the parties’ respective direct contributions towards the acquisition or improvement of matrimonial assets. Next, I was to derive a second ratio which represents the parties’ indirect financial and non-financial contributions towards the welfare of the family. I should then average the two ratios to derive each party’s overall contribution to the family. The “average percentage contribution” or “average ratio” are non-binding figures, and I would have to make adjustments as and when necessary. I bore these in mind, as well as that adjustments might also be necessary whenever the parties’ collective direct contribution do not carry the same weight as that of the parties’ collective indirect contribution.
 
-49     I was aware that the division of matrimonial assets was not an exact science, but neither was it an indefinable art. I noted that it was not mandatory for the Court to exercise its power of division in every single asset of the parties before it as long as it did not detract for the Court’s overall mandate to achieve a just and equitable division in the light of all of the circumstances of the case[\[note: 3\]](#Ftn_3).
+49     I was aware that the division of matrimonial assets was not an exact science, but neither was it an indefinable art. I noted that it was not mandatory for the Court to exercise its power of division in every single asset of the parties before it as long as it did not detract for the Court’s overall mandate to achieve a just and equitable division in the light of all of the circumstances of the case[^3].
 
 ## Conclusion on division of assets
 
@@ -203,7 +204,7 @@ h.     the conduct of each of the parties to the marriage, if the conduct i
 
 (g)    in the case of proceedings for divorce or nullity of marriage, the value to either of the parties to the marriage of any benefit (for example, a pension) which, by reason of the dissolution or annulment of the marriage that party will lose the chance of acquiring.
 
-63     The Court of Appeal stated in ATE v ATD[\[note: 4\]](#Ftn_4), that this Court “cannot – and ought not to – order nominal maintenance automatically or as a matter of course… the Court has to examine closely all the facts and circumstances of the case before deciding whether or not to award nominal maintenance in order to preserve the wife’s right to apply for maintenance in future.”
+63     The Court of Appeal stated in ATE v ATD[^4], that this Court “cannot – and ought not to – order nominal maintenance automatically or as a matter of course… the Court has to examine closely all the facts and circumstances of the case before deciding whether or not to award nominal maintenance in order to preserve the wife’s right to apply for maintenance in future.”
 
 64     Of particular relevance to the present case, the Court of Appeal added that it will not suffice for the wife to argue – without more – that she is entitled to an order if nominal maintenance simply because her situation might change in future. Indeed, it has, in general, never been the duty of the Courts to compensate parties for the vicissitudes of life. It would also result (in substance and effect) in making the husband a general insurer of sorts. This would be wholly contrary to the very purpose of awarding maintenance to a former wife in the first place.
 
@@ -239,21 +240,21 @@ h.     the conduct of each of the parties to the marriage, if the conduct i
 
 74     I did not find any evidence that proved that the husband had obtained legal aid by fraud or misrepresentation. Such an allegation was not proved on a balance of probabilities by the wife.
 
-75     In any event, I was aware that any costs order was likely to be paid for from the matrimonial asset pool anyway[\[note: 5\]](#Ftn_5), and even then, to the Director of Legal Aid. I did not see why the matrimonial asset pool should be unnecessarily drained for this purpose.
+75     In any event, I was aware that any costs order was likely to be paid for from the matrimonial asset pool anyway[^5], and even then, to the Director of Legal Aid. I did not see why the matrimonial asset pool should be unnecessarily drained for this purpose.
 
 76     Therefore, I made no order as to costs.
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1).
+[^1]: .
 
-[\[note: 2\]](#Ftn_2_1).
+[^2]: .
 
-[\[note: 3\]](#Ftn_3_1)See NK v NL \[2007\] 3 SLR (R) ay 761.
+[^3]: See NK v NL \[2007\] 3 SLR (R) ay 761.
 
-[\[note: 4\]](#Ftn_4_1).
+[^4]: .
 
-[\[note: 5\]](#Ftn_5_1)See JBB v JBA .
+[^5]: See JBB v JBA .
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22934-SSP.xml)

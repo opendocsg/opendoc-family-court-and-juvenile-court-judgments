@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # UUW _v_ UUX and UUY  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">D337/2016</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">20 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Toh Wee San</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">PC: Ms Diana Foo (Tan See Swan &amp; Co); DC: Mr David Liew (David Liew Law Practice)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UUW — UUX — UUY</td></tr></tbody></table>
@@ -24,14 +25,14 @@ Ancillary matters, division of assets and maintenance for wife and child
 
 ## Decision and reasons
 
-5       I applied the relevant laws[\[note: 1\]](#Ftn_1) and divided the matrimonial assets as set out below. As this was a short marriage and taking into consideration the monies taken by W as well as the financial loss suffered by both sides from the surrender of the flat, I opined that it would be just for parties to be attributed an equal share for their indirect contributions.
+5       I applied the relevant laws[^1] and divided the matrimonial assets as set out below. As this was a short marriage and taking into consideration the monies taken by W as well as the financial loss suffered by both sides from the surrender of the flat, I opined that it would be just for parties to be attributed an equal share for their indirect contributions.
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="20.92%"> <col width="21.1%"> <col width="25.3%"> <col width="32.68%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">W ($)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">H ($)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Comments</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Direct</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">93 619.40 (CPF + savings)</p><p align="justify" class="Table-Para-1">67%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">46 120.21 (CPF + savings)</p><p align="justify" class="Table-Para-1">33%</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Total asset value: $ 139 740</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Indirect</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">50%</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">50%</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Considered monies taken by W and loss suffered by HDB flat surrender.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Average</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">58.5% + 3%= 61.5%</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">41.5% - 3% = 38.5%</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">+ 3% if child is with W for the final care order. Presently an interim order directs that the child is under W’s care with access to H.</p></td></tr></tbody></table>
 
   
   
 
-6       If W has final care and control over the child, I was prepared to give W another 3% of the total pool of assets. In order to retain assets in each sole name and possession, W would need to give H about $8 000 to $12 000[\[note: 2\]](#Ftn_2).
+6       If W has final care and control over the child, I was prepared to give W another 3% of the total pool of assets. In order to retain assets in each sole name and possession, W would need to give H about $8 000 to $12 000[^2].
 
 ## Issue 2: Maintenance for W and child
 
@@ -49,7 +50,7 @@ Ancillary matters, division of assets and maintenance for wife and child
 
 ## Decision and reasons:
 
-11     I applied the relevant laws[\[note: 3\]](#Ftn_3) and was persuaded to allow H supervised access. Around May 2018, I had ordered for custody evaluation (CE) to be carried out when parties were filing their papers for the AM hearing. I received a confidential CE report from the relevant expert[\[note: 4\]](#Ftn_4). However subsequent to this, W went to the police against H re possible wrong-doings against the child and applied for changes to H’s access to the child which I had dealt with and completed. I was also notified by parties’ counsels that the Child Protection Unit (CP) under the relevant Ministry has been notified about the matter. Hence I also requested CP to investigate and report to me for the purposes of the child’s issues in my hearing.
+11     I applied the relevant laws[^3] and was persuaded to allow H supervised access. Around May 2018, I had ordered for custody evaluation (CE) to be carried out when parties were filing their papers for the AM hearing. I received a confidential CE report from the relevant expert[^4]. However subsequent to this, W went to the police against H re possible wrong-doings against the child and applied for changes to H’s access to the child which I had dealt with and completed. I was also notified by parties’ counsels that the Child Protection Unit (CP) under the relevant Ministry has been notified about the matter. Hence I also requested CP to investigate and report to me for the purposes of the child’s issues in my hearing.
 
 12     I received CP’s confidential report and was satisfied that there were no wrong doings made out against H. I accepted the CP’s report and recommendation as they were independent, credible and reasonable. In addition, there was no criminal conviction secured against H for the alleged offence. After considering CP’s recommendation, I ordered H to commence supervised access with the child and will continue to monitor and review the case at the appropriate times. I recently ordered a second tranche of supervised exchange after receiving positive reviews from the first tranche, though this is not the subject of the current appeal. I had also ordered parties to attend counselling some time ago when hearing their various matters.
 
@@ -57,7 +58,7 @@ Ancillary matters, division of assets and maintenance for wife and child
 
 13     Both sides argued for costs. W asked for $ 27 212.50 to be costs of the divorce and another $ 9500 for the AM matters. W claimed that H had contested the divorce even in the face of clear evidence of his unreasonable behaviour. H asked for costs as he claimed that W had filed unreasonable requests for interrogatory and discovery.
 
-14     I ordered no costs. I accepted W’s position that H had initially contested the divorce but withdrew only after hearing W’s evidence. However, whatever potential costs to be ordered against H would be offset by the amounts computed under paragraph 6 which worked out to be about $ 10 000. As for the issue of costs regarding the interrogatory and discovery applications[\[note: 5\]](#Ftn_5), there was no clear winner. I had decided costs in the cause then. Again there was no clear winner for the final outcome. In the AM hearing, both sides did not get what they wanted squarely. In conclusion, I declined to order costs. I find this to be a very unfortunate case for the parties and their young child. I hope that parties would benefit from the counselling and initiatives ordered, find closure, move on from this painful past and put the child’s interest above all their differences.
+14     I ordered no costs. I accepted W’s position that H had initially contested the divorce but withdrew only after hearing W’s evidence. However, whatever potential costs to be ordered against H would be offset by the amounts computed under paragraph 6 which worked out to be about $ 10 000. As for the issue of costs regarding the interrogatory and discovery applications[^5], there was no clear winner. I had decided costs in the cause then. Again there was no clear winner for the final outcome. In the AM hearing, both sides did not get what they wanted squarely. In conclusion, I declined to order costs. I find this to be a very unfortunate case for the parties and their young child. I hope that parties would benefit from the counselling and initiatives ordered, find closure, move on from this painful past and put the child’s interest above all their differences.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -83,15 +84,15 @@ Ancillary matters, division of assets and maintenance for wife and child
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)The applicable law is section 112 of the Woman’s Charter (WC) which empowers the courts to order division of matrimonial assets in such proportions as the court thinks is just and equitable and sets out the list of matters to be considered under subsection (2). It is also established case law that in determining how assets are to be divided, the “broad-brush” approach is preferred. In ANJ v ANK (2015) SGCA 34, the Court of Appeal (CA) introduced the structured methodology to assess the division of matrimonial assets.
+[^1]: The applicable law is section 112 of the Woman’s Charter (WC) which empowers the courts to order division of matrimonial assets in such proportions as the court thinks is just and equitable and sets out the list of matters to be considered under subsection (2). It is also established case law that in determining how assets are to be divided, the “broad-brush” approach is preferred. In ANJ v ANK (2015) SGCA 34, the Court of Appeal (CA) introduced the structured methodology to assess the division of matrimonial assets.
 
-[\[note: 2\]](#Ftn_2_1)67 – 58.5%= 8.5% or 67 – 61.5% = 5.5% of the total asset value.
+[^2]: 67 – 58.5%= 8.5% or 67 – 61.5% = 5.5% of the total asset value.
 
-[\[note: 3\]](#Ftn_3_1)Section 125 of the WC and section 122 of the Guardian of the Infants Act i.e. the paramount consideration shall be the welfare of the child.
+[^3]: Section 125 of the WC and section 122 of the Guardian of the Infants Act i.e. the paramount consideration shall be the welfare of the child.
 
-[\[note: 4\]](#Ftn_4_1)This is permitted under section 130 of the Women’s Charter (WC).
+[^4]: This is permitted under section 130 of the Women’s Charter (WC).
 
-[\[note: 5\]](#Ftn_5_1)Summons 299/2018 and 781/2018.
+[^5]: Summons 299/2018 and 781/2018.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22991-SSP.xml)

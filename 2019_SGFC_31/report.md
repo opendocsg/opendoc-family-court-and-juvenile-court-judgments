@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # UUA _v_ UUB  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce Suit No: 5377/2016</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">28 February 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Christine Lee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Segaram of M/S Segaram &amp; Co for the Appellant Husband; Mr Alywin Goh with Ms Sylvia Koh of M/S Continental Law LLP for the Respondent Wife</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UUA — UUB</td></tr></tbody></table>
@@ -74,7 +75,7 @@ Division of matrimonial assets including the matrimonial property
 
 11     The Court looked at the totality of the ancillary matters before considering the issue of whether maintenance for the Respondent Wife was appropriate.
 
-12     The Court’s assessment of the facts was that although this was a short childless marriage, the Appellant Husband, through his own admissions,[\[note: 1\]](#Ftn_1) confirmed that he had been paying for the Respondent Wife’s personal debts, loans, credit card bills and other expenses from the time of their marriage and continued to do so even after he left the matrimonial home in May 2013, until February 2014 when he was advised by his lawyers. The Court accepted the Respondent Wife’s Counsel’s submission that because of this, the Respondent Wife had relied on the Appellant Husband to pay for her maintenance until he stopped paying for her expenses after February 2014.
+12     The Court’s assessment of the facts was that although this was a short childless marriage, the Appellant Husband, through his own admissions,[^1] confirmed that he had been paying for the Respondent Wife’s personal debts, loans, credit card bills and other expenses from the time of their marriage and continued to do so even after he left the matrimonial home in May 2013, until February 2014 when he was advised by his lawyers. The Court accepted the Respondent Wife’s Counsel’s submission that because of this, the Respondent Wife had relied on the Appellant Husband to pay for her maintenance until he stopped paying for her expenses after February 2014.
 
 13     In addition, when the Appellant Husband left the matrimonial home after six (6) months of marriage, the Respondent Wife continued to take care of the matrimonial home since May 2013 to-date.
 
@@ -192,7 +193,7 @@ iii.     The Court’s assessment of the total value of the Appellant Husba
 
 51     The Court awarded costs against the Appellant Husband because of the delay and circumstances of the provision of the Appellant Husband’s evidence on the most substantial portion of his assets, namely the 90,002 shares in xxx Co Pte Ltd.
 
-52     The Appellant Husband had filed five (5) Affidavits[\[note: 2\]](#Ftn_2) for the AM hearing. The Court noted that the Appellant Husband only gave some details on the 90,002 shares in xxx Co Pte Ltd in his 4th Affidavit filed on 19 April 2018. The Court further noted that it was only in the Appellant Husband’s FPS, which was filed on 13 June 2018, that the Appellant Husband attributed the value of $401,900.43 to these 90,002 shares.
+52     The Appellant Husband had filed five (5) Affidavits[^2] for the AM hearing. The Court noted that the Appellant Husband only gave some details on the 90,002 shares in xxx Co Pte Ltd in his 4th Affidavit filed on 19 April 2018. The Court further noted that it was only in the Appellant Husband’s FPS, which was filed on 13 June 2018, that the Appellant Husband attributed the value of $401,900.43 to these 90,002 shares.
 
 53     The Court also noted that from the outset, the Appellant Husband took the position that each party should retain their own assets. It was only at the first AM hearing on 14 June 2018 when the Respondent Wife’s Counsel produced a table indicating that the book value of these 90,002 shares was substantial, that the Appellant Husband’s Counsel asked for time to obtain a valuation of the Appellant Husband’s 90,002 shares.
 
@@ -210,9 +211,9 @@ iii.     The Court’s assessment of the total value of the Appellant Husba
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)See Appellant Husband’s Affidavit of Assets and Means filed on 22 August 2017.
+[^1]: See Appellant Husband’s Affidavit of Assets and Means filed on 22 August 2017.
 
-[\[note: 2\]](#Ftn_2_1)The Appellant Husband filed his (i) Affidavit of Assets and Means on 22 August 2017; (ii) his Affidavit in Reply to the Respondent Wife’s application for Discovery and Interrogatories on 22 December 2017; (iii) Further Affidavit in Reply to the Respondent Wife’s application for Discovery on 20 March 2018; (iv) Voluntary Affidavit on 19 April 2018 and (v) 2nd Ancillary Matters Affidavit on 17 May 2018.
+[^2]: The Appellant Husband filed his (i) Affidavit of Assets and Means on 22 August 2017; (ii) his Affidavit in Reply to the Respondent Wife’s application for Discovery and Interrogatories on 22 December 2017; (iii) Further Affidavit in Reply to the Respondent Wife’s application for Discovery on 20 March 2018; (iv) Voluntary Affidavit on 19 April 2018 and (v) 2nd Ancillary Matters Affidavit on 17 May 2018.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22890-SSP.xml)

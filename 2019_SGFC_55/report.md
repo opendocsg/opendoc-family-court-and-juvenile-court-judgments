@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # UWS _v_ UWT  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">FC/OSG 160/2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">21 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Sheik Mustafa</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Louis D'Souza (Legal Aid Bureau) for the mother; Nadia Ui Mhuimhneachain (August Law Corporation) for the father.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UWS — UWT</td></tr></tbody></table>
@@ -34,7 +35,7 @@ g.     liberty to apply generally.
 
 **“3**.    Where in any proceedings before any court the custody or upbringing of an infant or the administration of any property belonging to or held in trust for an infant or the application of the income thereof is in question, the court, in deciding that question, shall regard the welfare of the infant as the first and paramount consideration and save in so far as such welfare otherwise requires the father of an infant shall not be deemed to have any right superior to that of the mother in respect of such custody, administration or application nor shall the mother be deemed to have any claim superior to that of the father.”
 
-4       The law defining custody of children is succinctly described by the Court of Appeal in the case of _CX v. CY_[\[note: 1\]](#Ftn_1), that –
+4       The law defining custody of children is succinctly described by the Court of Appeal in the case of _CX v. CY_[^1], that –
 
 “For the development of the law of custody, we deem it necessary to lay down a general definition detailing the scope of each order. Our observation is that in most custody cases, parties are simply concerned over which parent has care and control and access. Parties labour under the mistaken impression that if they are denied custody, they will be unable to see their child anymore and will lose all contact with the child. We regret to say that some family law practitioners further muddy the waters by failing to advise their clients adequately as to what “custody orders” actually entail. If parties are assured of their respective rights to care and control and access, we foresee lesser tension and acrimony in disputes over custody issues.
 
@@ -46,11 +47,11 @@ In this day and age, we feel that the preferable position in the law of custody 
 
 Adopting the view that joint or no custody orders should be granted unless there are exceptional circumstances, we were of the opinion that the judge was not plainly wrong in granting joint custody, notwithstanding the allegations and counter-allegations made by each party.”
 
-5       The Court of Appeal in _ZO v. ZP_[\[note: 2\]](#Ftn_2), the Court of Appeal added as follows:
+5       The Court of Appeal in _ZO v. ZP_[^2], the Court of Appeal added as follows:
 
 “… The input by both parents furnishes a balance that enhances the development of that child (or those children, as the case may be) until adulthood is reached. In contrast, the exclusion of one of the parents in this particular regard would – absent an exceptional reason – contribute towards a less balanced as w ell as less rounded development of the child (or children) concerned. Hence, the pronouncement made by the court in CX v CY that a joint (or no) custody order would henceforth be the norm rather than the exception. We could not agree more.”
 
-6       It was held in APE v APF[\[note: 3\]](#Ftn_3) by Justice Tan Siong Thye –
+6       It was held in APE v APF[^3] by Justice Tan Siong Thye –
 
 “ I am therefore of the view that unsupervised access should be awarded, unless the following exceptional circumstances are present:
 
@@ -132,11 +133,11 @@ c.     Should the father’s access to the child be supervised by the mothe
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)
+[^1]: 
 
-[\[note: 2\]](#Ftn_2_1)\[2011\] SLR 647.
+[^2]: \[2011\] SLR 647.
 
-[\[note: 3\]](#Ftn_3_1).
+[^3]: .
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23229-SSP.xml)
