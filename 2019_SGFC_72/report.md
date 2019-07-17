@@ -1,6 +1,8 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UYB _v_ UYC  
 
+### \[2019\] SGFC 72
+
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MSS 4609/2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">05 July 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kathryn Thong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Bernard Doray (BR Law Corporation) for Plaintiff; Mr Sudhershen Hariram (Tan Rajah and Cheah) for Defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UYB — UYC</td></tr></tbody></table>
 
 5 July 2019
@@ -105,11 +107,11 @@ v.    The \[2018 MO\] was never meant to be indefinite and the amount of mai
 
 25     In my view, there must first be cogent evidence of such a change in circumstances, and second, a demonstration that such a change warranted a variation of the maintenance order. I venture that some guidance may be taken from the superior courts where they have dealt with cases brought under section 118 of the Women’s Charter, where the Court is conferred powers to vary or rescind maintenance orders where there has, _inter alia_, been “any material change in the circumstances”.
 
-26     In _George Sappooran Singh v Gordip d/o Mardip Garsingh_ , the High Court remarked that an applicant must prove with cogent, convincing evidence that a material change in circumstances has occurred so that an application is not used as a back door to appeal against the original order.
+26     In _George Sappooran Singh v Gordip d/o Mardip Garsingh_ \[2016\] SGHC 197, the High Court remarked that an applicant must prove with cogent, convincing evidence that a material change in circumstances has occurred so that an application is not used as a back door to appeal against the original order.
 
 27     Further, such circumstances must be those prevailing at the time the order was entered into and hence any material changes, must relate to those circumstances. An applicant had to satisfy the Court as to the reasonableness of his conduct in assuming any new obligations that subsequently impacted on his ability to fulfil the maintenance order. This was relevant to assessing if there was indeed a material change in circumstances. For instance, the Court would look to how the payer was seeking to manage the alleged change in circumstances, _eg_. by trimming one’s expenses, to “balance the books”. An insistence that matters be viewed only through one’s own lens only would be an indication of such conduct being unreasonable. Last but not least, the effect of taking on new obligations must be to the effect of crippling or emasculating a payer’s ability to pay the maintenance.
 
-28     In _Tan Sue-Ann v Lim Siang Bok Dennis_ , the Court of Appeal also pointed out that subjective expectations and hopes cannot amount to a material change, and that a positive change either in the needs of the wife or ability of the husband is usually required. While both cases deal with a variation under section 118 of the Women’s Charter, I am of the view that these principles are equally applicable to a section 72 application.
+28     In _Tan Sue-Ann v Lim Siang Bok Dennis_ \[2004\] 3 SLR(R) 376, the Court of Appeal also pointed out that subjective expectations and hopes cannot amount to a material change, and that a positive change either in the needs of the wife or ability of the husband is usually required. While both cases deal with a variation under section 118 of the Women’s Charter, I am of the view that these principles are equally applicable to a section 72 application.
 
 ## The Court’s findings and decision
 

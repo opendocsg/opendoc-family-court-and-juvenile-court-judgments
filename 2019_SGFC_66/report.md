@@ -1,6 +1,8 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UXJ _v_ UXK  
 
+### \[2019\] SGFC 66
+
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce No. 2725 of 2010, District Court Appeal No. 34 of 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">26 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Wendy Yu</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">P/C: Mr Johnson Loo Teck Wee [Drew &amp; Napier] for the Plaintiff; D/C: Ms Prasanna [Raj Prasanna &amp; Partners] for the Defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UXJ — UXK</td></tr></tbody></table>
 
 Variation of Maintenance - Material Change in circumstances
@@ -39,7 +41,7 @@ _“By consent, the Defendant shall pay $1,000 per month for the minor child of 
 
 5       The Plaintiff has submitted that the monthly maintenance of $2500 per month sought is very reasonable, with the Defendant’s share of the expenses at $2500 per month being in the proportion of 65%. The Plaintiff has further submitted that this is not unreasonable given that in the AM proceedings, the agreed monthly contribution of $1000 by the Defendant would be about 71.7% of the expenses. [^5]
 
-6       The Plaintiff has also cited several cases, including the High Court decision of **_TBC v TBD (“TBC”)_** to support her position that whilst the starting point should be that the parents bear the financial burden equally, this is not an inflexible rule[^6].
+6       The Plaintiff has also cited several cases, including the High Court decision of **_TBC v TBD \[2015\] SGHC 130 (“TBC”)_** to support her position that whilst the starting point should be that the parents bear the financial burden equally, this is not an inflexible rule[^6].
 
 7       The Plaintiff further added that even though the Defendant has claimed that his income has dropped, his employment and income earning circumstances have actually not changed in any substantive way. [^7] The Plaintiff has also highlighted to the Court that the Defendant’s position against R2 staying at the hostel is unacceptable as R2 lives with the Plaintiff at Tampines while NTU is in the West and R2 would spend too much time travelling if she did not live in the hostel. [^8]
 
@@ -121,7 +123,7 @@ _It was therefore open to the Judge to consider other factors, including the rel
 
 ### What is a reasonable sum for maintenance?
 
-24     In setting out the expenses of the R2, I would like to highlight Justice Debbie Ong’s views in **_UEB v UEC_** at \[13\]
+24     In setting out the expenses of the R2, I would like to highlight Justice Debbie Ong’s views in **_UEB v UEC \[2018\] SGHCF 5_** at \[13\]
 
 _“While it is a very useful practice to determine whether each item in the list of expenses submitted by the Wife is a reasonable one, one should not be overly mesmerised by the approach of reaching a maintenance sum only by totalling up every item of expense as if it were a legal requirement. The law provides that the court shall take into account various factors in deciding the maintenance award. The law does not require that every specific item of expense be proved by receipts or assessed on specific values, as if on a reimbursement exercise. More exceptional expenses though, such as certain medical needs and costs, ought to be supported by evidence. A child’s needs and expenses may also fluctuate from month to month; similarly; household expenses may fluctuate over time. Setting out regularly specific expenses nevertheless enables the other party and the court to assess broadly whether the expenses are reasonable.”_
 
@@ -170,7 +172,7 @@ I have therefore set out expenses of the R2 (excluding the school fees and schoo
 
 [^13]: Page 5, Notes of Evidence
 
-[^14]: Paragraph 43, _APE v APF_ , at \[43\]
+[^14]: Paragraph 43, _APE v APF \[2015\] SGHC 17_, at \[43\]
 
 [^15]: Paragraph 31 of the Defendant’s Affidavit dated 2 January 2019
 

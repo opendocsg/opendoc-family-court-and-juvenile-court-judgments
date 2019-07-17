@@ -1,6 +1,8 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UWS _v_ UWT  
 
+### \[2019\] SGFC 55
+
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">FC/OSG 160/2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">21 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Sheik Mustafa</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Louis D'Souza (Legal Aid Bureau) for the mother; Nadia Ui Mhuimhneachain (August Law Corporation) for the father.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UWS — UWT</td></tr></tbody></table>
 
 Family Law – Guardianship of Infants Act – best interest of child – custody care and control – access to child – supervised access – joint custody
@@ -133,11 +135,11 @@ c.     Should the father’s access to the child be supervised by the mothe
 
 * * *
 
-[^1]: 
+[^1]: \[2005\] 3 SLR(R) 690
 
 [^2]: \[2011\] SLR 647.
 
-[^3]: .
+[^3]: \[2015\] SGHC 17.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23229-SSP.xml)

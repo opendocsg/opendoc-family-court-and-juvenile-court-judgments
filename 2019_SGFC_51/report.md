@@ -1,6 +1,8 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UVZ _v_ UWA  
 
+### \[2019\] SGFC 51
+
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce No. 1193 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">29 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Jinny Tan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Plaintiff Counsel: Thian Wen Yi [Eversheds Harry Elias LLP] - for the Plaintiff / Husband; Defendant Counsel: Jispal Singh [Jispal Law Chambers] - for the Defendant / Wife</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UVZ — UWA</td></tr></tbody></table>
 
 Family law – Matrimonial assets – Division – Family law – Maintenance of children
@@ -383,9 +385,9 @@ _“No mathematical formula or analytical tool is capable of capturing or accomm
 
 [^2]: Paragraph 2 Defendant’s Affidavit of Assets and Means
 
-[^3]: 
+[^3]: \[2015\] 4 SLR 1043
 
-[^4]: 
+[^4]: \[2015\] SGCA 52
 
 [^5]: Paragraph 29 Plaintiff’s Affidavit of Assets and Means
 
@@ -403,7 +405,7 @@ _“No mathematical formula or analytical tool is capable of capturing or accomm
 
 [^12]: Page 187 Plaintiff’s Affidavit of Assets and Means
 
-[^13]: 
+[^13]: \[2016\] SGCA 13
 
 [^14]: Paragraph 6 Defendant’s Submissions and Page 4 Plaintiff’s Submissions
 
@@ -459,13 +461,13 @@ _“No mathematical formula or analytical tool is capable of capturing or accomm
 
 [^40]: Paragraph 11 Plaintiff’s Submissions
 
-[^41]: 
+[^41]: \[2009\] SGCA 43
 
-[^42]: 
+[^42]: \[2015\] 4 SLR 1043
 
-[^43]: 
+[^43]: \[2011\] SGHC 288
 
-[^44]: 
+[^44]: \[2017\] SGHCF 18
 
 [^45]: Paragraphs 46-47 Plaintiff’s Affidavit of Assets and Means and Paragraph 23 Defendant’s 2nd Affidavit
 

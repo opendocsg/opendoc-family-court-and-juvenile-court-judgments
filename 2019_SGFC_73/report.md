@@ -1,6 +1,8 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UYH _v_ UYI  
 
+### \[2019\] SGFC 73
+
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">D 321/2009, FC/SUM 831/2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">05 July 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Azmin Jailani</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr David Liew [David Liew Practice] for the Plaintiff; Defendant in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UYH — UYI</td></tr></tbody></table>
 
 Family Law – Child Maintenance – Variation
@@ -275,7 +277,7 @@ Family Law – Child Maintenance – Variation
 
 62     While I note that this issue was ultimately moot given the defendant’s stance on the matter, I found this case a useful reminder to parties (especially those represented by counsel) to adopt the adage of doing unto others what they would have others do unto them, with the converse equally true. It was somewhat regrettable that during the proceedings, the posture taken by Mr Liew was not one which suggested any reflection of the plaintiff’s approach, but instead, a technical (and unsubstantiated) justification of the same.
 
-63     I also found it appropriate to restate the observations made by the Court of Appeal in _Goh Seng Heng v Liberty Sky Investments Ltd and another_ (at \[62\]) against acting like “assassins” in contentious proceedings, and to come to the court with clean hands.
+63     I also found it appropriate to restate the observations made by the Court of Appeal in _Goh Seng Heng v Liberty Sky Investments Ltd and another_ \[2017\] 2 SLR 1113 (at \[62\]) against acting like “assassins” in contentious proceedings, and to come to the court with clean hands.
 
 ### Preliminary observation (2) – parties’ non-disclosures
 
@@ -374,7 +376,7 @@ Family Law – Child Maintenance – Variation
 
 87     In his reply affidavit[^50], the defendant challenged the entirety of the expenses listed by the plaintiff. To this end, the defendant only valued the reasonable expenses of the child at $436.[^51] When viewed in this light, the defendant’s current contribution of $300 is approximately 70% of such expenses.
 
-88     Adopting the broad approach espoused by the High Court in _UEB v UEC_ (at \[13\]), I was prepared to accept the majority of the expenses listed by the plaintiff in her table of expenses, save that I made the following adjustments:
+88     Adopting the broad approach espoused by the High Court in _UEB v UEC_ \[2018\] SGHCF 5 (at \[13\]), I was prepared to accept the majority of the expenses listed by the plaintiff in her table of expenses, save that I made the following adjustments:
 
 (a)     First, while _UEB_ was clear that the law did not require every specific item of expense to be proved by receipts, more exceptional expenses required the necessary evidence. In the present case, I was of the view that the child’s tuition expense was one of them. This was particularly so given that tuition comprised of _almost half_ the Child’s expenses (on the plaintiff’s figures). Again, putting the shoe on the other foot, would the plaintiff have accepted the defendant’s bare statement that almost half of the child’s expenses was spent on something which was not properly documented? It may not prevent the plaintiff from making the claim, but to expect the contention to go unchallenged is a different matter completely.
 
@@ -392,7 +394,7 @@ Family Law – Child Maintenance – Variation
 
 91     In terms of parental responsibility, it is trite that both parents have shared responsibility over the children. This much is clear in _inter alia_ section 68 of the Women’s Charter. The real question is the _extent_ of that responsibility.
 
-92     On the issue of finances, it is also well-established that shared responsibility _does not_ equate to equality in financial contribution (see _XB v XC_ ; _TIT v TIU and another appeal_ ). The apportionment of financial responsibility must have regard to parties’ respective financial capabilities/liabilities.
+92     On the issue of finances, it is also well-established that shared responsibility _does not_ equate to equality in financial contribution (see _XB v XC_ \[2008\] SGDC 144; _TIT v TIU and another appeal_ \[2016\] SGHCF 8). The apportionment of financial responsibility must have regard to parties’ respective financial capabilities/liabilities.
 
 93     I deal with defendant first:
 
@@ -404,7 +406,7 @@ Family Law – Child Maintenance – Variation
 
 (d)     This was not the case here.
 
-(e)     That being said, I was mindful of the point made by the Court of Appeal in _AYM v AYL_ , where the court observed (at \[47\]) that fresh obligations from a new family should not compromise _pre-existing obligations_ owed to the previous family. In this connection, I was also mindful of the comments made in _Law and Practice of Family Law in Singapore_ (Foo Siew Fong gen ed, Sweet & Maxwell Asia, 2016)(“_Law and Practice_”)(at \[7.4.28\]) regarding the competing considerations between existing maintenance orders and the ability for parties to move on with their new lives:
+(e)     That being said, I was mindful of the point made by the Court of Appeal in _AYM v AYL_ \[2014\] 4 SLR 559, where the court observed (at \[47\]) that fresh obligations from a new family should not compromise _pre-existing obligations_ owed to the previous family. In this connection, I was also mindful of the comments made in _Law and Practice of Family Law in Singapore_ (Foo Siew Fong gen ed, Sweet & Maxwell Asia, 2016)(“_Law and Practice_”)(at \[7.4.28\]) regarding the competing considerations between existing maintenance orders and the ability for parties to move on with their new lives:
 
 On one hand, the husband would have been aware of his maintenance obligations when choosing to remarry and start a new family, and it would be his responsibility to ensure that this does not adversely impact his ex-wife and children. Yet, a maintenance order _should not be a shackle around the lives of divorced parties, and the law should allow parties to have a fresh start in their lives, remarry and have new children_. The courts will have to take a common sense approach in each case, having due regard to the needs and financial resources of parties and all children.
 

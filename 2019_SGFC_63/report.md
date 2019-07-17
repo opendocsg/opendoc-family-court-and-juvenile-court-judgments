@@ -1,6 +1,8 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UXA _v_ UXB and UXC  
 
+### \[2019\] SGFC 63
+
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">FC/OSP No. 20 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">11 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Nicole Loh</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Aaron Ng Yung Thye (M/s United Legal Alliance LLC) for the Plaintiff; Mr Chugani Ashok Kan (M/s Mirchandani &amp; Partners) for the Defendants</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UXA — UXB — UXC</td></tr></tbody></table>
 
 Probate and Administration – Time for Appeal-Further Arguments
@@ -64,7 +66,7 @@ b.     Plaintiff to personally bear cost to the Defendants fixed at $3,500 
 
 14     Where there is an express provision in an immediately following Division of the Rules which stipulates that time runs from any certification that further arguments are heard, its absence in Division 59 must mean there is no exception to rule 825.
 
-15     This issue came up before the High Court in UHA v UHB , wherein Justice Hoo Sheau Peng stated
+15     This issue came up before the High Court in UHA v UHB \[2017\] SGHCF 27, wherein Justice Hoo Sheau Peng stated
 
 “_Division 59 is silent on the procedure or timelines when a party requests for further arguments, and thus, the time for appealing stipulated by r 825(b) still takes effect_.”
 

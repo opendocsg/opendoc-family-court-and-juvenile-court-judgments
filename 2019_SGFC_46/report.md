@@ -1,6 +1,8 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UVD _v_ UVE  
 
+### \[2019\] SGFC 46
+
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce No. 4292 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">22 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Suzanne Chin</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ryan Yu / Germaine Tan [Yeo &amp; Associates LLC] - for the Plaintiff; Anamah Tan / Rebecca Vathanasin [Ann Tan &amp; Associates] - for the Defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UVD — UVE</td></tr></tbody></table>
 
 Ancillary Matters – Care and Control – Access – Division of Matrimonial Assets – Wife Maintenance – Children’s Maintenance
@@ -101,7 +103,7 @@ _13_.     _Liberty to apply._
 
 ## The Legal Principles
 
-10     On all issues relating to children, the paramount consideration is the welfare of the children as encapsulated in sections 3 and 11 of the Guardianship of Infants Act (Cap 122) and sections 124 and 125 of the Women’s Charter. In _IW v IX_ Chao Hick Tin JA delivering the judgment of the Court of Appeal held:
+10     On all issues relating to children, the paramount consideration is the welfare of the children as encapsulated in sections 3 and 11 of the Guardianship of Infants Act (Cap 122) and sections 124 and 125 of the Women’s Charter. In _IW v IX_ \[2005\] SGCA 48 Chao Hick Tin JA delivering the judgment of the Court of Appeal held:
 
 \[26\]  “It is clear to us that the paramount consideration in every case where custody is in issue is the welfare of the child. That is the immutable principle. The term “welfare” should be taken in its widest sense and we do not think it is possible or desirable to define it. In _Tan Siew Kee v Chua Ah Boey_ \[1987\] SLR (R) 725, Chan Sek Keong JC (as he then was), in reference to the term “welfare”, said (at 551):
 
@@ -148,7 +150,7 @@ _13_.     _Liberty to apply._
 
 21     The court is tasked with the duty to divide matrimonial assets in accordance with Section 112(1) of the Women’s Charter (Cap 353, 2009 Rev Ed) (“the Act”) which requires such division to take place “in such proportion as the court thinks just and equitable.”
 
-22     The structured approach referred to in _ANJ v ANK_ was affirmed in the Court of Appeal case of _Twiss Christopher James Hans v Twiss, Yvonne Prendergast_ and summarised into the following broad steps:
+22     The structured approach referred to in _ANJ v ANK_ \[2015\] 4 SLR 1043 was affirmed in the Court of Appeal case of _Twiss Christopher James Hans v Twiss, Yvonne Prendergast_ \[2015\] SGCA 52 and summarised into the following broad steps:
 
 (a)     Express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of the financial contribution each party made towards the acquisition or improvement of the matrimonial assets;
 

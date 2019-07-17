@@ -1,6 +1,8 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UVV _v_ UVW  
 
+### \[2019\] SGFC 49
+
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce Suit No. D6155 of 2016</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">22 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Goh Zhuo Neng</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">The Plaintiff in Person; Ms Lim Poh Choo (Alan Shankar and Lim LLC) for the Defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UVV — UVW</td></tr></tbody></table>
 
 Division of Matrimonial Property – Maintenance for Ex-Spouse
@@ -44,7 +46,7 @@ e)     Each party to bear their own costs in the proceedings.
 
 #### The Law
 
-7       Both parties submitted that I should apply the Structured Approach set out in _ANJ v ANK_ . This is a 3 step approach:
+7       Both parties submitted that I should apply the Structured Approach set out in _ANJ v ANK_ \[2015\] 4 SLR 1043. This is a 3 step approach:
 
 a)     Step 1 - Express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of financial contribution each party made towards the acquisition or improvement of the matrimonial assets.
 

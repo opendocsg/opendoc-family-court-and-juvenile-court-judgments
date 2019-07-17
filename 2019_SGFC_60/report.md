@@ -1,6 +1,8 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UWY _v_ UWZ  
 
+### \[2019\] SGFC 60
+
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce Suit No. 3230 of 2016, Summons 3836/2018 &amp; MSS 4079 of 2018, District Court Appeals No. 20 &amp; 21 of 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">04 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Cheryl Koh</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ms. Jolene Tan (BR Law Corporation) -- for the Plaintiff Father; Mr. Tan Tiong Gee Andrew &amp; Ms Tan Kaye Lyne Marissa (Andrew Tan Tiong Gee &amp; Co) -- for the Defendant Mother</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UWY — UWZ</td></tr></tbody></table>
 
 Family Law – Variation & Enforcement of maintenance – s 71, 72, 118 & 119 Women’s Charter (Cap. 353)
@@ -137,7 +139,7 @@ _“Power of court to vary agreement for maintenance of child_
 
 _73_.     _The court may, at any time and from time to time, vary the terms of any agreement relating to the maintenance of a child, whether made before or after 1st June 1981, notwithstanding any provision to the contrary in that agreement, where it is satisfied that it is reasonable and for the welfare of the child to do so.”_
 
-22     In this regard, it is trite that a self-induced loss of income did not constitute a material change in circumstances so as to justify a downward variation or rescission of a maintenance order: _Toh Weng Foong v Chew Cheng Moi_ (D 2181/1997); _Tan Huan Eng Agnes Florence v Trevor Symes_ ; _LF v LG_ . For instance, in _Tan Huan Eng Agnes Florence v Trevor Symes_ , the court cited an example where the payee deliberately resigned from a job and thus did not receive any more income. Such an adverse change in circumstances would be self-induced and could not be relied on to vary a maintenance order.
+22     In this regard, it is trite that a self-induced loss of income did not constitute a material change in circumstances so as to justify a downward variation or rescission of a maintenance order: _Toh Weng Foong v Chew Cheng Moi_ (D 2181/1997); _Tan Huan Eng Agnes Florence v Trevor Symes_ \[2005\] SGDC 83; _LF v LG_ \[2007\] SGDC 191. For instance, in _Tan Huan Eng Agnes Florence v Trevor Symes_ \[2005\] SGDC 83, the court cited an example where the payee deliberately resigned from a job and thus did not receive any more income. Such an adverse change in circumstances would be self-induced and could not be relied on to vary a maintenance order.
 
 23     The main issue which thus arises in this case is whether the former Husband could rely on the fact of his resignation from his old company to pursue his own start-up, so as to justify a suspension and downward variation of maintenance.
 

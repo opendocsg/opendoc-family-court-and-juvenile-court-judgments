@@ -1,6 +1,8 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UGI _v_ UGJ  
 
+### \[2019\] SGFC 58
+
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce 3659 of 2015 (Summons No. 3306 of 2018)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">31 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Darryl Soh</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Cheryl Tan (M/s Fernandez LLC) for the Ex-Husband; R Subash (M/s Relianze Law Corporation) for the Ex-Wife.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UGI — UGJ</td></tr></tbody></table>
 
 Family law – Ancillary matters – Amendment – Variation
@@ -15,7 +17,7 @@ Family law – Ancillary matters – Amendment – Variation
 
 ## Background Facts and Summary of Divorce Proceedings
 
-2       The Parties have been divorced for almost two years and they have a nine-year-old son (“the Child”) residing in India. The Parties reside in Singapore. Interim Judgment and Final Judgment were granted on 13 July 2016 and 3 November 2017 respectively, with orders on ancillary reliefs made on 7 June 2017 and 17 July 2017 (“the AM Orders”). The background leading to the Parties’ divorce, the list of AM Orders made, and the written grounds of the AM Orders are set out in (“the AM GD”).
+2       The Parties have been divorced for almost two years and they have a nine-year-old son (“the Child”) residing in India. The Parties reside in Singapore. Interim Judgment and Final Judgment were granted on 13 July 2016 and 3 November 2017 respectively, with orders on ancillary reliefs made on 7 June 2017 and 17 July 2017 (“the AM Orders”). The background leading to the Parties’ divorce, the list of AM Orders made, and the written grounds of the AM Orders are set out in \[2017\] SGFC 120 (“the AM GD”).
 
 3       For the purposes of my decision herein, I summarise the AM Orders that are relevant and material to the Application. I granted the Ex-Wife sole custody, care and control of the Child and for the Ex-Husband to contribute $700.00 monthly as child’s maintenance. In respect of the matrimonial pool of assets, I ordered the pool to be divided in the ratio of 60:40 in favour of the Ex-Husband. To effect a distribution of the pool as close enough to the said ratio, I ordered the Matrimonial Flat to be sold within six months and for the sale proceeds to be divided between the Ex-Husband and the Ex-Wife in the ratio of 44:56 respectively after deducting the outstanding mortgage loan and related expenses of the sale. The Ex-Husband was ordered to return all jewellery belonging to the Ex-Wife and the Parties were to retain the remaining assets in their own names without division. Finally, I ordered the Ex-Husband to pay monthly maintenance of $500.00 to the Ex-Wife for a period of five years.
 

@@ -1,6 +1,8 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UGK _v_ UGL  
 
+### \[2019\] SGFC 75
+
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">D2967 of 2012, SUM 1831 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">08 July 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Goh Zhuo Neng</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Tan Sia Khoon Kelvin and Sarah Ng (Vicki Heng Law Corporation) for the Plaintiff; Daphne Wong and Esvaran Vaithilingam (Esvaran and Co) for the Defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UGK — UGL</td></tr></tbody></table>
 
 Setting Aside and Variation of Ancillary Orders
@@ -43,11 +45,11 @@ b)     Under my orders in this application, I allowed the Mother to retain 
 
 ## C.   THE LAW
 
-12     Under Section 112(4) of the Women’s Charter (Cap.353)(the “**Act**”), the court has the power to vary revoke or discharge any order made in the division of matrimonial assets. I am aware that in the Court of Appeal decision of _AYM v AYL_ (“**AYM**”) and _BMI v BMJ_ (“**BMI**”), it has been stated that the court does not have the power to revisit or re-open an order of court with respect to the division of matrimonial assets that has been completely implemented, except in the limited case of fraud.
+12     Under Section 112(4) of the Women’s Charter (Cap.353)(the “**Act**”), the court has the power to vary revoke or discharge any order made in the division of matrimonial assets. I am aware that in the Court of Appeal decision of _AYM v AYL_ \[2013\] 1 SLR 924 (“**AYM**”) and _BMI v BMJ_ \[2018\] 1 SLR 43 (“**BMI**”), it has been stated that the court does not have the power to revisit or re-open an order of court with respect to the division of matrimonial assets that has been completely implemented, except in the limited case of fraud.
 
 13     In the present case, the ancillary orders had provided for parties to retain assets in their own names, save that the Father would transfer his share of the matrimonial flat to the Mother in return for the sum of $97,534.00. This amount had been paid by the Mother on 23 April 2015 and the transfer of the Father’s share in the matrimonial flat had been completed since.
 
-14     While the transfer of the matrimonial flat had been effected, it was still within my power to set aside that transaction and re-hear the ancillaries as the parties had consented to my doing so, applying the principles in the case of _ANJ v ANK_ - which had not been decided at the time of the ancillary matters:
+14     While the transfer of the matrimonial flat had been effected, it was still within my power to set aside that transaction and re-hear the ancillaries as the parties had consented to my doing so, applying the principles in the case of _ANJ v ANK_ \[2015\] 4 SLR 1043 - which had not been decided at the time of the ancillary matters:
 
 a)     Step 1 - Express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of financial contribution each party made towards the acquisition or improvement of the matrimonial assets;
 

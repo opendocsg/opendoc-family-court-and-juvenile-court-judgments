@@ -1,11 +1,13 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UVM _v_ UVN  
 
-<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">FC/OSG 251/2017 &amp; FC/OSG 252/2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">21 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Suzanne Chin</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Eugene Chan of M/S Eversheds Harry Elias LLP for the Mother; Ms Lim Kim Hong of M/S KIM &amp; CO for the Father</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UVM — UVN</td></tr></tbody></table>
+### \[2019\] SGFC 56
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">FC/OSG 251/2017 &amp; FC/OSG 252/2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">29 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Suzanne Chin</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Eugene Chan of M/S Eversheds Harry Elias LLP for the Mother; Ms Lim Kim Hong of M/S KIM &amp; CO for the Father</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UVM — UVN</td></tr></tbody></table>
 
 variation of consent order – child access
 
-21 June 2019
+29 May 2019
 
 ### District Judge Suzanne Chin:
 
@@ -59,7 +61,7 @@ I set forth below the reasons for my decision in respect of the matters appealed
 
 10     The power of the court to vary orders relating to custody and care and control is encapsulated in Section 128 of the Women’s Charter (Cap 353). A court may vary such orders where it is satisfied that the order was based on any misrepresentation or mistake of fact or where there has been any material change in the circumstances.
 
-11     Section 125 of the Women’s Charter is also relevant. In the case of _ATS v ATT_ , the High Court noted that when considering s 128, it is also important to take into account s 125 which states that the welfare of the Child is a “paramount consideration.”
+11     Section 125 of the Women’s Charter is also relevant. In the case of _ATS v ATT \[2013\] SGHC 156_, the High Court noted that when considering s 128, it is also important to take into account s 125 which states that the welfare of the Child is a “paramount consideration.”
 
 ## The Father’s application to delay the introduction of Mother’s new husband and child during access
 

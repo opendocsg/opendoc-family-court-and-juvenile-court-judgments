@@ -1,6 +1,8 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UXP _v_ UXQ  
 
+### \[2019\] SGFC 67
+
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce Suit No: 1891/2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">26 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Christine Lee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Teo Choo Kee (M/S CK Teo &amp; Co) for the Appellant Husband; Ms Daphne Wong (M/S Esvaran and Tan) for the Respondent Wife</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UXP (Plaintiff Husband) — UXQ (Defendant Wife)</td></tr></tbody></table>
 
 Family Law – Maintenance for children; Maintenance for Wife; Division of matrimonial property
@@ -167,7 +169,7 @@ Total for xxf was therefore in the sum of $1,936 and the Appellant Husband’s 8
 
 ## Division of the matrimonial property
 
-28     The matrimonial home was property at xxx (“the MH”). The Court noted that the marriage had lasted about 9 years and that from 2008 to 2016, the Respondent Wife was a home maker including when the Parties had lived abroad. However, it was not disputed that the Respondent Wife started working from 2016. Therefore, the Court found that this was a dual income marriage and the structured approach in _ANJ vs ANK_ applied.
+28     The matrimonial home was property at xxx (“the MH”). The Court noted that the marriage had lasted about 9 years and that from 2008 to 2016, the Respondent Wife was a home maker including when the Parties had lived abroad. However, it was not disputed that the Respondent Wife started working from 2016. Therefore, the Court found that this was a dual income marriage and the structured approach in _ANJ vs ANK_ \[2015\] SGCA 34 applied.
 
 29     As such, the Court took into account the direct and indirect contributions made by both Parties and the other financial contributions listed in their respective Affidavits of Assets and Means and in the written submissions.
 

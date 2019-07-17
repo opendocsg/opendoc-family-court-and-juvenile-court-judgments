@@ -1,6 +1,8 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style>
 # UXZ _v_ UYA  
 
+### \[2019\] SGFC 71
+
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Divorce No. 4499 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">02 July 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Family Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Jinny Tan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ms Lim Poh Choo (Alan Shankar &amp; Lim LLC) for the Plaintiff; Ms Chua Jieying Shannon (Kalco Law LLC) for the Defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">UXZ — UYA</td></tr></tbody></table>
 
 Family law – Matrimonial assets – Division – maintenance - Family law
@@ -301,9 +303,9 @@ b)     Alternatively, if he does not wish to take over her share, then, he 
 
 * * *
 
-[^1]: 
+[^1]: \[2015\] 4 SLR 1043
 
-[^2]: 
+[^2]: \[2015\] SGCA 52
 
 [^3]: Paragraph 21 Defendant’s Affidavit of Assets and Means
 
@@ -321,7 +323,7 @@ b)     Alternatively, if he does not wish to take over her share, then, he 
 
 [^10]: Paragraph 9 Affidavit of B
 
-[^11]: 
+[^11]: \[2005\] SGDC 259
 
 [^12]: \[2019\] SGCA30
 
