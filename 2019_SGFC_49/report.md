@@ -46,7 +46,7 @@ e)     Each party to bear their own costs in the proceedings.
 
 #### The Law
 
-7       Both parties submitted that I should apply the Structured Approach set out in _ANJ v ANK_ \[2015\] 4 SLR 1043. This is a 3 step approach:
+7       Both parties submitted that I should apply the Structured Approach set out in _ANJ v ANK_ <span class="citation">\[2015\] 4 SLR 1043</span>. This is a 3 step approach:
 
 a)     Step 1 - Express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of financial contribution each party made towards the acquisition or improvement of the matrimonial assets.
 

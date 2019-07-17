@@ -135,7 +135,7 @@ Adopting the view that joint or no custody orders should be granted unless there
 
 “ …. an order for shared care and control means that the child spends time living with each parent, who then becomes the child’s primary caregiver for the duration that the child lives with him (or her). The right to make the day-to-day decisions on the upbringing of the child therefore rests with the parent the child is presently living with. In the context of shared care and control, it becomes meaningless to speak of ‘access’. This is because the child effectively has two homes and two primary caregivers.
 
-The practical effect of an order of shared care and control means that the child will spend roughly equal amounts of time (including overnight) with each parent. An order of shared care and control can take different forms depending on the circumstances. This is illustrated by two High Court decisions where shared care and control was ordered: in _AHJ v AHK_ \[2010\] SGHC 148 the child would spend Saturdays 8.00pm to Wednesday 11.30am with the mother, and the rest of the week with the father; in _AKF v AKG_ \[2010\] SGHC 225 the same learned judge held that the children would spend alternate fortnights with each parent.”[^5]
+The practical effect of an order of shared care and control means that the child will spend roughly equal amounts of time (including overnight) with each parent. An order of shared care and control can take different forms depending on the circumstances. This is illustrated by two High Court decisions where shared care and control was ordered: in _AHJ v AHK_ <span class="citation">\[2010\] SGHC 148</span> the child would spend Saturdays 8.00pm to Wednesday 11.30am with the mother, and the rest of the week with the father; in _AKF v AKG_ <span class="citation">\[2010\] SGHC 225</span> the same learned judge held that the children would spend alternate fortnights with each parent.”[^5]
 
 28     Where there is a clash of parenting styles, shared care and control for a young child may not be suitable –
 
@@ -195,15 +195,15 @@ iii.       a photocopy to the remaining party, of the passport that the c
 
 [^1]: FC/ORC xxx/2018 ordered before District Judge Tan Shin Yi.
 
-[^2]: \[2005\] 3 SLR(R) 690
+[^2]: <span class="citation">\[2005\] 3 SLR(R) 690</span>
 
 [^3]: \[2011\] SLR 647.
 
-[^4]: \[2011\] SGHC 264.
+[^4]: <span class="citation">\[2011\] SGHC 264</span>.
 
 [^5]: _Per_ Justice Woo Bih Li.
 
-[^6]: _AQL v AQM_ \[2011\] SGHC 264
+[^6]: _AQL v AQM_ <span class="citation">\[2011\] SGHC 264</span>
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23330-SSP.xml)

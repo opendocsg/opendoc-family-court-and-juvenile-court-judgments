@@ -303,9 +303,9 @@ b)     Alternatively, if he does not wish to take over her share, then, he 
 
 * * *
 
-[^1]: \[2015\] 4 SLR 1043
+[^1]: <span class="citation">\[2015\] 4 SLR 1043</span>
 
-[^2]: \[2015\] SGCA 52
+[^2]: <span class="citation">\[2015\] SGCA 52</span>
 
 [^3]: Paragraph 21 Defendant’s Affidavit of Assets and Means
 
@@ -323,7 +323,7 @@ b)     Alternatively, if he does not wish to take over her share, then, he 
 
 [^10]: Paragraph 9 Affidavit of B
 
-[^11]: \[2005\] SGDC 259
+[^11]: <span class="citation">\[2005\] SGDC 259</span>
 
 [^12]: \[2019\] SGCA30
 

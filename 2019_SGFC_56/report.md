@@ -61,7 +61,7 @@ I set forth below the reasons for my decision in respect of the matters appealed
 
 10     The power of the court to vary orders relating to custody and care and control is encapsulated in Section 128 of the Women’s Charter (Cap 353). A court may vary such orders where it is satisfied that the order was based on any misrepresentation or mistake of fact or where there has been any material change in the circumstances.
 
-11     Section 125 of the Women’s Charter is also relevant. In the case of _ATS v ATT \[2013\] SGHC 156_, the High Court noted that when considering s 128, it is also important to take into account s 125 which states that the welfare of the Child is a “paramount consideration.”
+11     Section 125 of the Women’s Charter is also relevant. In the case of _ATS v ATT <span class="citation">\[2013\] SGHC 156</span>_, the High Court noted that when considering s 128, it is also important to take into account s 125 which states that the welfare of the Child is a “paramount consideration.”
 
 ## The Father’s application to delay the introduction of Mother’s new husband and child during access
 

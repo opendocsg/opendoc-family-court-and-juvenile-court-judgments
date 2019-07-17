@@ -135,11 +135,11 @@ c.     Should the father’s access to the child be supervised by the mothe
 
 * * *
 
-[^1]: \[2005\] 3 SLR(R) 690
+[^1]: <span class="citation">\[2005\] 3 SLR(R) 690</span>
 
 [^2]: \[2011\] SLR 647.
 
-[^3]: \[2015\] SGHC 17.
+[^3]: <span class="citation">\[2015\] SGHC 17</span>.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23229-SSP.xml)

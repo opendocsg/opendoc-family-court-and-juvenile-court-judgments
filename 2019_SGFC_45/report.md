@@ -79,7 +79,7 @@ _“The Court may at any time vary or rescind any subsisting order for maintenan
 
 ### What is a reasonable sum for maintenance?
 
-21     In setting out the expenses of the children, I would like to highlight Justice Debbie Ong’s views in **_UEB v UEC \[2018\] SGHCF 5_** at \[13\]
+21     In setting out the expenses of the children, I would like to highlight Justice Debbie Ong’s views in **_UEB v UEC <span class="citation">\[2018\] SGHCF 5</span>_** at \[13\]
 
 _“While it is a very useful practice to determine whether each item in the list of expenses submitted by the Wife is a reasonable one, one should not be overly mesmerised by the approach of reaching a maintenance sum only by totalling up every item of expense as if it were a legal requirement. The law provides that the court shall take into account various factors in deciding the maintenance award. The law does not require that every specific item of expense be proved by receipts or assessed on specific values, as if on a reimbursement exercise. More exceptional expenses though, such as certain medical needs and costs, ought to be supported by evidence. A child’s needs and expenses may also fluctuate from month to month; similarly; household expenses may fluctuate over time. Setting out regularly specific expenses nevertheless enables the other party and the court to assess broadly whether the expenses are reasonable.”_
 
@@ -105,9 +105,9 @@ For K2
 
 23     The Defendant’s position during the current proceedings has been that both parents should bear the children’s expenses equally and that the Court should not adhere to DJ Chin’s apportionment of 60% to the Defendant and 40% to the Plaintiff.
 
-24     In apportioning the share of maintenance payable by each parent, I bore in mind the _dicta_ of the Honourable Justice Kan Ting Chiu in **_TBC v TBD \[2015\] SGHC 130_** at \[27\] that “the starting point should be that parents bear the financial burden equally and one parent’s burden should not be decreased just because the other parent is wealthier, and one parent’s burden should not be increased just because the other parent is less well off.”
+24     In apportioning the share of maintenance payable by each parent, I bore in mind the _dicta_ of the Honourable Justice Kan Ting Chiu in **_TBC v TBD <span class="citation">\[2015\] SGHC 130</span>_** at \[27\] that “the starting point should be that parents bear the financial burden equally and one parent’s burden should not be decreased just because the other parent is wealthier, and one parent’s burden should not be increased just because the other parent is less well off.”
 
-25     However, in the very recent Court of Appeal decision in **_BPC v BPB \[2019\] SGCA 3_**, the Husband in the case had appealed against the orders made regarding maintenance for the children. In particular, the Judge in the lower court had apportioned 75% of the expenses to the Husband, while the Wife bore 25% of the expenses. The Husband was of a view that he should only bear half of the children’s expenses because he argued that both parties have a joint and equal obligation to maintain their children under Section 68 of the Women’s Charter.
+25     However, in the very recent Court of Appeal decision in **_BPC v BPB <span class="citation">\[2019\] SGCA 3</span>_**, the Husband in the case had appealed against the orders made regarding maintenance for the children. In particular, the Judge in the lower court had apportioned 75% of the expenses to the Husband, while the Wife bore 25% of the expenses. The Husband was of a view that he should only bear half of the children’s expenses because he argued that both parties have a joint and equal obligation to maintain their children under Section 68 of the Women’s Charter.
 
 26     The Court of Appeal in dismissing this part of the appeal opined:
 
@@ -147,7 +147,7 @@ _It was therefore open to the Judge to consider other factors, including the rel
 
 [^2]: Paragraph 1 and 2 of Plaintiff’s Affidavit of 6 June 2018
 
-[^3]: Paragraphs 31 and 32 of Grounds of Decision of DJ Suzanne Chin in \[2017\] SGFC 61
+[^3]: Paragraphs 31 and 32 of Grounds of Decision of DJ Suzanne Chin in <span class="citation">\[2017\] SGFC 61</span>
 
 [^4]: Paragraph 5, Defendant’s Affidavit of 21 May 2018
 
@@ -179,13 +179,13 @@ _It was therefore open to the Judge to consider other factors, including the rel
 
 [^18]: Page 32 of Notes of Evidence of hearing on 11 February 2019
 
-[^19]: Paragraph 5 of DJ Suzanne Chin’s Grounds of Decision \[2017\] SGFC 61
+[^19]: Paragraph 5 of DJ Suzanne Chin’s Grounds of Decision <span class="citation">\[2017\] SGFC 61</span>
 
 [^20]: Page 13 of Notes of Evidence for hearing of 1 February 2019.
 
-[^21]: Paragraph 5 of DJ Suzanne Chin’s Grounds of Decision \[2017\] SGFC 61
+[^21]: Paragraph 5 of DJ Suzanne Chin’s Grounds of Decision <span class="citation">\[2017\] SGFC 61</span>
 
-[^22]: Paragraph 32 of DJ Suzanne Chin’s Grounds of Decision \[2017\] SGFC 61
+[^22]: Paragraph 32 of DJ Suzanne Chin’s Grounds of Decision <span class="citation">\[2017\] SGFC 61</span>
 
 [^23]: Paragraph 5 of the Defendant’s Affidavit of 21 May 2018
 
@@ -195,7 +195,7 @@ _It was therefore open to the Judge to consider other factors, including the rel
 
 [^26]: Page 6 of Defendant’s Affidavit of 28 December 2018
 
-[^27]: Paragraphs 26 and 32 of the Grounds of Decision of DJ Chin in \[2017\] SGFC 61
+[^27]: Paragraphs 26 and 32 of the Grounds of Decision of DJ Chin in <span class="citation">\[2017\] SGFC 61</span>
 
 [^28]: Pages 3 and 4 of the Plaintiff’s Affidavit of 6 June 2018
 

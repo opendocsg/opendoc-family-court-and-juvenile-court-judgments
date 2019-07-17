@@ -66,7 +66,7 @@ b.     Plaintiff to personally bear cost to the Defendants fixed at $3,500 
 
 14     Where there is an express provision in an immediately following Division of the Rules which stipulates that time runs from any certification that further arguments are heard, its absence in Division 59 must mean there is no exception to rule 825.
 
-15     This issue came up before the High Court in UHA v UHB \[2017\] SGHCF 27, wherein Justice Hoo Sheau Peng stated
+15     This issue came up before the High Court in UHA v UHB <span class="citation">\[2017\] SGHCF 27</span>, wherein Justice Hoo Sheau Peng stated
 
 “_Division 59 is silent on the procedure or timelines when a party requests for further arguments, and thus, the time for appealing stipulated by r 825(b) still takes effect_.”
 

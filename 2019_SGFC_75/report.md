@@ -45,11 +45,11 @@ b)     Under my orders in this application, I allowed the Mother to retain 
 
 ## C.   THE LAW
 
-12     Under Section 112(4) of the Women’s Charter (Cap.353)(the “**Act**”), the court has the power to vary revoke or discharge any order made in the division of matrimonial assets. I am aware that in the Court of Appeal decision of _AYM v AYL_ \[2013\] 1 SLR 924 (“**AYM**”) and _BMI v BMJ_ \[2018\] 1 SLR 43 (“**BMI**”), it has been stated that the court does not have the power to revisit or re-open an order of court with respect to the division of matrimonial assets that has been completely implemented, except in the limited case of fraud.
+12     Under Section 112(4) of the Women’s Charter (Cap.353)(the “**Act**”), the court has the power to vary revoke or discharge any order made in the division of matrimonial assets. I am aware that in the Court of Appeal decision of _AYM v AYL_ <span class="citation">\[2013\] 1 SLR 924</span> (“**AYM**”) and _BMI v BMJ_ <span class="citation">\[2018\] 1 SLR 43</span> (“**BMI**”), it has been stated that the court does not have the power to revisit or re-open an order of court with respect to the division of matrimonial assets that has been completely implemented, except in the limited case of fraud.
 
 13     In the present case, the ancillary orders had provided for parties to retain assets in their own names, save that the Father would transfer his share of the matrimonial flat to the Mother in return for the sum of $97,534.00. This amount had been paid by the Mother on 23 April 2015 and the transfer of the Father’s share in the matrimonial flat had been completed since.
 
-14     While the transfer of the matrimonial flat had been effected, it was still within my power to set aside that transaction and re-hear the ancillaries as the parties had consented to my doing so, applying the principles in the case of _ANJ v ANK_ \[2015\] 4 SLR 1043 - which had not been decided at the time of the ancillary matters:
+14     While the transfer of the matrimonial flat had been effected, it was still within my power to set aside that transaction and re-hear the ancillaries as the parties had consented to my doing so, applying the principles in the case of _ANJ v ANK_ <span class="citation">\[2015\] 4 SLR 1043</span> - which had not been decided at the time of the ancillary matters:
 
 a)     Step 1 - Express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of financial contribution each party made towards the acquisition or improvement of the matrimonial assets;
 

@@ -169,7 +169,7 @@ Total for xxf was therefore in the sum of $1,936 and the Appellant Husband’s 8
 
 ## Division of the matrimonial property
 
-28     The matrimonial home was property at xxx (“the MH”). The Court noted that the marriage had lasted about 9 years and that from 2008 to 2016, the Respondent Wife was a home maker including when the Parties had lived abroad. However, it was not disputed that the Respondent Wife started working from 2016. Therefore, the Court found that this was a dual income marriage and the structured approach in _ANJ vs ANK_ \[2015\] SGCA 34 applied.
+28     The matrimonial home was property at xxx (“the MH”). The Court noted that the marriage had lasted about 9 years and that from 2008 to 2016, the Respondent Wife was a home maker including when the Parties had lived abroad. However, it was not disputed that the Respondent Wife started working from 2016. Therefore, the Court found that this was a dual income marriage and the structured approach in _ANJ vs ANK_ <span class="citation">\[2015\] SGCA 34</span> applied.
 
 29     As such, the Court took into account the direct and indirect contributions made by both Parties and the other financial contributions listed in their respective Affidavits of Assets and Means and in the written submissions.
 

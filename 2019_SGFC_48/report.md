@@ -175,7 +175,7 @@ d.     In any event, an agreement to maintain a child under section 69 does
 
 * * *
 
-[^1]: \[2015\] 4 SLR 227.
+[^1]: <span class="citation">\[2015\] 4 SLR 227</span>.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23114-SSP.xml)

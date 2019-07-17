@@ -385,9 +385,9 @@ _“No mathematical formula or analytical tool is capable of capturing or accomm
 
 [^2]: Paragraph 2 Defendant’s Affidavit of Assets and Means
 
-[^3]: \[2015\] 4 SLR 1043
+[^3]: <span class="citation">\[2015\] 4 SLR 1043</span>
 
-[^4]: \[2015\] SGCA 52
+[^4]: <span class="citation">\[2015\] SGCA 52</span>
 
 [^5]: Paragraph 29 Plaintiff’s Affidavit of Assets and Means
 
@@ -405,7 +405,7 @@ _“No mathematical formula or analytical tool is capable of capturing or accomm
 
 [^12]: Page 187 Plaintiff’s Affidavit of Assets and Means
 
-[^13]: \[2016\] SGCA 13
+[^13]: <span class="citation">\[2016\] SGCA 13</span>
 
 [^14]: Paragraph 6 Defendant’s Submissions and Page 4 Plaintiff’s Submissions
 
@@ -461,13 +461,13 @@ _“No mathematical formula or analytical tool is capable of capturing or accomm
 
 [^40]: Paragraph 11 Plaintiff’s Submissions
 
-[^41]: \[2009\] SGCA 43
+[^41]: <span class="citation">\[2009\] SGCA 43</span>
 
-[^42]: \[2015\] 4 SLR 1043
+[^42]: <span class="citation">\[2015\] 4 SLR 1043</span>
 
-[^43]: \[2011\] SGHC 288
+[^43]: <span class="citation">\[2011\] SGHC 288</span>
 
-[^44]: \[2017\] SGHCF 18
+[^44]: <span class="citation">\[2017\] SGHCF 18</span>
 
 [^45]: Paragraphs 46-47 Plaintiff’s Affidavit of Assets and Means and Paragraph 23 Defendant’s 2nd Affidavit
 

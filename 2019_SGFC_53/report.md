@@ -100,7 +100,7 @@ Family Law – Ancillary matters – Maintenance
 
 ### Parties’ approach in dealing with the ratio of division
 
-22     I would pause here and note that in making their respective submissions on the eventual ratio of division, both parties were essentially adopting the approach stated in _ANJ v ANK_ \[2015\] 4 SLR 1043 (_“ANJ”_) (the “ANJ Approach”). That said, it was also well-established in the later decision of _TNL v TNK_ \[2017\] 1 SLR 609 (_“TNL_”) that the ANJ Approach was not suitable for _long single-income marriages_. In those situations, the Court of Appeal in _TNL_ (at \[48\]) endorsed the approach of inclining towards equal division.
+22     I would pause here and note that in making their respective submissions on the eventual ratio of division, both parties were essentially adopting the approach stated in _ANJ v ANK_ <span class="citation">\[2015\] 4 SLR 1043</span> (_“ANJ”_) (the “ANJ Approach”). That said, it was also well-established in the later decision of _TNL v TNK_ <span class="citation">\[2017\] 1 SLR 609</span> (_“TNL_”) that the ANJ Approach was not suitable for _long single-income marriages_. In those situations, the Court of Appeal in _TNL_ (at \[48\]) endorsed the approach of inclining towards equal division.
 
 23     In her written submissions[^22], the Plaintiff acknowledged, for all intents and purposes, that the marriage was effectively a long single-income marriage. This was despite her position, which was not substantively opposed by the Defendant, that the Plaintiff was working in the earlier part of the marriage (before the 2nd child was born), and did some part time work to supplement the household income.
 
@@ -110,7 +110,7 @@ Family Law – Ancillary matters – Maintenance
 
 26     After considering parties’ submissions at the relevant time, I was inclined to adopt the ANJ Approach in arriving at the final ratio of distribution. While I took into consideration the manner in which Parties’ themselves conducted their respective cases, that was not conclusively determinative of my decision.
 
-27     In _TNL_ and the subsequent decisions which applied the principal stated therein (see, for instance, _UMU v UMT_ \[2018\] SGHCF 16 (and the first instance decision in _UMT v UMU_ \[2018\] SGFC 59); _UKA v UKB_ \[2018\] SGHCF 7; and _UTS v UTT_ \[2019\] SGHCF 8) what may be discerned from those decisions was that the homemaker spouse did not have the kind of _direct contributions_ as the Plaintiff in the present case.[^23] In my view, adopting the ANJ Approach in those cases would amplify the limits of the said approach (as highlighted in _TNL_ at \[42\] to \[45\]).
+27     In _TNL_ and the subsequent decisions which applied the principal stated therein (see, for instance, _UMU v UMT_ <span class="citation">\[2018\] SGHCF 16</span> (and the first instance decision in _UMT v UMU_ <span class="citation">\[2018\] SGFC 59</span>); _UKA v UKB_ <span class="citation">\[2018\] SGHCF 7</span>; and _UTS v UTT_ <span class="citation">\[2019\] SGHCF 8</span>) what may be discerned from those decisions was that the homemaker spouse did not have the kind of _direct contributions_ as the Plaintiff in the present case.[^23] In my view, adopting the ANJ Approach in those cases would amplify the limits of the said approach (as highlighted in _TNL_ at \[42\] to \[45\]).
 
 28     However, this would not be so in the present case.
 
@@ -171,7 +171,7 @@ Z: Usual retirement age of the payer.
 
 **\[(85 + 62) ÷\] – 53 = 20.5 ≈ 21 years**
 
-48     While that was the multiplier derived by the formula, it was also noted in _Law and Practice_ (at \[4.3.19\], in referring to the decision of _Foo Ah Yan v Chiam Heng Chow_ \[2012\] 2 SLR 506) that the court will have to take into consideration a variety of factors in determining the appropriate multiplier. This would include, amongst other things, the parties’ state of health and the payee’s financial resources.
+48     While that was the multiplier derived by the formula, it was also noted in _Law and Practice_ (at \[4.3.19\], in referring to the decision of _Foo Ah Yan v Chiam Heng Chow_ <span class="citation">\[2012\] 2 SLR 506</span>) that the court will have to take into consideration a variety of factors in determining the appropriate multiplier. This would include, amongst other things, the parties’ state of health and the payee’s financial resources.
 
 49     After considering the matter, including the Defendant’s health condition, the factors I mentioned earlier (see \[44\] above), and the fact that the Plaintiff had already moved out of the matrimonial home, I was of the view that a multiplier of 10 years was more suitable in the circumstances. On that basis, the amount of lump maintenance to be awarded to the Plaintiff would be $24,000 (i.e., $200 x 12months x 10).
 
@@ -303,7 +303,7 @@ ix.     All payments to parties other than to their respective CPF accounts
 
 [^22]: PWS at \[24\]
 
-[^23]: For instance, direct contributions in _UMT v UMU_ \[2018\] SGFC 59 for the homemaker spouse of 0%. In _UKA_ v _UKB_ \[2018\] SGHCF 7, it was 20% for the homemaker spouse. As for _UTS v UTT_ \[2019\] SGHCF 8, while the High Court applied the approach in _TNL_ at the outset, it was highlighted (at \[27\]) that the wife was the homemaker “throughout the entire marriage”
+[^23]: For instance, direct contributions in _UMT v UMU_ <span class="citation">\[2018\] SGFC 59</span> for the homemaker spouse of 0%. In _UKA_ v _UKB_ <span class="citation">\[2018\] SGHCF 7</span>, it was 20% for the homemaker spouse. As for _UTS v UTT_ <span class="citation">\[2019\] SGHCF 8</span>, while the High Court applied the approach in _TNL_ at the outset, it was highlighted (at \[27\]) that the wife was the homemaker “throughout the entire marriage”
 
 [^24]: PWS at \[33\]
 
