@@ -7,7 +7,7 @@
 
 Family law – Relocation
 
-17 June 2019
+17 June 2019 - Judgment reserved.
 
 ### District Judge Chia Wee Kiat:
 

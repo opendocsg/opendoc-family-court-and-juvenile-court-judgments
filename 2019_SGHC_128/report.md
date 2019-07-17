@@ -9,7 +9,7 @@ Land – Housing and Development Act – Constructive trust
 
 Family Law – Ancillary Matters – Division of matrimonial assets – Maintenance of wife
 
-16 May 2019
+16 May 2019 - Judgment reserved.
 
 ### Choo Han Teck J:
 

@@ -7,7 +7,7 @@
 
 Child maintenance, Wife maintenance
 
-3 May 2019
+3 May 2019 - Judgment reserved.
 
 ### District Judge Nicole Loh:
 
