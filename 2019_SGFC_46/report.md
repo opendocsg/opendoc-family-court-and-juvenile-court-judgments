@@ -29,67 +29,67 @@ Ancillary Matters – Care and Control – Access – Division of Matrimon
 
 6       During the hearing of the ancillary matters, I made the following orders:
 
-_A_.     _Custody, Care and Control and Access_
+> _A_.     _Custody, Care and Control and Access_
 
-_1_.     _By consent, there shall be joint custody to the child;_
+> _1_.     _By consent, there shall be joint custody to the child;_
 
-_2_.     _The Plaintiff shall have sole care and control of the child with access to the Defendant as follows:_
+> _2_.     _The Plaintiff shall have sole care and control of the child with access to the Defendant as follows:_
 
-_Morning before school:_
+> _Morning before school:_
 
-_i_.     _Every Monday, Wednesday and Friday, the Defendant shall pick up the child from the Plaintiff’s residence at 8.45pm and send her to school;_
+>> _i_.     _Every Monday, Wednesday and Friday, the Defendant shall pick up the child from the Plaintiff’s residence at 8.45pm and send her to school;_
 
-_ii_.     _On Tuesdays and Thursdays, if the Plaintiff is not personally able to send the child to school, she shall provide to the Defendant no less than 24 hours’ notice and the Defendant shall pick up the child from the Plaintiff’s residence at 8.45pm and send her to school;_
+>> _ii_.     _On Tuesdays and Thursdays, if the Plaintiff is not personally able to send the child to school, she shall provide to the Defendant no less than 24 hours’ notice and the Defendant shall pick up the child from the Plaintiff’s residence at 8.45pm and send her to school;_
 
-_Afternoon after school:_
+> _Afternoon after school:_
 
-_iii_.     _Every Monday to Thursday, the Defendant shall pick the child from school at 4.30pm and return the child to the Plaintiff’s residence at 6.30pm on the same day._
+>> _iii_.     _Every Monday to Thursday, the Defendant shall pick the child from school at 4.30pm and return the child to the Plaintiff’s residence at 6.30pm on the same day._
 
-_iv_.     _Every Friday the Defendant shall pick the child from school at 4.30pm and return the child to the Plaintiff’s residence at 5.30pm on the Saturday._
+>> _iv_.     _Every Friday the Defendant shall pick the child from school at 4.30pm and return the child to the Plaintiff’s residence at 5.30pm on the Saturday._
 
-_Public Holidays:_
+> _Public Holidays:_
 
-_v_.     _Alternate public holidays commencing with Good Friday with the Defendant picking the child from school at 4.30pm and returning the child to the Plaintiff’s residence at 5.30pm the next day._
+>> _v_.     _Alternate public holidays commencing with Good Friday with the Defendant picking the child from school at 4.30pm and returning the child to the Plaintiff’s residence at 5.30pm the next day._
 
-_Chinese New Year:_
+> _Chinese New Year:_
 
-_vi_.     _On an alternate basis_,
+>> _vi_.     _On an alternate basis_,
 
-_aa_.     _Commencing from 2020, from 12.30pm on the 1st day of Chinese New Year to 5.30pm on the 2nd day of Chinese New Year;_
+>>> _aa_.     _Commencing from 2020, from 12.30pm on the 1st day of Chinese New Year to 5.30pm on the 2nd day of Chinese New Year;_
 
-_bb_.     _Commencing from 2021, the Defendant shall pick the child from school on New Year’s Eve and return the child to the Plaintiff’s residence at 12.30pm on the 1st day of Chinese New Year._
+>>> _bb_.     _Commencing from 2021, the Defendant shall pick the child from school on New Year’s Eve and return the child to the Plaintiff’s residence at 12.30pm on the 1st day of Chinese New Year._
 
-_A_.     _Division of Matrimonial Assets_
+> _A_.     _Division of Matrimonial Assets_
 
-_3_.     _In full and final settlement of all issues relating to the division of property and maintenance, that the Plaintiff’s rights, interest and share in the matrimonial property known as and situated at xxx which is in the joint names of the Plaintiff and the Defendant, shall be transferred to the Plaintiff within three (3) months from the date of Certificate of Making Interim Judgment Final upon the Plaintiff paying the Defendant a sum of $86,000. The Plaintiff is to be responsible for the refund to her CPF account all monies withdrawn and utilized for the purchase of the property together with accrued. The Defendant is to bear the costs and expenses of the transfer._
+> _3_.     _In full and final settlement of all issues relating to the division of property and maintenance, that the Plaintiff’s rights, interest and share in the matrimonial property known as and situated at xxx which is in the joint names of the Plaintiff and the Defendant, shall be transferred to the Plaintiff within three (3) months from the date of Certificate of Making Interim Judgment Final upon the Plaintiff paying the Defendant a sum of $86,000. The Plaintiff is to be responsible for the refund to her CPF account all monies withdrawn and utilized for the purchase of the property together with accrued. The Defendant is to bear the costs and expenses of the transfer._
 
-_4_.     _This Order is made subject to the Central Provident Fund Act (Cap. 36) ("CPF Act") and the subsidiary legislation made thereunder made in respect of the Member's CPF moneys, property and investments. The Board shall give effect to the terms of this order in accordance with the provisions of the CPF Act and the subsidiary legislation made thereunder._
+> _4_.     _This Order is made subject to the Central Provident Fund Act (Cap. 36) ("CPF Act") and the subsidiary legislation made thereunder made in respect of the Member's CPF moneys, property and investments. The Board shall give effect to the terms of this order in accordance with the provisions of the CPF Act and the subsidiary legislation made thereunder._
 
-_5_.     _If the matrimonial flat is not transferred within 3 months of the date of final judgement, then the matrimonial flat shall be sold on the open market within nine (9) months of the date of Final Judgement and the net sale proceeds, after repayment of the outstanding mortgage and interest, costs and expenses relating to the sale including agent’s commission, shall be divided in the proportion of 32% to the Defendant and 68% to the Plaintiff. From their shares of the sale proceeds, both parties shall refund to their respective CPF accounts all the monies utilized for the purchase of the flat together with accrued interest. There shall be joint conduct of sale of the matrimonial flat._
+> _5_.     _If the matrimonial flat is not transferred within 3 months of the date of final judgement, then the matrimonial flat shall be sold on the open market within nine (9) months of the date of Final Judgement and the net sale proceeds, after repayment of the outstanding mortgage and interest, costs and expenses relating to the sale including agent’s commission, shall be divided in the proportion of 32% to the Defendant and 68% to the Plaintiff. From their shares of the sale proceeds, both parties shall refund to their respective CPF accounts all the monies utilized for the purchase of the flat together with accrued interest. There shall be joint conduct of sale of the matrimonial flat._
 
-_6_.     _The Registrar or Deputy Registrar of the Family Justice Courts under section 31 of the Family Justice Act (Act 27 of 2014) is empowered to execute, sign or endorse all necessary documents relating to matters contained in this order on behalf of either party should either party fail to do so within seven (7) days of written request being made to the party._
+> _6_.     _The Registrar or Deputy Registrar of the Family Justice Courts under section 31 of the Family Justice Act (Act 27 of 2014) is empowered to execute, sign or endorse all necessary documents relating to matters contained in this order on behalf of either party should either party fail to do so within seven (7) days of written request being made to the party._
 
-_7_.     _That the monies in the parties OCBC joint account (xxx) is to be transferred to the Plaintiff and the account closed thereafter._
+> _7_.     _That the monies in the parties OCBC joint account (xxx) is to be transferred to the Plaintiff and the account closed thereafter._
 
-_8_.     _That each party shall retain his or her own other assets that are in their respective sole names._
+> _8_.     _That each party shall retain his or her own other assets that are in their respective sole names._
 
-_B_.     _Wife Maintenance_
+> _B_.     _Wife Maintenance_
 
-_9_.     _There shall be no wife maintenance payable by the Plaintiff to the Defendant._
+> _9_.     _There shall be no wife maintenance payable by the Plaintiff to the Defendant._
 
-_C_.     _Child Maintenance_
+> _C_.     _Child Maintenance_
 
-_10_.     _The Defendant shall pay to the Plaintiff a sum of $600 as monthly maintenance for the child. In addition, the Defendant shall pay for the following:_
+> _10_.     _The Defendant shall pay to the Plaintiff a sum of $600 as monthly maintenance for the child. In addition, the Defendant shall pay for the following:_
 
-(a)    All school fees for the child’s attendance at her existing preschool, to be paid directly to the school;
+>> (a)    All school fees for the child’s attendance at her existing preschool, to be paid directly to the school;
 
-(_b_)     _All insurance premiums for the child in respect of policies taken up by the Defendant and currently existing, to be paid directly to the insurers;_
+>> (_b_)     _All insurance premiums for the child in respect of policies taken up by the Defendant and currently existing, to be paid directly to the insurers;_
 
-_11_.     _The Plaintiff shall utilise the Defendant’s medical and dental coverage for the child as provided by the Defendant’s employer and where any amounts are not covered by the Defendant’s employer, subject to evidence being provided, the Defendant shall reimburse the Plaintiff for all medical costs incurred for the child within 14 days of production of receipts by the Plaintiff to the Defendant._
+> _11_.     _The Plaintiff shall utilise the Defendant’s medical and dental coverage for the child as provided by the Defendant’s employer and where any amounts are not covered by the Defendant’s employer, subject to evidence being provided, the Defendant shall reimburse the Plaintiff for all medical costs incurred for the child within 14 days of production of receipts by the Plaintiff to the Defendant._
 
-_12_.     _The Plaintiff shall sign the ECDA childcare subsidy forms and all other forms relating to child care subsidy within 7 days of the Defendant providing this to her._
+> _12_.     _The Plaintiff shall sign the ECDA childcare subsidy forms and all other forms relating to child care subsidy within 7 days of the Defendant providing this to her._
 
-_13_.     _Liberty to apply._
+> _13_.     _Liberty to apply._
 
 7       The Husband has appealed against my orders granting sole care and control of the child to the Wife as well as all of my orders providing him with access to the child of the marriage. In addition, he has appealed against my decision on the division of the matrimonial assets and my orders relating to the medical expenses for the child.
 
@@ -105,11 +105,11 @@ _13_.     _Liberty to apply._
 
 10     On all issues relating to children, the paramount consideration is the welfare of the children as encapsulated in sections 3 and 11 of the Guardianship of Infants Act (Cap 122) and sections 124 and 125 of the Women’s Charter. In _IW v IX_ <span class="citation">\[2005\] SGCA 48</span> Chao Hick Tin JA delivering the judgment of the Court of Appeal held:
 
-\[26\]  “It is clear to us that the paramount consideration in every case where custody is in issue is the welfare of the child. That is the immutable principle. The term “welfare” should be taken in its widest sense and we do not think it is possible or desirable to define it. In _Tan Siew Kee v Chua Ah Boey_ \[1987\] SLR (R) 725, Chan Sek Keong JC (as he then was), in reference to the term “welfare”, said (at 551):
+> \[26\]  “It is clear to us that the paramount consideration in every case where custody is in issue is the welfare of the child. That is the immutable principle. The term “welfare” should be taken in its widest sense and we do not think it is possible or desirable to define it. In _Tan Siew Kee v Chua Ah Boey_ \[1987\] SLR (R) 725, Chan Sek Keong JC (as he then was), in reference to the term “welfare”, said (at 551):
 
-\[12\]   It means the general well-being of the child and all aspects of his upbringing, religious, moral as well as physical. His happiness, comfort and security also go to make up his well-being. A loving parent with a stable home is conducive to the attainment of such well-being. It is not to be measured in monetary terms.”
+>> \[12\]   It means the general well-being of the child and all aspects of his upbringing, religious, moral as well as physical. His happiness, comfort and security also go to make up his well-being. A loving parent with a stable home is conducive to the attainment of such well-being. It is not to be measured in monetary terms.”
 
-\[27\]   What would be in the interests of the child must necessarily depend on all the circumstances of the case. The court, where appropriate, will have regard to the factors the wife had mentioned, _ie_, maintaining status quo, preservation of mother-child bond and that siblings should not be separated. Other factors will include the home environment and care arrangements made for the child, the conduct of the parties, and the wishes of the child. We must reiterate that this enumeration is not meant to be exhaustive. The court will have to carry out a balancing exercise to determine, as between the two parents, to whom custody should be given in the best interests of the child. A factor which may be determinant in one case may not necessarily be so in another. So the weight to be given to each factor may vary from case to case. No precise formulation is possible. This is not a scientific exercise but one of judgment.”
+>> \[27\]   What would be in the interests of the child must necessarily depend on all the circumstances of the case. The court, where appropriate, will have regard to the factors the wife had mentioned, _ie_, maintaining status quo, preservation of mother-child bond and that siblings should not be separated. Other factors will include the home environment and care arrangements made for the child, the conduct of the parties, and the wishes of the child. We must reiterate that this enumeration is not meant to be exhaustive. The court will have to carry out a balancing exercise to determine, as between the two parents, to whom custody should be given in the best interests of the child. A factor which may be determinant in one case may not necessarily be so in another. So the weight to be given to each factor may vary from case to case. No precise formulation is possible. This is not a scientific exercise but one of judgment.”
 
 ## Decision on Care and Control and Access
 
@@ -152,11 +152,11 @@ _13_.     _Liberty to apply._
 
 22     The structured approach referred to in _ANJ v ANK_ <span class="citation">\[2015\] 4 SLR 1043</span> was affirmed in the Court of Appeal case of _Twiss Christopher James Hans v Twiss, Yvonne Prendergast_ <span class="citation">\[2015\] SGCA 52</span> and summarised into the following broad steps:
 
-(a)     Express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of the financial contribution each party made towards the acquisition or improvement of the matrimonial assets;
+> (a)     Express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of the financial contribution each party made towards the acquisition or improvement of the matrimonial assets;
 
-(b)     Express as a second ratio the parties’ indirect contributions relative to each other, having regard to both financial and non-financial contributions; and
+> (b)     Express as a second ratio the parties’ indirect contributions relative to each other, having regard to both financial and non-financial contributions; and
 
-(c)     Derive the parties’ overall contributions relative to each other.
+> (c)     Derive the parties’ overall contributions relative to each other.
 
 ## Direct Contributions
 

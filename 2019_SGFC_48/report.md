@@ -19,33 +19,33 @@ Family Law – Maintenance of Child – Women’s Charter
 
 2       The law governing the maintenance of children is found in Part VIII of the Women’s Charter –
 
-**68**.    Except where an agreement or order of court otherwise provides, it shall be the duty of a parent to maintain or contribute to the maintenance of his or her children, whether they are in his or her custody or the custody of any other person, and whether they are legitimate or illegitimate, either by providing them with such accommodation, clothing, food and education as may be reasonable having regard to his or her means and station in life or by paying the cost thereto.
+> **68**.    Except where an agreement or order of court otherwise provides, it shall be the duty of a parent to maintain or contribute to the maintenance of his or her children, whether they are in his or her custody or the custody of any other person, and whether they are legitimate or illegitimate, either by providing them with such accommodation, clothing, food and education as may be reasonable having regard to his or her means and station in life or by paying the cost thereto.
 
-**69.** (2)    The Court may, on due proof that a parent has neglected or refused to provide reasonable maintenance for his child who is unable to maintain himself, order that parent to pay a monthly allowance or a lump sum for the maintenance of that child.
+> **69.** (2)    The Court may, on due proof that a parent has neglected or refused to provide reasonable maintenance for his child who is unable to maintain himself, order that parent to pay a monthly allowance or a lump sum for the maintenance of that child.
 
-(4)    The Court, when ordering maintenance for a child under this section, shall have regard to all the circumstances of the case including the following matters:
+> (4)    The Court, when ordering maintenance for a child under this section, shall have regard to all the circumstances of the case including the following matters:
 
-(a)    the financial needs of the child;
+>> (a)    the financial needs of the child;
 
-(b)    the income, earning capacity (if any), property and other financial resources of the child;
+>> (b)    the income, earning capacity (if any), property and other financial resources of the child;
 
-(c)    any physical or mental disability of the child;
+>> (c)    any physical or mental disability of the child;
 
-(d)    the age of each party to the marriage and the duration of the marriage;
+>> (d)    the age of each party to the marriage and the duration of the marriage;
 
-(e)    the contributions made by each of the parties to the marriage to the welfare of the family, including any contribution made by looking after the home or caring for the family;
+>> (e)    the contributions made by each of the parties to the marriage to the welfare of the family, including any contribution made by looking after the home or caring for the family;
 
-(f)    the standard of living enjoyed —
+>> (f)    the standard of living enjoyed —
 
-by the child before a parent neglected or refused to provide reasonable maintenance for the child;
+>>> by the child before a parent neglected or refused to provide reasonable maintenance for the child;
 
-(g)    in the case of a child, the manner in which he was being, and in which the parties to the marriage expected him to be, educated or trained; and
+>> (g)    in the case of a child, the manner in which he was being, and in which the parties to the marriage expected him to be, educated or trained; and
 
-(h)    the conduct of each of the parties to the marriage, if the conduct is such that it would in the opinion of the court be inequitable to disregard it.
+>> (h)    the conduct of each of the parties to the marriage, if the conduct is such that it would in the opinion of the court be inequitable to disregard it.
 
 3       In the case of _TCT v TCU_[^1], the High Court ruled that due proof of neglect or refusal to provide reasonable maintenance for a child is required before the court would make an order against the parent in a section 69 application such as the present case.
 
-“The legal threshold is specified in section 69 simply because parties are not yet before the court. The section thus provides the specific criteria to found the Court’s jurisdiction. In a s 113(a) \[of the Women’s Charter\] application, there is no need to specify any criteria to allow a litigant to file the application, because the court is already seised of the suit. However, simply because a suit lies in its jurisdiction does not necessitate that the Court should go on and regulate the lives of parties with a lower threshold. The premise of need ought to still be there, in line with Parliament’s intentions in 1981, and the High Court’s previous interpretation in _Sengol_.”
+> “The legal threshold is specified in section 69 simply because parties are not yet before the court. The section thus provides the specific criteria to found the Court’s jurisdiction. In a s 113(a) \[of the Women’s Charter\] application, there is no need to specify any criteria to allow a litigant to file the application, because the court is already seised of the suit. However, simply because a suit lies in its jurisdiction does not necessitate that the Court should go on and regulate the lives of parties with a lower threshold. The premise of need ought to still be there, in line with Parliament’s intentions in 1981, and the High Court’s previous interpretation in _Sengol_.”
 
 4       Thus, proof of neglect, or of refusal to maintain, is a legal threshold that must be overcome by the complainant before to any other consideration.
 
@@ -125,15 +125,15 @@ by the child before a parent neglected or refused to provide reasonable maintena
 
 39     Having found the facts above, I examined the issues of the case -
 
-a.     What was the manner in which the child was being, and in which the parties expected, the child to be educated or trained? Was it in Vietnam or Singapore?
+> a.     What was the manner in which the child was being, and in which the parties expected, the child to be educated or trained? Was it in Vietnam or Singapore?
 
-b.     Was it necessary or in the child’s best interest to relocate to Singapore?
+> b.     Was it necessary or in the child’s best interest to relocate to Singapore?
 
-c.     Was it reasonable to require the respondent to bear the maintenance of the child in Singapore?
+> c.     Was it reasonable to require the respondent to bear the maintenance of the child in Singapore?
 
-d.     Did the parties have any agreement that the Respondent maintain the child at any other sum? Was this agreement reasonable?
+> d.     Did the parties have any agreement that the Respondent maintain the child at any other sum? Was this agreement reasonable?
 
-e.     Had the Respondent neglected or refused to pay it?
+> e.     Had the Respondent neglected or refused to pay it?
 
 ## Findings
 
@@ -163,13 +163,13 @@ e.     Had the Respondent neglected or refused to pay it?
 
 51     Based on the foregoing findings, and applying the facts to the applicable principles of law, I found that –
 
-a.     The Complainant had not shown why it was necessary or in the child’s best interest to relocate to Singapore. The Complainant had the means to maintain the child in Singapore and she had the means to do so without the Respondent’s contribution. It was purely fortuitous that she met the Respondent. Requiring the Respondent to bear the maintenance of the child in Singapore is not reasonable in the circumstances. The Respondent cannot be made liable to contribute to the expenses of the child in Singapore.
+> a.     The Complainant had not shown why it was necessary or in the child’s best interest to relocate to Singapore. The Complainant had the means to maintain the child in Singapore and she had the means to do so without the Respondent’s contribution. It was purely fortuitous that she met the Respondent. Requiring the Respondent to bear the maintenance of the child in Singapore is not reasonable in the circumstances. The Respondent cannot be made liable to contribute to the expenses of the child in Singapore.
 
-b.     The parties had had an agreement that the Respondent maintain the child at a yearly sum of €1,200, and this agreement was based on the understanding that the child was going to live a life and be raised in Vietnam. This is an agreement to maintain a child as envisaged by section 69 of the Women’s Charter.
+> b.     The parties had had an agreement that the Respondent maintain the child at a yearly sum of €1,200, and this agreement was based on the understanding that the child was going to live a life and be raised in Vietnam. This is an agreement to maintain a child as envisaged by section 69 of the Women’s Charter.
 
-c.     That figure of €1,200, having been agreed to, was a reasonable maintenance of the child if he were raised in Vietnam. In this regard the Respondent has not neglected or refused to pay the agreed maintenance sum of €1,200.
+> c.     That figure of €1,200, having been agreed to, was a reasonable maintenance of the child if he were raised in Vietnam. In this regard the Respondent has not neglected or refused to pay the agreed maintenance sum of €1,200.
 
-d.     In any event, an agreement to maintain a child under section 69 does not require the amount of maintenance to be reasonable having regard to the Respondent’s means and station in life nor by payment of the cost of the child’s accommodation, clothing, food and education. In other words, if parents come to an agreement on how they each should contribute to the maintenance of a child, the Court ought not review the reasonableness of the agreement. Such an agreement may, however, be overridden by a material change in circumstances. In view of what I have stated above, the Complainant’s unilateral decision to relocate to Singapore was not reasonable, and cannot be a material change of circumstances that would compel an unravelling of the agreement between the parties.
+> d.     In any event, an agreement to maintain a child under section 69 does not require the amount of maintenance to be reasonable having regard to the Respondent’s means and station in life nor by payment of the cost of the child’s accommodation, clothing, food and education. In other words, if parents come to an agreement on how they each should contribute to the maintenance of a child, the Court ought not review the reasonableness of the agreement. Such an agreement may, however, be overridden by a material change in circumstances. In view of what I have stated above, the Complainant’s unilateral decision to relocate to Singapore was not reasonable, and cannot be a material change of circumstances that would compel an unravelling of the agreement between the parties.
 
 52     In view of the above, the Complainant had failed to prove on a balance of probabilities that the Respondent had neglected or refused to provide reasonable maintenance for the child. Therefore, I dismissed the Complainant’s summons. I made no order as to costs.
 

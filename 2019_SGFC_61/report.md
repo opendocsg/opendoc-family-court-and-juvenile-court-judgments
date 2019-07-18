@@ -89,15 +89,15 @@ Family Law – variation of maintenance payable; enforcement of maintenance pa
 
 33     Thus at the next hearing day on 30th January 2019, there were three MSS applications and two Summons applications fixed before this Court as follows:
 
-a.     enforcement application by the Respondent in **MSS 3777 of 2018** with regard to the Order of Court dated 27th April 2018;
+> a.     enforcement application by the Respondent in **MSS 3777 of 2018** with regard to the Order of Court dated 27th April 2018;
 
-b.     enforcement application by the Respondent in **MSS 3778 of 2018** with regard to the portion of the Court Order dated 10th September 2018 for SUM 891 of 2018;
+> b.     enforcement application by the Respondent in **MSS 3778 of 2018** with regard to the portion of the Court Order dated 10th September 2018 for SUM 891 of 2018;
 
-c.     application by the Appellant in **SUM 4407 of 2018** for variation of the reduced maintenance payable under the Court Order dated 10th September 2018;
+> c.     application by the Appellant in **SUM 4407 of 2018** for variation of the reduced maintenance payable under the Court Order dated 10th September 2018;
 
-d.     application by the Appellant in **MSS 112 of 2019** to vary and/or rescind the maintenance payable under the Order of Court in VO (MO) 10/2019 dated 9th January 2019; and
+> d.     application by the Appellant in **MSS 112 of 2019** to vary and/or rescind the maintenance payable under the Order of Court in VO (MO) 10/2019 dated 9th January 2019; and
 
-e.     application by the Respondent in **SUM 151 of 2019** for variation of the Order of Court dated 10th September 2018 regarding SUM 744 of 2018 on the Appellant’s application for the relocation of the 2 children back to India.
+> e.     application by the Respondent in **SUM 151 of 2019** for variation of the Order of Court dated 10th September 2018 regarding SUM 744 of 2018 on the Appellant’s application for the relocation of the 2 children back to India.
 
 34     At the outset, the Court noted that SUM 4407 of 2018 had been made redundant by the Appellant’s application in MSS 112 of 2019 and the Appellant agreed to withdraw this summons application and to only proceed with MSS 112 of 2019.
 
@@ -113,33 +113,33 @@ e.     application by the Respondent in **SUM 151 of 2019** for variation o
 
 38     The Appellant is appealing against the whole of the two Court Orders issued on 7th March 2019 in EMO 332/2019 for MSS 3777 of 2018 and VO (MO-RO) 17/2019 for MSS 112 of 2019. The relevant portions of these two Court Orders are set out below.
 
-For MSS 3777 of 2018 (Appeal in DCA 25 of 2019)
+> For MSS 3777 of 2018 (Appeal in DCA 25 of 2019)
 
-1.     \[The Appellant\] is to pay to \[the Respondent\] arrears in the sum of $30,716 as at 7th March 2019 (excluding maintenance for the month of March 2019), in instalment payments of $2,559 on or before the last day of each month with effect from 31st March 2019;
+> 1.     \[The Appellant\] is to pay to \[the Respondent\] arrears in the sum of $30,716 as at 7th March 2019 (excluding maintenance for the month of March 2019), in instalment payments of $2,559 on or before the last day of each month with effect from 31st March 2019;
 
-2.     This sum of $30,716 comprises the following:
+> 2.     This sum of $30,716 comprises the following:
 
-a.       Maintenance in the sum of $2,900 (for June 2018);
+>> a.       Maintenance in the sum of $2,900 (for June 2018);
 
-b.       Maintenance for 5 months at $1,800 per month from July 2018 to Nov 2018 in the total sum of $9,000;
+>> b.       Maintenance for 5 months at $1,800 per month from July 2018 to Nov 2018 in the total sum of $9,000;
 
-c.       Maintenance for 3 months at $1,000 per month (being $400 for \[the Respondent\] and $600 for the 2 children) from December 2018 to February 2019 in the total sum of $3,000;
+>> c.       Maintenance for 3 months at $1,000 per month (being $400 for \[the Respondent\] and $600 for the 2 children) from December 2018 to February 2019 in the total sum of $3,000;
 
-d.       The balance of arrears under EMO 581/2018 \[Court Order dated 27th April 2018\] in the total sum of $7,600 (being the sum of $8,000 less the $400 paid by \[the Appellant\] in October 2018 and in January/February 2019);
+>> d.       The balance of arrears under EMO 581/2018 \[Court Order dated 27th April 2018\] in the total sum of $7,600 (being the sum of $8,000 less the $400 paid by \[the Appellant\] in October 2018 and in January/February 2019);
 
-e.       The school fees being claimed by \[the Respondent\] under the 25th August 2016 Court Order in VO 368/2016 in the sum of $8,216; and
+>> e.       The school fees being claimed by \[the Respondent\] under the 25th August 2016 Court Order in VO 368/2016 in the sum of $8,216; and
 
-f.       The total sum of $30,716 is to be paid by \[the Appellant\] in 12 instalments of $2,559 each.
+>> f.       The total sum of $30,716 is to be paid by \[the Appellant\] in 12 instalments of $2,559 each.
 
-3.     \[The Appellant\] is to show payment on 6 show payment dates being 1st April 2019, 2nd May 2019, 3rd June 2019, 1st July 2019, 1st August 2019 and 2nd September 2019.
+> 3.     \[The Appellant\] is to show payment on 6 show payment dates being 1st April 2019, 2nd May 2019, 3rd June 2019, 1st July 2019, 1st August 2019 and 2nd September 2019.
 
-4.     In the event that \[the Appellant\] defaults in making any of these 6 show payments, \[the Appellant\] is to serve 3 days’ imprisonment for each non-payment.
+> 4.     In the event that \[the Appellant\] defaults in making any of these 6 show payments, \[the Appellant\] is to serve 3 days’ imprisonment for each non-payment.
 
-For MSS 112 of 2019 (Appeal in DCA 26 of 2019)
+> For MSS 112 of 2019 (Appeal in DCA 26 of 2019)
 
-5.     The Maintenance Order in VO (MO) 10/2019 dated 9th January 2019 is to be varied with effect from 7th March 2019 as follows:
+> 5.     The Maintenance Order in VO (MO) 10/2019 dated 9th January 2019 is to be varied with effect from 7th March 2019 as follows:
 
-\[The Appellant\] shall pay the sum of $1,000 maintenance per month (being $400 for \[the Respondent\] and $600 for the 2 children) with effect from 31st December 2018 and thereafter on the last day of each month until varied or discharged according to law.
+> \[The Appellant\] shall pay the sum of $1,000 maintenance per month (being $400 for \[the Respondent\] and $600 for the 2 children) with effect from 31st December 2018 and thereafter on the last day of each month until varied or discharged according to law.
 
 ### Summary of the Court’s reasons for making its Orders
 
@@ -155,51 +155,51 @@ For MSS 112 of 2019 (Appeal in DCA 26 of 2019)
 
 44     At the same time, the Court had re-assessed their monthly expenses as follows:
 
-1.     Maintenance for elder child assessed at $460 per month. This comprised
+> 1.     Maintenance for elder child assessed at $460 per month. This comprised
 
-a.       Transport for school (at $5 per day x 20days) = $100
+>> a.       Transport for school (at $5 per day x 20days) = $100
 
-b.       Transport for weekend (at $10 per weekend) = $40
+>> b.       Transport for weekend (at $10 per weekend) = $40
 
-c.       Allowance (at $10 per day x 20 days) = $200
+>> c.       Allowance (at $10 per day x 20 days) = $200
 
-d.       Books and Stationary = $30
+>> d.       Books and Stationary = $30
 
-e.       Mobile phone = $40
+>> e.       Mobile phone = $40
 
-f.       Clothing & Miscellaneous = $50
+>> f.       Clothing & Miscellaneous = $50
 
-Total is $460 (Note that food and groceries is covered under the Respondent’s expenses listed below).
+> Total is $460 (Note that food and groceries is covered under the Respondent’s expenses listed below).
 
-2.     Maintenance for younger child assessed at $430 per month. This comprised:
+> 2.     Maintenance for younger child assessed at $430 per month. This comprised:
 
-a.       Transport for school (at $5 per day x 20days) = $100
+>> a.       Transport for school (at $5 per day x 20days) = $100
 
-b.       Transport for weekend (at $10 per weekend) = $40
+>> b.       Transport for weekend (at $10 per weekend) = $40
 
-c.       Allowance (at $10 per day x 20 days) = $200
+>> c.       Allowance (at $10 per day x 20 days) = $200
 
-d.       Books and Stationary = $50
+>> d.       Books and Stationary = $50
 
-e.       Clothing & Miscellaneous = $40
+>> e.       Clothing & Miscellaneous = $40
 
-Total is $430
+> Total is $430
 
-3.     From the Respondent’s list of expenses, the Court assessed that the following expenses were reasonable:
+> 3.     From the Respondent’s list of expenses, the Court assessed that the following expenses were reasonable:
 
-a.       Rental at $156 per month
+>> a.       Rental at $156 per month
 
-b.       Telephone and Cable/TV/Internet at $100 per month
+>> b.       Telephone and Cable/TV/Internet at $100 per month
 
-c.       Food & Groceries & Eating Out at $500 per month (including for both children)
+>> c.       Food & Groceries & Eating Out at $500 per month (including for both children)
 
-d.       Miscellaneous expenses covering Medical and such like at $50 per month
+>> d.       Miscellaneous expenses covering Medical and such like at $50 per month
 
-e.       Transport at $100 per month
+>> e.       Transport at $100 per month
 
-Total is $906 per month
+> Total is $906 per month
 
-4.     $460 + $430 + $906 = $1,796 which was rounded to $1,800 per month to take effect from 1st July 2018, after the Respondent and 2 children had moved to the shelter.
+> 4.     $460 + $430 + $906 = $1,796 which was rounded to $1,800 per month to take effect from 1st July 2018, after the Respondent and 2 children had moved to the shelter.
 
 45     However, at the hearing, the Appellant revised his application in his written submissions, which was marked as Exhibit R5 wherein he asked (i) for a suspension of the maintenance payable by him from June 2018 to October 2018 as he was unemployed for these months (ii) to fix the maintenance payable from November 2018 to March 2019 based on his then take home salary of S$1,600 as well as the Respondent’s potential earnings in India which he assessed at 10,000 Rupees per month and (iii) to fix the monthly maintenance payable by him from April 2019 onwards to be based on the Appellant’s new job salary in India of 22,000 Rupees or approximately S$400 per month.
 

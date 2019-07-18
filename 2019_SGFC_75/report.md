@@ -19,9 +19,9 @@ Setting Aside and Variation of Ancillary Orders
 
 3       In summary:
 
-a)     Under the original orders, the Father was directed to transfer his share of the matrimonial property to the Mother who would make a lump sum payment to him ($97,534.00) He was also required to pay her a lump sum payment of maintenance for herself ($7,200). Other than that, parties were to retain all assets in their own names. The Father was also required to provide maintenance to their only child (the “**Child**”).
+> a)     Under the original orders, the Father was directed to transfer his share of the matrimonial property to the Mother who would make a lump sum payment to him ($97,534.00) He was also required to pay her a lump sum payment of maintenance for herself ($7,200). Other than that, parties were to retain all assets in their own names. The Father was also required to provide maintenance to their only child (the “**Child**”).
 
-b)     Under my orders in this application, I allowed the Mother to retain the matrimonial property. The Father would also keep the lump sum received by him from the Mother, and in addition to that lump sum, the Mother would have to pay him a further amount in full settlement of the division of matrimonial property ($73,447.73). The Mother would no longer be entitled to maintenance for herself and would refund the spousal maintenance paid by the Father to date ($3,200.00). I did not disturb the current orders on Child maintenance.
+> b)     Under my orders in this application, I allowed the Mother to retain the matrimonial property. The Father would also keep the lump sum received by him from the Mother, and in addition to that lump sum, the Mother would have to pay him a further amount in full settlement of the division of matrimonial property ($73,447.73). The Mother would no longer be entitled to maintenance for herself and would refund the spousal maintenance paid by the Father to date ($3,200.00). I did not disturb the current orders on Child maintenance.
 
 4       On 8 April 2019, the Mother filed her appeal against all of my orders. The full grounds of my decision are set out below.
 
@@ -51,19 +51,19 @@ b)     Under my orders in this application, I allowed the Mother to retain 
 
 14     While the transfer of the matrimonial flat had been effected, it was still within my power to set aside that transaction and re-hear the ancillaries as the parties had consented to my doing so, applying the principles in the case of _ANJ v ANK_ <span class="citation">\[2015\] 4 SLR 1043</span> - which had not been decided at the time of the ancillary matters:
 
-a)     Step 1 - Express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of financial contribution each party made towards the acquisition or improvement of the matrimonial assets;
+> a)     Step 1 - Express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of financial contribution each party made towards the acquisition or improvement of the matrimonial assets;
 
-b)     Step 2 - Express as a second ratio the parties’ indirect contributions relative to each other, having regard to both financial and non-financial contributions; and
+> b)     Step 2 - Express as a second ratio the parties’ indirect contributions relative to each other, having regard to both financial and non-financial contributions; and
 
-c)     Step 3 - Derive the parties’ overall contributions relative to each other by taking an average of the two ratios above (the derived ratio shall be referred to as “the average ratio”).
+> c)     Step 3 - Derive the parties’ overall contributions relative to each other by taking an average of the two ratios above (the derived ratio shall be referred to as “the average ratio”).
 
 15     In applying the Structured Approach and determining the issues of Child and spousal maintenance, I decided that I would:
 
-a)     Assume the addition of the Citigold Accounts to matrimonial pool.
+> a)     Assume the addition of the Citigold Accounts to matrimonial pool.
 
-b)     Adopt the factual findings of the Family Court for the hearing of the ancillary matters as set out in _UGK v UGL_ \[2014\] 184, in respect of the parties’ expenses, the children’s expenses, and the valuations of the other assets in the matrimonial pool.
+> b)     Adopt the factual findings of the Family Court for the hearing of the ancillary matters as set out in _UGK v UGL_ \[2014\] 184, in respect of the parties’ expenses, the children’s expenses, and the valuations of the other assets in the matrimonial pool.
 
-c)     Adopt the factual findings of the Family Court for the hearing of the ancillary matters as set out in _UGK v UGL_ \[2014\] 184, which would be relevant to determining the parties’ indirect contributions.
+> c)     Adopt the factual findings of the Family Court for the hearing of the ancillary matters as set out in _UGK v UGL_ \[2014\] 184, which would be relevant to determining the parties’ indirect contributions.
 
 16     This was because the basis for setting aside the ancillary orders under the current Application was the failure of the Mother to disclose the Citigold Accounts to the pool of matrimonial assets. It would not be appropriate for me to re-hear factual issues that had already been determined by the Family Court unless they had been affected by the addition of the Citigold Accounts to the matrimonial pool of assets.
 
@@ -77,11 +77,11 @@ c)     Adopt the factual findings of the Family Court for the hearing of th
 
 20     The individual search profile was not tendered as an affidavit, and therefore I did not admit this document as evidence in the proceedings.
 
-a)     First, to do so would have been prejudicial to the Father, who would not have had any opportunity to respond to these documents.
+> a)     First, to do so would have been prejudicial to the Father, who would not have had any opportunity to respond to these documents.
 
-b)     Second, since the first case conference of the matter on 13 June 2018 (9 months prior to the hearing!), the Mother had more than enough time to instruct her lawyers to submit these documents and should not be allowed to surprise the Father at this juncture.
+> b)     Second, since the first case conference of the matter on 13 June 2018 (9 months prior to the hearing!), the Mother had more than enough time to instruct her lawyers to submit these documents and should not be allowed to surprise the Father at this juncture.
 
-c)     Third, the allegations of non-disclosure in respect of the Father’s shareholding in companies had already been brought and considered by the Family Court at the hearing of the ancillary matters on 14 March 2014, resulting in the sum of $33,682.55 being added to the pool of matrimonial assets, which I accepted (see \[21\] to \[23\] of _UGK v UGL_ \[2014\] 184).
+> c)     Third, the allegations of non-disclosure in respect of the Father’s shareholding in companies had already been brought and considered by the Family Court at the hearing of the ancillary matters on 14 March 2014, resulting in the sum of $33,682.55 being added to the pool of matrimonial assets, which I accepted (see \[21\] to \[23\] of _UGK v UGL_ \[2014\] 184).
 
 In summary, this was simply the Mother’s attempt to resurrect issues that she had the opportunity to ventilate some 5 years ago, and which had already been determined.
 
@@ -91,9 +91,9 @@ In summary, this was simply the Mother’s attempt to resurrect issues that she 
 
 21     At the start of the hearing, parties confirmed that the parties held the following amount of assets in their own names:
 
-a)     Father - $125,713.69
+> a)     Father - $125,713.69
 
-b)     Mother $450,783.96 (inclusive of the monies in the Citigold Accounts, which amounted to about $330,221.46 as of 1 February 2013)
+> b)     Mother $450,783.96 (inclusive of the monies in the Citigold Accounts, which amounted to about $330,221.46 as of 1 February 2013)
 
 22     They also agreed that the net value of the matrimonial flat (the “**Property**”) and their direct contributions to and deriving from it were as follows.
 
@@ -108,9 +108,9 @@ b)     Mother $450,783.96 (inclusive of the monies in the Citigold Accounts
 
 24     Here, there were two factors to consider:
 
-a)     The Mother was not able to produce any bank statements circa 2003 when she was married. Thus it was impossible to verify the balance of the Citigold Accounts prior to the marriage.
+> a)     The Mother was not able to produce any bank statements circa 2003 when she was married. Thus it was impossible to verify the balance of the Citigold Accounts prior to the marriage.
 
-b)     The Mother had been working for nearly 10 years prior to the marriage, and continued working 5 years into the marriage. It was quite likely that not all the monies in the Citigold Accounts as of February 2013 were earned or accumulated during the marriage.
+> b)     The Mother had been working for nearly 10 years prior to the marriage, and continued working 5 years into the marriage. It was quite likely that not all the monies in the Citigold Accounts as of February 2013 were earned or accumulated during the marriage.
 
 25     Taking the above factors into account, I adopted a broad brush approach and took the average of the two figures proposed by the parties - $265,110.73 – as the value of the Citigold Accounts.
 
@@ -122,9 +122,9 @@ b)     The Mother had been working for nearly 10 years prior to the marriag
 
 27     For indirect contributions, the Family Court had made the following findings in _UGK v UGL_ \[2014\] 184. :
 
-a)     In the first 5 years of the marriage, and prior to the birth of the Child in 2008, both parties worked. During this period, both parties contributed to the expenses of the household.
+> a)     In the first 5 years of the marriage, and prior to the birth of the Child in 2008, both parties worked. During this period, both parties contributed to the expenses of the household.
 
-b)     During the last 5 years of the marriage, when the Child was born, the Mother had been the primary caregiver of the Child for the last 5 years of the marriage. During this period the Father would either be frequently in Malaysia or at his mother’s flat and would bear almost all the family expenses.
+> b)     During the last 5 years of the marriage, when the Child was born, the Mother had been the primary caregiver of the Child for the last 5 years of the marriage. During this period the Father would either be frequently in Malaysia or at his mother’s flat and would bear almost all the family expenses.
 
 28     The Mother’s counsel submitted that the indirect contribution should be 60:40 in her favour. The Father’s counsel submitted that it would be fair to give the Mother a 55-60% share of indirect contributions. I agreed with the Mother as this was a figure that accurately represented the contributions of the Mother where she had been a caregiver for a relatively short period – about half the marriage and about 5 years.
 
@@ -156,9 +156,9 @@ b)     During the last 5 years of the marriage, when the Child was born, th
 
 35     By failing to disclose the existence of the Citigold Accounts, the Mother had clearly misrepresented her net worth to the Court. On this point, the Mother claimed that the monies were being held on trust by her for her family members, who had lent her money and allowed her to keep the money in her named accounts. I did not believe that the Mother owed any debts to her family for the following reasons:
 
-a)     The Mother had continued to retain a considerable amount of monies in the Citigold Accounts throughout the marriage. If her debts to her relatives were so significant and she had the monies to repay them, why not do so?
+> a)     The Mother had continued to retain a considerable amount of monies in the Citigold Accounts throughout the marriage. If her debts to her relatives were so significant and she had the monies to repay them, why not do so?
 
-b)     There was no documentary proof tendered by the Mother to show the transfer of monies from her relatives to her in respect of the alleged loans.
+> b)     There was no documentary proof tendered by the Mother to show the transfer of monies from her relatives to her in respect of the alleged loans.
 
 36     The existence of the Citigold Accounts meant that there was no question of whether the Mother would be in need of maintenance pending her search for a new job. Even after the payments to the Father of $97,534.00 and $73,474.73 (total of $170,008.73) were accounted for, that would leave her with about $159,212.73 of the $330,221.46 in the Citigold Accounts, which would be more than sufficient to cover her expenses while she searched for a new job. Moreover, she would continue to be able to live in the Property which had also been transferred to her in full, and not need to have to incur rental expenses.
 
@@ -194,11 +194,11 @@ The Father is to pay the sum of ~$800.00~ $900.00 as maintenance of the Child xx
 
 1.     To insert Clause C1 to Clause 3(c) as follows:-
 
-_“C1. In addition, the Mother shall pay the Father the sum of $73,474.73 in full settlement of the division of matrimonial assets. The sum shall be transferred by 8 April 2019.”_
+> _“C1. In addition, the Mother shall pay the Father the sum of $73,474.73 in full settlement of the division of matrimonial assets. The sum shall be transferred by 8 April 2019.”_
 
 2.     Clause 3(g) shall be set aside and to be replaced with as follows:-”
 
-_“The Mother shall not be entitled to maintenance for herself and the Mother shall pay the Father the sum of $3,200.00 by 8 April 2019, being a reimbursement of maintenance paid by the Father to her to date.”_
+> _“The Mother shall not be entitled to maintenance for herself and the Mother shall pay the Father the sum of $3,200.00 by 8 April 2019, being a reimbursement of maintenance paid by the Father to her to date.”_
 
 3.     Costs of this application fixed at $3,100.00 and disbursements at $224.60 to be paid by the Mother to the Father.
 

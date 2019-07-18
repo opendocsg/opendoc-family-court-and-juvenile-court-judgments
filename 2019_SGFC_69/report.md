@@ -45,47 +45,47 @@ Family Law – Guardianship of Infants Act – best interest of child – 
 
 15     In these proceedings, the mother prayed for –
 
-a.     joint custody of the child, but for care and control to be shared,
+> a.     joint custody of the child, but for care and control to be shared,
 
-b.     the mother to keep the child’s birth certificate and Russian passport, and for the father to keep the child’s Singapore passport,
+> b.     the mother to keep the child’s birth certificate and Russian passport, and for the father to keep the child’s Singapore passport,
 
-c.     the parties to consult with each other and seek each other’s consent to the major decisions regarding the child’s welfare, including matters pertaining to her education, choice of school, religion and citizenship status, and not make unilateral decisions for the child,
+> c.     the parties to consult with each other and seek each other’s consent to the major decisions regarding the child’s welfare, including matters pertaining to her education, choice of school, religion and citizenship status, and not make unilateral decisions for the child,
 
-d.     both parties to have the right to be designated on the child’s records as a person to be notified in the case of medical emergency,
+> d.     both parties to have the right to be designated on the child’s records as a person to be notified in the case of medical emergency,
 
-e.     both parties to have the right to contact the child’s school directly to be provided with updates on the child and to attend at school activities,
+> e.     both parties to have the right to contact the child’s school directly to be provided with updates on the child and to attend at school activities,
 
-f.     both parties to keep each other informed if the child falls ill, and if the child is hospitalised, both to be allowed to see the child and speak to her doctors,
+> f.     both parties to keep each other informed if the child falls ill, and if the child is hospitalised, both to be allowed to see the child and speak to her doctors,
 
-g.     that during the school term, upon being given to the father 2 weeks’ notice, the mother shall have care of the child for 2 weeks per month. The mother shall collect the child from school and return her there,
+> g.     that during the school term, upon being given to the father 2 weeks’ notice, the mother shall have care of the child for 2 weeks per month. The mother shall collect the child from school and return her there,
 
-h.     that during school holidays, the mother shall have care of the child for the last 2 weeks of the mid-year school holidays, and for the last 3 weeks of the year-end school holidays,
+> h.     that during school holidays, the mother shall have care of the child for the last 2 weeks of the mid-year school holidays, and for the last 3 weeks of the year-end school holidays,
 
-i.     that the father shall have care of the child for the first 2 weeks of the mid-year school holidays and the first 3 weeks of the year-end school holidays,
+> i.     that the father shall have care of the child for the first 2 weeks of the mid-year school holidays and the first 3 weeks of the year-end school holidays,
 
-j.     that the parties be allowed to bring the child out of Singapore during their respective care periods,
+> j.     that the parties be allowed to bring the child out of Singapore during their respective care periods,
 
-k.     the travelling party shall give written notice of the intention to travel with the child at least 1 month in advance, with details of the travel,
+> k.     the travelling party shall give written notice of the intention to travel with the child at least 1 month in advance, with details of the travel,
 
-l.     that such travel be at the traveling party’s own cost,
+> l.     that such travel be at the traveling party’s own cost,
 
-m.     that the father is to unblock the mother and her family from the Whatsapp and Facebook Messenger applications to enable them to contact the child,
+> m.     that the father is to unblock the mother and her family from the Whatsapp and Facebook Messenger applications to enable them to contact the child,
 
-n.     that the parent not having care of the child be entitled to call or Skype her every day at 8 pm for up to 15 minutes.
+> n.     that the parent not having care of the child be entitled to call or Skype her every day at 8 pm for up to 15 minutes.
 
 16     The father did not file his own summons. Instead, in his affidavit, he submitted his own requests –
 
-a.     That he be given daily care and control of the child,
+> a.     That he be given daily care and control of the child,
 
-b.     That the mother shall have access to the child once a week on either Saturday or Sunday from 9.30 am to 6pm, subject to the following –
+> b.     That the mother shall have access to the child once a week on either Saturday or Sunday from 9.30 am to 6pm, subject to the following –
 
-i.       The mother is to bring the child to all her existing and future activities,
+>> i.       The mother is to bring the child to all her existing and future activities,
 
-ii.       That during the access period, only the mother and her family members be present, in particular the mother should not allow the child to have contact with her boyfriend or his relatives,
+>> ii.       That during the access period, only the mother and her family members be present, in particular the mother should not allow the child to have contact with her boyfriend or his relatives,
 
-iii.       The mother shall surrender the child’s Singapore and Russian passports, birth certificate and health booklet, and the couple’s marriage certificate,
+>> iii.       The mother shall surrender the child’s Singapore and Russian passports, birth certificate and health booklet, and the couple’s marriage certificate,
 
-iv.       That such access shall be cancelled if it falls on Chinese New Year’s Eve or the Chinese New Year, or Christmas Eve or Christmas.
+>> iv.       That such access shall be cancelled if it falls on Chinese New Year’s Eve or the Chinese New Year, or Christmas Eve or Christmas.
 
 17     The father argues that shared care and control is not suitable because the parents have conflicting parenting styles. He claims that he comes from a “traditional Chinese which emphasises moral values, filial piety, discipline, thriftiness and such other characteristics”, whereas the mother is a Russian who, before the marriage, had never been exposed to Chinese culture. He also accuses the mother’s lifestyle as being a freelance model who enjoys the high life, partying and socialising, and constantly taking luxury vacations. He argues that care and control ought to be solely granted to him.
 
@@ -103,43 +103,43 @@ iv.       That such access shall be cancelled if it falls on Chinese New 
 
 23     Having found the facts above, I examined the issues of the case –
 
-a.     Should the mother be granted shared care and control of the child?
+> a.     Should the mother be granted shared care and control of the child?
 
-b.     If so, what would be a suitable arrangement for the child?
+> b.     If so, what would be a suitable arrangement for the child?
 
-c.     Should the parties be allowed to bring the child out of the court’s jurisdiction? If so, on what terms?
+> c.     Should the parties be allowed to bring the child out of the court’s jurisdiction? If so, on what terms?
 
 ## Applicable Legal Principles
 
 24     The primary law defining the care of children springs from section 3 of the Guardianship of Infants Act –
 
-**“3**.    Where in any proceedings before any court the custody or upbringing of an infant or the administration of any property belonging to or held in trust for an infant or the application of the income thereof is in question, the court, in deciding that question, shall regard the welfare of the infant as the first and paramount consideration and save in so far as such welfare otherwise requires the father of an infant shall not be deemed to have any right superior to that of the mother in respect of such custody, administration or application nor shall the mother be deemed to have any claim superior to that of the father.”
+> **“3**.    Where in any proceedings before any court the custody or upbringing of an infant or the administration of any property belonging to or held in trust for an infant or the application of the income thereof is in question, the court, in deciding that question, shall regard the welfare of the infant as the first and paramount consideration and save in so far as such welfare otherwise requires the father of an infant shall not be deemed to have any right superior to that of the mother in respect of such custody, administration or application nor shall the mother be deemed to have any claim superior to that of the father.”
 
 25     The law defining custody of children was succinctly described by the Court of Appeal in the case of _CX v. CY_[^2], that –
 
-“For the development of the law of custody, we deem it necessary to lay down a general definition detailing the scope of each order. Our observation is that in most custody cases, parties are simply concerned over which parent has care and control and access. Parties labour under the mistaken impression that if they are denied custody, they will be unable to see their child anymore and will lose all contact with the child. We regret to say that some family law practitioners further muddy the waters by failing to advise their clients adequately as to what “custody orders” actually entail. If parties are assured of their respective rights to care and control and access, we foresee lesser tension and acrimony in disputes over custody issues.
+> “For the development of the law of custody, we deem it necessary to lay down a general definition detailing the scope of each order. Our observation is that in most custody cases, parties are simply concerned over which parent has care and control and access. Parties labour under the mistaken impression that if they are denied custody, they will be unable to see their child anymore and will lose all contact with the child. We regret to say that some family law practitioners further muddy the waters by failing to advise their clients adequately as to what “custody orders” actually entail. If parties are assured of their respective rights to care and control and access, we foresee lesser tension and acrimony in disputes over custody issues.
 
-Adopting this narrow definition of “custody”, it appears that there will be relatively few occasions where significant and longer-term decisions need to be made for the child. Hence, parties will seldom need to come together to make a joint decision even if joint or no custody orders were granted. We should add that it is an almost impossible task for us to lay down an exhaustive list of matters which will fall under the concept of residual custody. The line is not always clear as to what matters would be considered the important and longer-term decisions concerning the upbringing and welfare of a child. It suffices to say that decisions pertaining to religion, education and major healthcare issues would fall into such a category.
+> Adopting this narrow definition of “custody”, it appears that there will be relatively few occasions where significant and longer-term decisions need to be made for the child. Hence, parties will seldom need to come together to make a joint decision even if joint or no custody orders were granted. We should add that it is an almost impossible task for us to lay down an exhaustive list of matters which will fall under the concept of residual custody. The line is not always clear as to what matters would be considered the important and longer-term decisions concerning the upbringing and welfare of a child. It suffices to say that decisions pertaining to religion, education and major healthcare issues would fall into such a category.
 
-In this day and age, we feel that the preferable position in the law of custody is that advocated by the father, i.e. to preserve the concept of joint parental responsibility, even if the parties may harbour some acrimony towards each other. Often, advocates of the _Helen Ho_ position rely on the acrimonious relationship of the parties to argue that joint custody will be detrimental to the welfare of the child. However, they fail to appreciate the fact that some degree of acrimony is to be expected when parties are undergoing the stresses of a marital breakdown. As allegations of wrongdoings and breaches of fidelity can be hurtful, the time when the marriage breaks down may not be the best time to assess whether both parents can co-operate for the rest of the child’s life. We believe that the fear that parties cannot co-operate may be overstated. It is a quantum leap in logic to assume that the parties’ inability to co-operate during the period of divorce or custody proceedings equates to an inability to agree on the future long-term interests of the child.
+> In this day and age, we feel that the preferable position in the law of custody is that advocated by the father, i.e. to preserve the concept of joint parental responsibility, even if the parties may harbour some acrimony towards each other. Often, advocates of the _Helen Ho_ position rely on the acrimonious relationship of the parties to argue that joint custody will be detrimental to the welfare of the child. However, they fail to appreciate the fact that some degree of acrimony is to be expected when parties are undergoing the stresses of a marital breakdown. As allegations of wrongdoings and breaches of fidelity can be hurtful, the time when the marriage breaks down may not be the best time to assess whether both parents can co-operate for the rest of the child’s life. We believe that the fear that parties cannot co-operate may be overstated. It is a quantum leap in logic to assume that the parties’ inability to co-operate during the period of divorce or custody proceedings equates to an inability to agree on the future long-term interests of the child.
 
-…
+> …
 
-Adopting the view that joint or no custody orders should be granted unless there are exceptional circumstances, we were of the opinion that the judge was not plainly wrong in granting joint custody, notwithstanding the allegations and counter-allegations made by each party.”
+> Adopting the view that joint or no custody orders should be granted unless there are exceptional circumstances, we were of the opinion that the judge was not plainly wrong in granting joint custody, notwithstanding the allegations and counter-allegations made by each party.”
 
 26     The Court of Appeal in _ZO v. ZP_[^3], added as follows:
 
-“… The input by both parents furnishes a balance that enhances the development of that child (or those children, as the case may be) until adulthood is reached. In contrast, the exclusion of one of the parents in this particular regard would – absent an exceptional reason – contribute towards a less balanced as well as less rounded development of the child (or children) concerned. Hence, the pronouncement made by the court in _CX v CY_ that a joint (or no) custody order would henceforth be the norm rather than the exception. We could not agree more.”
+> “… The input by both parents furnishes a balance that enhances the development of that child (or those children, as the case may be) until adulthood is reached. In contrast, the exclusion of one of the parents in this particular regard would – absent an exceptional reason – contribute towards a less balanced as well as less rounded development of the child (or children) concerned. Hence, the pronouncement made by the court in _CX v CY_ that a joint (or no) custody order would henceforth be the norm rather than the exception. We could not agree more.”
 
 27     In _AQL v AQM[^4]_, the High Court clarified the meaning of shared care and control thus:
 
-“ …. an order for shared care and control means that the child spends time living with each parent, who then becomes the child’s primary caregiver for the duration that the child lives with him (or her). The right to make the day-to-day decisions on the upbringing of the child therefore rests with the parent the child is presently living with. In the context of shared care and control, it becomes meaningless to speak of ‘access’. This is because the child effectively has two homes and two primary caregivers.
+> “ …. an order for shared care and control means that the child spends time living with each parent, who then becomes the child’s primary caregiver for the duration that the child lives with him (or her). The right to make the day-to-day decisions on the upbringing of the child therefore rests with the parent the child is presently living with. In the context of shared care and control, it becomes meaningless to speak of ‘access’. This is because the child effectively has two homes and two primary caregivers.
 
-The practical effect of an order of shared care and control means that the child will spend roughly equal amounts of time (including overnight) with each parent. An order of shared care and control can take different forms depending on the circumstances. This is illustrated by two High Court decisions where shared care and control was ordered: in _AHJ v AHK_ <span class="citation">\[2010\] SGHC 148</span> the child would spend Saturdays 8.00pm to Wednesday 11.30am with the mother, and the rest of the week with the father; in _AKF v AKG_ <span class="citation">\[2010\] SGHC 225</span> the same learned judge held that the children would spend alternate fortnights with each parent.”[^5]
+> The practical effect of an order of shared care and control means that the child will spend roughly equal amounts of time (including overnight) with each parent. An order of shared care and control can take different forms depending on the circumstances. This is illustrated by two High Court decisions where shared care and control was ordered: in _AHJ v AHK_ <span class="citation">\[2010\] SGHC 148</span> the child would spend Saturdays 8.00pm to Wednesday 11.30am with the mother, and the rest of the week with the father; in _AKF v AKG_ <span class="citation">\[2010\] SGHC 225</span> the same learned judge held that the children would spend alternate fortnights with each parent.”[^5]
 
 28     Where there is a clash of parenting styles, shared care and control for a young child may not be suitable –
 
-“When a child is very young, a strong clash in parenting styles is something that is relevant when deciding whether shared care and control should be ordered. One may expect that a young child will be considerably stressed if forced to adapt to different expectations and approaches every few days. Such stain cannot be beneficial at such an early stage in the child’s development.”[^6]
+> “When a child is very young, a strong clash in parenting styles is something that is relevant when deciding whether shared care and control should be ordered. One may expect that a young child will be considerably stressed if forced to adapt to different expectations and approaches every few days. Such stain cannot be beneficial at such an early stage in the child’s development.”[^6]
 
 ## Findings
 
@@ -163,11 +163,11 @@ The practical effect of an order of shared care and control means that the child
 
 38     Therefore, I ordered as follows –
 
-a.     The plaintiff and the defendant shall have shared care and control of the child according to the terms stated below.
+> a.     The plaintiff and the defendant shall have shared care and control of the child according to the terms stated below.
 
-b.     During school term, the plaintiff shall have care of the child for up to 2 weeks per month. During school holidays in 2019 and in odd-numbered years thereafter, the plaintiff shall have care of the child for the last 2 weeks of the mid-year school holidays, and the last 3 weeks of the year-end school holidays. During school holidays in 2020 and in even-numbered years thereafter, the plaintiff shall have care of the child for the first 2 weeks of the mid-year school holidays, and the first 3 weeks of the year-end school holidays. For the avoidance of doubt, the defendant shall have care of the child at all other times that the plaintiff does not have care of the child. “School term” and “school holidays” shall be construed to be the dates so declared by the Ministry of Education.
+> b.     During school term, the plaintiff shall have care of the child for up to 2 weeks per month. During school holidays in 2019 and in odd-numbered years thereafter, the plaintiff shall have care of the child for the last 2 weeks of the mid-year school holidays, and the last 3 weeks of the year-end school holidays. During school holidays in 2020 and in even-numbered years thereafter, the plaintiff shall have care of the child for the first 2 weeks of the mid-year school holidays, and the first 3 weeks of the year-end school holidays. For the avoidance of doubt, the defendant shall have care of the child at all other times that the plaintiff does not have care of the child. “School term” and “school holidays” shall be construed to be the dates so declared by the Ministry of Education.
 
-c.     The plaintiff shall give no less than 14 days’ notice to the defendant before she commences the said care of the child stating when she will collect the child to commence the care and when she will return the child. The plaintiff shall collect and send the child to and from school for this purpose.
+> c.     The plaintiff shall give no less than 14 days’ notice to the defendant before she commences the said care of the child stating when she will collect the child to commence the care and when she will return the child. The plaintiff shall collect and send the child to and from school for this purpose.
 
 39     The child has a close relationship with both sides of her family. She had been to Russia and met her mother’s family before. It is in her best interest to continue to have this relationship continue. The breakdown in her parents’ relationship ought not be allowed to cloud or impinge on this. She is as much a Russian as she is Singaporean. She has every right to experience and realise that inalienable Russian aspect of herself. Based on this premise, there is no reason to justify the child not being able to visit her family in Russia.
 
@@ -177,13 +177,13 @@ c.     The plaintiff shall give no less than 14 days’ notice to the defen
 
 42     In view of the above, I ordered as follows –
 
-a.     Both the plaintiff and the defendant shall not by him/herself, his/her agents or servants, bring the child out of Singapore without the prior written consent of the other party or an order of Court. The written consent shall be given by the remaining party to the party intending to bring the child out of Singapore if he/she has provided –
+> a.     Both the plaintiff and the defendant shall not by him/herself, his/her agents or servants, bring the child out of Singapore without the prior written consent of the other party or an order of Court. The written consent shall be given by the remaining party to the party intending to bring the child out of Singapore if he/she has provided –
 
-i.       30 clear days of notice to the remaining party of the intention to so bring the child out of Singapore, stating the flight or transport details, itinerary, accommodation details and contact numbers while overseas,
+>> i.       30 clear days of notice to the remaining party of the intention to so bring the child out of Singapore, stating the flight or transport details, itinerary, accommodation details and contact numbers while overseas,
 
-ii.       a security deposit to the remaining party of S$10,000 if the travel is within ASEAN, and S$25,000 if the travel to any other country, which shall be refunded to the party giving the security upon the handover of the child on return to the remaining party, and
+>> ii.       a security deposit to the remaining party of S$10,000 if the travel is within ASEAN, and S$25,000 if the travel to any other country, which shall be refunded to the party giving the security upon the handover of the child on return to the remaining party, and
 
-iii.       a photocopy to the remaining party, of the passport that the child will be using for the travel.
+>> iii.       a photocopy to the remaining party, of the passport that the child will be using for the travel.
 
 43     After this appeal was filed, upon the father’s application, I ordered that, pending the outcome of this appeal, neither the father nor the mother shall bring the child out of Singapore without the prior written consent of the other party, or an Order of Court.
 

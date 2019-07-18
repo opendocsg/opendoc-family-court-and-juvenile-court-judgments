@@ -21,9 +21,9 @@ Probate and Administration – Time for Appeal-Further Arguments
 
 3       It is not necessary to set out the full extent of the applications between parties. The relevant claims for the purposes of the appeal are:
 
-a.     the Administrator had applied for a repayment of an alleged loan of $110,110 owed by the Estate to herself as a creditor. This was disputed by the Beneficiaries.
+> a.     the Administrator had applied for a repayment of an alleged loan of $110,110 owed by the Estate to herself as a creditor. This was disputed by the Beneficiaries.
 
-b.     The Beneficiaries sought the return of the Deceased’s mobile phone and laptop from the Administrator.
+> b.     The Beneficiaries sought the return of the Deceased’s mobile phone and laptop from the Administrator.
 
 ##### Chronology of hearings
 
@@ -38,9 +38,9 @@ b.     The Beneficiaries sought the return of the Deceased’s mobile phone
 
 5       The Plaintiff Administrator filed the current appeal on 13 March 2019 stating she was appealing against all orders made on 27 February 2019. The orders made on 27 February 2019 were:
 
-a.     By consent, Plaintiff to furnish a copy of the contents in the Deceased’s handphone and laptop which pertains to the Deceased within 1 month from the date of this order.
+> a.     By consent, Plaintiff to furnish a copy of the contents in the Deceased’s handphone and laptop which pertains to the Deceased within 1 month from the date of this order.
 
-b.     Plaintiff to personally bear cost to the Defendants fixed at $3,500 and disbursement at $490.
+> b.     Plaintiff to personally bear cost to the Defendants fixed at $3,500 and disbursement at $490.
 
 6       On 15 March 2019, a correspondence was sent under my direction to Appellant’s counsel to clarify the orders being appealed against by the Appellant. On 22 March 2019, the Appellant’s counsel wrote in to state they are appealing against the order with regard to the $110,110 debt, for which further arguments were heard on 27 February 2019. This was further confirmed by Appellant’s Counsel who attended a case conference with Respondent’s counsel on 6 May 2019.
 
@@ -68,7 +68,7 @@ b.     Plaintiff to personally bear cost to the Defendants fixed at $3,500 
 
 15     This issue came up before the High Court in UHA v UHB <span class="citation">\[2017\] SGHCF 27</span>, wherein Justice Hoo Sheau Peng stated
 
-“_Division 59 is silent on the procedure or timelines when a party requests for further arguments, and thus, the time for appealing stipulated by r 825(b) still takes effect_.”
+> “_Division 59 is silent on the procedure or timelines when a party requests for further arguments, and thus, the time for appealing stipulated by r 825(b) still takes effect_.”
 
 16     Therefore, regardless of whether further arguments were heard on 27 February 2019, the Appellant's right to appeal against the order relating to the $110,110 debt has expired and her appeal is filed out of time.
 

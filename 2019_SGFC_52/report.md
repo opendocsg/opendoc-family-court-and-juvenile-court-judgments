@@ -19,23 +19,23 @@ Child maintenance, Wife maintenance
 
 3       After hearing parties, I made the following orders:
 
-(a)     Husband is to pay monthly maintenance of $235 for the Child with effect from August 2018. The maintenance accumulated from August 2018 to January 2019 shall be paid in monthly instalments of $120 for 11 months and $90 on the 12th month.
+> (a)     Husband is to pay monthly maintenance of $235 for the Child with effect from August 2018. The maintenance accumulated from August 2018 to January 2019 shall be paid in monthly instalments of $120 for 11 months and $90 on the 12th month.
 
-(b)     In addition, Husband shall pay:-
+> (b)     In addition, Husband shall pay:-
 
-a.       Half of the Child’s medical expenses with effect from August 2018. The Husband is to reimburse his share of the Child’s medical expenses within 7 days of receipt of the Child’s medical invoice/receipt.
+>> a.       Half of the Child’s medical expenses with effect from August 2018. The Husband is to reimburse his share of the Child’s medical expenses within 7 days of receipt of the Child’s medical invoice/receipt.
 
-b.       Half of the Child’s nett childcare fees (after deduction of any government subsidy or financial assistance).
+>> b.       Half of the Child’s nett childcare fees (after deduction of any government subsidy or financial assistance).
 
-(c)     The Husband is also to pay for the following household expenses:
+> (c)     The Husband is also to pay for the following household expenses:
 
-a.       Half of the mortgage instalment for the matrimonial flat directly to HDB
+>> a.       Half of the mortgage instalment for the matrimonial flat directly to HDB
 
-b.       Half of the Service and Conservancy charges for the matrimonial flat directly to Town Council
+>> b.       Half of the Service and Conservancy charges for the matrimonial flat directly to Town Council
 
-c.       100% of the utility bills for the matrimonial flat with effect from June 2018 unless the Wife and Child moves into the matrimonial flat and the Husband moves out, whereupon the Husband shall then pay an additional $20 as monthly maintenance for the Child. Husband is to reimburse the Wife for the utility bills that have been paid by her from June 2018 to the date of the Order;
+>> c.       100% of the utility bills for the matrimonial flat with effect from June 2018 unless the Wife and Child moves into the matrimonial flat and the Husband moves out, whereupon the Husband shall then pay an additional $20 as monthly maintenance for the Child. Husband is to reimburse the Wife for the utility bills that have been paid by her from June 2018 to the date of the Order;
 
-d.       Half of the instalment plans for the electrical appliances and bed for the matrimonial flat.
+>> d.       Half of the instalment plans for the electrical appliances and bed for the matrimonial flat.
 
 ## Appeal
 
@@ -110,13 +110,13 @@ d.       Half of the instalment plans for the electrical appliances and b
 
 27     The Wife also sought the following lump sum amounts:
 
-a)     Home furnishing estimated at $4,800;
+> a)     Home furnishing estimated at $4,800;
 
-b)     Renovation works of $15,000;
+> b)     Renovation works of $15,000;
 
-c)     Annual purchase of handphone for $750; and
+> c)     Annual purchase of handphone for $750; and
 
-d)     Claim for damaged breast pump, laptop and handphones for $5,400.
+> d)     Claim for damaged breast pump, laptop and handphones for $5,400.
 
 28     The Wife exhibited 4 receipts totalling $2,911.11 comprising purchases of furniture and installation of curtains to support her claim for home furnishing. These were incurred around April to May 2018. There was no other evidence to support the figure of $4,800. I did not make any order on this claim. It is likely that he did not reimburse her any part of these purchases as he had declared on 25 March 2018 that he will “withdraw from house renovation and accessories”[^5]. His last contribution to her was on 4 April 2018, which was before these purchases were made. Unlike the ongoing instalment plans, these purchases were fully paid for in the past. The Wife was in essence, seeking reimbursement for her purchases. However, as both parties were unrepresented, there were no submissions before me relating to the reasonableness of the expense as well as whether this should fall within a maintenance claim or be considered (as it is usually done) as the Wife’s contribution towards the family. I declined to make any order on this as I felt this would be better dealt with as the Wife’s indirect financial contribution in any asset division issue.
 

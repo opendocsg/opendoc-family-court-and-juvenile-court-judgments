@@ -25,11 +25,11 @@ Family Law – Ancillary matters – Maintenance
 
 5       After hearing parties’ submissions and after considering the material before me, I essentially made the following orders, namely that:
 
-(a)     the matrimonial asset be divided in the ratio of 55:45 in the Plaintiff’s favour;
+> (a)     the matrimonial asset be divided in the ratio of 55:45 in the Plaintiff’s favour;
 
-(b)     the matrimonial asset be sold in the open market, with consequential orders on the manner and priority of distribution of the sale proceeds; and
+> (b)     the matrimonial asset be sold in the open market, with consequential orders on the manner and priority of distribution of the sale proceeds; and
 
-(c)     that the Plaintiff be awarded lump sum maintenance of $24,000. This was after taking into consideration _both_ parties’ submission that it would be better for parties to have a “clean break” from the dispute, instead of there being any lingering order which may necessitate parties coming back to Court and being embroiled in future proceedings.
+> (c)     that the Plaintiff be awarded lump sum maintenance of $24,000. This was after taking into consideration _both_ parties’ submission that it would be better for parties to have a “clean break” from the dispute, instead of there being any lingering order which may necessitate parties coming back to Court and being embroiled in future proceedings.
 
 6       The full terms of my orders may be found at **Annex-A** below. I also provided brief grounds of my decision when parties attended before me on 25 January 2019.
 
@@ -58,9 +58,9 @@ Family Law – Ancillary matters – Maintenance
 
 14     Whilst the Plaintiff was principally a home maker during the subsistence of the marriage,[^5] it was specifically worth noting that it was also not in dispute that _both_ parties had made _direct financial contributions_ towards the purchase of the matrimonial home. In this regard, it was not in dispute that:
 
-(a)     the Plaintiff had contributed approximately 38% (i.e., approximately $66,000) towards the purchase price of the matrimonial home; and
+> (a)     the Plaintiff had contributed approximately 38% (i.e., approximately $66,000) towards the purchase price of the matrimonial home; and
 
-(b)     the Defendant had contributed approximately 62% (i.e., approximately $109,000) towards the purchase price of the matrimonial home.
+> (b)     the Defendant had contributed approximately 62% (i.e., approximately $109,000) towards the purchase price of the matrimonial home.
 
 ### Parties’ respective positions on division
 
@@ -68,27 +68,27 @@ Family Law – Ancillary matters – Maintenance
 
 16     With regard to the Defendant:
 
-(a)     the Defendant contended that he had been making indirect financial contributions in terms of the payment of the family’s expenses, the utilities, and the conservancy charges.[^6] As regards indirect non-financial contributions, the Defendant argued that he had “maintained and cleaned the house”, performed “minor repairs”, and “look after the children and ensured they have proper food, clothing, and education”.[^7]
+> (a)     the Defendant contended that he had been making indirect financial contributions in terms of the payment of the family’s expenses, the utilities, and the conservancy charges.[^6] As regards indirect non-financial contributions, the Defendant argued that he had “maintained and cleaned the house”, performed “minor repairs”, and “look after the children and ensured they have proper food, clothing, and education”.[^7]
 
-(b)     Curiously, and _without_ indicating the value of these indirect contributions and supporting calculations, the Defendant arrived at an ultimate uplifted ratio of 70:30 in his favour.
+> (b)     Curiously, and _without_ indicating the value of these indirect contributions and supporting calculations, the Defendant arrived at an ultimate uplifted ratio of 70:30 in his favour.
 
 17     As regards the Plaintiff:
 
-(a)     Her candid position was that given her status as a home maker during the subsistence of the marriage, there was not much to be said regarding her indirect financial contribution.[^8] That said, and for completeness, she did mention that she did work as a factory worker before the birth of the younger son, [^9] and did the occasional part time work when the children were in school[^10] to supplement the household income.
+> (a)     Her candid position was that given her status as a home maker during the subsistence of the marriage, there was not much to be said regarding her indirect financial contribution.[^8] That said, and for completeness, she did mention that she did work as a factory worker before the birth of the younger son, [^9] and did the occasional part time work when the children were in school[^10] to supplement the household income.
 
-(b)     The Plaintiff also highlighted how she was requested by the Defendant to stay home and take care of the family when the 2nd child was born.[^11]
+> (b)     The Plaintiff also highlighted how she was requested by the Defendant to stay home and take care of the family when the 2nd child was born.[^11]
 
-(c)     However, being the home make, her principal contention was that her indirect non-financial contributions “far surpass” the Defendant.[^12] In her evidence, the Plaintiff listed a fairly extensive narration of how she had taken care of the Defendant, the children, and the household.[^13] This included daily cleaning of the house, washing the family’s clothes, doing the grocery runs and preparing the family’s daily meals,[^14] and tending to the Defendant himself during the recovery period after he had suffered a heart attack.[^15]
+> (c)     However, being the home make, her principal contention was that her indirect non-financial contributions “far surpass” the Defendant.[^12] In her evidence, the Plaintiff listed a fairly extensive narration of how she had taken care of the Defendant, the children, and the household.[^13] This included daily cleaning of the house, washing the family’s clothes, doing the grocery runs and preparing the family’s daily meals,[^14] and tending to the Defendant himself during the recovery period after he had suffered a heart attack.[^15]
 
-(d)     More specifically, the Plaintiff contended that the Defendant did not provide any assistance to the general upkeep of the matrimonial home and the family’s welfare.[^16] In this regard, the Plaintiff highlighted the Defendant’s aggressive, patriarchal, and controlling attitude towards the Plaintiff and the family.[^17] This translated to the Plaintiff not only having to shoulder the entire burden of the domestic duties, but to also manage and pander to the Defendant’s wishes, lest the Plaintiff were to be the on receiving end of the Defendant’s verbal abuse.
+> (d)     More specifically, the Plaintiff contended that the Defendant did not provide any assistance to the general upkeep of the matrimonial home and the family’s welfare.[^16] In this regard, the Plaintiff highlighted the Defendant’s aggressive, patriarchal, and controlling attitude towards the Plaintiff and the family.[^17] This translated to the Plaintiff not only having to shoulder the entire burden of the domestic duties, but to also manage and pander to the Defendant’s wishes, lest the Plaintiff were to be the on receiving end of the Defendant’s verbal abuse.
 
-(e)     On that basis, the Plaintiff asserted that her non-financial indirect contribution should be valued at 80:20 in her favour. This would result in an average ratio of 59:46 in the Plaintiff’s favour.[^18]
+> (e)     On that basis, the Plaintiff asserted that her non-financial indirect contribution should be valued at 80:20 in her favour. This would result in an average ratio of 59:46 in the Plaintiff’s favour.[^18]
 
-(f)     Not stopping there, the Plaintiff went further to contend that because of the Defendant’s behaviour, this was not a marriage where there was any equality in the partnership.[^19] On that basis, the Plaintiff sought to persuade this Court that parties’ direct contributions only be accorded 30% weightage, whilst indirect contributions be weighted heavier at 70%.
+> (f)     Not stopping there, the Plaintiff went further to contend that because of the Defendant’s behaviour, this was not a marriage where there was any equality in the partnership.[^19] On that basis, the Plaintiff sought to persuade this Court that parties’ direct contributions only be accorded 30% weightage, whilst indirect contributions be weighted heavier at 70%.
 
-(g)     On the Plaintiff’s calculations,[^20] this would result in the ratio of 67.4 : 36.6 in the Plaintiff’s favour.
+> (g)     On the Plaintiff’s calculations,[^20] this would result in the ratio of 67.4 : 36.6 in the Plaintiff’s favour.
 
-(h)     Finally, on account of the fact that the Plaintiff moved out of the matrimonial home sometime in April 2017, and thereby allowing the Defendant to have exclusive possession of the matrimonial home, the Plaintiff made a final upward adjustment to the Plaintiff’s proportion. This resulted in a final figure of 70:30 in the Plaintiff’s favour.
+> (h)     Finally, on account of the fact that the Plaintiff moved out of the matrimonial home sometime in April 2017, and thereby allowing the Defendant to have exclusive possession of the matrimonial home, the Plaintiff made a final upward adjustment to the Plaintiff’s proportion. This resulted in a final figure of 70:30 in the Plaintiff’s favour.
 
 18     At this juncture, it would be useful to highlight, as I did here above and at the substantive hearing, that the Defendant provided _no evidence or cogent basis_ for the uplift in the division ratio of 38:62 (on the basis of direct contributions) to the eventual ratio of 30:70 in his favour. Purely as a matter of mathematics, the Defendant was putting forward a position whereby his indirect contributions would be approximately 22:78 in his favour. This would effectively indicate that not only was he the principal breadwinner, he was _also_ the principal homemaker.
 
@@ -159,17 +159,17 @@ Family Law – Ancillary matters – Maintenance
 
 46     After determining the monthly sum, the next issue for my determination was the suitable multiplier. In this regard, I note the formula highlighted in _Law and Practice of Family Law in Singapore_ (Foo Siew Fong gen ed)(Sweet & Maxwell Asia 2016)(_“Law and Practice”_) (at \[4.3.20\]):
 
-**Multiplier = \[(Y + Z) ÷\] – X**
+> **Multiplier = \[(Y + Z) ÷\] – X**
 
-X: Payee’s present age.
+> X: Payee’s present age.
 
-Y: Average age expectancy of the payee.
+> Y: Average age expectancy of the payee.
 
-Z: Usual retirement age of the payer.
+> Z: Usual retirement age of the payer.
 
 47     On the basis that the Plaintiff (as the payee) was 53 at the time of my decision, that the average life expectancy of the female is 85[^28], and that the retirement age of the Defendant would be 62, the formulaic multiplier would be as follows:
 
-**\[(85 + 62) ÷\] – 53 = 20.5 ≈ 21 years**
+> **\[(85 + 62) ÷\] – 53 = 20.5 ≈ 21 years**
 
 48     While that was the multiplier derived by the formula, it was also noted in _Law and Practice_ (at \[4.3.19\], in referring to the decision of _Foo Ah Yan v Chiam Heng Chow_ <span class="citation">\[2012\] 2 SLR 506</span>) that the court will have to take into consideration a variety of factors in determining the appropriate multiplier. This would include, amongst other things, the parties’ state of health and the payee’s financial resources.
 
@@ -185,9 +185,9 @@ Z: Usual retirement age of the payer.
 
 53     That said, it was not in dispute from parties’ documents that the following CPF refunds (including interest) would have to be made:
 
-(a)     Plaintiff – approximately $103,000.[^29]
+> (a)     Plaintiff – approximately $103,000.[^29]
 
-(b)     Defendant – approximately $166,000.[^30]
+> (b)     Defendant – approximately $166,000.[^30]
 
 54     If division took place _before_ CPF refunds, that would mean that there would be a shortfall in the Defendant’s CPF account. If division took place _after_ CPF refunds, the Plaintiff would, on its face, receive less that the allocated sum in light of the Defendant’s larger CPF refund.
 
@@ -213,45 +213,45 @@ Z: Usual retirement age of the payer.
 
 1.
 
-i.     The matrimonial home at xxx (the “matrimonial property”) shall be sold in the open market, with both parties having joint conduct of the same. The property is to be sold within 6 months from the date of Final Judgement.
+> i.     The matrimonial home at xxx (the “matrimonial property”) shall be sold in the open market, with both parties having joint conduct of the same. The property is to be sold within 6 months from the date of Final Judgement.
 
-ii.     Parties share of the matrimonial property shall be apportioned as follows:
+> ii.     Parties share of the matrimonial property shall be apportioned as follows:
 
-(a)       Plaintiff – 55%
+>> (a)       Plaintiff – 55%
 
-(b)       Defendant – 45%
+>> (b)       Defendant – 45%
 
-iii.     On the basis that the sale price of the matrimonial property is $320,000 (the “valuation price”), the proceeds of the sale shall be disbursed as follows:
+> iii.     On the basis that the sale price of the matrimonial property is $320,000 (the “valuation price”), the proceeds of the sale shall be disbursed as follows:
 
-(a)       first, the settlement of the outstanding housing loan(s), levies (if applicable), and all other relevant costs associated with the completion of the sale of the matrimonial property.
+>> (a)       first, the settlement of the outstanding housing loan(s), levies (if applicable), and all other relevant costs associated with the completion of the sale of the matrimonial property.
 
-(b)       second, payment of $24,000 to the Plaintiff.
+>> (b)       second, payment of $24,000 to the Plaintiff.
 
-(c)       third, the necessary refunds shall be made to both parties’ respective CPF accounts of the monies utilised for the purchase of the matrimonial property (including accrued interest) in accordance with the applicable CPF legislations (including subsidiary legislation) and/or requirements.
+>> (c)       third, the necessary refunds shall be made to both parties’ respective CPF accounts of the monies utilised for the purchase of the matrimonial property (including accrued interest) in accordance with the applicable CPF legislations (including subsidiary legislation) and/or requirements.
 
-(d)       fourth, after the making of the refund into the Defendant’s CPF account(s) of the required CPF monies in respect of the matrimonial property from the sale proceeds of the matrimonial property, the CPF Board shall transfer, from the monies standing to the credit of the Defendant in the following CPF account of the Defendant, the amount specified as follows into the Plaintiff’s CPF account:
+>> (d)       fourth, after the making of the refund into the Defendant’s CPF account(s) of the required CPF monies in respect of the matrimonial property from the sale proceeds of the matrimonial property, the CPF Board shall transfer, from the monies standing to the credit of the Defendant in the following CPF account of the Defendant, the amount specified as follows into the Plaintiff’s CPF account:
 
-(I)       Defendant’s CPF account to transfer from: Ordinary Account
+>>> (I)       Defendant’s CPF account to transfer from: Ordinary Account
 
-(II)       Amount to transfer: S$45,000
+>>> (II)       Amount to transfer: S$45,000
 
-(e)       fifth, the remaining proceeds after the deductions and refunds provided for above shall be distributed as per the apportionment stated at paragraph 1(ii) above.
+>> (e)       fifth, the remaining proceeds after the deductions and refunds provided for above shall be distributed as per the apportionment stated at paragraph 1(ii) above.
 
-iv.     The Registrar or Assistant Registrar of the Family Justice Courts pursuant to section 31 of the Family Justice Act is empowered to execute, sign or endorse all necessary documents in connection with the sale of the matrimonial property on behalf of either party should the other party fail to do so within seven (7) days of written request being made to the party.
+> iv.     The Registrar or Assistant Registrar of the Family Justice Courts pursuant to section 31 of the Family Justice Act is empowered to execute, sign or endorse all necessary documents in connection with the sale of the matrimonial property on behalf of either party should the other party fail to do so within seven (7) days of written request being made to the party.
 
-v.     This order is made subject to the Central Provident Fund Act (Cap. 36) (“CPF Act”) and the subsidiary legislations made thereunder. The Board shall give effect to the terms of this order, including the transfer of the monies stated at paragraph 1(iii)(d) above, in accordance with the provisions of the CPF Act and the subsidiary legislation made thereunder.
+> v.     This order is made subject to the Central Provident Fund Act (Cap. 36) (“CPF Act”) and the subsidiary legislations made thereunder. The Board shall give effect to the terms of this order, including the transfer of the monies stated at paragraph 1(iii)(d) above, in accordance with the provisions of the CPF Act and the subsidiary legislation made thereunder.
 
-vi.     The parties, including the CPF Board, shall be at liberty to apply for further directions or orders generally.
+> vi.     The parties, including the CPF Board, shall be at liberty to apply for further directions or orders generally.
 
-vii.     In the event that the sale price of matrimonial property differs from the valuation price, the disbursements provided for at paragraphs 1(iii)(d) and 1(iii)(e) above shall be revised in proportion to the deviation of the sale price from the valuation price. For the avoidance of doubt, the disbursements as provided for at paragraphs 1(iii)(a) to 1(iii)(c) shall remain unchanged regardless of such variation of the valuation price.
+> vii.     In the event that the sale price of matrimonial property differs from the valuation price, the disbursements provided for at paragraphs 1(iii)(d) and 1(iii)(e) above shall be revised in proportion to the deviation of the sale price from the valuation price. For the avoidance of doubt, the disbursements as provided for at paragraphs 1(iii)(a) to 1(iii)(c) shall remain unchanged regardless of such variation of the valuation price.
 
-viii.     Parties shall retain assets that are in their respective sole names, without any division of the same.
+> viii.     Parties shall retain assets that are in their respective sole names, without any division of the same.
 
-ix.     All payments to parties other than to their respective CPF accounts shall be made to the following bank accounts:
+> ix.     All payments to parties other than to their respective CPF accounts shall be made to the following bank accounts:
 
-(I)       Plaintiff – DBS Bank Ltd Savings Account No. xxx
+>> (I)       Plaintiff – DBS Bank Ltd Savings Account No. xxx
 
-(II)       Defendant – POSB Everyday Savings Account No. xxx
+>> (II)       Defendant – POSB Everyday Savings Account No. xxx
 
 2.     In light of the disbursements at paragraph 1(iii)(d) above, there shall be no maintenance for the Plaintiff.
 

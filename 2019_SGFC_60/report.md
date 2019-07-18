@@ -17,27 +17,27 @@ Family Law – Variation & Enforcement of maintenance – s 71, 72, 118 & 11
 
 2       Summons 3836/2018 is an application by the Plaintiff ex-husband (the “**former Husband**”) filed on 19 October 2018 to vary the Interim Judgment dated 25 July 2016 (read together with the Orders of Court dated 5 October 2015 and 24 February 2016 made in MSS No. 3947/2015 and MSS No. 4647/2015 respectively). He sought to reduce monthly maintenance of the Defendant ex-Wife (the “**former Wife**”) and their one (1) child (the “**Child**”) from $5,404.50 per month, as follows:
 
-(a)     to the sum of $3,400.00 per month for March to May 2018;
+> (a)     to the sum of $3,400.00 per month for March to May 2018;
 
-(b)     to be suspended from June to September 2019; and
+> (b)     to be suspended from June to September 2019; and
 
-(c)     $500.00 per month with effect from October 2019.
+> (c)     $500.00 per month with effect from October 2019.
 
-MSS No. 4079 of 2018 is the former Wife’s application to enforce maintenance arrears against the former Husband.
+> MSS No. 4079 of 2018 is the former Wife’s application to enforce maintenance arrears against the former Husband.
 
 3       On 7 January 2019, I wholly dismissed the former Husband’s application in Summons No. 3836/2018 with costs. I further allowed the former Wife’s application in MSS No. 4079 of 2018 and ordered the former Husband to pay arrears of $47,850.50 (including January 2019 maintenance) in instalments of $100.00 per month on the last day of each month with effect from 28 February 2019, on top of current maintenance. The former Husband has appealed against my decisions in Summons No. 3836/2018 and MSS No. 4079 of 2018.
 
 4       In a nutshell, the former Husband’s case is that that he could no longer afford current maintenance for the Wife and the Child. His old company had wanted to relocate him to Bangalore, India, which he was not keen on so doing. He thus resigned and started his own business, which was now not doing well. The former Wife objected to any reduction in maintenance. I essentially found that any loss of income on the former Husband’s part is self-induced and not reasonable in the circumstances. First of all, the former Husband has not produced a single shred of documentary evidence to prove that he had to resign from his old company due to unwillingness to relocate. But even if I were to accept the former Husband’s case despite the lack of documentary evidence, several issues still arise:
 
-(a)     why was the former Husband so unwilling to relocate to Bangalore, India when he is a citizen of India, if it could ensure the continuity of stable income?
+> (a)     why was the former Husband so unwilling to relocate to Bangalore, India when he is a citizen of India, if it could ensure the continuity of stable income?
 
-(b)     why could the former Husband not explore alternative opportunities in Singapore commensurate with his income capacity and with stable income, before resigning?
+> (b)     why could the former Husband not explore alternative opportunities in Singapore commensurate with his income capacity and with stable income, before resigning?
 
-(c)     why could the former Husband not first relocate to Bangalore, India and explore other opportunities from there, before resigning?
+> (c)     why could the former Husband not first relocate to Bangalore, India and explore other opportunities from there, before resigning?
 
-(d)     why could the former Husband not ensure his start-up was income-generating before choosing to embark on the business full-time?
+> (d)     why could the former Husband not ensure his start-up was income-generating before choosing to embark on the business full-time?
 
-(e)     why must the former Husband choose to expend his personal funds (in the sum of $225,000.00) as capital outlay for his start-up, and yet only pay $100.00 per month as maintenance for several months?
+> (e)     why must the former Husband choose to expend his personal funds (in the sum of $225,000.00) as capital outlay for his start-up, and yet only pay $100.00 per month as maintenance for several months?
 
 5       All of this was despite knowing full well that the former Wife, who was a homemaker throughout most of the marriage and is still unemployed, and the Child depended on his financial support, which he had agreed to provide under the Interim Judgment barely a couple of years ago. Ultimately, I find that the former Husband has made a deliberate and conscious choice to focus all of his efforts on an unstable and unpredictable start-up, and can solely absorb the risks and consequences of doing so instead of passing the buck unto the former Wife and the Child by reducing their maintenance.
 
@@ -73,43 +73,43 @@ MSS No. 4079 of 2018 is the former Wife’s application to enforce maintenance a
 
 17     The former Husband’s arguments for a suspension and downward variation of maintenance may be summarized as follows:
 
-(a)      _first_, he had to leave the employ of his old company because it had wanted to relocate him to Bangalore, India which he was not keen on so doing. He decided to instead pursue his dream of starting his own business. From October 2017, he has been self-employed but his new company was not doing well. He paid himself little or no salary and resorted to taking a loan of $50,000.00 from CitiBank on 10 September 2018;
+> (a)      _first_, he had to leave the employ of his old company because it had wanted to relocate him to Bangalore, India which he was not keen on so doing. He decided to instead pursue his dream of starting his own business. From October 2017, he has been self-employed but his new company was not doing well. He paid himself little or no salary and resorted to taking a loan of $50,000.00 from CitiBank on 10 September 2018;
 
-(b)      _second_, he had suffered a heart attack in November 2016 and has had to take it easier in terms of working hours and the income from his new business has reduced dramatically;
+> (b)      _second_, he had suffered a heart attack in November 2016 and has had to take it easier in terms of working hours and the income from his new business has reduced dramatically;
 
-(c)      _third_, at the time of the divorce, the former Wife and the Child were living in Singapore. However, the former Wife has now relocated to Mumbai, India with the Child. Their expenses have or would have drastically reduced;
+> (c)      _third_, at the time of the divorce, the former Wife and the Child were living in Singapore. However, the former Wife has now relocated to Mumbai, India with the Child. Their expenses have or would have drastically reduced;
 
-(d)      _fourth_, the former Wife has sufficient financial resources to meet the needs of herself and the Child. Pursuant to the division of matrimonial assets, the former Wife kept jewellery and shares, and will receive a 50% share of 6 properties in India. Further, the former Husband paid the former Wife the sum of $15,000.00 on 6 June 2018 (as an advance to relocate out of Singapore) and the sum of $115,000.00 on 10 September 2018, as consideration for the former Wife to transfer her share in their Singapore property to him. The former Wife is also a well-educated woman with a university degree and previously worked as a systems analyst in both India and Singapore. The Child is now 14 years old and the former Wife could return to work; and
+> (d)      _fourth_, the former Wife has sufficient financial resources to meet the needs of herself and the Child. Pursuant to the division of matrimonial assets, the former Wife kept jewellery and shares, and will receive a 50% share of 6 properties in India. Further, the former Husband paid the former Wife the sum of $15,000.00 on 6 June 2018 (as an advance to relocate out of Singapore) and the sum of $115,000.00 on 10 September 2018, as consideration for the former Wife to transfer her share in their Singapore property to him. The former Wife is also a well-educated woman with a university degree and previously worked as a systems analyst in both India and Singapore. The Child is now 14 years old and the former Wife could return to work; and
 
-(e)      _fifth_, the former Husband has significant monthly expenses at $6,090.20. This includes a housing loan of $592,724.11 (as at 11 September 2018) repayable in monthly instalments of $2,173.04 by CPF.
+> (e)      _fifth_, the former Husband has significant monthly expenses at $6,090.20. This includes a housing loan of $592,724.11 (as at 11 September 2018) repayable in monthly instalments of $2,173.04 by CPF.
 
 18     The former Wife’s objections to any suspension or reduction in maintenance may be summarized as follows:
 
-(a)      _first_, she believed that the former Husband had deliberately resigned from his job at the old company. There was no evidence of the company’s request for him to relocate to India. During the marriage, he already refused to give maintenance to her, and she hence had to file MSS No. 3947/2015 in 2015 against him. Even before and during divorce proceedings, he had continuously threatened that he would resign from his job and cut off financial support;
+> (a)      _first_, she believed that the former Husband had deliberately resigned from his job at the old company. There was no evidence of the company’s request for him to relocate to India. During the marriage, he already refused to give maintenance to her, and she hence had to file MSS No. 3947/2015 in 2015 against him. Even before and during divorce proceedings, he had continuously threatened that he would resign from his job and cut off financial support;
 
-(b)      _second_, whilst the former Husband had suffered a heart attack in November 2016, he was still able to provide maintenance up to February 2018. In fact, during 2013 to 2017, the former Husband managed and operated three other businesses. His old company allowed him to work from home and he thus had time to develop his businesses and did not need to take it easier in terms of working hours;
+> (b)      _second_, whilst the former Husband had suffered a heart attack in November 2016, he was still able to provide maintenance up to February 2018. In fact, during 2013 to 2017, the former Husband managed and operated three other businesses. His old company allowed him to work from home and he thus had time to develop his businesses and did not need to take it easier in terms of working hours;
 
-(c)      _third_, she had temporarily relocated to India to contain the expenses within the maintenance sum of $5,404.50 as she could not afford rental in Singapore with this sum. She had also relocated for the well-being of herself and the Child after the divorce. Whilst she had claimed that the expenses of her and the Child to be $4,334.80 in MSS No. 2474/2018 (her first enforcement application), she also stated that the sum excluded items like entertainment, outings, holidays, airfare and medical. She was also unable to afford to continue the Child’s psychological therapy sessions, despite the Child being scarred by the former Husband’s behaviour prior to the divorce;
+> (c)      _third_, she had temporarily relocated to India to contain the expenses within the maintenance sum of $5,404.50 as she could not afford rental in Singapore with this sum. She had also relocated for the well-being of herself and the Child after the divorce. Whilst she had claimed that the expenses of her and the Child to be $4,334.80 in MSS No. 2474/2018 (her first enforcement application), she also stated that the sum excluded items like entertainment, outings, holidays, airfare and medical. She was also unable to afford to continue the Child’s psychological therapy sessions, despite the Child being scarred by the former Husband’s behaviour prior to the divorce;
 
-(d)      _fourth_, the former Wife’s share of matrimonial assets should not have any bearing on the issue of maintenance but in any event, she has received limited assets from the divorce. Further, she has been unemployed for more than 9 years as she had left her job to care for the Child early in the marriage. She has limited employability as it is difficult to return to the info-technology (IT) industry after more than 9 years, and she is still caring for the Child full time. She also wished to upgrade her skills but lacked the funds to do so. She further has to keep returning to Singapore for legal proceedings against the former Husband; and
+> (d)      _fourth_, the former Wife’s share of matrimonial assets should not have any bearing on the issue of maintenance but in any event, she has received limited assets from the divorce. Further, she has been unemployed for more than 9 years as she had left her job to care for the Child early in the marriage. She has limited employability as it is difficult to return to the info-technology (IT) industry after more than 9 years, and she is still caring for the Child full time. She also wished to upgrade her skills but lacked the funds to do so. She further has to keep returning to Singapore for legal proceedings against the former Husband; and
 
-(e)      _fifth_, the former Husband’s expenses were clearly inflated. In particular, he is residing in a 3-bedroom condominium worth more than a $1million, which he could rent out fully for $3,500.00 or partially for $2,000.00.
+> (e)      _fifth_, the former Husband’s expenses were clearly inflated. In particular, he is residing in a 3-bedroom condominium worth more than a $1million, which he could rent out fully for $3,500.00 or partially for $2,000.00.
 
 #### Parties’ affidavits and submissions
 
 19     Parties have filed the following affidavits and submissions in the applications:
 
-(a)     the former Husband’s 1st Affidavit dated 19 October 2018 (the “**former Husband’s 1st Affidavit**”);
+> (a)     the former Husband’s 1st Affidavit dated 19 October 2018 (the “**former Husband’s 1st Affidavit**”);
 
-(b)     the former Wife’s Reply Affidavit dated 9 November 2018 (the “**former Wife’s 1st Affidavit**”);
+> (b)     the former Wife’s Reply Affidavit dated 9 November 2018 (the “**former Wife’s 1st Affidavit**”);
 
-(c)     the former Husband’s Reply Affidavit dated 17 December 2018 (the “**former Husband’s 2nd Affidavit**”);
+> (c)     the former Husband’s Reply Affidavit dated 17 December 2018 (the “**former Husband’s 2nd Affidavit**”);
 
-(d)     the former Husband’s Reply Affidavit dated 20 December 2018 (the “**former Husband’s 3rd Affidavit**”);
+> (d)     the former Husband’s Reply Affidavit dated 20 December 2018 (the “**former Husband’s 3rd Affidavit**”);
 
-(e)     the former Husband’s Submissions dated 27 December 2018; and
+> (e)     the former Husband’s Submissions dated 27 December 2018; and
 
-(f)     the former Wife’s Submissions dated 4 January 2019.
+> (f)     the former Wife’s Submissions dated 4 January 2019.
 
 ## C.    Grounds of Decision
 
@@ -117,27 +117,27 @@ MSS No. 4079 of 2018 is the former Wife’s application to enforce maintenance a
 
 20     Under sections 118 and 119 of the Women’s Charter (Cap. 353), the Court may vary orders and agreements for maintenance of the former Wife if there has been a material change in circumstances:
 
-_“Power of court to vary orders for maintenance_
+> _“Power of court to vary orders for maintenance_
 
-_118_.     _The court may at any time vary or rescind any subsisting order for maintenance, whether secured or unsecured, on the application of the person in whose favour or of the person against whom the order was made, or, in respect of secured maintenance, of the legal personal representatives of the latter, where it is satisfied that the order was based on any misrepresentation or mistake of fact or_ **_where there has been any material change in the circumstances_** _”_ (emphasis added).
+> _118_.     _The court may at any time vary or rescind any subsisting order for maintenance, whether secured or unsecured, on the application of the person in whose favour or of the person against whom the order was made, or, in respect of secured maintenance, of the legal personal representatives of the latter, where it is satisfied that the order was based on any misrepresentation or mistake of fact or_ **_where there has been any material change in the circumstances_** _”_ (emphasis added).
 
-_“Power of court to vary agreements for maintenance_
+> _“Power of court to vary agreements for maintenance_
 
-_119_.     _Subject to section 116, the court may at any time and from time to time vary the terms of any agreement as to maintenance made between husband and wife, whether made before or after 1st June 1981, where it is satisfied that_ **_there has been any material change in the circumstances_** _and notwithstanding any provision to the contrary in any such agreement”_ (emphasis added).
+> _119_.     _Subject to section 116, the court may at any time and from time to time vary the terms of any agreement as to maintenance made between husband and wife, whether made before or after 1st June 1981, where it is satisfied that_ **_there has been any material change in the circumstances_** _and notwithstanding any provision to the contrary in any such agreement”_ (emphasis added).
 
 21     Under Sections 72 and 73 of the Women’s Charter (Cap. 353), the Court may also vary orders and agreements for maintenance of the children if there has been a material change in circumstances:
 
-_“Rescission and variation of order_
+> _“Rescission and variation of order_
 
-_72._
+> _72._
 
-_—(1)  On the application of any person receiving or ordered to pay a monthly allowance under this Part and on_ **_proof of a change in the circumstances_** _of that person, his wife or child, or for other good cause being shown to the satisfaction of the court, the court by which the order was made may rescind the order or may vary it as it thinks fit._
+>> _—(1)  On the application of any person receiving or ordered to pay a monthly allowance under this Part and on_ **_proof of a change in the circumstances_** _of that person, his wife or child, or for other good cause being shown to the satisfaction of the court, the court by which the order was made may rescind the order or may vary it as it thinks fit._
 
-(_2_)     _Without prejudice to the extent of the discretion conferred upon the court by subsection (1), the court may, in considering any application made under this section, take into consideration any change in the general cost of living which may have occurred between the date of the making of the order sought to be varied and the date of the hearing of the application.”_
+>> (_2_)     _Without prejudice to the extent of the discretion conferred upon the court by subsection (1), the court may, in considering any application made under this section, take into consideration any change in the general cost of living which may have occurred between the date of the making of the order sought to be varied and the date of the hearing of the application.”_
 
-_“Power of court to vary agreement for maintenance of child_
+> _“Power of court to vary agreement for maintenance of child_
 
-_73_.     _The court may, at any time and from time to time, vary the terms of any agreement relating to the maintenance of a child, whether made before or after 1st June 1981, notwithstanding any provision to the contrary in that agreement, where it is satisfied that it is reasonable and for the welfare of the child to do so.”_
+> _73_.     _The court may, at any time and from time to time, vary the terms of any agreement relating to the maintenance of a child, whether made before or after 1st June 1981, notwithstanding any provision to the contrary in that agreement, where it is satisfied that it is reasonable and for the welfare of the child to do so.”_
 
 22     In this regard, it is trite that a self-induced loss of income did not constitute a material change in circumstances so as to justify a downward variation or rescission of a maintenance order: _Toh Weng Foong v Chew Cheng Moi_ (D 2181/1997); _Tan Huan Eng Agnes Florence v Trevor Symes_ <span class="citation">\[2005\] SGDC 83</span>; _LF v LG_ <span class="citation">\[2007\] SGDC 191</span>. For instance, in _Tan Huan Eng Agnes Florence v Trevor Symes_ <span class="citation">\[2005\] SGDC 83</span>, the court cited an example where the payee deliberately resigned from a job and thus did not receive any more income. Such an adverse change in circumstances would be self-induced and could not be relied on to vary a maintenance order.
 
@@ -149,31 +149,31 @@ _73_.     _The court may, at any time and from time to time, vary the terms 
 
 25      _First_, with regard to the former Husband’s argument that he had to resign from his job and become self-employed in his start-up, I found that any loss of income on his part is self-induced and not reasonable in the circumstances:
 
-(a)     the former Husband had a stable and well-paid job (with a monthly gross income of $14,638.77 and monthly net income of $11,946.00) at a company which he had worked at for some 17 years. He has not proven that he had little or no choice but to resign from this job. There was neither any evidence of discussions or negotiations with the company in relation to its request for him to relocate to India, nor any evidence that he would be unable to continue in his role or would suffer a drop of income if he did not relocate. If all negotiations were conducted without any documentary records, he could have made efforts to procure an affidavit from his former colleagues or superiors but he did not do so;
+> (a)     the former Husband had a stable and well-paid job (with a monthly gross income of $14,638.77 and monthly net income of $11,946.00) at a company which he had worked at for some 17 years. He has not proven that he had little or no choice but to resign from this job. There was neither any evidence of discussions or negotiations with the company in relation to its request for him to relocate to India, nor any evidence that he would be unable to continue in his role or would suffer a drop of income if he did not relocate. If all negotiations were conducted without any documentary records, he could have made efforts to procure an affidavit from his former colleagues or superiors but he did not do so;
 
-(b)     even if the former Husband’s case is to be accepted without any documentary proof, he has not explained the following:
+> (b)     even if the former Husband’s case is to be accepted without any documentary proof, he has not explained the following:
 
-i.       why it would be so difficult for him to relocate to work in India. He is an Indian citizen and was born and raised in India. Whilst he has spent significant time working in Singapore, surely having stable and well-paid employment in India would be more sensible than working on a start up with little or no income, bearing in mind his pre-existing maintenance obligations;
+>> i.       why it would be so difficult for him to relocate to work in India. He is an Indian citizen and was born and raised in India. Whilst he has spent significant time working in Singapore, surely having stable and well-paid employment in India would be more sensible than working on a start up with little or no income, bearing in mind his pre-existing maintenance obligations;
 
-ii.       why he could not have negotiated for time to look for alternative opportunities, or expended efforts to search for such opportunities, before resigning. There was no evidence that he had even considered or attempted to apply for any full time jobs commensurate with his qualifications and experience. Instead, it appeared he had already decided at the outset that he wanted to pursue his dreams of having his own start-up, despite it requiring significant capital outlay from him and was not yet income-generating; and
+>> ii.       why he could not have negotiated for time to look for alternative opportunities, or expended efforts to search for such opportunities, before resigning. There was no evidence that he had even considered or attempted to apply for any full time jobs commensurate with his qualifications and experience. Instead, it appeared he had already decided at the outset that he wanted to pursue his dreams of having his own start-up, despite it requiring significant capital outlay from him and was not yet income-generating; and
 
-iii.       why he could not have considered relocating to India first and searching for alternative opportunities in Singapore from there, before resigning. If he preferred to work in Singapore rather than in India, he could have temporarily relocated to India, searched for opportunities in Singapore and resign only after obtaining stable employment. Instead, he was resolute in focusing his full time efforts on his start-up when he was well aware of the “_unstable and unpredictable nature of a self-funded start up_[^1]”;
+>> iii.       why he could not have considered relocating to India first and searching for alternative opportunities in Singapore from there, before resigning. If he preferred to work in Singapore rather than in India, he could have temporarily relocated to India, searched for opportunities in Singapore and resign only after obtaining stable employment. Instead, he was resolute in focusing his full time efforts on his start-up when he was well aware of the “_unstable and unpredictable nature of a self-funded start up_[^1]”;
 
-(c)     it must be noted that the former Husband’s start-up was incorporated in November 2016, some 4 days after the Final Judgment was granted and almost a year before his resignation. This is significant because the former Husband had included in the Interim Judgment a condition that he would pay the Child’s school fees based on his “_monthly income capacity_. _For any such variation request, \[the former Husband\] to request through the court_” (words in square brackets replaced).” He also included a condition that he would pay for the Child’s medical expenses “_provided he has the earning capacity to pay for the same. For any such variation request, \[the former Husband\] to request through the court_” (words in square brackets replaced). A reasonable inference is that the former Husband had already then formed an intention to work full-time on his start-up and anticipated that his income capacity could become limited. This casts doubt on whether the former Husband had or would have reasonably exhausted all opportunities of obtaining alternative stable and well-paid employment, before deciding to focus his personal funds of some $225,000.00 and full time efforts on his start-up; and
+> (c)     it must be noted that the former Husband’s start-up was incorporated in November 2016, some 4 days after the Final Judgment was granted and almost a year before his resignation. This is significant because the former Husband had included in the Interim Judgment a condition that he would pay the Child’s school fees based on his “_monthly income capacity_. _For any such variation request, \[the former Husband\] to request through the court_” (words in square brackets replaced).” He also included a condition that he would pay for the Child’s medical expenses “_provided he has the earning capacity to pay for the same. For any such variation request, \[the former Husband\] to request through the court_” (words in square brackets replaced). A reasonable inference is that the former Husband had already then formed an intention to work full-time on his start-up and anticipated that his income capacity could become limited. This casts doubt on whether the former Husband had or would have reasonably exhausted all opportunities of obtaining alternative stable and well-paid employment, before deciding to focus his personal funds of some $225,000.00 and full time efforts on his start-up; and
 
-(d)     therefore, in my judgment, any loss of income on the part of the former Husband would be self-induced and not reasonable.
+> (d)     therefore, in my judgment, any loss of income on the part of the former Husband would be self-induced and not reasonable.
 
 26      _Second_, as to the former Husband’s argument that he has little or no income from his start-up, I found that the former Husband in fact has or has had significant financial resources which could be, or could have been, utilized towards his maintenance obligations:
 
-(a)     the former Husband chose to inject substantial sums into his start-up in 2017, instead of preserving the same to meet his maintenance obligations. He contributed the sum of $125,000.00 on 12 August 2017 and the sum of $100,000.00 on 20 November 2017[^2]. Not only is he clearly financially well-off to pump such sums into his start-up, he also made a deliberate and conscious choice to ring-fence these personal funds for his business, instead of preserving these funds to meet his maintenance obligations when he knew he no longer had stable income;
+> (a)     the former Husband chose to inject substantial sums into his start-up in 2017, instead of preserving the same to meet his maintenance obligations. He contributed the sum of $125,000.00 on 12 August 2017 and the sum of $100,000.00 on 20 November 2017[^2]. Not only is he clearly financially well-off to pump such sums into his start-up, he also made a deliberate and conscious choice to ring-fence these personal funds for his business, instead of preserving these funds to meet his maintenance obligations when he knew he no longer had stable income;
 
-(b)     the former Husband could also afford to pay the former Wife the sum of $15,000.00 on 6 June 2018 (as an advance to relocate out of Singapore) and the sum of $115,000.00 on 10 September 2018, as consideration for the former Wife’s transfer of her share in their Singapore property to him. He clearly had the financial ability and resources to make payment of these significant sums, and now holds a 3-bedroom condominium worth over $1 million solely in his name;
+> (b)     the former Husband could also afford to pay the former Wife the sum of $15,000.00 on 6 June 2018 (as an advance to relocate out of Singapore) and the sum of $115,000.00 on 10 September 2018, as consideration for the former Wife’s transfer of her share in their Singapore property to him. He clearly had the financial ability and resources to make payment of these significant sums, and now holds a 3-bedroom condominium worth over $1 million solely in his name;
 
-(c)     it is also clear that the former Husband has sole and unfettered control in deciding how much monies he could transfer to himself from the start-up and _vice versa_. For instance, he could declare a salary of $6,000.00 in August 2018 because he had to finance his home loan and refinance his existing bank loan[^3]. However, he only paid himself $2,976.25 on 9 September 2018, $2,000.00 on 12 October 2018, $2,500.00 on 1 November 2018, $1,694.00 on 14 November 2018[^4]. After taking a loan of $50,000.00 from CitiBank in September 2018, he then proceeded to pay into the start-up the sums of $15,000.00 on 12 September 2018, $15,000.00 on 13 September 2018, $10,000.00 on 14 September 2018 and $9,000.00 on 15 September 2018, as supposed repayment of loans from his start-up to him for the purpose of paying the former Wife the sum of $130,000.00[^5];
+> (c)     it is also clear that the former Husband has sole and unfettered control in deciding how much monies he could transfer to himself from the start-up and _vice versa_. For instance, he could declare a salary of $6,000.00 in August 2018 because he had to finance his home loan and refinance his existing bank loan[^3]. However, he only paid himself $2,976.25 on 9 September 2018, $2,000.00 on 12 October 2018, $2,500.00 on 1 November 2018, $1,694.00 on 14 November 2018[^4]. After taking a loan of $50,000.00 from CitiBank in September 2018, he then proceeded to pay into the start-up the sums of $15,000.00 on 12 September 2018, $15,000.00 on 13 September 2018, $10,000.00 on 14 September 2018 and $9,000.00 on 15 September 2018, as supposed repayment of loans from his start-up to him for the purpose of paying the former Wife the sum of $130,000.00[^5];
 
-(d)     the former Husband has failed to provide a full and proper account of his start-up’s income and expenses such that it was impossible to ascertain its true financial picture. Other than disclosing his startup’s OCBC and DBS account summaries as of 14 December 2018, the former Husband has failed to provide full discovery of these accounts to explain how the sums of $225,000.00 which he had pumped in were utilized; and
+> (d)     the former Husband has failed to provide a full and proper account of his start-up’s income and expenses such that it was impossible to ascertain its true financial picture. Other than disclosing his startup’s OCBC and DBS account summaries as of 14 December 2018, the former Husband has failed to provide full discovery of these accounts to explain how the sums of $225,000.00 which he had pumped in were utilized; and
 
-(e)     in these circumstances, it was difficult to reach a finding that the former Husband has little or no income from his start-up.
+> (e)     in these circumstances, it was difficult to reach a finding that the former Husband has little or no income from his start-up.
 
 27      _Third_, with regard to the former Husband’s argument that he had suffered a heart attack in November 2016 and hence has had to take it easier in terms of working hours, it is noted that he was in fact able to continue working with his old company until September 2017 and pay full maintenance up to February 2018. Other than his start-up which was incorporated in November 2016, he was also running three other companies since 2013. In fact, his old company allowed him to work from home and he would have been able to concurrently run these other companies as well. His evidence is that he was involved in one company to help a close friend set up a business in Singapore and involved in another company to help his father manage his business[^6]. Whilst he claimed he had limited involvement in these other companies after his heart attack, he was at least able to manage his full time job together with what was required for his start-up and other businesses from home. Indeed, the former Husband appeared to be someone with significant business experience and acumen.
 
@@ -181,11 +181,11 @@ iii.       why he could not have considered relocating to India first and
 
 29      _Fifth_, with regard to the former Husband’s submission that the former Wife has financial resources to meet the needs of herself and the Child, I was unable to accept such a submission:
 
-(a)     what the former Wife received as her agreed share from the division of matrimonial assets should not have any bearing on the issue of whether maintenance ought to be reduced. In any event, she has explained the properties in India were small plots of undeveloped land worth a few thousand dollars cumulatively and were yet to be sold[^8]. Her jewellery were personal ornaments and she has pawned some jewellery to pay for hers and the Child’s expenses[^9]. Her shares were only worth some INR 50,000.00 (SGD1,000.00) [^10];
+> (a)     what the former Wife received as her agreed share from the division of matrimonial assets should not have any bearing on the issue of whether maintenance ought to be reduced. In any event, she has explained the properties in India were small plots of undeveloped land worth a few thousand dollars cumulatively and were yet to be sold[^8]. Her jewellery were personal ornaments and she has pawned some jewellery to pay for hers and the Child’s expenses[^9]. Her shares were only worth some INR 50,000.00 (SGD1,000.00) [^10];
 
-(b)     whilst the former Wife received the sum of $130,000.00 from the former Husband in June and September 2018, this was pursuant to parties’ agreement for division of their Singapore property and it represented a small percentage of the value of that property. Her evidence is that she has already expended some $52,000.00 to fund expenses such as legal costs, travel costs up and down from Singapore, the Child’s school fees and repaying debts[^11]; and
+> (b)     whilst the former Wife received the sum of $130,000.00 from the former Husband in June and September 2018, this was pursuant to parties’ agreement for division of their Singapore property and it represented a small percentage of the value of that property. Her evidence is that she has already expended some $52,000.00 to fund expenses such as legal costs, travel costs up and down from Singapore, the Child’s school fees and repaying debts[^11]; and
 
-(c)     I further accepted the former Wife’s arguments that it would not be easy for her to re-join the workforce after more than 9 years of being a homemaker. Whilst she previously worked as a systems analyst in India and in Singapore, that was over 9 years ago and she would reasonably be required to upgrade her skills to re-enter the info-technology industry.
+> (c)     I further accepted the former Wife’s arguments that it would not be easy for her to re-join the workforce after more than 9 years of being a homemaker. Whilst she previously worked as a systems analyst in India and in Singapore, that was over 9 years ago and she would reasonably be required to upgrade her skills to re-enter the info-technology industry.
 
 30      _Sixth_, instead of expecting the former Wife and the Child to reduce their expenses in India, the former Husband could instead strive to manage his own expenses. His most significant expense is his monthly mortgage of $2,173.04 but this is an instalment being paid through his CPF. He could let out his 3-bedroom condominium at a monthly rental of over $3,000.00 per month or rent out 2 bedrooms for at least $2,000.00 per month. He could also downgrade to a smaller flat or condominium.
 

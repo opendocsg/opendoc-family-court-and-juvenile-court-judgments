@@ -17,23 +17,23 @@ Variation of Maintenance - Material Change in circumstances
 
 2       One of the orders made by consent in the ancillary order dated 8 August 2012 was for the maintenance of the children of the marriage, as follows:
 
-_“By consent, the Defendant shall pay $1,000 per month for the minor child of the Marriage, and $800.00 per month for the elder child of the Marriage, R1 with effect from 1st September 2012 and thereafter on the 1st day of each subsequent month. The payments are to be made in the Plaintiff’s POSB savings account no. xxx”._
+> _“By consent, the Defendant shall pay $1,000 per month for the minor child of the Marriage, and $800.00 per month for the elder child of the Marriage, R1 with effect from 1st September 2012 and thereafter on the 1st day of each subsequent month. The payments are to be made in the Plaintiff’s POSB savings account no. xxx”._
 
 3       The Plaintiff filed an application on 30 October 2018 for the following orders, essentially to vary the above maintenance order for R2:
 
-“(1)     Paragraph 5(b) of the Ancillary Matters Order dated 8 August 2012 shall be varied such that the Defendant pays $2,500.00 per month for the younger child, namely R2 (“R2”) with effect from 1 July 2018 and thereafter on the 1st day of each calendar month.
+> “(1)     Paragraph 5(b) of the Ancillary Matters Order dated 8 August 2012 shall be varied such that the Defendant pays $2,500.00 per month for the younger child, namely R2 (“R2”) with effect from 1 July 2018 and thereafter on the 1st day of each calendar month.
 
-(2)     The Defendant to bear the full cost of R2’s laptop.
+> (2)     The Defendant to bear the full cost of R2’s laptop.
 
-(3)     The Defendant to bear 65% of all future and additional expenses incurred relating to R2’s education at the Nanyang Technological University within 7 days upon proof of expenditure furnished by the Plaintiff.
+> (3)     The Defendant to bear 65% of all future and additional expenses incurred relating to R2’s education at the Nanyang Technological University within 7 days upon proof of expenditure furnished by the Plaintiff.
 
-(4)     The Defendant to reimburse the Plaintiff 65% of all expenses incurred since July 2018 related to R2’s enrolment into the Nanyang Technological University within 7 days upon proof of expenditure furnished by the Plaintiff.
+> (4)     The Defendant to reimburse the Plaintiff 65% of all expenses incurred since July 2018 related to R2’s enrolment into the Nanyang Technological University within 7 days upon proof of expenditure furnished by the Plaintiff.
 
-(5)     The payments are to be made into the Plaintiff’s POSB savings account no. xxx.
+> (5)     The payments are to be made into the Plaintiff’s POSB savings account no. xxx.
 
-(6)     The Defendant shall pay costs of the application.
+> (6)     The Defendant shall pay costs of the application.
 
-(7)     Such further and other orders as the Honourable Court thinks fit or just.
+> (7)     Such further and other orders as the Honourable Court thinks fit or just.
 
 ## The Plaintiff’s Submissions
 
@@ -61,17 +61,17 @@ _“By consent, the Defendant shall pay $1,000 per month for the minor child of 
 
 13     After hearing the parties, I made the following orders:
 
-“1.    Paragraph 5(b) of the Ancillary Matters Order dated 8 August 2012 is varied such that the Defendant pays SGD 1300 per month for the younger child, namely R2 (“R2”) with effect from 1 July 2018 and thereafter on the 1st day of each calendar month.
+> “1.    Paragraph 5(b) of the Ancillary Matters Order dated 8 August 2012 is varied such that the Defendant pays SGD 1300 per month for the younger child, namely R2 (“R2”) with effect from 1 July 2018 and thereafter on the 1st day of each calendar month.
 
-2.    The Defendant shall bear 65% of the cost of R2’s laptop.
+> 2.    The Defendant shall bear 65% of the cost of R2’s laptop.
 
-3.    The Defendant shall bear 65% of the R2’s Nanyang Technological University (“NTU”) Tuition Fees, NTU Hostel Fees, School Supplies and all future and additional expenses reasonable incurred relating to R2’s education at NTU within 7 days upon proof of expenditure furnished by the Plaintiff.
+> 3.    The Defendant shall bear 65% of the R2’s Nanyang Technological University (“NTU”) Tuition Fees, NTU Hostel Fees, School Supplies and all future and additional expenses reasonable incurred relating to R2’s education at NTU within 7 days upon proof of expenditure furnished by the Plaintiff.
 
-4.    The Defendant shall reimburse the Plaintiff’s 65% of all expenses incurred since July 2018 related to R2’s enrolment into the NTU within 7 days upon proof of expenditure furnished by the Plaintiff.
+> 4.    The Defendant shall reimburse the Plaintiff’s 65% of all expenses incurred since July 2018 related to R2’s enrolment into the NTU within 7 days upon proof of expenditure furnished by the Plaintiff.
 
-5.    The payments are to be made into the Plaintiff’s POSB savings account no. xxx.
+> 5.    The payments are to be made into the Plaintiff’s POSB savings account no. xxx.
 
-6.    The Defendant shall pay to the Plaintiff costs fixed at SGD 800.”
+> 6.    The Defendant shall pay to the Plaintiff costs fixed at SGD 800.”
 
 ## Appeal
 
@@ -81,7 +81,7 @@ _“By consent, the Defendant shall pay $1,000 per month for the minor child of 
 
 15     Section 118 of the Women’s Charter (Cap 353) provides:
 
-_“The Court may at any time vary or rescind any subsisting order for maintenance, whether secured or unsecured, on the application of the person in whose favour or of the person against whom the order was made, or, in respect of secured maintenance, of the legal personal representatives of the latter, where it is satisfied that the order was based on any misrepresentation or mistake of fact or where there has been any material change in the circumstances.”_
+> _“The Court may at any time vary or rescind any subsisting order for maintenance, whether secured or unsecured, on the application of the person in whose favour or of the person against whom the order was made, or, in respect of secured maintenance, of the legal personal representatives of the latter, where it is satisfied that the order was based on any misrepresentation or mistake of fact or where there has been any material change in the circumstances.”_
 
 ## Material Change in circumstances
 
@@ -93,23 +93,23 @@ _“The Court may at any time vary or rescind any subsisting order for maintenan
 
 19     In the recent Court of Appeal case in **_BPC v BPB (2019) SGCA 03_**, the Husband had submitted that the Judge at the court below should have ordered the parties to each bear half of all expenses incurred for the children because both parties have a joint and equal obligation to maintain their children, under Section 68 of the Charter. The Court of Appeal had expressly disagreed with this submission at \[111\] that Section 68 mandates such a result and opined as follows:
 
-_“Although parents do indeed share an equal responsibility for looking after their children, this ought not to necessarily translate into each parent bearing an equal share of the burden to provide maintenance for their children. This is because the extent of the duty to provide maintenance rests on a host of factors as enumerated by s 114(1) of the Charter:_
+> _“Although parents do indeed share an equal responsibility for looking after their children, this ought not to necessarily translate into each parent bearing an equal share of the burden to provide maintenance for their children. This is because the extent of the duty to provide maintenance rests on a host of factors as enumerated by s 114(1) of the Charter:_
 
-(_a_)     _the income, earning capacity, property and other financial resources which each of the parties to the marriage has or is likely to have in the foreseeable future;_
+>> (_a_)     _the income, earning capacity, property and other financial resources which each of the parties to the marriage has or is likely to have in the foreseeable future;_
 
-(_b_)     _the financial needs, obligations and responsibilities which each of the parties to the marriage has or is likely to have in the foreseeable future;_
+>> (_b_)     _the financial needs, obligations and responsibilities which each of the parties to the marriage has or is likely to have in the foreseeable future;_
 
-(_c_)     _the standard of living enjoyed by the family before the breakdown of the marriage;_
+>> (_c_)     _the standard of living enjoyed by the family before the breakdown of the marriage;_
 
-(_d_)     _the age of each party to the marriage and the duration of the marriage;_
+>> (_d_)     _the age of each party to the marriage and the duration of the marriage;_
 
-(_e_)     _any physical or mental disability of either of the parties to the marriage;_
+>> (_e_)     _any physical or mental disability of either of the parties to the marriage;_
 
-(_f_)     _the contributions made by each of the parties to the marriage to the welfare of the family, including any contribution made by looking after the home or caring for the family; and_
+>> (_f_)     _the contributions made by each of the parties to the marriage to the welfare of the family, including any contribution made by looking after the home or caring for the family; and_
 
-(_g_)     _in the case of proceedings for divorce or nullity of marriage, the value to either of the parties to the marriage of any benefit (for example, a pension) which, by reason of the dissolution or annulment of the marriage that party will lose the chance of acquiring._
+>> (_g_)     _in the case of proceedings for divorce or nullity of marriage, the value to either of the parties to the marriage of any benefit (for example, a pension) which, by reason of the dissolution or annulment of the marriage that party will lose the chance of acquiring._
 
-_It was therefore open to the Judge to consider other factors, including the relative circumstances of both parties, in making the maintenance orders.”_
+> _It was therefore open to the Judge to consider other factors, including the relative circumstances of both parties, in making the maintenance orders.”_
 
 20     In deciding that proportion of child maintenance payable by each parent, it was open to the Court to consider other factors, including the relative circumstances of both parties, such as the income and earning capacity of both parties.
 
@@ -125,7 +125,7 @@ _It was therefore open to the Judge to consider other factors, including the rel
 
 24     In setting out the expenses of the R2, I would like to highlight Justice Debbie Ong’s views in **_UEB v UEC <span class="citation">\[2018\] SGHCF 5</span>_** at \[13\]
 
-_“While it is a very useful practice to determine whether each item in the list of expenses submitted by the Wife is a reasonable one, one should not be overly mesmerised by the approach of reaching a maintenance sum only by totalling up every item of expense as if it were a legal requirement. The law provides that the court shall take into account various factors in deciding the maintenance award. The law does not require that every specific item of expense be proved by receipts or assessed on specific values, as if on a reimbursement exercise. More exceptional expenses though, such as certain medical needs and costs, ought to be supported by evidence. A child’s needs and expenses may also fluctuate from month to month; similarly; household expenses may fluctuate over time. Setting out regularly specific expenses nevertheless enables the other party and the court to assess broadly whether the expenses are reasonable.”_
+> _“While it is a very useful practice to determine whether each item in the list of expenses submitted by the Wife is a reasonable one, one should not be overly mesmerised by the approach of reaching a maintenance sum only by totalling up every item of expense as if it were a legal requirement. The law provides that the court shall take into account various factors in deciding the maintenance award. The law does not require that every specific item of expense be proved by receipts or assessed on specific values, as if on a reimbursement exercise. More exceptional expenses though, such as certain medical needs and costs, ought to be supported by evidence. A child’s needs and expenses may also fluctuate from month to month; similarly; household expenses may fluctuate over time. Setting out regularly specific expenses nevertheless enables the other party and the court to assess broadly whether the expenses are reasonable.”_
 
 I have therefore set out expenses of the R2 (excluding the school fees and school related expenses)- on what is reasonable as stated by the Plaintiff, what is the reasonable sum as stated by the Defendant, and the reasonable sum that the Court is to have assessed broadly:
 

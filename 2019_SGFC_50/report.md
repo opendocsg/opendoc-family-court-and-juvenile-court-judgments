@@ -21,27 +21,27 @@ Variation of Maintenance for Children
 
 4       Previously, the Plaintiff (“Mother”) filed two applications in the Family Justice Courts –
 
-a)     OSF37/2017 – for leave to be granted to her to file an application for financial relief under section 121B of the Women’s Charter, and for interim maintenance of $3,000 to be paid by the Defendant (“Father”) for the children.
+> a)     OSF37/2017 – for leave to be granted to her to file an application for financial relief under section 121B of the Women’s Charter, and for interim maintenance of $3,000 to be paid by the Defendant (“Father”) for the children.
 
-b)     OSGxxx/2017 – for joint custody, and sole care and control of the children to be granted to her.
+> b)     OSGxxx/2017 – for joint custody, and sole care and control of the children to be granted to her.
 
 5       I made orders on the two applications on 5 January 2018. The relevant orders I made are as follows: -
 
-OSF37/2017
+> OSF37/2017
 
-a)     I granted the Mother leave to file an application for financial relief against the Father under section 121B of the Women’s Charter;
+> a)     I granted the Mother leave to file an application for financial relief against the Father under section 121B of the Women’s Charter;
 
-b)     I ordered the Father to pay the sum of $1,500 per month towards maintenance for the Mother and the children on the 15th day of every month commencing 15 January 2018; and
+> b)     I ordered the Father to pay the sum of $1,500 per month towards maintenance for the Mother and the children on the 15th day of every month commencing 15 January 2018; and
 
-c)     I ordered the Father to pay costs fixed at $2,500 towards the costs to the Director, Legal Aid Bureau.
+> c)     I ordered the Father to pay costs fixed at $2,500 towards the costs to the Director, Legal Aid Bureau.
 
-OSGxxx/2017
+> OSGxxx/2017
 
-d)     Parties shall have joint custody of the 4 children;
+> d)     Parties shall have joint custody of the 4 children;
 
-e)     Mother shall have care and control of the 4 children;
+> e)     Mother shall have care and control of the 4 children;
 
-f)     Father shall have reasonable access to the children.
+> f)     Father shall have reasonable access to the children.
 
 6       The Mother did not appeal against my orders in OSF37/2017 and OSGxxx/2017.
 
@@ -53,19 +53,19 @@ f)     Father shall have reasonable access to the children.
 
 10     On 7 November 2018, the Mother filed an application to vary the orders made in OSF37/2017 (Summons No. 3950/2018). In her application, she prayed for the following variations to be made: -
 
-a)     Father to pay an additional sum of $2,500 towards the children’s maintenance;
+> a)     Father to pay an additional sum of $2,500 towards the children’s maintenance;
 
-b)     Father to top up the CDA account of the youngest child;
+> b)     Father to top up the CDA account of the youngest child;
 
-c)     Father shall pay for the tuition and enrichment classes for the 2 youngest children;
+> c)     Father shall pay for the tuition and enrichment classes for the 2 youngest children;
 
-d)     Father to provide details of the elder son’s educational insurance;
+> d)     Father to provide details of the elder son’s educational insurance;
 
-e)     Father to pay for the eldest son’s tertiary education;
+> e)     Father to pay for the eldest son’s tertiary education;
 
-f)     The third child to attend joint counselling with her and/or attend the Child-In-Between (CIB) programme at DSSA with both parties; and
+> f)     The third child to attend joint counselling with her and/or attend the Child-In-Between (CIB) programme at DSSA with both parties; and
 
-g)     Father to bear costs of the application.
+> g)     Father to bear costs of the application.
 
 ## Orders made
 
@@ -111,39 +111,39 @@ g)     Father to bear costs of the application.
 
 25     The Court’s power to vary orders for maintenance is set out in Section 118 of the Women’s Charter –
 
-_“the court may at any time vary or rescind any subsisting order for maintenance whether secured or unsecured, on the application of the person in whose favour or of the person against whom the order was made, or, in respect of secured maintenance, of the legal representative of the latter, where it is satisfied that the order was based on any misrepresentation or mistake of fact or where there has been any material change in circumstance.”_
+> _“the court may at any time vary or rescind any subsisting order for maintenance whether secured or unsecured, on the application of the person in whose favour or of the person against whom the order was made, or, in respect of secured maintenance, of the legal representative of the latter, where it is satisfied that the order was based on any misrepresentation or mistake of fact or where there has been any material change in circumstance.”_
 
 #### Mother’s position
 
 26     The Mother’s position is not clear, but her affidavits can be summarised as follows: -
 
-a)     She had been a full time housewife for 21 years. Previously the family was staying in private apartments and they had a good standard of living, but since she was kicked out of the home in December 2017, she and the children have been living in a shelter;
+> a)     She had been a full time housewife for 21 years. Previously the family was staying in private apartments and they had a good standard of living, but since she was kicked out of the home in December 2017, she and the children have been living in a shelter;
 
-b)     The parties never intended the children to live in a shelter and struggle in this manner. The children deserve better than what the situation they are in now. She wants to ensure that the children are fed properly with proper vitamins and their educational needs are satisfied. She wants to be able to bring them out for entertainment and eat in moderate restaurants which will make them happy.
+> b)     The parties never intended the children to live in a shelter and struggle in this manner. The children deserve better than what the situation they are in now. She wants to ensure that the children are fed properly with proper vitamins and their educational needs are satisfied. She wants to be able to bring them out for entertainment and eat in moderate restaurants which will make them happy.
 
-c)     There is a material change in circumstances because the children were living in private properties and were well taken care of by the Father. The Father used to give her $2,000 per month towards the partial household expenses and he would also pay for the utilities and other items, including the children’s expenses.
+> c)     There is a material change in circumstances because the children were living in private properties and were well taken care of by the Father. The Father used to give her $2,000 per month towards the partial household expenses and he would also pay for the utilities and other items, including the children’s expenses.
 
-d)     She is unable to take on a permanent full time job because she needs to look after the children. She cannot hire a maid because she has no means. She cannot bring her mother or relatives to the shelter to stay and look after her children.
+> d)     She is unable to take on a permanent full time job because she needs to look after the children. She cannot hire a maid because she has no means. She cannot bring her mother or relatives to the shelter to stay and look after her children.
 
-e)     The current maintenance that the Father is providing is not enough. She needs an additional $2,000 per month to manage the expenses and cater to the children’s needs on an interim basis.
+> e)     The current maintenance that the Father is providing is not enough. She needs an additional $2,000 per month to manage the expenses and cater to the children’s needs on an interim basis.
 
-f)     The eldest son gets an allowance of $730 from the army but this will stop next year.
+> f)     The eldest son gets an allowance of $730 from the army but this will stop next year.
 
-g)     She was getting SSO financial assistance of $1,150 per month and $240 from MUIS, but it has since stopped because of the Maintenance Order.
+> g)     She was getting SSO financial assistance of $1,150 per month and $240 from MUIS, but it has since stopped because of the Maintenance Order.
 
-h)     The third child is sitting for PSLE next year and she wants to send him for tuition classes. She stopped the classes because she could not afford.
+> h)     The third child is sitting for PSLE next year and she wants to send him for tuition classes. She stopped the classes because she could not afford.
 
-i)     She also wishes to send the youngest son for enrichment classes. The eldest children were attending tuition and enrichment classes when the children were residing with the Father, and there is no reason for the youngest child to be deprived of these.
+> i)     She also wishes to send the youngest son for enrichment classes. The eldest children were attending tuition and enrichment classes when the children were residing with the Father, and there is no reason for the youngest child to be deprived of these.
 
 #### Father’s position
 
 27     The Father’s position is that there has not been a material change in circumstances from the time the Maintenance Order was granted, which would warrant an upward variation. On the contrary, there has been a positive change in the Mother’s favour because: -
 
-a)     The eldest child is self-sufficient;
+> a)     The eldest child is self-sufficient;
 
-b)     The 2nd child is staying with the Father;
+> b)     The 2nd child is staying with the Father;
 
-c)     The Mother is now earning an income
+> c)     The Mother is now earning an income
 
 #### Material change in circumstances?
 
@@ -165,13 +165,13 @@ c)     The Mother is now earning an income
 
 36     Therefore, it would appear (from both parties’ affidavits) that the changes in circumstances after the Maintenance Order was made, would be these: -
 
-a)     The eldest son is now serving National Service and is receiving an allowance;
+> a)     The eldest son is now serving National Service and is receiving an allowance;
 
-b)     The second son is staying with the Father
+> b)     The second son is staying with the Father
 
-c)     The Mother has stopped receiving financial assistance; and
+> c)     The Mother has stopped receiving financial assistance; and
 
-d)     The Mother has some income.
+> d)     The Mother has some income.
 
 37     The eldest son is 19 years old, and is now in the army. According to the Mother, the son gets an allowance of $730, and he is using this to pay for his own expenses and sometimes, the Mother borrows from him[^1]. The son, himself, filed an affidavit, confirming that his allowance, and that if he is left with any balance, he passes to his mother to help with the household expenses. He sometimes buys groceries and give money to his younger brothers[^2].
 
@@ -191,7 +191,7 @@ d)     The Mother has some income.
 
 45     The Mother’s counsel tendered two documents at the hearing – one was a letter from MSF dated 14 May 2018 and another dated 7 November 2018[^9], which were subsequently exhibited in the Mother’s counsel’s affidavit filed 1 April 2019. In the two letters tendered, MSF explained the reason the financial assistance has stopped and noted that the eldest son had been enlisted since February 2018 and receiving a regular monthly allowance. MSF also stated in the letter of 14 May 2018:-
 
-_“we note that the household’s net income is sufficient for your household’s basic expenses”_
+> _“we note that the household’s net income is sufficient for your household’s basic expenses”_
 
 46     It therefore would appear that the Mother now receives $1,390 less what she had previously received at the time the Maintenance Order was made.
 
@@ -205,9 +205,9 @@ _“we note that the household’s net income is sufficient for your household�
 
 51     Taking all these changes into consideration, on the whole, it would appear that the Mother’s circumstances have improved slightly compared to the time when the Maintenance Order was made: -
 
-a)     When the Maintenance Order was made, the Mother was receiving $1,500 from the Father and $1,390 from MSF and MUIS. This meant that she received the sum of $2,890 to pay for 4 children’s expenses (i.e. each child would have the benefit of $722.50).
+> a)     When the Maintenance Order was made, the Mother was receiving $1,500 from the Father and $1,390 from MSF and MUIS. This meant that she received the sum of $2,890 to pay for 4 children’s expenses (i.e. each child would have the benefit of $722.50).
 
-b)     Now, the Mother is receiving $1,500 from the Father, some income on her own and she only needs to pay for 2 children’s expenses. This means that each child would have the benefit of $750.
+> b)     Now, the Mother is receiving $1,500 from the Father, some income on her own and she only needs to pay for 2 children’s expenses. This means that each child would have the benefit of $750.
 
 52     Therefore, it appears that there is no material change to the Mother’s detriment that would warrant an upward variation of the Maintenance Order.
 
@@ -231,7 +231,7 @@ b)     Now, the Mother is receiving $1,500 from the Father, some income on 
 
 61     The phrase “_good cause”_ is found in Section 72 of the Women’s Charter. Section 72 provides as follows: -
 
-_“On the application of any person receiving or ordered to pay a monthly allowance under this Part and on proof of a change in the circumstances of that person, or that person’s wife, incapacitated husband or child, or for other good cause being shown to the satisfaction of the court, the court by which the order was made may rescind the order or may vary it as it thinks fit.”_
+> _“On the application of any person receiving or ordered to pay a monthly allowance under this Part and on proof of a change in the circumstances of that person, or that person’s wife, incapacitated husband or child, or for other good cause being shown to the satisfaction of the court, the court by which the order was made may rescind the order or may vary it as it thinks fit.”_
 
 62     The Mother’s counsel again, appears to have relied on the wrong provisions.
 

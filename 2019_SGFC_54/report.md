@@ -15,9 +15,9 @@ Family Law – Maintenance – Enforcement – Section 71 Women’s Charte
 
 1       The parties were married in 2005. The husband (“**Husband**”) filed for divorce based on the fact that he and the wife (“**Wife**”) had lived apart for a continuous period of at least 4 years immediately prior to his filing of the writ for divorce. On **26 October 2016**, interim judgment for divorce (“**Interim Judgment**”) was granted and _consent orders_ for the ancillary matters were also recorded on the same date. These consent orders included a maintenance order (“**Maintenance Order**”) for the Wife and their child (the “**child**”) on the following terms:
 
-(a)     the Husband shall pay to the Wife **$2,000 per month as maintenance for the child** starting one month from the date of issuance of the certificate of final judgment and “until such time that the child is financially independent”;[^1] and
+> (a)     the Husband shall pay to the Wife **$2,000 per month as maintenance for the child** starting one month from the date of issuance of the certificate of final judgment and “until such time that the child is financially independent”;[^1] and
 
-(b)     the Husband shall pay **$1,000 per month as maintenance for the Wife** starting also one month from the date of issuance of the certificate of final judgment and this maintenance was to cease “in the event that the \[Wife\] remarries”.[^2]
+> (b)     the Husband shall pay **$1,000 per month as maintenance for the Wife** starting also one month from the date of issuance of the certificate of final judgment and this maintenance was to cease “in the event that the \[Wife\] remarries”.[^2]
 
 2       In September 2018, the Wife commenced these proceedings in MSS 3239/2018 (“**Current Application**”) against the Husband under section 71 of the Women’s Charter Cap 353 (“**Section 71**”) for his failure to comply with the Maintenance Order. This was the _second_ time she had applied to court to enforce the Maintenance Order.
 
@@ -31,9 +31,9 @@ Family Law – Maintenance – Enforcement – Section 71 Women’s Charte
 
 6       The Consent EMO also made clear, the following:[^3]
 
-(a)     that upon the Husband’s failure to pay any of the monthly instalments in accordance with the instalment plan mentioned above (see **paragraph 5**), the full amount owing would become immediately due and enforceable; and
+> (a)     that upon the Husband’s failure to pay any of the monthly instalments in accordance with the instalment plan mentioned above (see **paragraph 5**), the full amount owing would become immediately due and enforceable; and
 
-(b)     that the maintenance payable by the Husband under the existing Maintenance Order remained payable.
+> (b)     that the maintenance payable by the Husband under the existing Maintenance Order remained payable.
 
 7       The Husband made the monthly instalment payments of $500 in compliance with the instalment plan set out in the Consent EMO. However, he continued to fail to pay the monthly maintenance for the Wife and the child in accordance with the Maintenance Order.
 
@@ -49,9 +49,9 @@ Family Law – Maintenance – Enforcement – Section 71 Women’s Charte
 
 11     The Husband did not dispute the outstanding amount of arrears as claimed by the Wife. The Husband’s case was that he was financially strapped and unable to pay the arrears in a lump sum. He requested for the following:
 
-(a)     that he be allowed to continue with the payment of the monthly instalments of $500 towards the arrears set out in the Consent EMO, and
+> (a)     that he be allowed to continue with the payment of the monthly instalments of $500 towards the arrears set out in the Consent EMO, and
 
-(b)     that he be allowed to pay up the rest of the maintenance arrears in monthly instalments of $200.
+> (b)     that he be allowed to pay up the rest of the maintenance arrears in monthly instalments of $200.
 
 ## Orders made on 24 January 2019
 
@@ -69,9 +69,9 @@ Family Law – Maintenance – Enforcement – Section 71 Women’s Charte
 
 16     At the end, having heard the parties and based on the evidence adduced before the Court, I made the following orders on 24 January 2019. I ordered the Husband to pay the Wife the agreed arrears of $28,500 in instalments as follows:
 
-(a)     $3,500 on or before the 1 March 2019; and
+> (a)     $3,500 on or before the 1 March 2019; and
 
-(b)     the remaining $25,000 in ten (10) monthly instalments of $2,500 on or before 1st day of each month with effect from 1 April 2019.
+> (b)     the remaining $25,000 in ten (10) monthly instalments of $2,500 on or before 1st day of each month with effect from 1 April 2019.
 
 It was also similarly stated in my orders that upon the Husband’s failure to pay any of the instalments in accordance with the abovementioned instalment plan, the full amount owing would become immediately due and enforceable.
 
@@ -99,9 +99,9 @@ It was also similarly stated in my orders that upon the Husband’s failure to p
 
 26     He was currently working in the Singapore branch of a world-wide financial institution (“**Employer**”) as vice-president of a division. It should be noted that he chose not to disclose his employment contract, but had exhibited instead the following documents as evidence of his current employment and income:
 
-(a)     a letter dated 6 November 2018 from the Employer to a bank (DBS) certifying that the Husband had been employed by the Employer since 1 January 2018 and that the Husband had a _current annual base salary_ of $170,000; and
+> (a)     a letter dated 6 November 2018 from the Employer to a bank (DBS) certifying that the Husband had been employed by the Employer since 1 January 2018 and that the Husband had a _current annual base salary_ of $170,000; and
 
-(b)     salary slips (for 6 months from May to October 2018) showing that he was paid a _basic salary_ of $14,166.67 per month and received a net pay of $12,966.67 per month.
+> (b)     salary slips (for 6 months from May to October 2018) showing that he was paid a _basic salary_ of $14,166.67 per month and received a net pay of $12,966.67 per month.
 
 He also provided copies of documents relating to his Notices of Assessment for years of assessment 2015, 2016 and 2017. However, he did not provide his Notice of Assessment for year of assessment 2018, which would be for his income for 2017.
 
@@ -109,7 +109,7 @@ He also provided copies of documents relating to his Notices of Assessment for y
 
 28     Next, I examined the Husband’s case that he had no savings but only a car, an Audi SLJ XXXX (“**2016 AUDI**”) registered in December 2016, which was purchased by him at a price of $100,000[^4] around November 2018 under hire-purchase, and that his current monthly expenses of about $13,137 per month (without factoring in the maintenance sums (of $3,500) he had to pay every month under the Maintenance Order and Consent EMO) was more than his monthly take-home pay. See Table A below for the Husband’s list of expenses.
 
-**Table A**
+> **Table A**
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="6.89862027594481%"> <col width="29.1741651669666%"> <col width="13.6772645470906%"> <col width="25.1349730053989%"> <col width="25.1149770045991%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>(A)Personal Expenses as claimed by Husband</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Amount S$</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Husband’s evidence</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Court</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Rental</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">500</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Husband’s rental for a bedroom in a HDB flat at Serangoon Ave 2.</p><p align="justify" class="Table-Para-1">No supporting documents tendered.</p></td><td align="left" class="b" rowspan="8" valign="top"><p align="justify" class="Table-Para-1">Expenses for items 1 to 8</p><p align="justify" class="Table-Para-1">(based on Husband’s claim) -amounted to $1,920, but some of these expenses may be trimmed such as items 4 to 6.</p><p align="justify" class="Table-Para-1">However, even if this amount of $1,920 was added to his current income tax monthly payments of $2,902, the amount would total about:</p><p align="justify" class="Table-Para-1"><b>$4,822.</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Telephone (residence &amp; mobile)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">35</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No supporting documents tendered.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cable TV/Internet</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">85</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No supporting documents tendered.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Food/Groceries</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">500</p></td><td align="left" class="br" rowspan="3" valign="top"><p align="justify" class="Table-Para-1">Some receipts for items 4 and 5.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Eating Out</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">500</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cigarette/Alcohol</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">200</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Public transport</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">50</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Also uses public transport although has car. Claimed that he hardly drove and the car (2016 AUDI) was for FIL’s use.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sports and Hobbies</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">50</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No supporting documents tendered.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Personal insurance</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Husband has 2 life insurance policies with AIA.</p><p align="justify" class="Table-Para-1">The full policy documents were not tendered.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Based on the 2-page document that was provided, these policies were only applied for by the Husband on <b>11 November 2018.</b></p><p align="justify" class="Table-Para-1">See <b>paragraphs 52 to 55</b> below.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Income tax</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2,902</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Husband explained that these were his monthly instalments of 2017 taxes that were payable vide GIRO up to April 2019. And, after April 2019, there would be another Notice of Assessment (“NOA”) and he would be paying tax for</p><p align="justify" class="Table-Para-1">that. <span class="FootnoteRef"><a href="#Ftn_5" id="Ftn_5_1"><sup>[note: 5]</sup></a></span></p><p align="justify" class="Table-Para-1">Some NOAs for year of assessment 2015, 2016 and 2017 were tendered.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">There were no IRAS documents tendered in relation to the instalment schedule mentioned.</p><p align="justify" class="Table-Para-1">There was no NOA produced for income earned in 2017.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Vehicle loan</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2,107</p></td><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">This is for the 2016 AUDI.</p><p align="justify" class="Table-Para-1">Husband claimed that the car was bought by FIL a year ago and he bought it over, as his way of repaying FIL for FIL’s personal loan to him and to assist FIL. Some documents were tendered.</p></td><td align="left" class="b" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">No documents were tendered to show FIL’s purchase of this car.</p><p align="justify" class="Table-Para-1">Documents tendered only showed Husband’s purchase and payments for the 2016 AUDI from <b>5 November 2018.</b></p><p align="justify" class="Table-Para-1">See <b>paragraphs 46 to 52</b> below.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Motor insurance and road tax</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">158</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Subtotal (A)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>10,137</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>(B) FIL’s Medical Expenses</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Medical expenses</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Husband claimed that he was paying $3,000 per month for FIL’s medical expenses.</p><p align="justify" class="Table-Para-1">Medical memo and some invoices addressed to FIL were tendered.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Invoices tendered did not show recurring medical expenses of $3,000 every month.</p><p align="justify" class="Table-Para-1">See <b>paragraphs 38 to 42</b> below.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Subtotal of (A) + (B)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>13,137</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>(C)Maintenance obligations under Court Orders</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Amount in S$</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Current monthly maintenance for Wife and child</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Husband did not comply with the current monthly maintenance obligations set out in the Maintenance Order</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Existing Obligations under the Maintenance Order</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Current monthly instalments towards past arrears of $15,000 (owed as of 12 March 2018)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">500</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Husband complied with the instalment plan for the past arrears of $15,000 set out in the Consent EMO.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Existing Obligations under the Consent EMO</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Subtotal (C)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>3,500</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Total of (A) + (B) + (C)</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>16,637</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr></tbody></table>
 
@@ -120,13 +120,13 @@ He also provided copies of documents relating to his Notices of Assessment for y
 
 30     According to the Husband, FIL (a taxi driver) had emptied out his savings and extended the Husband a personal loan of $100,000 to pay off his debts and then, later, FIL was diagnosed with terminal stage cancer.[^6] Although the Husband’s agreement with FIL was that the Husband could pay back this loan slowly, as and when the Husband could[^7], the Husband had decided to repay FIL in the following manner because it was not certain how long FIL could live: -
 
-(a)     FIL’s Medical Expenses.
+> (a)     FIL’s Medical Expenses.
 
-He claimed that he was paying FIL’s medical expenses of $3,000 per month. This, the Husband explained, was because FIL did not have personal insurance and had depleted his Medisave after his initial hospitalisation.
+> He claimed that he was paying FIL’s medical expenses of $3,000 per month. This, the Husband explained, was because FIL did not have personal insurance and had depleted his Medisave after his initial hospitalisation.
 
-(b)     Car loan and car-related expenses
+> (b)     Car loan and car-related expenses
 
-He claimed that the 2016 AUDI was FIL’s car and that FIL had only bought the car a year ago at $120,000. He claimed that FIL wanted to sell it off to pay for his medical expenses but was hesitant to do so “at such a big loss” (as the car could only be currently sold off at $85,000). He explained that the car was not a necessity for him, but he bought it over to assist FIL and he was treating his purchase of the FIL’s car in early November 2018 as part of his repayment of the personal loan from FIL.[^8] As such, he was currently paying a sum of $2,265 per month for the car (about $2,107 per month for the car loan (over 36 instalments) and $158 per month for the motor insurance and road tax).
+> He claimed that the 2016 AUDI was FIL’s car and that FIL had only bought the car a year ago at $120,000. He claimed that FIL wanted to sell it off to pay for his medical expenses but was hesitant to do so “at such a big loss” (as the car could only be currently sold off at $85,000). He explained that the car was not a necessity for him, but he bought it over to assist FIL and he was treating his purchase of the FIL’s car in early November 2018 as part of his repayment of the personal loan from FIL.[^8] As such, he was currently paying a sum of $2,265 per month for the car (about $2,107 per month for the car loan (over 36 instalments) and $158 per month for the motor insurance and road tax).
 
 31     Although the Husband was given sufficient time to seek legal advice and prepare for the hearing, he did not adduce any evidence at the hearing on 23 January 2019 to corroborate his claim that FIL had lent him $100,000 to clear up all his personal debts. There were no documents provided to show the date and manner in which this alleged loan was extended by FIL to him to discharge his debts.
 
@@ -160,23 +160,104 @@ He claimed that the 2016 AUDI was FIL’s car and that FIL had only bought the c
 
 46     The Husband had tendered the following documents (“**Car Documents**”) to show his monthly expenses for the car:
 
-(a)     An invoice from Cargent Pte Ltd dated 5 November 2018 addressed to the Husband showing that a sum of $2,907 had been paid to Cargent Pte Ltd. The invoice had the following details (reproduced):
+> (a)     An invoice from Cargent Pte Ltd dated 5 November 2018 addressed to the Husband showing that a sum of $2,907 had been paid to Cargent Pte Ltd. The invoice had the following details (reproduced):
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="18.28%"> <col width="60.7%"> <col width="21.02%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cert/Regn No.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Description</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Amount</p></td></tr><tr><td align="left" class="br" rowspan="4" valign="top"><p align="justify" class="Table-Para-1">SLJ XXXX</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">LTA Transfer Fee</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$ -</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Admin Fee</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$ 800</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Advance Payment TCL (Instalment TCL 1<sup>st</sup> adv)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$ 2,107</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Remaining Purchase Balance</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$ -</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Total S$</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$2,907</p></td></tr></tbody></table>
 
   
   
 
-(b)     An approval advice dated 9 November 2018 from Tokyo Century Leasing (Singapore) Pte Ltd (“**TCL**”) to Sin Thai Hin Motor & Credit Pte Ltd which stated that the 2016 AUDI was approved for hire purchase. The approval advice stated that the applicant was the Husband. Some of its details are reproduced below:
+> (b)     An approval advice dated 9 November 2018 from Tokyo Century Leasing (Singapore) Pte Ltd (“**TCL**”) to Sin Thai Hin Motor & Credit Pte Ltd which stated that the 2016 AUDI was approved for hire purchase. The approval advice stated that the applicant was the Husband. Some of its details are reproduced below:
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="37.58%"> <col width="62.42%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PURCHASE PRICE:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$100,000</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">LOAN AMOUNT:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$70,000</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">LOAN TENURE:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">36</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">INTEREST RATE:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.7800%</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">REGISTRATION DATE:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">29 Dec 2016</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">VEHICLE MAKE:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">AUDI</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">VEHICLE MODEL:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A3 Sedan 1.0 TPSI S TRONIC (LED)</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MONTHLY INSTALMENT:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Instalment 1 to 35: $2,107</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Instalment 36:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$2,093</p></td></tr></tbody></table>
+>   
+| 
+
+PURCHASE PRICE:
+
+ | 
+
+$100,000
+
+ |
+| 
+
+LOAN AMOUNT:
+
+ | 
+
+$70,000
+
+ |
+| 
+
+LOAN TENURE:
+
+ | 
+
+36
+
+ |
+| 
+
+INTEREST RATE:
+
+ | 
+
+2.7800%
+
+ |
+| 
+
+REGISTRATION DATE:
+
+ | 
+
+29 Dec 2016
+
+ |
+| 
+
+VEHICLE MAKE:
+
+ | 
+
+AUDI
+
+ |
+| 
+
+VEHICLE MODEL:
+
+ | 
+
+A3 Sedan 1.0 TPSI S TRONIC (LED)
+
+ |
+| 
+
+MONTHLY INSTALMENT:
+
+ | 
+
+Instalment 1 to 35: $2,107
+
+ |
+| 
+
+Instalment 36:
+
+ | 
+
+$2,093
+
+ |
 
   
   
 
-(c)     A Debit Note/Tax invoice dated 12 November 2018 from NTUC Income Insurance Co-operative Limited (“**NTUC**”) to the Husband stating that his insurance premium payable for the 2016 AUDI for the period of 1 year (from 15 November 2018 to 14 November 2019) was $1,898.18.
+> (c)     A Debit Note/Tax invoice dated 12 November 2018 from NTUC Income Insurance Co-operative Limited (“**NTUC**”) to the Husband stating that his insurance premium payable for the 2016 AUDI for the period of 1 year (from 15 November 2018 to 14 November 2019) was $1,898.18.
 
-(d)     The schedule of the NTUC private car insurance policy stating that the primary driver for the 2016 AUDI was the Husband. There was no other named driver in the schedule. The hire purchase company was stated as TCL and the policy was stated to have been issued on 12 November 2018.
+> (d)     The schedule of the NTUC private car insurance policy stating that the primary driver for the 2016 AUDI was the Husband. There was no other named driver in the schedule. The hire purchase company was stated as TCL and the policy was stated to have been issued on 12 November 2018.
 
 47     It would appear from the first document (the invoice from Cargent Pte Ltd dated 5 November 2018) that the Husband had made the advance payment of the first instalment of $2,107 for the purchase of the 2016 AUDI on 5 November 2018 before the approval advice dated 9 November 2018 from TCL had even been issued approving the Husband’s application for hire -purchase.
 
@@ -198,13 +279,13 @@ He claimed that the 2016 AUDI was FIL’s car and that FIL had only bought the c
 
 56     I want now to touch on the Husband’s 2 bank accounts. According to the Husband’s evidence, they had a combined balance of less than $115 by 16 November 2018. However, I noted from the submitted bank statements that he had been transferring monies out of these accounts to his new wife (even before their marriage). Notwithstanding these transfers and other withdrawals, during the period from July 2018 to October 2018 (when his salaries were credited into this OCBC account), this account had the following balances:
 
-End July 2018: About $3,029
+> End July 2018: About $3,029
 
-End August 2018: About $3,340
+> End August 2018: About $3,340
 
-End September 2018: About $4,180
+> End September 2018: About $4,180
 
-End October 2018: About $2,419
+> End October 2018: About $2,419
 
 Based on the above balances, it would appear that the Husband could have discharged his monthly maintenance obligations of $3,000 in those months if he wanted to. But, he chose not to do so and went further in November 2018, to tie up his available funds for the purchase of a car for which he had no need and for the purchase of 2 AIA life insurance policies which would benefit him with investment returns in due course.
 

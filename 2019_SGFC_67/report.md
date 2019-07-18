@@ -29,21 +29,21 @@ Family Law – Maintenance for children; Maintenance for Wife; Division of mat
 
 6       According to the Statement of Claim and Counterclaim (Amendment No 1 dated 19 October 2017), there were 8 Ancillary Matters (AM) to be decided by the Court. These were:
 
-i.     Custody, care and control of the said 2 children;
+> i.     Custody, care and control of the said 2 children;
 
-ii.     Access to the said 2 children;
+> ii.     Access to the said 2 children;
 
-iii.     Maintenance for the said 2 children;
+> iii.     Maintenance for the said 2 children;
 
-iv.     Maintenance for the Respondent Wife;
+> iv.     Maintenance for the Respondent Wife;
 
-v.     Division of matrimonial assets;
+> v.     Division of matrimonial assets;
 
-vi.     Division of the matrimonial property;
+> vi.     Division of the matrimonial property;
 
-vii.     Costs and
+> vii.     Costs and
 
-viii.     Other Relief
+> viii.     Other Relief
 
 7       The Court dealt with the AMs of this case on two hearing days namely, 14 February 2019 and 15 March 2019 whereupon the Court delivered its decision.
 
@@ -53,25 +53,25 @@ viii.     Other Relief
 
 9       The Appellant Husband is appealing against paragraphs 15, 19, 20 and 25 of the said Court Order which provisions are set out below:
 
-**Paragraphs 15 and 19 of the said Court Order:**
+> **Paragraphs 15 and 19 of the said Court Order:**
 
-**Maintenance for the said 2 children**
+> **Maintenance for the said 2 children**
 
-15.    The \[Appellant Husband\] is to make payment of the sum of $3,300 per month for maintenance of the said 2 children being $1,750 for the elder child and $1,550 for the younger child. Payment to take effect from 31 March 2019 and thereafter on the last day of each month.
+> 15.    The \[Appellant Husband\] is to make payment of the sum of $3,300 per month for maintenance of the said 2 children being $1,750 for the elder child and $1,550 for the younger child. Payment to take effect from 31 March 2019 and thereafter on the last day of each month.
 
-19.    The \[Appellant Husband\] shall continue to fully pay for the said 2 children’s insurance policy premiums directly to the insurance companies.
+> 19.    The \[Appellant Husband\] shall continue to fully pay for the said 2 children’s insurance policy premiums directly to the insurance companies.
 
-**Paragraph 20 of the said Court Order:**
+> **Paragraph 20 of the said Court Order:**
 
-**Maintenance for the \[Respondent Wife\]**
+> **Maintenance for the \[Respondent Wife\]**
 
-20.    The \[Appellant Husband\] shall also make payment of maintenance to the \[Respondent Wife\] in the sum of $1,000 per month for five (5) years until 2024. Payment to also take effect from 31 March 2019 and thereafter on the last day of each month.
+> 20.    The \[Appellant Husband\] shall also make payment of maintenance to the \[Respondent Wife\] in the sum of $1,000 per month for five (5) years until 2024. Payment to also take effect from 31 March 2019 and thereafter on the last day of each month.
 
-**Paragraph 25 of the said Court Order:**
+> **Paragraph 25 of the said Court Order:**
 
-Division of the matrimonial property
+> Division of the matrimonial property
 
-25.    Upon successful sale, the Parties’ share of the matrimonial property shall be apportioned as follows: \[Appellant Husband\] – **55%** and \[Respondent Wife\] – **45% of the net proceeds.**
+> 25.    Upon successful sale, the Parties’ share of the matrimonial property shall be apportioned as follows: \[Appellant Husband\] – **55%** and \[Respondent Wife\] – **45% of the net proceeds.**
 
 ### Summary of the Court’s reasons for making its Order
 
@@ -79,19 +79,19 @@ Division of the matrimonial property
 
 10     In making its decision on the monthly maintenance to be paid by the Appellant Husband for the said 2 children, the Court noted that there was a previous order for interim maintenance for the said 2 children issued under MSS xxx/2017 dated xx March 2017 (“interim maintenance court order”). Under this interim maintenance court order, the Appellant Husband was ordered to pay the sum of $1,600 per month as maintenance for the said 2 children as well as 100% of:
 
-i.     their educational expenses
+> i.     their educational expenses
 
-ii.     their medical expenses not covered by his employer
+> ii.     their medical expenses not covered by his employer
 
-iii.     the home/mobile phone/Internet bills for the matrimonial home
+> iii.     the home/mobile phone/Internet bills for the matrimonial home
 
-iv.     utility bills for the matrimonial home
+> iv.     utility bills for the matrimonial home
 
-v.     conservancy charges for the matrimonial home
+> v.     conservancy charges for the matrimonial home
 
-vi.     their insurance premiums and
+> vi.     their insurance premiums and
 
-vii.     helper’s salary and levy at $620 per month.
+> vii.     helper’s salary and levy at $620 per month.
 
 11     In the Court’s view, the previous court order for the payment of the monthly maintenance for the said 2 children was only an interim order and the Court proceeded to make a fresh assessment of the monthly maintenance for the said 2 children that was to be payable by the Appellant Husband. As such, the Court considered _inter alia_, both Parties’ income capacity as at the date of the AM hearing, as one of the factors in making this assessment.
 
@@ -107,43 +107,43 @@ vii.     helper’s salary and levy at $620 per month.
 
 17     The Court agreed with the Appellant Husband that he should henceforth bear 80% of the monthly expenses of the said 2 children as well for their education and medical/dental expenses. However, the Court’s assessment of the said 2 children’s monthly expenses was as follows:
 
-For xxm:
+> For xxm:
 
-i.     Food & Groceries in the sum of $400
+> i.     Food & Groceries in the sum of $400
 
-ii.     Pocket Money/School allowance of $100
+> ii.     Pocket Money/School allowance of $100
 
-iii.     Eating Out at $200
+> iii.     Eating Out at $200
 
-iv.     Clothing at $200
+> iv.     Clothing at $200
 
-v.     Public Transport at $50
+> v.     Public Transport at $50
 
-vi.     Miscellaneous at $300
+> vi.     Miscellaneous at $300
 
-vii.     Apportioned share of rental at $733
+> vii.     Apportioned share of rental at $733
 
-viii.     Apportioned share for helper at $203
+> viii.     Apportioned share for helper at $203
 
-Total for xxm was therefore in the sum of $2,186 and the Appellant Husband’s 80% share would be $1,748.80 rounded to $1,750.
+> Total for xxm was therefore in the sum of $2,186 and the Appellant Husband’s 80% share would be $1,748.80 rounded to $1,750.
 
-For xxf:
+> For xxf:
 
-i.     Food & Groceries in the sum of $300
+> i.     Food & Groceries in the sum of $300
 
-ii.     Eating Out at $200
+> ii.     Eating Out at $200
 
-iii.     Clothing at $200
+> iii.     Clothing at $200
 
-iv.     Public Transport at $50
+> iv.     Public Transport at $50
 
-v.     Miscellaneous at $250
+> v.     Miscellaneous at $250
 
-vi.     Apportioned share of rental at $733
+> vi.     Apportioned share of rental at $733
 
-vii.     Apportioned share for helper at $203
+> vii.     Apportioned share for helper at $203
 
-Total for xxf was therefore in the sum of $1,936 and the Appellant Husband’s 80% share would be $1,548.80 rounded to $1,550.
+> Total for xxf was therefore in the sum of $1,936 and the Appellant Husband’s 80% share would be $1,548.80 rounded to $1,550.
 
 18     The Court therefore assessed that the Appellant Husband was to pay monthly maintenance for the said 2 children in the total sum of $3,300 per month ($1,750 + $1,550).
 

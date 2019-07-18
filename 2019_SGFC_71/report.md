@@ -25,23 +25,23 @@ Family law – Matrimonial assets – Division – maintenance - Family la
 
 5       After hearing the parties’ submissions, and after considering all the evidence before me, I made the following orders:
 
-a)     Both parties to have joint custody of their younger daughter.
+> a)     Both parties to have joint custody of their younger daughter.
 
-b)     The Husband shall have care and control of their younger daughter, with the Wife having reasonable access. The Wife is to liaise with the child directly in relation to access.
+> b)     The Husband shall have care and control of their younger daughter, with the Wife having reasonable access. The Wife is to liaise with the child directly in relation to access.
 
-c)     The Wife is to transfer her share, interest and title of the matrimonial flat to the Husband or his nominee within 3 months, upon payment of the sum of $85,480 to her. The Wife will then be responsible to refund her own CPF account of the monies used and the accrued interest. The costs of the transfer shall be borne by the Husband.
+> c)     The Wife is to transfer her share, interest and title of the matrimonial flat to the Husband or his nominee within 3 months, upon payment of the sum of $85,480 to her. The Wife will then be responsible to refund her own CPF account of the monies used and the accrued interest. The costs of the transfer shall be borne by the Husband.
 
-d)     Alternatively, if the Husband does not wish to take over the Wife’s share of the matrimonial flat, he shall inform her of his intention within one month. The matrimonial flat shall then be sold in the open market within 9 months and the sale proceeds, after deducting the outstanding loan, costs and expenses, shall be divided in the proportion of 29.5% to the Wife and 70.5% to the Husband, and each party shall make the necessary refunds into their respective CPF accounts of the monies used and the accrued interest.
+> d)     Alternatively, if the Husband does not wish to take over the Wife’s share of the matrimonial flat, he shall inform her of his intention within one month. The matrimonial flat shall then be sold in the open market within 9 months and the sale proceeds, after deducting the outstanding loan, costs and expenses, shall be divided in the proportion of 29.5% to the Wife and 70.5% to the Husband, and each party shall make the necessary refunds into their respective CPF accounts of the monies used and the accrued interest.
 
-e)     No maintenance is to be paid by the Husband to the Wife.
+> e)     No maintenance is to be paid by the Husband to the Wife.
 
-f)     The Wife is to pay the sum of $300 per month to the Husband, towards the maintenance of their younger daughter commencing 1 May 2019.
+> f)     The Wife is to pay the sum of $300 per month to the Husband, towards the maintenance of their younger daughter commencing 1 May 2019.
 
-g)     The Registrar of the Family Justice Courts shall be authorised to execute, sign or indorse all necessary documents relating to the matters contained in this Order on behalf of either party should either party fail to do so within 7 days’ written request being made to the party to execute the said documents.
+> g)     The Registrar of the Family Justice Courts shall be authorised to execute, sign or indorse all necessary documents relating to the matters contained in this Order on behalf of either party should either party fail to do so within 7 days’ written request being made to the party to execute the said documents.
 
-h)     Each party to bear their own legal costs.
+> h)     Each party to bear their own legal costs.
 
-i)     Liberty to apply.
+> i)     Liberty to apply.
 
 ## Appeal
 
@@ -55,11 +55,11 @@ i)     Liberty to apply.
 
 8       The Court of Appeal set out the structured approach in _ANJ v ANK[^1]_ to work out a just and equitable division of matrimonial assets. This approach (with reference to _Twiss, Christopher James Hans v Twiss, Yvonne Prendergast[^2]_ and _ANJ v ANK_ ) may be summarised, as follows:
 
-(a)     express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of financial contribution each party made towards the acquisition or improvement of the matrimonial assets;
+> (a)     express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of financial contribution each party made towards the acquisition or improvement of the matrimonial assets;
 
-(b)     express as a second ratio the parties’ indirect contributions relative to each other, having regard to both financial and non-financial contributions; and
+> (b)     express as a second ratio the parties’ indirect contributions relative to each other, having regard to both financial and non-financial contributions; and
 
-(c)     derive the parties’ overall contributions relative to each other by taking an average of the two ratios above (the derived ratio shall be referred to as “the average ratio”), keeping in mind that, depending on the circumstances of each case, the direct and indirect contributions may not be accorded equal weight, and one of the two ratios may be accorded more significance than the other. Adjustments could also be made in respect of other relevant factors under s 112 or 114(1) of the Charter.
+> (c)     derive the parties’ overall contributions relative to each other by taking an average of the two ratios above (the derived ratio shall be referred to as “the average ratio”), keeping in mind that, depending on the circumstances of each case, the direct and indirect contributions may not be accorded equal weight, and one of the two ratios may be accorded more significance than the other. Adjustments could also be made in respect of other relevant factors under s 112 or 114(1) of the Charter.
 
 ### The matrimonial pool of assets
 
@@ -105,7 +105,7 @@ i)     Liberty to apply.
 
 26     After I had given my decision in this matter, there has been a case decided by the Court of Appeal in _BOI v. BOJ[^12]_ wherein the Court of Appeal found that in relation to the attribution of lottery winnings and with regard to contributions to the pool of matrimonial assets, there is a presumption that both spouses contribute equally to that pool:-
 
-_“In so far as the issue of attribution of lottery winnings with regard to contributions to the pool of matrimonial assets is concerned, there is a presumption that both spouses contribute equally to that pool (for the reasons set out above)_ **_unless_** _the spouse who purchased the winning lottery ticket can show that he or she purchased that ticket with a view to only benefitting himself or herself and not with a view that the family as a whole should benefit from such winnings should they materialise”_
+> _“In so far as the issue of attribution of lottery winnings with regard to contributions to the pool of matrimonial assets is concerned, there is a presumption that both spouses contribute equally to that pool (for the reasons set out above)_ **_unless_** _the spouse who purchased the winning lottery ticket can show that he or she purchased that ticket with a view to only benefitting himself or herself and not with a view that the family as a whole should benefit from such winnings should they materialise”_
 
 27     In any event, there is no dispute that the sum of $30,000 was indeed paid towards the downpayment in the purchase of the matrimonial flat. Since there is no concrete evidence by either party as to the source of funds, I attributed the sum of $30,000 equally as the parties’ contributions.
 
@@ -227,23 +227,23 @@ _“In so far as the issue of attribution of lottery winnings with regard to con
 
 77     In the case of _UBM_, it was a long marriage, stretching over 37 years and Judicial Commissioner Debbie Ong (as she then was), declined to give different weightage to the direct and indirect contributions. She held that:-
 
-_“I observed that the consequence of according a 70% weightage to indirect contributions and a 30% weightage to direct contributions is that the Wife’s indirect contributions would be given pre-eminence as a factor in the division exercise. The direct and indirect contributions of the parties are already taken into account in steps 1 and 2 of the structured approach in reaching the average ratio. Having been accorded 65% as her indirect contributions, the Wife’s 65% ratio would be given an amplified consideration by a weightage of 70%. I declined to use the approach suggested by the wife for it must be borne in mind that the Court of Appeal has also said in ANJ v ANK (at \[26\] and \[28\]) that:_
+> _“I observed that the consequence of according a 70% weightage to indirect contributions and a 30% weightage to direct contributions is that the Wife’s indirect contributions would be given pre-eminence as a factor in the division exercise. The direct and indirect contributions of the parties are already taken into account in steps 1 and 2 of the structured approach in reaching the average ratio. Having been accorded 65% as her indirect contributions, the Wife’s 65% ratio would be given an amplified consideration by a weightage of 70%. I declined to use the approach suggested by the wife for it must be borne in mind that the Court of Appeal has also said in ANJ v ANK (at \[26\] and \[28\]) that:_
 
-_26_      _… We would underscore that s 112 of the WC does not give pre-eminence to any of the factors enumerated in s 112(2). … Put simply, the “average ratio” is a non-binding figure; it is meant to serve as an indicative guide to assist courts in deciding what would be a just and equitable apportionment having regard to the factual nuances of each case._
+>> _26_      _… We would underscore that s 112 of the WC does not give pre-eminence to any of the factors enumerated in s 112(2). … Put simply, the “average ratio” is a non-binding figure; it is meant to serve as an indicative guide to assist courts in deciding what would be a just and equitable apportionment having regard to the factual nuances of each case._
 
-_…_
+>> _…_
 
-_28_      _… We are mindful that there remains a number of other factors under s 112, including the needs of the children; the presence of an agreement between the parties with respect to the ownership and division of matrimonial assets; period of rent-free occupation or other benefit enjoyed by one party in the matrimonial home to the exclusion of the other party; and the matters referred to in s 114(1) relating to a maintenance order for the wife. Insofar as the remaining factors become relevant for consideration in the appropriate case, the court is well-advised to make adjustments as it deems necessary to the principles stated in this judgment for the purposes of reaching a just and equitable result on the facts before it._
+>> _28_      _… We are mindful that there remains a number of other factors under s 112, including the needs of the children; the presence of an agreement between the parties with respect to the ownership and division of matrimonial assets; period of rent-free occupation or other benefit enjoyed by one party in the matrimonial home to the exclusion of the other party; and the matters referred to in s 114(1) relating to a maintenance order for the wife. Insofar as the remaining factors become relevant for consideration in the appropriate case, the court is well-advised to make adjustments as it deems necessary to the principles stated in this judgment for the purposes of reaching a just and equitable result on the facts before it._
 
-_Further, giving unequal weightage to direct and indirect contributions involves a measure of artificiality and may send the message that the court is constrained to adjust the ratio mathematically, when it is not so restricted; its discretion is, on the contrary, to be exercised in broad strokes.”_
+> _Further, giving unequal weightage to direct and indirect contributions involves a measure of artificiality and may send the message that the court is constrained to adjust the ratio mathematically, when it is not so restricted; its discretion is, on the contrary, to be exercised in broad strokes.”_
 
 78     The Wife submitted that different weightage be given for the direct and indirect contributions, and 70% weightage should be given on the indirect contributions. She submitted that there are 3 reasons for this Court to give a higher weightage to indirect contributions:-
 
-a)     This is a long marriage of 22 years;
+> a)     This is a long marriage of 22 years;
 
-b)     The Wife had to shoulder the role of care-giver and breadwinner of the family;
+> b)     The Wife had to shoulder the role of care-giver and breadwinner of the family;
 
-c)     The Husband caused significant financial and emotional distress to the family.
+> c)     The Husband caused significant financial and emotional distress to the family.
 
 79     I do not agree that the reasons are sufficient for this Court to give a different weightage to the direct and indirect contributions.
 
@@ -255,9 +255,9 @@ c)     The Husband caused significant financial and emotional distress to t
 
 82     I therefore ordered that:-
 
-a)     The Wife is to transfer her share, interest and title to the Husband or to Husband’s nominee within 3 months, upon payment of 29.5% of $289,755 (nett value). This amounts to $85,480 (rounded up). The Wife will then refund her own CPF account of the money used and the interest. The cost of the transfer shall be borne by the Husband.
+> a)     The Wife is to transfer her share, interest and title to the Husband or to Husband’s nominee within 3 months, upon payment of 29.5% of $289,755 (nett value). This amounts to $85,480 (rounded up). The Wife will then refund her own CPF account of the money used and the interest. The cost of the transfer shall be borne by the Husband.
 
-b)     Alternatively, if he does not wish to take over her share, then, he shall inform her of his intention within 1 month. The property shall then be sold in the open market within 9 months from today, and the sale proceeds, after deducting the outstanding loan, costs and expenses, shall be divided 29.5% to the Wife and 70.5% to the Husband. Each party is to make the refunds into their respective CPF account(s).
+> b)     Alternatively, if he does not wish to take over her share, then, he shall inform her of his intention within 1 month. The property shall then be sold in the open market within 9 months from today, and the sale proceeds, after deducting the outstanding loan, costs and expenses, shall be divided 29.5% to the Wife and 70.5% to the Husband. Each party is to make the refunds into their respective CPF account(s).
 
 ## Maintenance for the Wife
 

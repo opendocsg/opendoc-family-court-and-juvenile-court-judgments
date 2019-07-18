@@ -27,19 +27,19 @@ Family law – Matrimonial assets – Division – Family law – Mainte
 
 6       After hearing the parties’ submissions, and after considering all the evidence before me, I made the following orders:
 
-a)     The Wife to transfer her share interest and title of the matrimonial property to the Husband, with the Husband paying her the sum equivalent to 12% of the net value of the matrimonial home. The transfer was to take place within 4 months from today. Parties were to obtain a joint valuation of the property. Costs of the valuation to be borne equally. In the meantime, from now until the transfer, the Husband was to be responsible for all the property related expenses, including the mortgage. The Husband was also to be responsible to pay for the costs and expenses of the transfer. The Wife’s 12% share would be calculated based on the valuation less $262,370 (which was the outstanding loan as at 13 July 2018).
+> a)     The Wife to transfer her share interest and title of the matrimonial property to the Husband, with the Husband paying her the sum equivalent to 12% of the net value of the matrimonial home. The transfer was to take place within 4 months from today. Parties were to obtain a joint valuation of the property. Costs of the valuation to be borne equally. In the meantime, from now until the transfer, the Husband was to be responsible for all the property related expenses, including the mortgage. The Husband was also to be responsible to pay for the costs and expenses of the transfer. The Wife’s 12% share would be calculated based on the valuation less $262,370 (which was the outstanding loan as at 13 July 2018).
 
-b)     If the Husband did not wish to proceed with the transfer for whatever reason, the Husband must inform the Wife of his intention within 1 month. Then, the property was to be sold within 9 months. The sale proceeds, after payment of outstanding loan and expenses relating to the sale, was to be divided in the proportion 88% to the Husband and 12% to the Wife, and parties shall be responsible for their own CPF refunds. In the meantime, from now until the sale, the Husband was to be responsible for all the property related expenses, including the mortgage.
+> b)     If the Husband did not wish to proceed with the transfer for whatever reason, the Husband must inform the Wife of his intention within 1 month. Then, the property was to be sold within 9 months. The sale proceeds, after payment of outstanding loan and expenses relating to the sale, was to be divided in the proportion 88% to the Husband and 12% to the Wife, and parties shall be responsible for their own CPF refunds. In the meantime, from now until the sale, the Husband was to be responsible for all the property related expenses, including the mortgage.
 
-c)     Apart from the above, each to keep own assets.
+> c)     Apart from the above, each to keep own assets.
 
-d)     By consent, no maintenance is payable by the Husband to the Wife.
+> d)     By consent, no maintenance is payable by the Husband to the Wife.
 
-e)     The Wife shall pay the sum of S$1,450/month for the maintenance of the two children from 15 April 2019 and thereafter the 15th day of each month. This sum was to be deposited into the Husband’s designated bank account.
+> e)     The Wife shall pay the sum of S$1,450/month for the maintenance of the two children from 15 April 2019 and thereafter the 15th day of each month. This sum was to be deposited into the Husband’s designated bank account.
 
-f)     Each party to bear own costs.
+> f)     Each party to bear own costs.
 
-g)     Liberty to apply.
+> g)     Liberty to apply.
 
 ## Appeal
 
@@ -71,19 +71,19 @@ g)     Liberty to apply.
 
 16     The Court of Appeal in _ANJ v ANK[^3]_ set out a structured approach (at \[17\]–\[30\]) to determine a just and equitable division of matrimonial assets. This approach may be summarised as follows (see _ANJ v ANK_ at \[22\]–\[26\], \[28\]; _Twiss, Christopher James Hans v Twiss, Yvonne Prendergast[^4]_ at \[17\]):
 
-(a)     express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of financial contribution each party made towards the acquisition or improvement of the matrimonial assets;
+> (a)     express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of financial contribution each party made towards the acquisition or improvement of the matrimonial assets;
 
-(b)     express as a second ratio the parties’ indirect contributions relative to each other, having regard to both financial and non-financial contributions; and
+> (b)     express as a second ratio the parties’ indirect contributions relative to each other, having regard to both financial and non-financial contributions; and
 
-(c)     derive the parties’ overall contributions relative to each other by taking an average of the two ratios above (the derived ratio shall hereinafter be referred to as the “average ratio”), keeping in mind that, depending on the circumstances of each case, the direct and indirect contributions may not be accorded equal weight, and one of the two ratios may be accorded more significance than the other. Adjustments may also be made taking into consideration other relevant factors under ss 112 or 114(1) of the Women’s Charter (Cap 353, 2009 Rev Ed) (“WC”).
+> (c)     derive the parties’ overall contributions relative to each other by taking an average of the two ratios above (the derived ratio shall hereinafter be referred to as the “average ratio”), keeping in mind that, depending on the circumstances of each case, the direct and indirect contributions may not be accorded equal weight, and one of the two ratios may be accorded more significance than the other. Adjustments may also be made taking into consideration other relevant factors under ss 112 or 114(1) of the Women’s Charter (Cap 353, 2009 Rev Ed) (“WC”).
 
 ### Pool of matrimonial assets
 
 17     There is generally no dispute on the pool of matrimonial assets, save for two issues:-
 
-a)     Whether the Husband’s liabilities should be taken into account in the pool of matrimonial assets; and
+> a)     Whether the Husband’s liabilities should be taken into account in the pool of matrimonial assets; and
 
-b)     What is the operative date for determining the pool of matrimonial assets?
+> b)     What is the operative date for determining the pool of matrimonial assets?
 
 ##### Should the Husband’s liabilities be taken into account in the pool of matrimonial assets?
 
@@ -98,11 +98,11 @@ b)     What is the operative date for determining the pool of matrimonial a
 
 20     In his Affidavit of Assets and Means, he gave the following explanation as to how these were incurred[^9]:-
 
-a)     OCBC Cashline – his income was not sufficient to support the family needs.
+> a)     OCBC Cashline – his income was not sufficient to support the family needs.
 
-b)     UOB Line of Credit – he had accrued a lot of debts as his income is not sufficient to support the family needs, and this line of credit was a consolidation of his previous debts with UOB.
+> b)     UOB Line of Credit – he had accrued a lot of debts as his income is not sufficient to support the family needs, and this line of credit was a consolidation of his previous debts with UOB.
 
-c)     DBS Credit cards – his income was not sufficient to pay for the household and children’s expenses, as the Wife had not paid any maintenance. He therefore borrowed on his credit card statements to sustain his family’s expenses. There were recent transactions from Australia, Indonesia, China from his business trips but those were claimable. The debt mainly accrued from 2017 as the children had tuition and he bought tickets for them to go back to Indonesia.
+> c)     DBS Credit cards – his income was not sufficient to pay for the household and children’s expenses, as the Wife had not paid any maintenance. He therefore borrowed on his credit card statements to sustain his family’s expenses. There were recent transactions from Australia, Indonesia, China from his business trips but those were claimable. The debt mainly accrued from 2017 as the children had tuition and he bought tickets for them to go back to Indonesia.
 
 21     The Wife’s response in her 2nd Affidavit, was simply a bare denial, and she added that if the Husband disregarded financial prudence and continue to live beyond his means, she should not be made to pay the price[^10].
 
@@ -140,7 +140,7 @@ c)     DBS Credit cards – his income was not sufficient to pay for the ho
 
 37     The Court of Appeal in _ARX v. ARY[^13]_ held that:-
 
-“while the court retains the discretion to select the appropriate operative date to determine the pool of matrimonial assets, there is much to be said that, unless the particular circumstances or justice of the case warrant it, the _starting point_ or _default position_ should be the date that interim judgment is granted.”
+> “while the court retains the discretion to select the appropriate operative date to determine the pool of matrimonial assets, there is much to be said that, unless the particular circumstances or justice of the case warrant it, the _starting point_ or _default position_ should be the date that interim judgment is granted.”
 
 38     The Husband’s position is that the operative date for determining the pool of assets should be the date of separation (i.e. in February 2009). His case is that parties had been living apart for almost a decade and the Wife did not make any direct or indirect contributions towards the assets of the Husband which were acquired post separation and vice versa.
 
@@ -175,13 +175,13 @@ c)     DBS Credit cards – his income was not sufficient to pay for the ho
 
 49     The various cash payments made towards the purchase of the matrimonial property were as follows: -
 
-a)     When the Offer to Purchase was signed on 21 September 2005, OCBC cheque no. 458925[^17] was issued for $3,950.
+> a)     When the Offer to Purchase was signed on 21 September 2005, OCBC cheque no. 458925[^17] was issued for $3,950.
 
-b)     The balance 4% of $15,800 was subsequently paid on 3 October 2005 through a cheque issued from the Husband’s OCBC Easicredit account[^18].
+> b)     The balance 4% of $15,800 was subsequently paid on 3 October 2005 through a cheque issued from the Husband’s OCBC Easicredit account[^18].
 
-c)     $14,400 in cash was paid on 22 November 2005.
+> c)     $14,400 in cash was paid on 22 November 2005.
 
-d)     Balance $1,083 was paid sometime after 29 November 2005.
+> d)     Balance $1,083 was paid sometime after 29 November 2005.
 
 #### Cheques for $3,950 and $15,800
 
@@ -268,7 +268,7 @@ d)     Balance $1,083 was paid sometime after 29 November 2005.
 
 83     The Court of Appeal in _Pang Rosaline_ found that the parties, for the better of their marriage, conceived a system in which it did not matter how or how much each party contributed to the family’s finances. Throughout the marriage, both parties’ salaries were deposited into the joint account, and bills were then paid from moneys withdrawn from the joint account. While payment of the mortgage and conservancy for a particular property was first deducted from the Husband’s salary before the rest of his salary was credited into the joint account, this did not detract from the fact that in essence, both income and liabilities were treated as an aggregate and integrated by both parties without distinction or regard as to who earned what and who was to pay for what items. Therefore, the Court of Appeal found that:
 
-_“It was merely a matter of practicality and convenience that the husband, and not the wife, was to pay for the abovementioned mortgage instalments as well as the conservancy charges. That being the case, it cannot be gainsaid that the wife had made direct financial contributions to the payment of all property and services purchased by the parties, including the Neptune Court property, by contributing to the joint account. …. The husband himself inadvertently admitted … that the moneys in the joint account were used to pay for, inter alia, the property tax due on the Neptune Court property. Hence, on this count alone and (indeed) on the strength of the husband’s own testimony, there had been some direct financial contributions by the wife to the purchase of the Neptune Court property, viz the payment of property tax”._
+> _“It was merely a matter of practicality and convenience that the husband, and not the wife, was to pay for the abovementioned mortgage instalments as well as the conservancy charges. That being the case, it cannot be gainsaid that the wife had made direct financial contributions to the payment of all property and services purchased by the parties, including the Neptune Court property, by contributing to the joint account. …. The husband himself inadvertently admitted … that the moneys in the joint account were used to pay for, inter alia, the property tax due on the Neptune Court property. Hence, on this count alone and (indeed) on the strength of the husband’s own testimony, there had been some direct financial contributions by the wife to the purchase of the Neptune Court property, viz the payment of property tax”._
 
 84     Moreover, the case of _Pang Rosaline_ was decided before the Court of Appeal put forward the structured approach in _ANJ v. ANK[^42]_.
 
@@ -302,11 +302,11 @@ _“It was merely a matter of practicality and convenience that the husband, and
 
 98     Parties were married for about 15 years. Out of their 15 years of marriage, there appears to be three phases:
 
-i.     The first phase lasted 6 years from 2003 to about 2009. During this phase, parties first stayed in a rented flat before purchasing a matrimonial property. They were childless for the first 1.5 years of their marriage. During this phase, the two children were born.
+> i.     The first phase lasted 6 years from 2003 to about 2009. During this phase, parties first stayed in a rented flat before purchasing a matrimonial property. They were childless for the first 1.5 years of their marriage. During this phase, the two children were born.
 
-ii.     The second phase lasted for about a year from February 2009 to 2010. During this period, the Wife moved out of the matrimonial home and brought the two children with her to Jakarta. The Husband remained in Singapore.
+> ii.     The second phase lasted for about a year from February 2009 to 2010. During this period, the Wife moved out of the matrimonial home and brought the two children with her to Jakarta. The Husband remained in Singapore.
 
-iii.     The third phase started from 2010, when the children came back to Singapore to stay with the Husband and his mother. The Wife remained in Indonesia.
+> iii.     The third phase started from 2010, when the children came back to Singapore to stay with the Husband and his mother. The Wife remained in Indonesia.
 
 99     Financially, throughout the marriage, it appears that the Husband had been contributing more than the Wife.
 
@@ -324,7 +324,7 @@ iii.     The third phase started from 2010, when the children came back to 
 
 106    In the case of _ANJ_, the Court of Appeal explained :-
 
-_“No mathematical formula or analytical tool is capable of capturing or accommodating the diverse and myriad set of factual scenarios that may present themselves to court as to how the parties may have chosen to divide amount themselves duties and responsibilities in the domestic sphere. It is in making this determination that what is known as the broad brush approach would have to come into play. What values to give to the indirect contributions of the parties is necessarily a matter of impression and judgment of the court. …. What values to attribute to each spouse in relation to indirect contributions would be a matter of assessment for the court and in that regard broad strokes would have to be the order of the day. In seeking to arrive at a ratio that represents both parties’ comparative indirect contribution towards the family, the court must, in the final analysis, exercise sound discretion along with a keen emphasis on all the relevant facts of each case.”_
+> _“No mathematical formula or analytical tool is capable of capturing or accommodating the diverse and myriad set of factual scenarios that may present themselves to court as to how the parties may have chosen to divide amount themselves duties and responsibilities in the domestic sphere. It is in making this determination that what is known as the broad brush approach would have to come into play. What values to give to the indirect contributions of the parties is necessarily a matter of impression and judgment of the court. …. What values to attribute to each spouse in relation to indirect contributions would be a matter of assessment for the court and in that regard broad strokes would have to be the order of the day. In seeking to arrive at a ratio that represents both parties’ comparative indirect contribution towards the family, the court must, in the final analysis, exercise sound discretion along with a keen emphasis on all the relevant facts of each case.”_
 
 107    On a broadbrush approach, I therefore apportion the parties’ indirect contributions at 80-20 in the Husband’s favour.
 

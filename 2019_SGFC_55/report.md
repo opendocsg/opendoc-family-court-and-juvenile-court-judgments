@@ -15,19 +15,19 @@ Family Law – Guardianship of Infants Act – best interest of child – 
 
 1       In this case the mother of a child commenced an originating summons for sole custody care and control of the child. The child will be 2 years old in June 2019. I heard both parties’ counsel, and ordered for both parents to have joint custody of the child, with the mother to have sole care and control. The father is to have access to the child as follows -
 
-a.     supervised by the mother, every Saturday 3pm – 8 pm,
+> a.     supervised by the mother, every Saturday 3pm – 8 pm,
 
-b.     unsupervised by the mother, every Saturday 3pm – 8 pm from 22 June 2019,
+> b.     unsupervised by the mother, every Saturday 3pm – 8 pm from 22 June 2019,
 
-c.     unsupervised by the mother, every Saturday 10 am – 5 pm from 22 September 2019,
+> c.     unsupervised by the mother, every Saturday 10 am – 5 pm from 22 September 2019,
 
-d.     unsupervised by the mother, every 24 December 10am – 8 pm,
+> d.     unsupervised by the mother, every 24 December 10am – 8 pm,
 
-e.     no order on access on the child’s birthday,
+> e.     no order on access on the child’s birthday,
 
-f.     no order on overnight access or overseas access, with parties granted liberty to apply after the child attains 3 years of age.
+> f.     no order on overnight access or overseas access, with parties granted liberty to apply after the child attains 3 years of age.
 
-g.     liberty to apply generally.
+> g.     liberty to apply generally.
 
 2       Both the mother and the father have appealed against the judgment. I now give my reasons for it.
 
@@ -35,33 +35,33 @@ g.     liberty to apply generally.
 
 3       The primary law defining the care of children is found in section 3 of the Guardianship of Infants Act –
 
-**“3**.    Where in any proceedings before any court the custody or upbringing of an infant or the administration of any property belonging to or held in trust for an infant or the application of the income thereof is in question, the court, in deciding that question, shall regard the welfare of the infant as the first and paramount consideration and save in so far as such welfare otherwise requires the father of an infant shall not be deemed to have any right superior to that of the mother in respect of such custody, administration or application nor shall the mother be deemed to have any claim superior to that of the father.”
+> **“3**.    Where in any proceedings before any court the custody or upbringing of an infant or the administration of any property belonging to or held in trust for an infant or the application of the income thereof is in question, the court, in deciding that question, shall regard the welfare of the infant as the first and paramount consideration and save in so far as such welfare otherwise requires the father of an infant shall not be deemed to have any right superior to that of the mother in respect of such custody, administration or application nor shall the mother be deemed to have any claim superior to that of the father.”
 
 4       The law defining custody of children is succinctly described by the Court of Appeal in the case of _CX v. CY_[^1], that –
 
-“For the development of the law of custody, we deem it necessary to lay down a general definition detailing the scope of each order. Our observation is that in most custody cases, parties are simply concerned over which parent has care and control and access. Parties labour under the mistaken impression that if they are denied custody, they will be unable to see their child anymore and will lose all contact with the child. We regret to say that some family law practitioners further muddy the waters by failing to advise their clients adequately as to what “custody orders” actually entail. If parties are assured of their respective rights to care and control and access, we foresee lesser tension and acrimony in disputes over custody issues.
+> “For the development of the law of custody, we deem it necessary to lay down a general definition detailing the scope of each order. Our observation is that in most custody cases, parties are simply concerned over which parent has care and control and access. Parties labour under the mistaken impression that if they are denied custody, they will be unable to see their child anymore and will lose all contact with the child. We regret to say that some family law practitioners further muddy the waters by failing to advise their clients adequately as to what “custody orders” actually entail. If parties are assured of their respective rights to care and control and access, we foresee lesser tension and acrimony in disputes over custody issues.
 
-Adopting this narrow definition of “custody”, it appears that there will be relatively few occasions where significant and longer-term decisions need to be made for the child. Hence, parties will seldom need to come together to make a joint decision even if joint or no custody orders were granted. We should add that it is an almost impossible task for us to lay down an exhaustive list of matters which will fall under the concept of residual custody. The line is not always clear as to what matters would be considered the important and longer-term decisions concerning the upbringing and welfare of a child. It suffices to say that decisions pertaining to religion, education and major healthcare issues would fall into such a category.
+> Adopting this narrow definition of “custody”, it appears that there will be relatively few occasions where significant and longer-term decisions need to be made for the child. Hence, parties will seldom need to come together to make a joint decision even if joint or no custody orders were granted. We should add that it is an almost impossible task for us to lay down an exhaustive list of matters which will fall under the concept of residual custody. The line is not always clear as to what matters would be considered the important and longer-term decisions concerning the upbringing and welfare of a child. It suffices to say that decisions pertaining to religion, education and major healthcare issues would fall into such a category.
 
-In this day and age, we feel that the preferable position in the law of custody is that advocated by the father, ie, to preserve the concept of joint parental responsibility, even if the parties may harbour some acrimony towards each other. Often, advocates of the _Helen Ho_ position rely on the acrimonious relationship of the parties to argue that joint custody will be detrimental to the welfare of the child. However, they fail to appreciate the fact that some degree of acrimony is to be expected when parties are undergoing the stresses of a marital breakdown. As allegations of wrongdoings and breaches of fidelity can be hurtful, the time when the marriage breaks down may not be the best time to assess whether both parents can co-operate for the rest of the child’s life. We believe that the fear that parties cannot co-operate may be overstated. It is a quantum leap in logic to assume that the parties’ inability to co-operate during the period of divorce or custody proceedings equates to an inability to agree on the future long-term interests of the child.
+> In this day and age, we feel that the preferable position in the law of custody is that advocated by the father, ie, to preserve the concept of joint parental responsibility, even if the parties may harbour some acrimony towards each other. Often, advocates of the _Helen Ho_ position rely on the acrimonious relationship of the parties to argue that joint custody will be detrimental to the welfare of the child. However, they fail to appreciate the fact that some degree of acrimony is to be expected when parties are undergoing the stresses of a marital breakdown. As allegations of wrongdoings and breaches of fidelity can be hurtful, the time when the marriage breaks down may not be the best time to assess whether both parents can co-operate for the rest of the child’s life. We believe that the fear that parties cannot co-operate may be overstated. It is a quantum leap in logic to assume that the parties’ inability to co-operate during the period of divorce or custody proceedings equates to an inability to agree on the future long-term interests of the child.
 
-…
+> …
 
-Adopting the view that joint or no custody orders should be granted unless there are exceptional circumstances, we were of the opinion that the judge was not plainly wrong in granting joint custody, notwithstanding the allegations and counter-allegations made by each party.”
+> Adopting the view that joint or no custody orders should be granted unless there are exceptional circumstances, we were of the opinion that the judge was not plainly wrong in granting joint custody, notwithstanding the allegations and counter-allegations made by each party.”
 
 5       The Court of Appeal in _ZO v. ZP_[^2], the Court of Appeal added as follows:
 
-“… The input by both parents furnishes a balance that enhances the development of that child (or those children, as the case may be) until adulthood is reached. In contrast, the exclusion of one of the parents in this particular regard would – absent an exceptional reason – contribute towards a less balanced as w ell as less rounded development of the child (or children) concerned. Hence, the pronouncement made by the court in CX v CY that a joint (or no) custody order would henceforth be the norm rather than the exception. We could not agree more.”
+> “… The input by both parents furnishes a balance that enhances the development of that child (or those children, as the case may be) until adulthood is reached. In contrast, the exclusion of one of the parents in this particular regard would – absent an exceptional reason – contribute towards a less balanced as w ell as less rounded development of the child (or children) concerned. Hence, the pronouncement made by the court in CX v CY that a joint (or no) custody order would henceforth be the norm rather than the exception. We could not agree more.”
 
 6       It was held in APE v APF[^3] by Justice Tan Siong Thye –
 
-“ I am therefore of the view that unsupervised access should be awarded, unless the following exceptional circumstances are present:
+> “ I am therefore of the view that unsupervised access should be awarded, unless the following exceptional circumstances are present:
 
-(a)    there are serious welfare concerns regarding the non-custodial parent such as violence or inappropriate parenting if the child were left unattended with the non-custodial parent;
+>> (a)    there are serious welfare concerns regarding the non-custodial parent such as violence or inappropriate parenting if the child were left unattended with the non-custodial parent;
 
-(b)    on an examination of the state of the relationship between the non-custodial parent and the child before the commencement of the divorce proceedings and after the commencement of the divorce proceedings, it is found that the child has been estranged from the non-custodial parent such that the parental-child relationship is in need of serious repair (for instance, if the child is fearful in meeting the non-custodial parent); or
+>> (b)    on an examination of the state of the relationship between the non-custodial parent and the child before the commencement of the divorce proceedings and after the commencement of the divorce proceedings, it is found that the child has been estranged from the non-custodial parent such that the parental-child relationship is in need of serious repair (for instance, if the child is fearful in meeting the non-custodial parent); or
 
-(c)    factors exist such that it is difficult for unsupervised access to be effectively implemented (eg, where the relationship between both parents is so acrimonious that the custodial parent frustrates the effectiveness of unsupervised access orders and unsupervised access is not possible without detriment to the child).”
+>> (c)    factors exist such that it is difficult for unsupervised access to be effectively implemented (eg, where the relationship between both parents is so acrimonious that the custodial parent frustrates the effectiveness of unsupervised access orders and unsupervised access is not possible without detriment to the child).”
 
 ## Background Facts
 
@@ -109,11 +109,11 @@ Adopting the view that joint or no custody orders should be granted unless there
 
 25     Having stated the law and found the facts above, I examined the issues of the case –
 
-a.     Should the mother be granted sole custody, care and control of the child?
+> a.     Should the mother be granted sole custody, care and control of the child?
 
-b.     If so, what would be a suitable arrangement for the father to have access to the child?
+> b.     If so, what would be a suitable arrangement for the father to have access to the child?
 
-c.     Should the father’s access to the child be supervised by the mother?
+> c.     Should the father’s access to the child be supervised by the mother?
 
 ## Principles Applied and Judgment
 

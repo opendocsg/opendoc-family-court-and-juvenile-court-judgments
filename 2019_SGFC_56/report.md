@@ -17,33 +17,33 @@ variation of consent order – child access
 
 2       The Mother was requesting for the following:
 
-(a)     That she be allowed to introduce her new husband and daughter as well as her extended families by marriage to the Child within fourteen days of the date of the relevant court order (“Court Order”);
+> (a)     That she be allowed to introduce her new husband and daughter as well as her extended families by marriage to the Child within fourteen days of the date of the relevant court order (“Court Order”);
 
-(b)     That her weekly access times and place of access to the Child be adjusted in light of his new school hours and her changed circumstances ie marriage; and
+> (b)     That her weekly access times and place of access to the Child be adjusted in light of his new school hours and her changed circumstances ie marriage; and
 
-(c)     That her access be allowed to take place even when the Child has a medical certificate stating that he is ill. She also wanted to be able to be present for all medical appointments concerning the Child.
+> (c)     That her access be allowed to take place even when the Child has a medical certificate stating that he is ill. She also wanted to be able to be present for all medical appointments concerning the Child.
 
 3       The Father applied for the following orders:
 
-(a)     that parties attend family therapy/counselling within 12 weeks of the relevant Court Order to put in place an agreed parenting plan for the Child;
+> (a)     that parties attend family therapy/counselling within 12 weeks of the relevant Court Order to put in place an agreed parenting plan for the Child;
 
-(b)     that parties jointly appoint a family therapist/counsellor within two weeks of the relevant court order with costs being borne equally. In the event that parties are unable to jointly appoint a family therapist/counsellor within two weeks of the Court Order, parties shall engage Dr xxx from the Centre for Psychology as the jointly appointed family therapist/counsellor.
+> (b)     that parties jointly appoint a family therapist/counsellor within two weeks of the relevant court order with costs being borne equally. In the event that parties are unable to jointly appoint a family therapist/counsellor within two weeks of the Court Order, parties shall engage Dr xxx from the Centre for Psychology as the jointly appointed family therapist/counsellor.
 
-(c)     Pending parties’ agreement on the parenting plan for the Child and unless otherwise recommended by the jointly appointed family therapist/counsellor, the Mother shall not introduce her new husband, daughter or any of the members of her extended family by marriage to the Child.
+> (c)     Pending parties’ agreement on the parenting plan for the Child and unless otherwise recommended by the jointly appointed family therapist/counsellor, the Mother shall not introduce her new husband, daughter or any of the members of her extended family by marriage to the Child.
 
-(d)     that the Mother’s weekly access times be adjusted in light of his new school hours.
+> (d)     that the Mother’s weekly access times be adjusted in light of his new school hours.
 
 4       The parties appeared before me on 28 February 2019 and after hearing from the parties and considering all of the evidence before me, I made orders adjusting the timing and place of access and pick up but declined to make any other adjustments to the Consent Order save that I ordered that parties attend counselling at DSSA with a view to each of them learning how to cooperate and work together for the sake of the child
 
 5       The Father has filed an appeal against some of the orders I made in respect of his application for variation. Specifically, he has appealed on the following:
 
-a.     My dismissal of his prayers to vary the Consent Order such that the Mother would be prevented from introducing her new husband and baby daughter to the Child until such time that the parties reach an agreed Parenting Plan for the Child;
+> a.     My dismissal of his prayers to vary the Consent Order such that the Mother would be prevented from introducing her new husband and baby daughter to the Child until such time that the parties reach an agreed Parenting Plan for the Child;
 
-b.     My consequential orders for the parties to attend counselling at DSSA;
+> b.     My consequential orders for the parties to attend counselling at DSSA;
 
-c.     My orders making adjustments to the timing and pick up location for the Mother’s access;
+> c.     My orders making adjustments to the timing and pick up location for the Mother’s access;
 
-d.     My orders relating to the location for the Mother’s overnight access.
+> d.     My orders relating to the location for the Mother’s overnight access.
 
 I set forth below the reasons for my decision in respect of the matters appealed against by the Father.
 
@@ -67,17 +67,17 @@ I set forth below the reasons for my decision in respect of the matters appealed
 
 12     As mentioned above, under paragraph B (7) of the Consent Order, the parties agreed to the following:
 
-_“No other party, save for family members, shall be present in the time that parties spend with the child.”_
+> _“No other party, save for family members, shall be present in the time that parties spend with the child.”_
 
 ## The Father’s position
 
 13     The Father’s application for a variation on this agreed term can be broadly summarised as follows:
 
-a.     for the court to order that parties jointly appoint a family therapist/counsellor within a prescribed period of time failing which, the family therapist/counsellor whom the Father had already appointed to prepare a psychological assessment on the Child be appointed.
+> a.     for the court to order that parties jointly appoint a family therapist/counsellor within a prescribed period of time failing which, the family therapist/counsellor whom the Father had already appointed to prepare a psychological assessment on the Child be appointed.
 
-b.     for the court to order that the parties attend family therapy/counselling with a view to putting in place an agreed parenting plan for the Child; and
+> b.     for the court to order that the parties attend family therapy/counselling with a view to putting in place an agreed parenting plan for the Child; and
 
-c.     Pending the parties’ agreement on the parenting plan and unless recommended by the jointly appointed family therapist/counsellor, the Mother shall not introduce her new family members to the Child.
+> c.     Pending the parties’ agreement on the parenting plan and unless recommended by the jointly appointed family therapist/counsellor, the Mother shall not introduce her new family members to the Child.
 
 14     In his submissions, the Father did not refer to any misrepresentation or mistake of fact. He contended that by virtue of the Mother’s remarriage and the Child’s change of school hours, the threshold of a material change in the circumstances had been satisfied. He also argued that it was not in the Child’s best interest to be allowed to interact and meet with the Mother’s new husband and baby daughter at this point in time and he wanted what he referred to as a “structured approach” to be put in place so that the Child is gradually introduced to the Mother’s new husband and daughter. He asserted that it would be best for the Child if the parties attend family/therapy counselling with a view to arriving at an agreed parenting plan and claimed that the Child was not coping well with the changes in his Mother’s life. According to him, it was imperative to gradually ease the Child into recognising and accepting the new changes in his Mother’s life.
 
@@ -93,9 +93,9 @@ c.     Pending the parties’ agreement on the parenting plan and unless re
 
 18     I dealt first with the preliminary issue of admissibility of the Child Report. Rule 35 of the Family Justice Rules states as follows:
 
-_“(1_)     _Where a child is a party to or a subject of any action of proceedings, or where any action or proceedings involve the welfare or custody of a child, a party must not, without the leave of the Court, cause the child to be examined or assessed by any registered medical practitioner, psychologist, counsellor, social worker or mental health professional for the purpose of preparing expert evidence for use in in those proceedings._
+> _“(1_)     _Where a child is a party to or a subject of any action of proceedings, or where any action or proceedings involve the welfare or custody of a child, a party must not, without the leave of the Court, cause the child to be examined or assessed by any registered medical practitioner, psychologist, counsellor, social worker or mental health professional for the purpose of preparing expert evidence for use in in those proceedings._
 
-(_4_)     _Where a registered medical practitioner, psychologist, counsellor, social worker or mental health professional who is not appointed by the Court pursuant to an application under paragraph (1) examines or assesses the child, no evidence arising out the of examination or assessment may be adduced without the leave of the Court.”_
+> (_4_)     _Where a registered medical practitioner, psychologist, counsellor, social worker or mental health professional who is not appointed by the Court pursuant to an application under paragraph (1) examines or assesses the child, no evidence arising out the of examination or assessment may be adduced without the leave of the Court.”_
 
 19     The Father maintained through his counsel that the Child was not being examined for the purpose of any child proceedings and hence Rule 35 did not apply. He argued that even if he did, he was requesting for the court to grant leave to admit the report as evidence given how germane it was to the issues at hand and the Child’s best interests. I did not accept the Father’s contentions. With all due respect, I was of the view that the examination of the Child by the child psychologist fell squarely within Rule 35. The purpose of the rule is to ensure that a child is not subject to unnecessary psychological assessment which could of itself lead to issues of its own. I proceeded however to consider the Father’s request for leave to admit the Child Report in any event. Upon examination of the Child Report, I noted that the psychological assessment of the Child took place when the Child was 2 years 8 months, an age when the Child was very young and questioned the reliability of any answers from the Child or tests conducted on the Child. I also found the findings of the report very general in nature. I noted also that it had been prepared without any input from the Mother and relied heavily on the Father’s observations. Taking all of this into consideration, I was not satisfied that the Child Report would throw any light on the specific issue of whether the introduction of the Mother’s new husband and baby daughter should be delayed and declined to grant leave to admit the Child Report into evidence.
 
@@ -119,9 +119,9 @@ _“(1_)     _Where a child is a party to or a subject of any action of proc
 
 27     With regard to the Mother’s request to pick the Child from the child care centre instead of the void deck of the Father’s residence, I considered that this would allow the Child to spend more time with his mother and would provide a clear routine for the Child. In addition, given the risk of continued acrimony between the parents, I was of the view that such an arrangement would lessen the exposure of the Child to additional incidents of acrimony between his parents and this certainly would be in his best interests. Accordingly, I adjusted the Mother’ weekly access as follows:
 
-(a)     Tuesday and Wednesday from 5.30pm to 8pm. and;
+> (a)     Tuesday and Wednesday from 5.30pm to 8pm. and;
 
-(b)     Friday 5.30pm from school to Saturday 9pm.
+> (b)     Friday 5.30pm from school to Saturday 9pm.
 
 Pick up shall be from the child care centre and return shall be to the void deck of the Father’s residence.
 

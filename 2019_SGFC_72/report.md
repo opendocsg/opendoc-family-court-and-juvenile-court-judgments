@@ -41,21 +41,21 @@
 
 13     Further terms of this Order (“the 2018 MO”) were as follows:
 
-In addition, the Husband shall pay for the following expenses directly:
+> In addition, the Husband shall pay for the following expenses directly:
 
-(a)     The rental of the property at Jalan XX until the expiry of its current lease on 15 February 2019.
+> (a)     The rental of the property at Jalan XX until the expiry of its current lease on 15 February 2019.
 
-By 15 November 2018, parties shall agree on suitable accommodation for the Wife to move into after 15 February 2019 (bearing in mind that it has to be also suitable for the parties’ child whom the Wife may spend time with as agreed or determined under separate custody proceedings). Parties shall also agree on how the Husband shall contribute towards the accommodation.
+> By 15 November 2018, parties shall agree on suitable accommodation for the Wife to move into after 15 February 2019 (bearing in mind that it has to be also suitable for the parties’ child whom the Wife may spend time with as agreed or determined under separate custody proceedings). Parties shall also agree on how the Husband shall contribute towards the accommodation.
 
-In the event that no agreement is reached by 15 November 2018 (it is however strongly encouraged that parties should co-operate and agree on appropriate accommodation for the Wife), either party shall be at liberty to apply for a variation of this order for the Court to determine the same;
+> In the event that no agreement is reached by 15 November 2018 (it is however strongly encouraged that parties should co-operate and agree on appropriate accommodation for the Wife), either party shall be at liberty to apply for a variation of this order for the Court to determine the same;
 
-(b)     Utilities and internet charges of the property at Jalan XX until the expiry of its current lease on 15 February 2019.
+> (b)     Utilities and internet charges of the property at Jalan XX until the expiry of its current lease on 15 February 2019.
 
-Both parties shall cooperate to ensure that the Husband receives email copies of these bills for payment; and
+> Both parties shall cooperate to ensure that the Husband receives email copies of these bills for payment; and
 
-(c)     The Wife’s medical expenses insofar as covered by the Husband’s employer and he shall ensure that this arrangement continues.
+> (c)     The Wife’s medical expenses insofar as covered by the Husband’s employer and he shall ensure that this arrangement continues.
 
-Each party to bear their own costs.
+> Each party to bear their own costs.
 
 14     On 28 August 2018, the Wife’s solicitors wrote to Husband’s, asking for proposals on the alternative accommodation as envisaged under the 2018 MO. Needless to say, this gave rise to even further contention between the parties as will be seen at \[57\] – \[62\] below.
 
@@ -65,11 +65,11 @@ Each party to bear their own costs.
 
 16     The Husband sought to vary the 2018 MO as follows:
 
-(a)     The monthly maintenance be reduced from $2,700.00 to $1,000.00 with immediate effect and for a period of 6 months only;
+> (a)     The monthly maintenance be reduced from $2,700.00 to $1,000.00 with immediate effect and for a period of 6 months only;
 
-(b)     That the Wife bears her own utilities and internet charges;
+> (b)     That the Wife bears her own utilities and internet charges;
 
-(c)     That the Wife be responsible for the payment of rental of the new accommodation.
+> (c)     That the Wife be responsible for the payment of rental of the new accommodation.
 
 ### The Husband’s case
 
@@ -79,17 +79,17 @@ Each party to bear their own costs.
 
 19     The pith of his application however, appeared to be his complaint that the 2018 MO was encouraging the Wife to lead an “idle life”. In his own words:
 
-“…my reasons for applying for a variation of the \[2018 MO\] are summarised below:
+> “…my reasons for applying for a variation of the \[2018 MO\] are summarised below:
 
-i.    The marriage was 14 months and was a very short one before the marriage broke down and before I had to take J away from the toxic and dangerous environment in the home to protect him, which came at great costs to myself;
+>> i.    The marriage was 14 months and was a very short one before the marriage broke down and before I had to take J away from the toxic and dangerous environment in the home to protect him, which came at great costs to myself;
 
-ii.    The \[Wife\] is young (35 years old) and able-bodied and must move on with an independent life;
+>> ii.    The \[Wife\] is young (35 years old) and able-bodied and must move on with an independent life;
 
-iii.   The \[Wife\] has not shown to be doing anything to support herself or J financially in her past 13 months of idling;
+>> iii.   The \[Wife\] has not shown to be doing anything to support herself or J financially in her past 13 months of idling;
 
-iv.    The \[Wife\] has never contributed a cent to J’s expenses, but sought to jeopardise my employment and drain my finances despite the fact that my income is the only source of food and shelter for J and out of which she is claiming maintenance; and
+>> iv.    The \[Wife\] has never contributed a cent to J’s expenses, but sought to jeopardise my employment and drain my finances despite the fact that my income is the only source of food and shelter for J and out of which she is claiming maintenance; and
 
-v.    The \[2018 MO\] was never meant to be indefinite and the amount of maintenance should just be sufficient to enable the \[Wife\] to get back on her feet.”
+>> v.    The \[2018 MO\] was never meant to be indefinite and the amount of maintenance should just be sufficient to enable the \[Wife\] to get back on her feet.”
 
 ### The Wife’s case
 

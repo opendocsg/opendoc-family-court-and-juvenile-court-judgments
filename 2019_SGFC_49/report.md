@@ -15,20 +15,20 @@ Division of Matrimonial Property – Maintenance for Ex-Spouse
 
 1       These grounds of decision refer to the hearing of the ancillary matters for the above matter involving the Plaintiff ex-Husband and Defendant ex-Wife, which I heard on 9 January 2019 and made the following orders:
 
-a)     That there be no maintenance for the Defendant.
+> a)     That there be no maintenance for the Defendant.
 
-b)     That the Defendant transfer the following amounts from her Central Provident Fund (“**CPF**”) accounts to the corresponding CPF accounts belonging to the Plaintiff.
+> b)     That the Defendant transfer the following amounts from her Central Provident Fund (“**CPF**”) accounts to the corresponding CPF accounts belonging to the Plaintiff.
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="50%"> <col width="50%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">CPF Medisave Account</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$29,077.63</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">CPF Special Account</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$66,765.53</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">CPF Ordinary Account</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$19,564.85</p></td></tr></tbody></table>
 
   
   
 
-c)     That the Plaintiff transfer his share in Blk xxx, Singapore xxx (the “**Matrimonial Home**”) to the Defendant in consideration for $28,170.61, with no CPF refund to the Plaintiff.
+> c)     That the Plaintiff transfer his share in Blk xxx, Singapore xxx (the “**Matrimonial Home**”) to the Defendant in consideration for $28,170.61, with no CPF refund to the Plaintiff.
 
-d)     Save as mentioned in this order, that each party will retain all assets in their own names.
+> d)     Save as mentioned in this order, that each party will retain all assets in their own names.
 
-e)     Each party to bear their own costs in the proceedings.
+> e)     Each party to bear their own costs in the proceedings.
 
 2       On 22 January 2019, the Defendant filed a Notice of Appeal, appealing against the orders set out in paragraph 1(a) to (d). These are the detailed grounds of my decision.
 
@@ -48,11 +48,11 @@ e)     Each party to bear their own costs in the proceedings.
 
 7       Both parties submitted that I should apply the Structured Approach set out in _ANJ v ANK_ <span class="citation">\[2015\] 4 SLR 1043</span>. This is a 3 step approach:
 
-a)     Step 1 - Express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of financial contribution each party made towards the acquisition or improvement of the matrimonial assets.
+> a)     Step 1 - Express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of financial contribution each party made towards the acquisition or improvement of the matrimonial assets.
 
-b)     Step 2 - Express as a second ratio the parties’ indirect contributions relative to each other, having regard to both financial and non-financial contributions.
+> b)     Step 2 - Express as a second ratio the parties’ indirect contributions relative to each other, having regard to both financial and non-financial contributions.
 
-c)     Step 3 - Derive the parties’ overall contributions relative to each other by taking an average of the two ratios above (the derived ratio shall be referred to as “**the average ratio**”). Depending on the circumstances of the case the direct and indirect contributions may not be accorded equal weight under Step 3 and one of the two ratios in Step 1 and 2 may be accorded more significance than the other.
+> c)     Step 3 - Derive the parties’ overall contributions relative to each other by taking an average of the two ratios above (the derived ratio shall be referred to as “**the average ratio**”). Depending on the circumstances of the case the direct and indirect contributions may not be accorded equal weight under Step 3 and one of the two ratios in Step 1 and 2 may be accorded more significance than the other.
 
 #### Direct Contributions
 
@@ -77,25 +77,25 @@ c)     Step 3 - Derive the parties’ overall contributions relative to eac
 
 14     In respect of who was the breadwinner, the Defendant claimed that she had supported their expenses as the Plaintiff was a freelance photographer who did not have a regular source of income. According to the facts cited by the parties:
 
-a)     From 2002 to 2006, the Defendant worked at various roles in media and publishing companies. The Plaintiff worked in government agencies and ministry, before going spending some time unemployed in 2005 while he pursued photography as a professional career.
+> a)     From 2002 to 2006, the Defendant worked at various roles in media and publishing companies. The Plaintiff worked in government agencies and ministry, before going spending some time unemployed in 2005 while he pursued photography as a professional career.
 
-b)     In 2006, the Defendant set up a company engaged in publishing work. This company was active in the years 2006 to 2012 and from 2014 till the commencement of divorce proceedings in 2016. The Defendant also worked as an editor at various magazines from 2008 to 2014, when she was retrenched. She continued to do some freelance work under her company or in her own capacity.
+> b)     In 2006, the Defendant set up a company engaged in publishing work. This company was active in the years 2006 to 2012 and from 2014 till the commencement of divorce proceedings in 2016. The Defendant also worked as an editor at various magazines from 2008 to 2014, when she was retrenched. She continued to do some freelance work under her company or in her own capacity.
 
-c)     From 2006 onwards, the Plaintiff was a freelance photographer who worked a variety of assignments, including assignments given to him by the Defendant for her company.
+> c)     From 2006 onwards, the Plaintiff was a freelance photographer who worked a variety of assignments, including assignments given to him by the Defendant for her company.
 
 15     The Plaintiff claimed that he was mostly paid in cash for the assignments taken up by him as a photographer. He then used this money to pay for the household expenses. He had also made his own contributions to the Defendant’s company by taking assignments and asking them to bill the company directly.
 
 16     As the marriage had lasted 15 years, it would have been more helpful for parties to provide income documents, or bank statements over this relevant period. This information would have assisted the Court in determining how much each party had earned over the period, what were their expenses, and who contributed to these expenses. Unfortunately, this was not provided, and the only helpful evidence provided by the parties is set out below:
 
-a)     Plaintiff’s Notices of Assessment – Income Revenue Authority of Singapore Year of Assessment (“**IRAS**”) 2017 ($42,001.00), IRAS 2016 ($8,000.00), IRAS 2015 ($5,000.00). His income over this period was declared as _“trade”_ income as he also operated a sole proprietorship.
+> a)     Plaintiff’s Notices of Assessment – Income Revenue Authority of Singapore Year of Assessment (“**IRAS**”) 2017 ($42,001.00), IRAS 2016 ($8,000.00), IRAS 2015 ($5,000.00). His income over this period was declared as _“trade”_ income as he also operated a sole proprietorship.
 
-b)     Defendant’s Notices of Assessment – IRAS 2017 ($12,880.00), IRAS 2015 ($23,640.00), IRAS 2014 ($70,482.10), IRAS 2013 ($71,250.00).
+> b)     Defendant’s Notices of Assessment – IRAS 2017 ($12,880.00), IRAS 2015 ($23,640.00), IRAS 2014 ($70,482.10), IRAS 2013 ($71,250.00).
 
-c)     Various bills and invoices for utilities over the duration of the marriage which had been paid by either party.
+> c)     Various bills and invoices for utilities over the duration of the marriage which had been paid by either party.
 
-d)     Bank statements of the parties from 2015 onwards – this was of limited assistance in determining the income of the parties as the divorce proceedings had been commenced in 2016.
+> d)     Bank statements of the parties from 2015 onwards – this was of limited assistance in determining the income of the parties as the divorce proceedings had been commenced in 2016.
 
-e)     An income document filed with the Housing and Development Board in 2005 which showed that the declared monthly income of the Plaintiff was $2,000.00 and the Defendant’s, $2,500.00. This was simply outdated.
+> e)     An income document filed with the Housing and Development Board in 2005 which showed that the declared monthly income of the Plaintiff was $2,000.00 and the Defendant’s, $2,500.00. This was simply outdated.
 
 17     Given the limited evidence provided to me, I took a broad brush approach towards the parties’ indirect contributions. I took into account the following; parties’ equal contributions to the renovations of the Matrimonial Property, the Defendant’s commitment to having children, the Defendant’s greater earning power as demonstrated by her greater declarations of taxable income over the years. However, I did not accept that the Plaintiff’s contributions were minimal just because the Defendant was earning more than him. It appeared from the evidence that he had also contributed to the household. Therefore, I made the finding that the indirect contribution ratio was 60:40 in favour of the Defendant.
 
@@ -119,11 +119,11 @@ e)     An income document filed with the Housing and Development Board in 2
 
 21     This was not a credible argument for the following reasons:
 
-a)     The division of matrimonial property has to be based on the assets of the parties, not loans which might not even materialise. There was no evidence to show that the Defendant was capable of raising an increased cash sum by a loan.
+> a)     The division of matrimonial property has to be based on the assets of the parties, not loans which might not even materialise. There was no evidence to show that the Defendant was capable of raising an increased cash sum by a loan.
 
-b)     Upon her acquisition of the Plaintiff’s share, the Defendant would possess the 2/3rd share of the Matrimonial Property which was currently worth $405,684.69. She would have more than enough money from a sale of that property to acquire a new property of her own.
+> b)     Upon her acquisition of the Plaintiff’s share, the Defendant would possess the 2/3rd share of the Matrimonial Property which was currently worth $405,684.69. She would have more than enough money from a sale of that property to acquire a new property of her own.
 
-c)     The need for the Defendant to purchase a new property was not credible or urgent. The Defendant had been living with the Plaintiff and her Mother in the Matrimonial Property during the marriage. The Plaintiff was no longer living in the Matrimonial Property and this had been the case for some time now – so how did the Defendant’s need suddenly arise?
+> c)     The need for the Defendant to purchase a new property was not credible or urgent. The Defendant had been living with the Plaintiff and her Mother in the Matrimonial Property during the marriage. The Plaintiff was no longer living in the Matrimonial Property and this had been the case for some time now – so how did the Defendant’s need suddenly arise?
 
 22     I would also add that the Defendant also would have sufficient funds for the cash transfer of $28,170.61 to the Plaintiff for his share of the Matrimonial Property. She had more than half the amount in cash ($15,751.80), and the rest could be raised from the disposal of her insurance policies.
 

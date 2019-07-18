@@ -27,17 +27,17 @@ Family law – Ancillary matters – Amendment – Variation
 
 5       About a year after the deemed withdrawal, the Ex-Husband filed the Application on 17 September 2018. He essentially made the following prayers:
 
-(a)     The order for the sale of the Matrimonial Flat to be amended to expressly provide for the outstanding Hong Leong Finance housing loan to be deducted from the net proceeds of sale.
+> (a)     The order for the sale of the Matrimonial Flat to be amended to expressly provide for the outstanding Hong Leong Finance housing loan to be deducted from the net proceeds of sale.
 
-(b)     An extension of time to sell the Matrimonial Flat within three months from the date of the order, for the Ex-Wife to deliver vacant possession of the Matrimonial Flat within one month from the date of the order, and for the Ex-Husband to have sole conduct of the sale of the Matrimonial Flat.
+> (b)     An extension of time to sell the Matrimonial Flat within three months from the date of the order, for the Ex-Wife to deliver vacant possession of the Matrimonial Flat within one month from the date of the order, and for the Ex-Husband to have sole conduct of the sale of the Matrimonial Flat.
 
-(c)     The amounts paid by the Ex-Husband toward the housing loan, electricity bills, and service and conservancy charges from May 2018 to the date of the sale of the Matrimonial Flat to be deducted from the Ex-Wife’s share of the net sale proceeds of the Matrimonial Flat.
+> (c)     The amounts paid by the Ex-Husband toward the housing loan, electricity bills, and service and conservancy charges from May 2018 to the date of the sale of the Matrimonial Flat to be deducted from the Ex-Wife’s share of the net sale proceeds of the Matrimonial Flat.
 
-(d)     Additional standard clauses to deal with the CPF refunds following the sale of the Matrimonial Flat.
+> (d)     Additional standard clauses to deal with the CPF refunds following the sale of the Matrimonial Flat.
 
-(e)     Reduction of the Ex-Wife’s monthly maintenance payable by the Ex-Husband from $500.00 to $300.00.
+> (e)     Reduction of the Ex-Wife’s monthly maintenance payable by the Ex-Husband from $500.00 to $300.00.
 
-(f)     Reduction of the Child’s monthly maintenance payable by the Ex-Husband from $700.00 to $300.00.
+> (f)     Reduction of the Child’s monthly maintenance payable by the Ex-Husband from $700.00 to $300.00.
 
 ## Decision in FC/SUM 3306/2018
 
@@ -49,9 +49,9 @@ Family law – Ancillary matters – Amendment – Variation
 
 8       For ease of reference, I reproduce paragraph 3a of the Order of Court FC/ORC xxxx/2017 that was extracted by the Parties:
 
-The \[Matrimonial Flat\] to be sold in open market within 6 months of the Final Judgement. The net proceeds of the sale of the flat, **less the expenses incurred for the sale**, shall be divided in the ratio of 44% to the \[Ex-Husband\] and 56% to the \[Ex-Wife\].
+> The \[Matrimonial Flat\] to be sold in open market within 6 months of the Final Judgement. The net proceeds of the sale of the flat, **less the expenses incurred for the sale**, shall be divided in the ratio of 44% to the \[Ex-Husband\] and 56% to the \[Ex-Wife\].
 
-\[Emphasis in bold added\]
+> \[Emphasis in bold added\]
 
 9       I agreed with the Ex-Husband that the extracted order was ambiguous vis-à-vis the deduction of the mortgage. The Parties need only to refer to paragraph 12(e) of the AM GD where I expressly articulated that the deduction was to be made from the sale proceeds prior to division. This was perhaps unintentionally omitted from the extracted order. I consequently allowed, for clarity, the order for sale to be amended to include the discharge of the mortgage.
 
