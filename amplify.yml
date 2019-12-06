@@ -1,14 +1,16 @@
-version: 0.1
+version: 1.0
 frontend:
   phases:
     preBuild:
       commands:
+        - rvm --default use $VERSION_RUBY_2_6
         - yum install -y urw-fonts
         - git clone https://github.com/opendocsg/opendoc-fonts.git ~/.fonts
         - fc-cache -f -v
         - bundle install
     build:
       commands:
+        - rm -rf ./_site
         - if [ "${AWS_BRANCH}" = "master" ]; then JEKYLL_ENV=production bundle exec jekyll build; fi
         - if [ "${AWS_BRANCH}" != "master" ]; then JEKYLL_ENV=development bundle exec jekyll build; fi    
     postBuild:
@@ -20,6 +22,7 @@ frontend:
     baseDirectory: _site
     files:
       - '**/*'
+    discard-paths: yes
   cache:
     paths: 
       - node_modules
@@ -34,9 +37,8 @@ frontend:
         - key: 'X-Content-Type-Options'
           value: 'nosniff'
         - key: 'Content-Security-Policy'
-          value: "default-src 'self'; img-src *; frame-src *; font-src *; media-src *; style-src * 'unsafe-inline'; connect-src 'self' https://*.opendoc.sg; script-src 'self'"
+          value: "default-src 'self'; img-src *; frame-src *; font-src *; media-src *; style-src * 'unsafe-inline'; connect-src 'self' https://*.opendoc.sg; script-src 'self' 'sha256-cZeHu5WczV7gma7unmZ5l6WP54Plm4jzl1MUr4q2lrY='"
         - key: 'Referrer-Policy'
           value: 'no-referrer'
         - key: 'Feature-Policy'
           value: "geolocation 'none'; microphone 'none'; camera 'none'"
-
