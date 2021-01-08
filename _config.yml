@@ -17,6 +17,7 @@ styling_options:
   opendoc_logo_path: /assets/images/logo-full.png
   feedback_url: null
 document_order:
+  - 2020_SGFC_112
   - 2020_SGFC_110
   - 2020_SGFC_111
   - 2020_SGFC_108
